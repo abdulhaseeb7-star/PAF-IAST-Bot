@@ -1,0 +1,20 @@
+# Virtual environment
+venv/
+.venv/
+
+# API Keys - NEVER upload these
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code settings
+.vscode/
+
+# HuggingFace cache
+.cache/
+
+# Knowledge base (large files)
+knowledge_base/
