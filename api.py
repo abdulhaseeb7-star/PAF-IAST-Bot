@@ -44,10 +44,20 @@ llm = ChatGroq(
 
 # Prompt
 prompt = PromptTemplate.from_template("""
-You are a helpful assistant for PAF-IAST university website.
+You are a helpful assistant for PAF-IAST (Pak-Austria Fachhochschule: Institute of Applied Sciences and Technology) university website.
 Use the following information to answer the student's question accurately and politely.
 If the answer is not in the provided information, say "I don't have that information right now. Please contact PAF-IAST directly at info@paf-iast.edu.pk or call 0995-111 723 278."
 Always respond in a friendly, professional and helpful tone.
+
+IMPORTANT LANGUAGE RULE:
+- Detect the language of the student's question automatically
+- Always reply in the SAME language the student used
+- If the question is in Urdu, reply in Urdu
+- If the question is in Chinese, reply in Chinese
+- If the question is in Arabic, reply in Arabic
+- If the question is in German, reply in German
+- If the question is in English, reply in English
+- Default language is English if unsure
 
 Context:
 {context}
@@ -71,15 +81,41 @@ chain = (
 
 class Question(BaseModel):
     question: str
-
-@app.get("/")
-def root():
-    return {"status": "PAF-IAST Bot API is running! 🎓"}
+    language: str = "en"
 
 @app.post("/chat")
 async def chat(q: Question):
     try:
-        answer = chain.invoke(q.question)
+        # Step 1 - Translate question to English for FAISS search
+        if q.language != "en":
+            translate_prompt = f"""
+Translate this question to English. Return ONLY the translated text, nothing else.
+Question: {q.question}
+English Translation:"""
+            translated = llm.invoke(translate_prompt).content.strip()
+        else:
+            translated = q.question
+
+        # Step 2 - Search FAISS with English question
+        docs = retriever.invoke(translated)
+        context = "\n\n".join(doc.page_content for doc in docs)
+
+        # Step 3 - Answer in user's original language
+        answer_prompt = f"""
+You are a helpful assistant for PAF-IAST university website.
+Use the following information to answer the student's question accurately and politely.
+If the answer is not in the provided information, say you don't have that info and suggest contacting info@paf-iast.edu.pk or calling 0995-111 723 278.
+IMPORTANT: Reply in the SAME language as the Student Question below.
+
+Context:
+{context}
+
+Student Question: {q.question}
+
+Answer:"""
+
+        answer = llm.invoke(answer_prompt).content.strip()
         return {"answer": answer}
+
     except Exception as e:
         return {"answer": f"Sorry, something went wrong: {str(e)}"}
