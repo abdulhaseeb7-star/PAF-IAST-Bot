@@ -1,0 +1,12407 @@
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Discrete
+Structures
+Dr. Nazeer
+Muhammad
+A1-207(LT)
+Entreprene
+urship
+Dr Sadia Akhter
+A1-201
+Programmi
+ng Fundam
+entals
+Dr. Muhammad
+Shuaib Qureshi
+A2-301(LT)
+Community
+Service
+Dr. Amir Muhammad
+A1-307(LT)
+Discrete
+Structures
+Dr. Nazeer
+Muhammad
+A2-201(LT)
+Entreprene
+urship
+Dr Sadia Akhter
+A1-201
+Programmi
+ng Fundam
+entals
+Dr. Muhammad
+Shuaib Qureshi
+A2-301(LT)
+Discrete
+Structures
+Dr. Nazeer
+Muhammad
+A1-307(LT)
+Ideology of
+Pakistan
+Dr. Muhammad
+Touqeer Akhtar Nasir
+Online-1
+Programmi
+ng Fundam
+entals
+Dr. Muhammad
+Shuaib Qureshi
+A2-301(LT)
+Ideology of
+Pakistan
+Dr. Muhammad
+Touqeer Akhtar Nasir
+A2-301(LT)
+Entreprene
+urship
+Dr Sadia Akhter
+A1-201
+Programming
+Fundamentals Lab
+Dr. Muhammad Shuaib Qureshi
+C2-5CL
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+BSSE-F24 Green
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Discrete
+Structures
+Dr. Rizwan Akhtar
+A1-307(LT)
+Fundament
+als of ICT
+Engr. Ayesha
+Nadeem
+C1-B01
+Fundamentals of
+ICT Lab
+Engr. Ayesha Nadeem
+C2-4CL
+Entreprene
+urship
+Dr. Moazam
+Maqsood / Mr.
+Muhammad Younas
+B1-207(LT)
+Community
+Service
+Dr. Muhammad Irfan
+B1-207(LT)
+Programmi
+ng Fundam
+entals
+Dr. Arshad Iqbal
+A2-102
+Discrete
+Structures
+Dr. Rizwan Akhtar
+A1-207(LT)
+Entreprene
+urship
+Dr. Moazam
+Maqsood / Mr.
+Muhammad Younas
+B1-207(LT)
+Discrete
+Structures
+Dr. Qura-Tul-Ain-Safd
+ar
+B1-207(LT)
+Discrete
+Structures
+Dr. Qura-Tul-Ain-Safd
+ar
+B1-207(LT)
+Programmi
+ng Fundam
+entals
+Dr. Arshad Iqbal
+A2-103
+Programmi
+ng Fundam
+entals
+Dr. Arshad Iqbal
+A1-205
+Ideology of
+Pakistan
+Dr. Muhammad
+Touqeer Akhtar Nasir
+Online-1
+Entreprene
+urship
+Dr. Moazam
+Maqsood / Mr.
+Muhammad Younas
+B1-207(LT)
+Discrete
+Structures
+Dr. Qura-Tul-Ain-Safd
+ar
+B1-207(LT)
+Discrete
+Structures
+Dr. Rizwan Akhtar
+A2-301(LT)
+Ideology of
+Pakistan
+Dr. Muhammad
+Touqeer Akhtar Nasir
+A2-301(LT)
+Programming
+Fundamentals Lab
+Dr. Arshad Iqbal
+C2-1CL
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+BSSE-F24 Blue
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Islamic
+Studies
+Mr. Usman Ali Khan
+A2-201(LT)
+Applied
+Physics
+Dr. Shakir Ullah
+C1-B07
+Programmi
+ng Fundam
+entals
+Dr. Muhammad Arif
+Shah
+A1-109
+English
+Language &
+Communica
+tion Skills
+Ms Bibi Ranra
+C1-B02
+Islamic
+Studies
+Mr. Usman Ali Khan
+Online Class
+Community
+Service
+Ms. Saleha Sundus
+A1-207(LT)
+English
+Language &
+Communica
+tion Skills
+Ms Bibi Ranra
+C1-B02
+Programmi
+ng Fundam
+entals
+Dr. Muhammad Arif
+Shah
+A1-109
+Programming
+Fundamentals Lab
+Dr. Muhammad Arif Shah / Ms. Esha-e-Noor
+C2-1CL
+English
+Language &
+Communica
+tion Skills
+Ms Bibi Ranra
+A1-201
+Applied
+Physics
+Dr. Shakir Ullah
+C1-B04
+Applied
+Physics
+Dr. Shakir Ullah
+C1-B04
+Programmi
+ng Fundam
+entals
+Dr. Muhammad Arif
+Shah
+A1-205
+Applied Physics Lab
+Dr. Shakir Ullah
+A1-301 Phy(Lab)
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+BSCS-F24 Green
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Islamic
+Studies
+Mr. Usman Ali Khan
+A2-201(LT)
+Programmi
+ng Fundam
+entals
+Dr. Muhammad Arif
+Shah
+A1-109
+Applied Physics Lab
+Dr. Shakir Ullah
+A1-301 Phy(Lab)
+Islamic
+Studies
+Mr. Usman Ali Khan
+Online Class
+Applied
+Physics
+Dr. Shakir Ullah
+C1-B05
+Programmi
+ng Fundam
+entals
+Dr. Muhammad Arif
+Shah
+A2-111
+Community
+Service
+Mr. Shehrayar Zahid
+B2-211(LT)
+English
+Language &
+Communica
+tion Skills
+Ms Bibi Ranra
+C1-B01
+Applied
+Physics
+Dr. Shakir Ullah
+C1-B05
+Programmi
+ng Fundam
+entals
+Dr. Muhammad Arif
+Shah
+A1-109
+English
+Language &
+Communica
+tion Skills
+Ms Bibi Ranra
+C1-B05
+Applied
+Physics
+Dr. Shakir Ullah
+C1-B05
+Programming
+Fundamentals Lab
+Dr. Muhammad Arif Shah / Ms. Esha-e-Noor
+C2-1CL
+English
+Language &
+Communica
+tion Skills
+Ms Bibi Ranra
+C1-B04
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+BSCS-F24 Blue
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Programmi
+ng Fundam
+entals
+Dr. Arshad Iqbal
+A2-211
+Applied
+Physics
+Dr. Kashif Arshad
+C1-B08
+Applied
+Physics
+Dr. Kashif Arshad
+C1-B08
+Programmi
+ng Fundam
+entals
+Dr. Arshad Iqbal
+A2-112
+Applied
+Physics
+Dr. Kashif Arshad
+C1-B05
+Community
+Service
+Dr. Fida Hussain
+A1-307(LT)
+Programmi
+ng Fundam
+entals
+Dr. Arshad Iqbal
+A2-203
+Applied Physics Lab
+Dr. Kashif Arshad
+A1-301 Phy(Lab)
+Islamic
+Studies
+Mr. Syed Afzaal
+Hussain
+A2-201(LT)
+English
+Language &
+Communica
+tion Skills
+Mr. Nuzhat
+C1-B05
+Islamic
+Studies
+Mr. Syed Afzaal
+Hussain
+Online Class
+English
+Language &
+Communica
+tion Skills
+Mr. Nuzhat
+C1-B03
+English
+Language &
+Communica
+tion Skills
+Mr. Nuzhat
+C1-B02
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+BSCS-F24 Red
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Discrete
+Structures
+Dr. Nazeer
+Muhammad
+A1-207(LT)
+Ideology of
+Pakistan
+Dr. QURAT UL AIN
+A2-201(LT)
+Entreprene
+urship
+Dr. Moazam
+Maqsood / Mr.
+Muhammad Younas
+B1-207(LT)
+Discrete
+Structures
+Dr. Nazeer
+Muhammad
+A2-201(LT)
+Ideology of
+Pakistan
+Dr. QURAT UL AIN
+Online-1
+Entreprene
+urship
+Dr. Moazam
+Maqsood / Mr.
+Muhammad Younas
+B1-207(LT)
+Community
+Service
+Mr. Salman Basharat
+B1-307(LT)
+Discrete
+Structures
+Dr. Nazeer
+Muhammad
+A1-307(LT)
+Programmi
+ng Fundam
+entals
+Mr. Shoaib Khan
+C1-B03
+Programmi
+ng Fundam
+entals
+Mr. Shoaib Khan
+C1-B05
+Entreprene
+urship
+Dr. Moazam
+Maqsood / Mr.
+Muhammad Younas
+B1-207(LT)
+Programming
+Fundamentals Lab
+Mr. Shoaib Khan
+C2-5CL
+Programmi
+ng Fundam
+entals
+Mr. Shoaib Khan
+C1-B02
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+BSDS-F24
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Applied
+Physics
+Dr. Muhammad Rafi
+C1-B05
+English
+Language &
+Communica
+tion Skills
+Mr. Sadeed Ahmed
+Khan
+C1-B02
+Programmi
+ng Fundam
+entals
+Dr. Huma Ayub Vine
+B2-211(LT)
+Programming
+Fundamentals Lab
+Dr. Huma Ayub Vine / Ms. Esha-e-Noor
+C2-1CL
+Applied
+Physics
+Dr. Muhammad Rafi
+C1-B04
+Applied
+Physics
+Dr. Muhammad Rafi
+C1-B08
+Applied Physics Lab
+Dr. Muhammad Rafi
+A1-301 Phy(Lab)
+Programmi
+ng Fundam
+entals
+Dr. Huma Ayub Vine
+B2-308(LT)
+Programmi
+ng Fundam
+entals
+Dr. Huma Ayub Vine
+B1-207(LT)
+Islamic
+Studies
+Mr. Syed Afzaal
+Hussain
+Online Class
+English
+Language &
+Communica
+tion Skills
+Mr. Sadeed Ahmed
+Khan
+C1-B03
+Community
+Service
+Mr. Mansoor Qazi
+B1-307(LT)
+Islamic
+Studies
+Mr. Syed Afzaal
+Hussain
+A1-207(LT)
+English
+Language &
+Communica
+tion Skills
+Mr. Sadeed Ahmed
+Khan
+C1-B02
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+BSAI-F24 Green
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Applied
+Physics
+Dr. Muhammad Rafi
+C1-B07
+Applied Physics Lab
+Dr. Muhammad Rafi
+A1-301 Phy(Lab)
+Applied
+Physics
+Dr. Muhammad Rafi
+C1-B01
+English
+Language &
+Communica
+tion Skills
+Mr. Sadeed Ahmed
+Khan
+C1-B03
+Programmi
+ng Fundam
+entals
+Mr. Shais Saleem
+B2-308(LT)
+Programmi
+ng Fundam
+entals
+Mr. Shais Saleem
+B2-211(LT)
+English
+Language &
+Communica
+tion Skills
+Mr. Sadeed Ahmed
+Khan
+C1-B03
+Community
+Service
+Mr. Mansoor Qazi
+A2-301(LT)
+Programmi
+ng Fundam
+entals
+Mr. Shais Saleem
+A1-307(LT)
+Programming
+Fundamentals Lab
+Mr. Shais Saleem / Mr. Bhadur Ali
+A2-305(CL)
+Islamic
+Studies
+Mr. Syed Afzaal
+Hussain
+Online Class
+Applied
+Physics
+Dr. Muhammad Rafi
+C1-B07
+English
+Language &
+Communica
+tion Skills
+Mr. Sadeed Ahmed
+Khan
+C1-B03
+Islamic
+Studies
+Mr. Syed Afzaal
+Hussain
+A1-207(LT)
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+BSAI-F24 Blue
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Islamic
+Studies
+Mr. Usman Ali Khan
+A2-201(LT)
+English
+Language &
+Communica
+tion Skills
+Mr. Sadeed Ahmed
+Khan
+C1-B02
+Programmi
+ng Fundam
+entals
+Mr. Usama Ahmed
+Khan
+C1-B08
+Programmi
+ng Fundam
+entals
+Mr. Usama Ahmed
+Khan
+C1-B08
+Community
+Service
+Mr Naveed Khan
+A2-201(LT)
+Islamic
+Studies
+Mr. Usman Ali Khan
+Online Class
+English
+Language &
+Communica
+tion Skills
+Mr. Sadeed Ahmed
+Khan
+C1-B01
+Programming
+Fundamentals Lab
+Mr. Usama Ahmed Khan / Mr. Bhadur Ali
+C2-2CL
+Applied
+Physics
+Dr. Shakir Ullah
+C1-B02
+Applied
+Physics
+Dr. Shakir Ullah
+C1-B08
+Applied Physics Lab
+Dr. Shakir Ullah
+A1-301 Phy(Lab)
+Applied
+Physics
+Dr. Shakir Ullah
+C1-B08
+English
+Language &
+Communica
+tion Skills
+Mr. Sadeed Ahmed
+Khan
+C1-B02
+Programmi
+ng Fundam
+entals
+Mr. Usama Ahmed
+Khan
+C1-B08
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+BSAI-F24 Red
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Islamic
+Studies
+Mr. Usman Ali Khan
+A2-201(LT)
+Applied
+Physics
+Dr. Muhammad Rafi
+C1-B03
+Programming
+Fundamentals Lab
+Mr. Aamir Malik / Mr. Bhadur Ali
+C2-1CL
+English
+Language &
+Communica
+tion Skills
+Mr Yaseen Danish
+C1-B04
+Islamic
+Studies
+Mr. Usman Ali Khan
+Online Class
+Programmi
+ng Fundam
+entals
+Mr. Aamir Malik
+C1-B08
+Programmi
+ng Fundam
+entals
+Mr. Aamir Malik
+C1-B04
+Community
+Service
+Mr. Salman Basharat
+A2-201(LT)
+English
+Language &
+Communica
+tion Skills
+Mr Yaseen Danish
+C1-B02
+Programmi
+ng Fundam
+entals
+Mr. Aamir Malik
+C1-B08
+Applied
+Physics
+Dr. Muhammad Rafi
+C1-B01
+Applied
+Physics
+Dr. Muhammad Rafi
+C1-B01
+Applied Physics Lab
+Dr. Muhammad Rafi
+A1-301 Phy(Lab)
+English
+Language &
+Communica
+tion Skills
+Mr Yaseen Danish
+C1-B01
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+BSAI-F24 Yellow
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Discrete
+Structures
+Dr. Rizwan Akhtar
+A1-307(LT)
+Entreprene
+urship
+Dr. Zubair
+A2-210
+Ideology of
+Pakistan
+Dr. QURAT UL AIN
+A1-207(LT)
+Entreprene
+urship
+Dr. Moazam
+Maqsood / Mr.
+Muhammad Younas
+A1-307(LT)
+Discrete
+Structures
+Dr. Rizwan Akhtar
+A1-207(LT)
+Entreprene
+urship
+Dr. Zubair
+A2-210
+Ideology of
+Pakistan
+Dr. QURAT UL AIN
+Online-1
+Programmi
+ng Fundam
+entals
+Mr. Aamir Malik
+C1-B01
+Entreprene
+urship
+Dr. Moazam
+Maqsood / Mr.
+Muhammad Younas
+A1-307(LT)
+Programmi
+ng Fundam
+entals
+Mr. Aamir Malik
+C1-B05
+Entreprene
+urship
+Dr. Moazam
+Maqsood / Mr.
+Muhammad Younas
+A2-201(LT)
+Community
+Service
+Mr Naveed Khan
+B1-307(LT)
+Discrete
+Structures
+Dr. Rizwan Akhtar
+A2-301(LT)
+Entreprene
+urship
+Dr. Zubair
+A2-210
+Programmi
+ng Fundam
+entals
+Mr. Aamir Malik
+C1-B02
+Programming
+Fundamentals Lab
+Mr. Aamir Malik
+C2-2CL
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+CYS-F24 Green
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Ideology of
+Pakistan
+Dr. QURAT UL AIN
+A1-207(LT)
+Entreprene
+urship
+Dr. Moazam
+Maqsood / Mr.
+Muhammad Younas
+A1-307(LT)
+Community
+Service
+Mr Naveed Khan
+A1-307(LT)
+Ideology of
+Pakistan
+Dr. QURAT UL AIN
+Online-1
+Programmi
+ng Fundam
+entals
+Mr. Usama Ahmed
+Khan
+C1-B03
+Discrete
+Structures
+Mr. Imtiaz Khalid
+C1-B04
+Entreprene
+urship
+Dr. Moazam
+Maqsood / Mr.
+Muhammad Younas
+A1-307(LT)
+Programmi
+ng Fundam
+entals
+Mr. Usama Ahmed
+Khan
+C1-B05
+Programming
+Fundamentals Lab
+Mr. Usama Ahmed Khan
+B1-305(CL)
+Discrete
+Structures
+Mr. Imtiaz Khalid
+C1-B05
+Discrete
+Structures
+Mr. Imtiaz Khalid
+C1-B04
+Entreprene
+urship
+Dr. Moazam
+Maqsood / Mr.
+Muhammad Younas
+A2-201(LT)
+Programmi
+ng Fundam
+entals
+Mr. Usama Ahmed
+Khan
+C1-B03
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+CYS-F24 Blue
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Calculus
+and Analyti
+cal Geometr
+y
+Dr. Jamil Ahmed
+A1-207(LT)
+Ideology of
+Pakistan
+Dr. Muhammad
+Touqeer Akhtar Nasir
+Online-1
+Entreprene
+urship
+Dr. Rana Asad
+A2-202
+Object
+Oriented
+Programmi
+ng
+Dr. Babar Nazeer
+A2-203
+Discrete
+Structures
+Dr. Nazeer
+Muhammad
+A1-207(LT)
+Discrete
+Structures
+Dr. Nazeer
+Muhammad
+A2-301(LT)
+Calculus
+and Analyti
+cal Geometr
+y
+Dr. Jamil Ahmed
+A1-207(LT)
+Entreprene
+urship
+Dr. Rana Asad
+A2-202
+Technical &
+Business
+Writing
+Ms Bibi Ranra
+C1-B07
+Discrete
+Structures
+Dr. Nazeer
+Muhammad
+A1-207(LT)
+Object Oriented
+Programming Lab
+Dr. Babar Nazeer / Mr. Asad Khan
+B1-305(CL)
+Entreprene
+urship
+Dr. Rana Asad
+A2-202
+Object
+Oriented
+Programmi
+ng
+Dr. Babar Nazeer
+A2-203
+Technical &
+Business
+Writing
+Ms Bibi Ranra
+C1-B07
+Calculus
+and Analyti
+cal Geometr
+y
+Dr. Jamil Ahmed
+B1-207(LT)
+Ideology of
+Pakistan
+Dr. Muhammad
+Touqeer Akhtar Nasir
+A1-307(LT)
+Object
+Oriented
+Programmi
+ng
+Dr. Babar Nazeer
+A2-203
+Technical &
+Business
+Writing
+Ms Bibi Ranra
+A1-306
+Foundation
+Mathematic
+s-II
+Ms. Nadia Khan
+B1-207(LT)
+Foundation
+Mathematic
+s-II
+Ms. Nadia Khan
+B1-207(LT)
+Foundation
+Mathematic
+s-II
+Ms. Nadia Khan
+B1-207(LT)
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+BSCS-S24
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Calculus
+and Analyti
+cal Geometr
+y
+Dr. Nazeer
+Muhammad
+A1-207(LT)
+Technical &
+Business
+Writing
+Ms. Uzma Khalil
+C1-B04
+Entreprene
+urship
+Dr Sadia Akhter
+A2-211
+Object
+Oriented
+Programmi
+ng
+Dr. Muhammad Arif
+Shah
+A2-112
+Technical &
+Business
+Writing
+Ms. Uzma Khalil
+C1-B05
+Object Oriented
+Programming Lab
+Dr. Muhammad Arif Shah / Mr. Asad Khan
+C2-4CL
+Calculus
+and Analyti
+cal Geometr
+y
+Dr. Nazeer
+Muhammad
+A1-207(LT)
+Technical &
+Business
+Writing
+Ms. Uzma Khalil
+C1-B04
+Entreprene
+urship
+Dr Sadia Akhter
+A2-211
+Discrete
+Structures
+Dr. Rizwan Akhtar
+B2-211(LT)
+Object
+Oriented
+Programmi
+ng
+Dr. Muhammad Arif
+Shah
+A1-109
+Calculus
+and Analyti
+cal Geometr
+y
+Dr. Nazeer
+Muhammad
+A1-207(LT)
+Ideology of
+Pakistan
+Dr. Muhammad
+Touqeer Akhtar Nasir
+A1-207(LT)
+Entreprene
+urship
+Dr Sadia Akhter
+A1-306
+Discrete
+Structures
+Dr. Rizwan Akhtar
+A1-207(LT)
+Discrete
+Structures
+Dr. Rizwan Akhtar
+A1-307(LT)
+Object
+Oriented
+Programmi
+ng
+Dr. Muhammad Arif
+Shah
+A2-112
+Ideology of
+Pakistan
+Dr. Muhammad
+Touqeer Akhtar Nasir
+Online-1
+Foundation
+Mathematic
+s-II
+Ms. Nadia Khan
+B1-207(LT)
+Foundation
+Mathematic
+s-II
+Ms. Nadia Khan
+B1-207(LT)
+Foundation
+Mathematic
+s-II
+Ms. Nadia Khan
+B1-207(LT)
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+BSAI-S24 Green
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Calculus
+and Analyti
+cal Geometr
+y
+Dr. Nazeer
+Muhammad
+A1-207(LT)
+Technical &
+Business
+Writing
+Ms. Uzma Khalil
+C1-B01
+Entreprene
+urship
+Dr Sadia Akhter
+A2-211
+Discrete
+Structures
+Dr. Nazeer
+Muhammad
+A1-207(LT)
+Discrete
+Structures
+Dr. Nazeer
+Muhammad
+A2-301(LT)
+Object
+Oriented
+Programmi
+ng
+Dr. Abdul Waheed
+A2-203
+Discrete
+Structures
+Dr. Nazeer
+Muhammad
+A1-207(LT)
+Object
+Oriented
+Programmi
+ng
+Dr. Abdul Waheed
+A1-109
+Object Oriented
+Programming Lab
+Dr. Abdul Waheed / Mr. Asad Khan
+C2-1CL
+Calculus
+and Analyti
+cal Geometr
+y
+Dr. Nazeer
+Muhammad
+A1-207(LT)
+Technical &
+Business
+Writing
+Ms. Uzma Khalil
+C1-B01
+Entreprene
+urship
+Dr Sadia Akhter
+A2-211
+Object
+Oriented
+Programmi
+ng
+Dr. Abdul Waheed
+B2-308(LT)
+Calculus
+and Analyti
+cal Geometr
+y
+Dr. Nazeer
+Muhammad
+A1-207(LT)
+Ideology of
+Pakistan
+Dr. Muhammad
+Touqeer Akhtar Nasir
+A1-207(LT)
+Technical &
+Business
+Writing
+Ms. Uzma Khalil
+C1-B05
+Entreprene
+urship
+Dr Sadia Akhter
+A2-211
+Ideology of
+Pakistan
+Dr. Muhammad
+Touqeer Akhtar Nasir
+Online-1
+Foundation
+Mathematic
+s-II
+Ms. Nadia Khan
+B1-207(LT)
+Foundation
+Mathematic
+s-II
+Ms. Nadia Khan
+B1-207(LT)
+Foundation
+Mathematic
+s-II
+Ms. Nadia Khan
+B1-207(LT)
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+BSAI-S24 Blue
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Business
+Process
+Engineering
+Dr. Waqar Mehmood
+A1-306
+Software
+Engineering
+Ms. Sonia Rafaqat
+C1-B07
+Software
+Engineering
+Ms. Sonia Rafaqat
+C1-B07
+Data
+Structures
+& Algorithm
+s
+Dr. Muhammad
+Shuaib Qureshi
+A2-211
+Business
+Process
+Engineering
+Dr. Waqar Mehmood
+A1-306
+Software
+Engineering
+Ms. Sonia Rafaqat
+C1-B02
+Linear
+Algebra
+Dr. Muhammad
+Tayyab
+A1-207(LT)
+Formal
+Methods in
+Software
+Engineering
+Dr. Qaiser Ayub
+C1-B07
+Formal
+Methods in
+Software
+Engineering
+Dr. Qaiser Ayub
+A1-306
+Business
+Process
+Engineering
+Dr. Waqar Mehmood
+A1-306
+Data Structures &
+Algorithms Lab
+Dr. Muhammad Shuaib Qureshi / Ms. Shazia Bano
+C2-4CL
+Linear
+Algebra
+Dr. Muhammad
+Tayyab
+A2-301(LT)
+Linear
+Algebra
+Dr. Muhammad
+Tayyab
+A2-201(LT)
+Data
+Structures
+& Algorithm
+s
+Dr. Muhammad
+Shuaib Qureshi
+A2-102
+Data
+Structures
+& Algorithm
+s
+Dr. Muhammad
+Shuaib Qureshi
+A2-203
+Oraganizati
+onal
+Behaviour
+Dr. Muhammad
+Hamza Khan
+A2-103
+Oraganizati
+onal
+Behaviour
+Dr. Muhammad
+Hamza Khan
+A1-109
+Oraganizati
+onal
+Behaviour
+Dr. Muhammad
+Hamza Khan
+A1-109
+Formal
+Methods in
+Software
+Engineering
+Dr. Qaiser Ayub
+A2-202
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+BSSE-F23 Green
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Business
+Process
+Engineering
+Dr. Waqar Mehmood
+A2-211
+Data
+Structures
+& Algorithm
+s
+Dr. Muhammad
+Shuaib Qureshi
+A1-306
+Data
+Structures
+& Algorithm
+s
+Dr. Muhammad
+Shuaib Qureshi
+A1-109
+Software
+Engineering
+Ms. Sonia Rafaqat
+C1-B07
+Software
+Engineering
+Ms. Sonia Rafaqat
+C1-B07
+Oraganizati
+onal
+Behaviour
+Dr. Muhammad
+Hamza Khan
+A1-307(LT)
+Oraganizati
+onal
+Behaviour
+Dr. Muhammad
+Hamza Khan
+B1-307(LT)
+Data
+Structures
+& Algorithm
+s
+Dr. Muhammad
+Shuaib Qureshi
+A2-210
+Linear
+Algebra
+Dr. Muhammad
+Tayyab
+A1-207(LT)
+Formal
+Methods in
+Software
+Engineering
+Dr. Qaiser Ayub
+A2-112
+Linear
+Algebra
+Dr. Muhammad
+Tayyab
+A2-301(LT)
+Linear
+Algebra
+Dr. Muhammad
+Tayyab
+A2-201(LT)
+Formal
+Methods in
+Software
+Engineering
+Dr. Qaiser Ayub
+C1-B05
+Business
+Process
+Engineering
+Dr. Waqar Mehmood
+A1-201
+Oraganizati
+onal
+Behaviour
+Dr. Muhammad
+Hamza Khan
+C1-B03
+Data Structures &
+Algorithms Lab
+Dr. Muhammad Shuaib Qureshi
+C2-4CL
+Software
+Engineering
+Ms. Sonia Rafaqat
+C1-B08
+Formal
+Methods in
+Software
+Engineering
+Dr. Qaiser Ayub
+A2-112
+Business
+Process
+Engineering
+Dr. Waqar Mehmood
+A2-211
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+BSSE-F23 Blue
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Data
+Structures
+& Algorithm
+s
+Dr. Ihtisham Ali
+A2-102
+Professiona
+l Ethics
+Dr. Rana Asad
+A2-301(LT)
+Probabillity
+and Statisti
+cs
+Dr. Asif Khan
+C1-B03
+Data
+Structures
+& Algorithm
+s
+Dr. Ihtisham Ali
+A1-206
+Professiona
+l Ethics
+Dr. Rana Asad
+A1-207(LT)
+Digital
+Logic
+Design
+Engr. Ayaz
+A1-306
+Probabillity
+and Statisti
+cs
+Dr. Asif Khan
+C1-B01
+Database
+Systems
+Ms. Zubaria Noureen
+C1-B08
+Database Systems
+Lab
+Ms. Zubaria Noureen
+A2-305(CL)
+Digital
+Logic
+Design
+Engr. Ayaz
+C1-B05
+Digital
+Logic
+Design
+Engr. Ayaz
+A2-211
+Probabillity
+and Statisti
+cs
+Dr. Asif Khan
+C1-B01
+Data
+Structures
+& Algorithm
+s
+Dr. Ihtisham Ali
+A2-103
+Database
+Systems
+Ms. Zubaria Noureen
+C1-B07
+Digital Logic Design
+Lab
+Engr. Ayaz / Mr. Haris Khan
+A2-304 DLD(Lab)
+Data Structures &
+Algorithms Lab
+Dr. Ihtisham Ali
+C2-2CL
+Database
+Systems
+Ms. Zubaria Noureen
+C1-B07
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+BSCS-F23 Green
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Probabillity
+and Statisti
+cs
+Dr. Asif Khan
+C1-B04
+Data
+Structures
+& Algorithm
+s
+Dr. Sohail Khan
+A2-211
+Professiona
+l Ethics
+Dr. Rana Asad
+A2-301(LT)
+Digital Logic Design
+Lab
+Engr. Ayaz / Mr. Haris Khan
+A2-304 DLD(Lab)
+Data Structures &
+Algorithms Lab
+Dr. Sohail Khan
+C2-3CL
+Data
+Structures
+& Algorithm
+s
+Dr. Sohail Khan
+A2-211
+Database
+Systems
+Ms. Zubaria Noureen
+C1-B05
+Database
+Systems
+Ms. Zubaria Noureen
+C1-B07
+Professiona
+l Ethics
+Dr. Rana Asad
+A1-207(LT)
+Probabillity
+and Statisti
+cs
+Dr. Asif Khan
+C1-B01
+Data
+Structures
+& Algorithm
+s
+Dr. Sohail Khan
+A2-211
+Digital
+Logic
+Design
+Engr. Ayaz
+A1-306
+Probabillity
+and Statisti
+cs
+Dr. Asif Khan
+C1-B01
+Database
+Systems
+Ms. Zubaria Noureen
+C1-B07
+Database Systems
+Lab
+Ms. Zubaria Noureen
+A2-305(CL)
+Digital
+Logic
+Design
+Engr. Ayaz
+A2-211
+Digital
+Logic
+Design
+Engr. Ayaz
+A1-306
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+BSCS-F23 Blue
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Probabillity
+and Statisti
+cs
+Dr. Asif Khan
+C1-B03
+Digital
+Logic
+Design
+Engr. Ayaz
+A1-201
+Entreprene
+urship
+Mr. Muhammad
+Younas
+A2-301(LT)
+Databa
+se Syst
+ems
+BSCS-F23 Red
+C1-B03
+Probabillity
+and Statisti
+cs
+Dr. Asif Khan
+C1-B01
+Data
+Structures
+& Algorithm
+s
+Dr. Ihtisham Ali
+A2-211
+Data
+Structures
+& Algorithm
+s
+Dr. Ihtisham Ali
+A2-211
+Digital
+Logic
+Design
+Engr. Ayaz
+A1-201
+Entreprene
+urship
+Mr. Muhammad
+Younas
+A2-301(LT)
+Data
+Structures
+& Algorithm
+s
+Dr. Ihtisham Ali
+A2-111
+Digital
+Logic
+Design
+Engr. Ayaz
+A2-211
+Entreprene
+urship
+Mr. Muhammad
+Younas
+A1-307(LT)
+Probabillity
+and Statisti
+cs
+Dr. Asif Khan
+C1-B01
+Databa
+se Syst
+ems
+BSCS-F23 Red
+C1-B02
+Database Systems
+Lab
+BSCS-F23 Red
+C2-4CL
+Data Structures &
+Algorithms Lab
+Dr. Ihtisham Ali / Ms. Shazia Bano
+B1-305(CL)
+Databa
+se Syst
+ems
+BSCS-F23 Red
+C1-B05
+Digital Logic Design
+Lab
+Engr. Ayaz / Mr. Haris Khan
+A2-304 DLD(Lab)
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+BSCS-F23 Red
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Introduction
+to Data
+Science
+Dr. Ihtisham Ali
+A1-109
+Data
+Structures
+& Algorithm
+s
+Mr. Aamir Malik
+C1-B03
+Introduction to Data
+Science Lab
+Dr. Ihtisham Ali / Mr. Rizwan Shah
+C2-2CL
+Data
+Structures
+& Algorithm
+s
+Mr. Aamir Malik
+C1-B08
+Artificial
+Intelligence
+Dr. Shahnawaz
+Qureshi
+A2-201(LT)
+Oraganizati
+onal
+Behaviour
+Dr. Muhammad
+Hamza Khan
+A1-307(LT)
+Applied
+Statistics
+Ms. Fatima Imtiaz
+A2-201(LT)
+Applied
+Statistics
+Ms. Fatima Imtiaz
+A1-207(LT)
+Introduction
+to Data
+Science
+Dr. Ihtisham Ali
+A2-112
+Data Structures &
+Algorithms Lab
+Mr. Aamir Malik
+C2-3CL
+Oraganizati
+onal
+Behaviour
+Dr. Muhammad
+Hamza Khan
+A2-301(LT)
+Introduction
+to Data
+Science
+Dr. Ihtisham Ali
+A1-206
+Oraganizati
+onal
+Behaviour
+Dr. Muhammad
+Hamza Khan
+A1-307(LT)
+Applied
+Statistics
+Ms. Fatima Imtiaz
+A1-307(LT)
+Artificial Intelligence
+Lab
+Dr. Shahnawaz Qureshi / Mr. Fahad Qureshi
+A2-305(CL)
+Data
+Structures
+& Algorithm
+s
+Mr. Aamir Malik
+C1-B01
+Artificial
+Intelligence
+Dr. Shahnawaz
+Qureshi
+A1-205
+Artificial
+Intelligence
+Dr. Shahnawaz
+Qureshi
+A1-205
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+BSDS-F23
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Digital
+Logic
+Design
+Dr. Haris Shehzad
+A2-210
+Programmi
+ng for
+Artificial
+Intelligence
+Dr. Shahnawaz
+Qureshi
+A2-210
+Data
+Structures
+& Algorithm
+s
+Dr. Abid Ali
+C1-B02
+Data
+Structures
+& Algorithm
+s
+Dr. Abid Ali
+A2-202
+Professiona
+l Ethics
+Dr. Abdul Mateen
+A1-207(LT)
+Programmi
+ng for
+Artificial
+Intelligence
+Dr. Shahnawaz
+Qureshi
+A1-109
+Probabillity
+and Statisti
+cs
+Ms. Tayyaba Shaukat
+C1-B05
+Digital Logic Design
+Lab
+Dr. Haris Shehzad / Mr. Yaseen Khan
+A2-304 DLD(Lab)
+Digital
+Logic
+Design
+Dr. Haris Shehzad
+A2-210
+Probabillity
+and Statisti
+cs
+Ms. Tayyaba Shaukat
+C1-B08
+Data
+Structures
+& Algorithm
+s
+Dr. Abid Ali
+A2-203
+Data Structures &
+Algorithms Lab
+Dr. Abid Ali / Mr. Osama Bin Naeem
+C2-5CL
+Digital
+Logic
+Design
+Dr. Haris Shehzad
+A2-210
+Probabillity
+and Statisti
+cs
+Ms. Tayyaba Shaukat
+C1-B08
+Professiona
+l Ethics
+Dr. Abdul Mateen
+B2-308(LT)
+Programming for
+Artificial Intelligence
+Lab
+Dr. Shahnawaz Qureshi / Mr. Rizwan Shah
+C2-4CL
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+BSAI-F23 Green
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Professiona
+l Ethics
+Dr. Abdul Mateen
+A1-207(LT)
+Digital Logic Design
+Lab
+Dr. Haris Shehzad / Mr. Yaseen Khan
+A2-304 DLD(Lab)
+Digital
+Logic
+Design
+Dr. Haris Shehzad
+A1-205
+Programmi
+ng for
+Artificial
+Intelligence
+Dr. Shahnawaz
+Qureshi
+A2-210
+Probabillity
+and Statisti
+cs
+Ms. Tayyaba Shaukat
+C1-B08
+Digital
+Logic
+Design
+Dr. Haris Shehzad
+A2-210
+Programmi
+ng for
+Artificial
+Intelligence
+Dr. Shahnawaz
+Qureshi
+A2-210
+Programming for
+Artificial Intelligence
+Lab
+Dr. Shahnawaz Qureshi / Mr. Rizwan Shah
+C2-3CL
+Digital
+Logic
+Design
+Dr. Haris Shehzad
+A1-205
+Data
+Structures
+& Algorithm
+s
+Dr. Zakir Khan
+C1-B07
+Data Structures &
+Algorithms Lab
+Dr. Zakir Khan
+A2-305(CL)
+Probabillity
+and Statisti
+cs
+Ms. Tayyaba Shaukat
+A1-201
+Professiona
+l Ethics
+Dr. Abdul Mateen
+B2-308(LT)
+Data
+Structures
+& Algorithm
+s
+Dr. Zakir Khan
+C1-B05
+Data
+Structures
+& Algorithm
+s
+Dr. Zakir Khan
+C1-B08
+Probabillity
+and Statisti
+cs
+Ms. Tayyaba Shaukat
+C1-B08
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+BSAI-F23 Blue
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Digital
+Logic
+Design
+Dr. Abdul Jalil
+C1-B04
+Data Structures &
+Algorithms Lab
+Ms. Zubaria Noureen
+A2-305(CL)
+Data
+Structures
+& Algorithm
+s
+Ms. Zubaria Noureen
+A1-201
+Professiona
+l Ethics
+Dr. Abdul Mateen
+A1-307(LT)
+Digital
+Logic
+Design
+Dr. Abdul Jalil
+C1-B04
+Programmi
+ng for
+Artificial
+Intelligence
+Ms Maria Gul
+C1-B04
+Professiona
+l Ethics
+Dr. Abdul Mateen
+A1-307(LT)
+Programming for
+Artificial Intelligence
+Lab
+Ms Maria Gul
+C2-3CL
+Probabillity
+and Statisti
+cs
+Ms. Tayyaba Shaukat
+C1-B08
+Digital Logic Design
+Lab
+Dr. Abdul Jalil / Mr. Jawad Ul Hassan Shah
+A2-304 DLD(Lab)
+Digital
+Logic
+Design
+Dr. Abdul Jalil
+C1-B04
+Probabillity
+and Statisti
+cs
+Ms. Tayyaba Shaukat
+C1-B02
+Programmi
+ng for
+Artificial
+Intelligence
+Ms Maria Gul
+C1-B08
+Probabillity
+and Statisti
+cs
+Ms. Tayyaba Shaukat
+C1-B01
+Data
+Structures
+& Algorithm
+s
+Ms. Zubaria Noureen
+C1-B04
+Data
+Structures
+& Algorithm
+s
+Ms. Zubaria Noureen
+C1-B07
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+BSAI-F23 Red
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Digital
+Logic
+Design
+Dr. Abdul Jalil
+C1-B03
+Programmi
+ng for
+Artificial
+Intelligence
+Ms Maria Gul
+C1-B01
+Professiona
+l Ethics
+Dr. Abdul Mateen
+A1-307(LT)
+Digital
+Logic
+Design
+Dr. Abdul Jalil
+C1-B03
+Probabillity
+and Statisti
+cs
+Ms. Tayyaba Shaukat
+C1-B08
+Professiona
+l Ethics
+Dr. Abdul Mateen
+A1-307(LT)
+Programming for
+Artificial Intelligence
+Lab
+Ms Maria Gul
+C2-1CL
+Data
+Structures
+& Algorithm
+s
+Dr. Zakir Khan
+B1-307(LT)
+Data
+Structures
+& Algorithm
+s
+Dr. Zakir Khan
+B1-307(LT)
+Digital
+Logic
+Design
+Dr. Abdul Jalil
+C1-B03
+Programmi
+ng for
+Artificial
+Intelligence
+Ms Maria Gul
+C1-B01
+Probabillity
+and Statisti
+cs
+Ms. Tayyaba Shaukat
+C1-B07
+Digital Logic Design
+Lab
+Dr. Abdul Jalil / Mr. Jawad Ul Hassan Shah
+A2-304 DLD(Lab)
+Probabillity
+and Statisti
+cs
+Ms. Tayyaba Shaukat
+C1-B02
+Data Structures &
+Algorithms Lab
+Dr. Zakir Khan
+C2-3CL
+Data
+Structures
+& Algorithm
+s
+Dr. Zakir Khan
+C1-B02
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+BSAI-F23 Yellow
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Technical &
+Business
+Writing
+Dr. Muhammad
+Farooq
+C1-B08
+Technical &
+Business
+Writing
+Dr. Muhammad
+Farooq
+C1-B01
+Data
+Structures
+& Algorithm
+s
+Ms. Zubaria Noureen
+A1-201
+Artificial Intelligence
+Lab
+Dr. Mohsin Khan
+C2-2CL
+Professiona
+l Ethics
+Dr. Rana Asad
+A1-207(LT)
+Data
+Structures
+& Algorithm
+s
+Ms. Zubaria Noureen
+C1-B01
+Information
+Security
+Mr. Muhammad
+Mudassir Feroz
+C1-B03
+Information
+Security
+Mr. Muhammad
+Mudassir Feroz
+C1-B03
+Data Structures &
+Algorithms Lab
+Ms. Zubaria Noureen
+A2-305(CL)
+Professiona
+l Ethics
+Dr. Rana Asad
+A1-307(LT)
+Artificial
+Intelligence
+Dr. Mohsin Khan
+A1-109
+Technical &
+Business
+Writing
+Dr. Muhammad
+Farooq
+C1-B01
+Artificial
+Intelligence
+Dr. Mohsin Khan
+A1-109
+Artificial
+Intelligence
+Dr. Mohsin Khan
+A1-109
+Information
+Security
+Mr. Muhammad
+Mudassir Feroz
+C1-B03
+Data
+Structures
+& Algorithm
+s
+Ms. Zubaria Noureen
+A2-211
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+CYS-F23 Green
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Artificial
+Intelligence
+Dr. Mohsin Khan
+A2-210
+Artificial
+Intelligence
+Dr. Mohsin Khan
+A1-206
+Technical &
+Business
+Writing
+Ms. Uzma Khalil
+C1-B03
+Professiona
+l Ethics
+Dr. Rana Asad
+A1-207(LT)
+Artificial
+Intelligence
+Dr. Mohsin Khan
+A1-206
+Professiona
+l Ethics
+Dr. Rana Asad
+A1-307(LT)
+Information
+Security
+Mr. Luqman Shahzad
+A1-207(LT)
+Information
+Security
+Mr. Luqman Shahzad
+B1-207(LT)
+Artificial Intelligence
+Lab
+Dr. Mohsin Khan
+A2-102
+Technical &
+Business
+Writing
+Ms. Uzma Khalil
+C1-B03
+Data
+Structures
+& Algorithm
+s
+Dr. Rafiullah
+A1-306
+Data
+Structures
+& Algorithm
+s
+Dr. Rafiullah
+A1-201
+Information
+Security
+Mr. Luqman Shahzad
+B1-307(LT)
+Technical &
+Business
+Writing
+Ms. Uzma Khalil
+C1-B03
+Data
+Structures
+& Algorithm
+s
+Dr. Rafiullah
+A1-201
+Data Structures &
+Algorithms Lab
+Dr. Rafiullah
+A2-305(CL)
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+CYS-F23 Blue
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Technical &
+Business
+Writing
+Ms. Sheeba Sadaf.
+A2-202
+Operating Systems
+Lab
+Mr. Syed Adil Ibrar Kazmi
+C2-5CL
+Operating
+Systems
+Mr. Syed Adil Ibrar
+Kazmi
+C1-B05
+Database
+Systems
+Dr. Maqbool Khan
+B1-307(LT)
+Technical &
+Business
+Writing
+Ms. Sheeba Sadaf.
+A1-109
+Operating
+Systems
+Mr. Syed Adil Ibrar
+Kazmi
+A2-102
+Database
+Systems
+Dr. Maqbool Khan
+B1-307(LT)
+Database Systems
+Lab
+Dr. Maqbool Khan / Ms. Anum Hafeez
+C2-2CL
+Technical &
+Business
+Writing
+Ms. Sheeba Sadaf.
+A1-205
+Formal
+Methods in
+Software
+Engineering
+Dr. Qaiser Ayub
+A1-201
+Software
+Requiremen
+t Engineerin
+g
+Dr. Musadaq
+Mansoor
+A1-307(LT)
+Operating
+Systems
+Mr. Syed Adil Ibrar
+Kazmi
+C1-B05
+Database
+Systems
+Dr. Maqbool Khan
+B1-307(LT)
+Formal
+Methods in
+Software
+Engineering
+Dr. Qaiser Ayub
+A1-201
+Formal
+Methods in
+Software
+Engineering
+Dr. Qaiser Ayub
+A1-201
+Software
+Requiremen
+t Engineerin
+g
+Dr. Musadaq
+Mansoor
+C1-B01
+Software
+Requiremen
+t Engineerin
+g
+Dr. Musadaq
+Mansoor
+C1-B04
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+BSSE-S23
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Operating Systems
+Lab
+Mr. Syed Adil Ibrar Kazmi
+C2-5CL
+Computer
+Organizatio
+n & Assemb
+ly Language
+Mr. Aamir Malik
+A2-202
+Operating
+Systems
+Mr. Syed Adil Ibrar
+Kazmi
+C1-B05
+Computer
+Organizatio
+n & Assemb
+ly Language
+Mr. Aamir Malik
+C1-B08
+Computer
+Organizatio
+n & Assemb
+ly Language
+Mr. Aamir Malik
+A2-111
+Operating
+Systems
+Mr. Syed Adil Ibrar
+Kazmi
+A2-102
+Differential
+Equations
+Dr. Jamil Ahmed
+A2-111
+Differential
+Equations
+Dr. Jamil Ahmed
+A2-102
+Theory of
+Automata
+Mr. Muhammad
+Mudassir Feroz
+C1-B07
+Theory of
+Automata
+Mr. Muhammad
+Mudassir Feroz
+C1-B07
+Operating
+Systems
+Mr. Syed Adil Ibrar
+Kazmi
+C1-B05
+Differential
+Equations
+Dr. Jamil Ahmed
+A1-306
+Computer
+Organization &
+Assembly Language
+Lab
+Mr. Aamir Malik
+C2-6CL
+Theory of
+Automata
+Mr. Muhammad
+Mudassir Feroz
+A1-205
+Mobile
+Application
+Developme
+n
+Mr. Sher Hamza
+A2-305(CL)
+Mobile
+Application
+Developme
+n
+Mr. Sher Hamza
+A2-305(CL)
+Mobile
+Application
+Developme
+n
+Mr. Sher Hamza
+A2-305(CL)
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+BSCS-S23
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Technical &
+Business
+Writing
+Ms. Sheeba Sadaf.
+A2-202
+Operating
+Systems
+Mr. Syed Adil Ibrar
+Kazmi
+C1-B05
+Database
+Systems
+Dr. Maqbool Khan
+B1-307(LT)
+Nature
+Inspired
+Computing
+Dr. Mohsin Khan
+C1-B04
+Technical &
+Business
+Writing
+Ms. Sheeba Sadaf.
+A1-109
+Inferential
+Statistics
+Ms. Fatima Imtiaz
+A2-301(LT)
+Database
+Systems
+Dr. Maqbool Khan
+B1-307(LT)
+Database Systems
+Lab
+Dr. Maqbool Khan / Ms. Anum Hafeez
+C2-2CL
+Technical &
+Business
+Writing
+Ms. Sheeba Sadaf.
+A1-205
+Operating
+Systems
+Mr. Syed Adil Ibrar
+Kazmi
+C1-B05
+Database
+Systems
+Dr. Maqbool Khan
+B1-307(LT)
+Inferential
+Statistics
+Ms. Fatima Imtiaz
+A1-307(LT)
+Inferential
+Statistics
+Ms. Fatima Imtiaz
+A2-201(LT)
+Nature
+Inspired
+Computing
+Dr. Mohsin Khan
+C1-B05
+Operating
+Systems
+Mr. Syed Adil Ibrar
+Kazmi
+C1-B05
+Operating Systems
+Lab
+Mr. Syed Adil Ibrar Kazmi
+C2-5CL
+Nature
+Inspired
+Computing
+Dr. Mohsin Khan
+C1-B02
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+BSDS-S23
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Linear
+Algebra
+Dr. Muhammad
+Tayyab
+A1-206
+Software
+Engineering
+Ms. Sonia Rafaqat
+C1-B05
+Operating
+Systems
+Mr. Syed Adil Ibrar
+Kazmi
+C1-B05
+Programming for
+Artificial Intelligence
+Lab
+Dr. Muhammad Zeeshan
+C2-5CL
+Programmi
+ng for
+Artificial
+Intelligence
+Dr. Muhammad
+Zeeshan
+C1-B05
+Database
+Systems
+Dr. Maqbool Khan
+A1-205
+Database
+Systems
+Dr. Maqbool Khan
+A2-103
+Linear
+Algebra
+Dr. Muhammad
+Tayyab
+A1-205
+Operating
+Systems
+Mr. Syed Adil Ibrar
+Kazmi
+C1-B05
+Programmi
+ng for
+Artificial
+Intelligence
+Dr. Muhammad
+Zeeshan
+C1-B01
+Database
+Systems
+Dr. Maqbool Khan
+A2-203
+Linear
+Algebra
+Dr. Muhammad
+Tayyab
+A1-205
+Database Systems
+Lab
+Dr. Maqbool Khan / Ms. Anum Hafeez
+C2-5CL
+Software
+Engineering
+Ms. Sonia Rafaqat
+C1-B07
+Software
+Engineering
+Ms. Sonia Rafaqat
+C1-B04
+Operating
+Systems
+Mr. Syed Adil Ibrar
+Kazmi
+C1-B05
+Operating Systems
+Lab
+Mr. Syed Adil Ibrar Kazmi
+C2-5CL
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+BSAI-S23
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Software
+Design and
+Architectur
+e
+Mr. Noman Javed
+A1-201
+Software
+Design and
+Architectur
+e
+Mr. Noman Javed
+A1-306
+Human
+Computer
+Interaction
+Mr. Adil Fayyaz
+A1-306
+Human
+Computer
+Interaction
+Mr. Adil Fayyaz
+A1-306
+Software Design
+and Architecture
+Lab
+Mr. Noman Javed / Ms. Zainab Tahir
+C2-5CL
+Human
+Computer
+Interaction
+Mr. Adil Fayyaz
+B1-307(LT)
+Computer
+Networks
+Dr. Abdul Waheed
+A1-109
+Full Stack
+Developme
+nt
+Dr. Musadaq
+Mansoor
+A2-201(LT)
+Full Stack
+Developme
+nt
+Dr. Musadaq
+Mansoor
+A1-207(LT)
+Computer Networks
+Lab
+Dr. Abdul Waheed / Mr. Samiullah Hussain
+C2-1CL
+Formal
+Methods in
+Software
+Engineering
+Dr. Qaiser Ayub
+C1-B03
+Computer
+Networks
+Dr. Abdul Waheed
+A1-307(LT)
+Computer
+Networks
+Dr. Abdul Waheed
+A1-109
+Formal
+Methods in
+Software
+Engineering
+Dr. Qaiser Ayub
+C1-B07
+Formal
+Methods in
+Software
+Engineering
+Dr. Qaiser Ayub
+C1-B03
+Full Stack
+Developme
+nt
+Dr. Musadaq
+Mansoor
+C1-B04
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+BSSE-F22 Green
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Computer
+Networks
+Mr. Syed Adil Ibrar
+Kazmi
+C1-B05
+Software Design
+and Architecture
+Lab
+Dr. Muhammad Zeeshan / Ms. Zainab Tahir
+C2-2CL
+Software
+Design and
+Architectur
+e
+Dr. Muhammad
+Zeeshan
+C1-B02
+Human
+Computer
+Interaction
+Mr. Adil Fayyaz
+A2-201(LT)
+Human
+Computer
+Interaction
+Mr. Adil Fayyaz
+A2-201(LT)
+Computer
+Networks
+Mr. Syed Adil Ibrar
+Kazmi
+C1-B01
+Computer
+Networks
+Mr. Syed Adil Ibrar
+Kazmi
+C1-B08
+Formal
+Methods in
+Software
+Engineering
+Dr. Qaiser Ayub
+A1-201
+Human
+Computer
+Interaction
+Mr. Adil Fayyaz
+A1-207(LT)
+Software
+Design and
+Architectur
+e
+Dr. Muhammad
+Zeeshan
+C1-B02
+Formal
+Methods in
+Software
+Engineering
+Dr. Qaiser Ayub
+A1-201
+Formal
+Methods in
+Software
+Engineering
+Dr. Qaiser Ayub
+A1-201
+Computer Networks
+Lab
+Mr. Syed Adil Ibrar Kazmi / Mr. Samiullah Hussain
+C2-3CL
+Mobile
+Application
+Developme
+n
+Mr. Sher Hamza
+A2-305(CL)
+Mobile
+Application
+Developme
+n
+Mr. Sher Hamza
+A2-305(CL)
+Mobile
+Application
+Developme
+n
+Mr. Sher Hamza
+A2-305(CL)
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+BSSE-F22 Blue
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Software
+Design and
+Architectur
+e
+Dr. Nabeel Ahmed
+C1-B04
+Software
+Design and
+Architectur
+e
+Dr. Nabeel Ahmed
+C1-B04
+Computer
+Networks
+Mr. Syed Adil Ibrar
+Kazmi
+C1-B08
+Formal
+Methods in
+Software
+Engineering
+Dr. Abid Rauf
+C1-B07
+Human
+Computer
+Interaction
+Mr. Adil Fayyaz
+A1-201
+Formal
+Methods in
+Software
+Engineering
+Dr. Abid Rauf
+C1-B04
+Formal
+Methods in
+Software
+Engineering
+Dr. Abid Rauf
+C1-B04
+Human
+Computer
+Interaction
+Mr. Adil Fayyaz
+A1-207(LT)
+Human
+Computer
+Interaction
+Mr. Adil Fayyaz
+A1-207(LT)
+Full Stack
+Developme
+nt
+Dr. Musadaq
+Mansoor
+A2-201(LT)
+Full Stack
+Developme
+nt
+Dr. Musadaq
+Mansoor
+A1-207(LT)
+Computer
+Networks
+Mr. Syed Adil Ibrar
+Kazmi
+C1-B04
+Computer
+Networks
+Mr. Syed Adil Ibrar
+Kazmi
+C1-B04
+Software Design
+and Architecture
+Lab
+Dr. Nabeel Ahmed / Ms. Zainab Tahir
+C2-2CL
+Computer Networks
+Lab
+Mr. Syed Adil Ibrar Kazmi
+C2-1CL
+Full Stack
+Developme
+nt
+Dr. Musadaq
+Mansoor
+C1-B04
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+BSSE-F22 Red
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Numerical
+Computatio
+ns
+Dr. Muhammad
+Tayyab
+A1-307(LT)
+Numerical
+Computations Lab
+Dr. Muhammad Tayyab / Ms. Iqra Ayesha
+C2-5CL
+Numerical
+Computatio
+ns
+Dr. Muhammad
+Tayyab
+A1-307(LT)
+Design and
+Analysis of
+Algorithms
+Dr. Zaffar Mehmood
+C1-B04
+Design and
+Analysis of
+Algorithms
+Dr. Zaffar Mehmood
+C1-B08
+Software
+Engineering
+Dr. Waqar Mehmood
+A1-201
+Compiler
+Constructio
+n
+Dr. Rafiullah
+A1-201
+Cloud
+Computing
+Mr. Luqman Shahzad
+C1-B08
+Design and
+Analysis of
+Algorithms
+Dr. Zaffar Mehmood
+C1-B08
+Software
+Engineering
+Dr. Waqar Mehmood
+C1-B03
+Software
+Engineering
+Dr. Waqar Mehmood
+A1-201
+Compiler
+Constructio
+n
+Dr. Rafiullah
+A1-306
+Cloud
+Computing
+Mr. Luqman Shahzad
+B1-307(LT)
+Compiler
+Constructio
+n
+Dr. Rafiullah
+A1-201
+Cloud
+Computing
+Mr. Luqman Shahzad
+A2-111
+Intellectual
+Property
+Law
+Adv. Usman Saleem
+A2-201(LT)
+Intellectual
+Property
+Law
+Adv. Usman Saleem
+A2-201(LT)
+Intellectual
+Property
+Law
+Adv. Usman Saleem
+A2-201(LT)
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+BSCS-F22 Green
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Numerical
+Computatio
+ns
+Dr. Muhammad
+Tayyab
+A1-307(LT)
+Software
+Engineering
+Dr. Waqar Mehmood
+A1-306
+Compiler
+Constructio
+n
+Dr. Rafiullah
+A1-306
+Numerical
+Computatio
+ns
+Dr. Muhammad
+Tayyab
+A1-307(LT)
+Design and
+Analysis of
+Algorithms
+Dr. Zaffar Mehmood
+A2-211
+Numerical
+Computations Lab
+Dr. Muhammad Tayyab / Ms. Iqra Ayesha
+C2-4CL
+Design and
+Analysis of
+Algorithms
+Dr. Zaffar Mehmood
+C1-B02
+Software
+Engineering
+Dr. Waqar Mehmood
+C1-B07
+Compiler
+Constructio
+n
+Dr. Rafiullah
+A1-306
+Cloud
+Computing
+Mr. Luqman Shahzad
+C1-B03
+Design and
+Analysis of
+Algorithms
+Dr. Zaffar Mehmood
+A2-202
+Software
+Engineering
+Dr. Waqar Mehmood
+C1-B04
+Compiler
+Constructio
+n
+Dr. Rafiullah
+A1-306
+Cloud
+Computing
+Mr. Luqman Shahzad
+C1-B07
+Cloud
+Computing
+Mr. Luqman Shahzad
+A2-102
+Intellectual
+Property
+Law
+Adv. Usman Saleem
+A2-201(LT)
+Intellectual
+Property
+Law
+Adv. Usman Saleem
+A2-201(LT)
+Intellectual
+Property
+Law
+Adv. Usman Saleem
+A2-201(LT)
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+BSCS-F22 Blue
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Digital
+Image
+Processing
+Dr. Mohsin Khan
+A2-102
+Data
+Warehousin
+g
+Dr. Nabeel Ahmed
+C1-B01
+Data
+Warehousin
+g
+Dr. Nabeel Ahmed
+C1-B01
+Digital Image
+Processing Lab
+Dr. Mohsin Khan / Ms. Shazia Bano
+C2-4CL
+Data Mining
+Mr. Usama Ahmed
+Khan
+C1-B07
+Machine
+Learning for
+Structured
+Data
+Dr. Zaffar Mehmood
+C1-B02
+Design and
+Analysis of
+Algorithms
+Dr. Zaffar Mehmood
+C1-B07
+Design and
+Analysis of
+Algorithms
+Dr. Zaffar Mehmood
+A1-109
+Digital
+Image
+Processing
+Dr. Mohsin Khan
+A1-201
+Digital
+Image
+Processing
+Dr. Mohsin Khan
+A1-205
+Differential
+Equations
+Dr. Jamil Ahmed
+A2-111
+Differential
+Equations
+Dr. Jamil Ahmed
+A2-102
+Data Mining
+Mr. Usama Ahmed
+Khan
+C1-B07
+Machine
+Learning for
+Structured
+Data
+Dr. Zaffar Mehmood
+C1-B07
+Design and
+Analysis of
+Algorithms
+Dr. Zaffar Mehmood
+B1-205
+Differential
+Equations
+Dr. Jamil Ahmed
+A1-306
+Data Warehousing
+Lab
+Dr. Nabeel Ahmed
+C2-3CL
+Machine
+Learning for
+Structured
+Data
+Dr. Zaffar Mehmood
+C1-B08
+Data Mining Lab
+Mr. Usama Ahmed Khan / Mr. Fahad Qureshi
+C2-4CL
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+BSDS-F22
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Data Mining
+Mr. Usama Ahmed
+Khan
+C1-B07
+Computer
+Networks
+Dr. Abdul Waheed
+A2-211
+Differential
+Equations
+Dr. Jamil Ahmed
+B2-211(LT)
+Machine
+Learning
+Dr. Arshad Iqbal
+A2-210
+Computer
+Networks
+Dr. Abdul Waheed
+A1-109
+Design and
+Analysis of
+Algorithms
+Dr. Abid Rauf
+A1-207(LT)
+Design and
+Analysis of
+Algorithms
+Dr. Abid Rauf
+C1-B04
+Machine Learning
+Lab
+Dr. Arshad Iqbal / Ms. Anum Hafeez
+C2-3CL
+Data Mining
+Mr. Usama Ahmed
+Khan
+C1-B01
+Computer
+Networks
+Dr. Abdul Waheed
+A2-201(LT)
+Design and
+Analysis of
+Algorithms
+Dr. Abid Rauf
+A2-112
+Differential
+Equations
+Dr. Jamil Ahmed
+B2-308(LT)
+Machine
+Learning
+Dr. Arshad Iqbal
+A1-206
+Differential
+Equations
+Dr. Jamil Ahmed
+B2-211(LT)
+Data Mining Lab
+Mr. Usama Ahmed Khan / Mr. Fahad Qureshi
+C2-2CL
+Computer Networks
+Lab
+Dr. Abdul Waheed / Mr. Samiullah Hussain
+C2-2CL
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+BSAI-F22 Green
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Computer
+Networks
+Mr. Shais Saleem
+A2-301(LT)
+Computer
+Networks
+Mr. Shais Saleem
+A2-301(LT)
+Differential
+Equations
+Dr. Jamil Ahmed
+B2-211(LT)
+Design and
+Analysis of
+Algorithms
+Dr. Abid Rauf
+C1-B04
+Computer
+Networks
+Mr. Shais Saleem
+A2-301(LT)
+Computer Networks
+Lab
+Mr. Shais Saleem
+B1-305(CL)
+Design and
+Analysis of
+Algorithms
+Dr. Abid Rauf
+A2-103
+Design and
+Analysis of
+Algorithms
+Dr. Abid Rauf
+C1-B04
+Full Stack
+Developme
+nt
+Dr. Musadaq
+Mansoor
+C2-5CL
+Machine Learning
+Lab
+Dr. Zakir Khan
+B1-305(CL)
+Differential
+Equations
+Dr. Jamil Ahmed
+B2-308(LT)
+Machine
+Learning
+Dr. Zakir Khan
+C1-B04
+Machine
+Learning
+Dr. Zakir Khan
+C1-B02
+Differential
+Equations
+Dr. Jamil Ahmed
+B2-211(LT)
+Full Stack
+Developme
+nt
+Dr. Musadaq
+Mansoor
+C1-B01
+Full Stack
+Developme
+nt
+Dr. Musadaq
+Mansoor
+A2-301(LT)
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+BSAI-F22 Blue
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Software
+Re-Enginee
+ring
+Mr. Shais Saleem
+C1-B03
+Modern Database
+Development Lab
+Ms Maria Gul / Mr. Osama Bin Naeem
+C2-1CL
+Software
+Re-Enginee
+ring
+Mr. Shais Saleem
+C1-B03
+Software
+Project
+Managemen
+t
+Dr. Musadaq
+Mansoor
+C1-B07
+Software
+Project
+Managemen
+t
+Dr. Musadaq
+Mansoor
+A1-207(LT)
+Modern
+Database
+Developme
+nt
+Ms Maria Gul
+A2-210
+Software
+Re-Enginee
+ring
+Mr. Shais Saleem
+C1-B02
+Big Data
+Managemen
+t and
+Processing
+Dr. Muhammad
+Zeeshan
+C1-B04
+Cloud
+Computing
+Mr. Luqman Shahzad
+A1-201
+Cloud
+Computing
+Mr. Luqman Shahzad
+B1-307(LT)
+Big Data
+Managemen
+t and
+Processing
+Dr. Muhammad
+Zeeshan
+A2-102
+Big Data
+Managemen
+t and
+Processing
+Dr. Muhammad
+Zeeshan
+A2-102
+Cloud
+Computing
+Mr. Luqman Shahzad
+A1-307(LT)
+Software
+Project
+Managemen
+t
+Dr. Musadaq
+Mansoor
+C1-B08
+Modern
+Database
+Developme
+nt
+Ms Maria Gul
+A2-202
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+BSSE-F21
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Machine
+Learning
+Dr. Abid Ali
+B2-102
+Machine
+Learning
+Dr. Abid Ali
+C1-B08
+Computer
+Vision
+Dr. Abdul Jalil
+C1-B01
+Parallel and
+Distributed
+Computing Lab
+Mr. Shoaib Khan
+C2-1CL
+Computer Vision
+Lab
+Dr. Abdul Jalil
+C2-4CL
+Cloud
+Computing
+Mr. Luqman Shahzad
+A1-201
+Cloud
+Computing
+Mr. Luqman Shahzad
+B1-307(LT)
+Machine Learning
+Lab
+Dr. Abid Ali
+B1-305(CL)
+Computer
+Vision
+Dr. Abdul Jalil
+C1-B07
+Parallel and
+Distributed
+Computing
+Mr. Shoaib Khan
+C1-B05
+Parallel and
+Distributed
+Computing
+Mr. Shoaib Khan
+C1-B05
+Cloud
+Computing
+Mr. Luqman Shahzad
+A1-307(LT)
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+BSCS-F21
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Software
+Engineering
+Ms. Sonia Rafaqat
+C1-B05
+Information
+Security
+Dr. Rizwan Akhtar
+A2-111
+Parallel and
+Distributed
+Computing Lab
+Mr. Shoaib Khan
+C2-1CL
+Information
+Security
+Dr. Rizwan Akhtar
+A1-206
+Information
+Security
+Dr. Rizwan Akhtar
+A2-210
+Modern
+Database
+Developme
+nt
+Ms Maria Gul
+C1-B02
+Intellectual
+Property
+Law
+Adv. Muhammad Ali
+A1-307(LT)
+Intellectual
+Property
+Law
+Adv. Muhammad Ali
+A1-207(LT)
+Intellectual
+Property
+Law
+Adv. Muhammad Ali
+A1-307(LT)
+Modern Database
+Development Lab
+Ms Maria Gul / Mr. Osama Bin Naeem
+C2-3CL
+Software
+Engineering
+Ms. Sonia Rafaqat
+C1-B07
+Software
+Engineering
+Ms. Sonia Rafaqat
+C1-B04
+Parallel and
+Distributed
+Computing
+Mr. Shoaib Khan
+C1-B02
+Parallel and
+Distributed
+Computing
+Mr. Shoaib Khan
+C1-B07
+Modern
+Database
+Developme
+nt
+Ms Maria Gul
+C1-B07
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+BSDS-F21
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Natural
+Language
+Processing
+Dr. Maqbool Khan
+A1-206
+Information
+Security
+Dr. Rizwan Akhtar
+A2-103
+Natural Language
+Processing Lab
+Dr. Maqbool Khan
+C2-3CL
+Computer
+Vision
+Dr. Abdul Jalil
+C1-B04
+Information
+Security
+Dr. Rizwan Akhtar
+A1-306
+Natural
+Language
+Processing
+Dr. Maqbool Khan
+A2-103
+Information
+Security
+Dr. Rizwan Akhtar
+A2-111
+Computer
+Vision
+Dr. Abdul Jalil
+C1-B01
+Computer Vision
+Lab
+Dr. Abdul Jalil
+C2-5CL
+Intellectual
+Property
+Law
+Adv. Muhammad Ali
+A1-307(LT)
+Intellectual
+Property
+Law
+Adv. Muhammad Ali
+A1-207(LT)
+Intellectual
+Property
+Law
+Adv. Muhammad Ali
+A1-307(LT)
+Parallel and
+Distributed
+Computing Lab
+Mr. Shoaib Khan
+C2-4CL
+Parallel and
+Distributed
+Computing
+Mr. Shoaib Khan
+C1-B03
+Parallel and
+Distributed
+Computing
+Mr. Shoaib Khan
+C1-B03
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+BSAI-F21
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Applied
+Physics
+Dr. Kashif Arshad
+A2-103
+Islamic
+Studies
+Mr. Syed Afzaal
+Hussain
+Online Class
+Quantitative
+Reasoning-I
+Dr. Kamran Ullah
+A1-205
+Quantitative
+Reasoning-I
+Dr. Kamran Ullah
+A2-203
+Applied
+Physics
+Dr. Kashif Arshad
+A2-111
+Entreprene
+urship
+Dr. Muhammad
+Muqeet
+A2-202
+Quantitative
+Reasoning-I
+Dr. Kamran Ullah
+A1-206
+Islamic
+Studies
+Mr. Syed Afzaal
+Hussain
+A1-207(LT)
+Entreprene
+urship
+Dr. Muhammad
+Muqeet
+A2-111
+Entreprene
+urship
+Dr. Muhammad
+Muqeet
+A2-103
+Applied
+Physics
+Dr. Kashif Arshad
+A2-202
+Applied Physics Lab
+Dr. Kashif Arshad
+A1-301 Phy(Lab)
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+BEE-F24
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Electronic
+Devices and
+Circuit
+Dr. Saad Qayyum
+A1-205
+Electrical
+Network
+Analysis
+Engr. Yousaf Ali
+A1-205
+Electrical Network
+Analysis Lab
+Engr. Yousaf Ali / Engr. Rafi Ullah
+A2-205 EE(lab)
+Electronic
+Devices and
+Circuit
+Dr. Saad Qayyum
+A2-203
+Electrical
+Network
+Analysis
+Engr. Yousaf Ali
+A2-111
+Complex
+Variables
+and Transfo
+rms
+Mr. Imtiaz Khalid
+A1-205
+Complex
+Variables
+and Transfo
+rms
+Mr. Imtiaz Khalid
+A1-205
+Complex
+Variables
+and Transfo
+rms
+Mr. Imtiaz Khalid
+A1-205
+Electronic Devices and
+Circuit Lab
+Dr. Saad Qayyum / Engr. Khurram Khan
+A2-205 EE(lab)
+Electronic
+Devices and
+Circuit
+Dr. Saad Qayyum
+A1-109
+Electrical
+Network
+Analysis
+Engr. Yousaf Ali
+A2-202
+Digital
+Logic
+Design
+Dr. Zahid Ullah
+A2-308 DSP&C(CL)
+Digital
+Logic
+Design
+Dr. Zahid Ullah
+A2-308 DSP&C(CL)
+Workshop Practice
+Dr. Sohail Malik / Engr. Khurram Khan
+A2-205 EE(lab)
+Digital Logic Design
+Lab
+Dr. Zahid Ullah / Engr. Rafi Ullah
+A2-304 DLD(Lab)
+Digital
+Logic
+Design
+Dr. Zahid Ullah
+A2-304 DLD(Lab)
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+BEE-F23
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Communica
+tion
+Systems
+Dr. Arbab Waheed
+Ahmad
+A2-112
+Electromag
+netic Field
+Theory
+Dr. Moazam
+Maqsood
+A1-206
+Communica
+tion
+Systems
+Dr. Arbab Waheed
+Ahmad
+A1-206
+Electrical
+Machines
+Engr. Yousaf Ali
+A2-112
+Oraganizati
+onal
+Behaviour
+Dr. Muhammad
+Hamza Khan
+A1-307(LT)
+Electrical Machines Lab
+Engr. Yousaf Ali / Engr. Khurram Khan
+A2-105 EE(Lab)
+Electromag
+netic Field
+Theory
+Dr. Moazam
+Maqsood
+A2-211
+Oraganizati
+onal
+Behaviour
+Dr. Muhammad
+Hamza Khan
+A2-301(LT)
+Communication
+Systems Lab
+Dr. Arbab Waheed Ahmad / Engr. Rafi Ullah
+A2-308 DSP&C(CL)
+Digital Signal
+Processing Lab
+Engr. Yousaf Ali / Engr. Rafi Ullah
+A2-308 DSP&C(CL)
+Communica
+tion
+Systems
+Dr. Arbab Waheed
+Ahmad
+A1-206
+Electromag
+netic Field
+Theory
+Dr. Moazam
+Maqsood
+A1-205
+Electrical
+Machines
+Engr. Yousaf Ali
+A2-112
+Digital
+Signal
+Processing
+Engr. Yousaf Ali
+A2-210
+Digital
+Signal
+Processing
+Engr. Yousaf Ali
+A2-202
+Oraganizati
+onal
+Behaviour
+Dr. Muhammad
+Hamza Khan
+A1-307(LT)
+Electrical
+Machines
+Engr. Yousaf Ali
+A2-112
+Digital
+Signal
+Processing
+Engr. Yousaf Ali
+A2-102
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+BEE-F22
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Power
+Electronics
+and Drives
+Dr. Muhammad Aamir
+A2-103
+Power
+Generation,
+Transmissi
+on and
+Distribution
+Dr. Muhammad Aamir
+A2-103
+Computer
+Communication
+Networks
+Dr. Arbab Waheed Ahmad / Engr. Khurram Khan
+A2-308 DSP&C(CL)
+Power Generation,
+Transmission and
+Distribution Lab
+Dr. Muhammad Aamir / Engr. Khurram Khan
+A2-105 EE(Lab)
+Computer
+Communica
+tion
+Networks
+Dr. Arbab Waheed
+Ahmad
+A2-202
+Power
+Electronics
+and Drives
+Dr. Muhammad Aamir
+A2-103
+Power
+Generation,
+Transmissi
+on and
+Distribution
+Dr. Muhammad Aamir
+A2-103
+Power
+Electronics
+and Drives
+Dr. Muhammad Aamir
+A2-102
+Power Electronics and
+Drives Lab
+Dr. Muhammad Aamir / Engr. Khurram Khan
+A2-106(EE)
+Computer
+Communica
+tion
+Networks
+Dr. Arbab Waheed
+Ahmad
+A2-202
+Computer
+Communica
+tion
+Networks
+Dr. Arbab Waheed
+Ahmad
+A2-210
+Power
+Generation,
+Transmissi
+on and
+Distribution
+Dr. Muhammad Aamir
+A1-306
+Engineering
+Project
+Management
+Engr. Yousaf Ali
+A2-111
+Engineering
+Project
+Management
+Engr. Yousaf Ali
+A1-206
+Engineering
+Project
+Management
+Engr. Yousaf Ali
+A2-112
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+BEE-F21
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Programmi
+ng Fundam
+entals
+Dr. Saad Qayyum
+A2-112
+English
+Language &
+Communica
+tion Skills
+Mr Yaseen Danish
+C1-B01
+Applied
+Physics
+Dr. Kashif Arshad
+A2-103
+Foundation
+Mathematic
+s-I
+Ms. Nadia Khan
+A1-109
+Programmi
+ng Fundam
+entals
+Dr. Saad Qayyum
+A1-205
+English
+Language &
+Communica
+tion Skills
+Mr Yaseen Danish
+C1-B01
+Applied
+Physics
+Dr. Kashif Arshad
+A2-103
+Applied
+Physics
+Dr. Kashif Arshad
+A2-103
+Programmi
+ng Fundam
+entals
+Dr. Saad Qayyum
+A2-210
+English
+Language &
+Communica
+tion Skills
+Mr Yaseen Danish
+C1-B03
+Foundation
+Mathematic
+s-I
+Ms. Nadia Khan
+A2-111
+Islamic
+Studies
+Mr. Syed Afzaal
+Hussain
+A2-201(LT)
+Foundation
+Mathematic
+s-I
+Ms. Nadia Khan
+A2-102
+Islamic
+Studies
+Mr. Syed Afzaal
+Hussain
+Online Class
+Applied Physics Lab
+Dr. Kashif Arshad
+A1-301 Phy(Lab)
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+BSRobotics-F24
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Technical &
+Business
+Writing
+Ms. Sheeba Sadaf.
+C1-B03
+Calculus
+and Analyti
+cal Geometr
+y
+Dr. Jamil Ahmed
+A1-207(LT)
+Community
+Service
+Dr. Saira Bibi
+A1-109
+Calculus
+and Analyti
+cal Geometr
+y
+Dr. Jamil Ahmed
+A1-207(LT)
+Object
+Oriented
+Programmi
+ng
+Dr. Qura-Tul-Ain-Safd
+ar
+B2-211(LT)
+Quantitative
+Reasoning-II
+Dr. Kamran Ullah
+A2-202
+Quantitative
+Reasoning-II
+Dr. Kamran Ullah
+A1-109
+Technical &
+Business
+Writing
+Ms. Sheeba Sadaf.
+C1-B03
+Object
+Oriented
+Programmi
+ng
+Dr. Qura-Tul-Ain-Safd
+ar
+B2-211(LT)
+Object
+Oriented
+Programmi
+ng
+Dr. Qura-Tul-Ain-Safd
+ar
+B2-211(LT)
+Quantitative
+Reasoning-II
+Dr. Kamran Ullah
+A1-109
+Technical &
+Business
+Writing
+Ms. Sheeba Sadaf.
+C1-B04
+Calculus
+and Analyti
+cal Geometr
+y
+Dr. Jamil Ahmed
+B1-207(LT)
+Digital
+Logic
+Design
+Dr. Zahid Ullah
+A2-308 DSP&C(CL)
+Digital
+Logic
+Design
+Dr. Zahid Ullah
+A2-308 DSP&C(CL)
+Digital Logic Design
+Lab
+Dr. Zahid Ullah / Engr. Rafi Ullah
+A2-304 DLD(Lab)
+Digital
+Logic
+Design
+Dr. Zahid Ullah
+A2-304 DLD(Lab)
+Object Oriented
+Programming Lab
+Dr. Qura-Tul-Ain-Safdar
+C2-5CL
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+BSRobotics-F23
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Programmi
+ng Fundam
+entals
+Dr. Saad Qayyum
+A2-111
+English
+Language &
+Communica
+tion Skills
+Mr Yaseen Danish
+C1-B01
+Applied
+Physics
+Dr. Kashif Arshad
+A2-103
+Foundation
+Mathematic
+s-I
+Ms. Nadia Khan
+A1-109
+English
+Language &
+Communica
+tion Skills
+Mr Yaseen Danish
+C1-B01
+Discrete
+Structures
+Mr. Imtiaz Khalid
+C1-B04
+Programming
+Fundamentals Lab
+Dr. Saad Qayyum / Engr. Rafi Ullah
+A2-305(CL)
+Programmi
+ng Fundam
+entals
+Dr. Saad Qayyum
+A2-111
+English
+Language &
+Communica
+tion Skills
+Mr Yaseen Danish
+C1-B03
+Applied
+Physics
+Dr. Kashif Arshad
+A2-111
+Discrete
+Structures
+Mr. Imtiaz Khalid
+C1-B05
+Discrete
+Structures
+Mr. Imtiaz Khalid
+C1-B04
+Foundation
+Mathematic
+s-I
+Ms. Nadia Khan
+A2-111
+Programmi
+ng Fundam
+entals
+Dr. Saad Qayyum
+A1-206
+Programming
+Fundamentals Lab
+Dr. Saad Qayyum
+A2-308 DSP&C(CL)
+Foundation
+Mathematic
+s-I
+Ms. Nadia Khan
+A2-102
+Applied
+Physics
+Dr. Kashif Arshad
+A2-202
+Applied Physics Lab
+Dr. Kashif Arshad
+A1-301 Phy(Lab)
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+BCE-F24
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Inorganic
+and Organic
+Chemistry
+Dr. Sadia Mehmood
+A2-102
+Fundament
+als of
+Engineering
+Materials
+Dr. Saira Bibi
+A1-206
+Inorganic
+and Organic
+Chemistry
+Dr. Sadia Mehmood
+A1-306
+Islamic
+Studies
+Mr. Syed Afzaal
+Hussain
+Online Class
+Fundament
+als of
+Engineering
+Materials
+Dr. Saira Bibi
+A2-111
+Quantitative
+Reasoning-I
+Dr. Kamran Ullah
+A1-205
+Quantitative
+Reasoning-I
+Dr. Kamran Ullah
+A2-203
+Inorganic
+and Organic
+Chemistry
+Dr. Sadia Mehmood
+A1-201
+Entreprene
+urship
+Dr. Muhammad
+Muqeet
+A2-202
+Quantitative
+Reasoning-I
+Dr. Kamran Ullah
+A1-206
+Islamic
+Studies
+Mr. Syed Afzaal
+Hussain
+A1-207(LT)
+Fundament
+als of
+Engineering
+Materials
+Dr. Saira Bibi
+A2-102
+Entreprene
+urship
+Dr. Muhammad
+Muqeet
+A2-111
+Entreprene
+urship
+Dr. Muhammad
+Muqeet
+A2-103
+Inorganic and Organic
+Chemistry Lab
+Dr. Sadia Mehmood / Engr. Maryam Khalid
+B1-201 CHE(Lab)
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+C&EE-F24
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Physical
+and Analyst
+ical
+Chemistry
+Dr. Sadia Mehmood
+A2-112
+Physical and
+Analystical Chemistry
+Lab
+Dr. Sadia Mehmood / Engr. Maryam Khalid
+B1-301 CHE(Lab)
+Technical Drawing and
+Graphics Lab/
+Engineering Drawing
+Dr. Muhammad Arif Orakzai
+B1-305(CL)
+Physical
+and Analyst
+ical
+Chemistry
+Dr. Sadia Mehmood
+A2-112
+Chemical
+Process
+Principles-I
+Dr. Muhammad Irfan
+A1-205
+Fluid Mechanics Lab
+Dr. Muhammad Muqeet
+B1-308 CHE(Lab)
+Basic Electrical
+Engineering Lab
+Engr. Ayaz / Mr. Jawad Ul Hassan Shah
+Chemical
+Process
+Industries
+Dr. Khurram Shahzad
+Baig
+B2-103
+Basic
+Electrical
+Engineering
+Engr. Ayaz
+B2-103
+Chemical
+Process
+Principles-I
+Dr. Muhammad Irfan
+A2-103
+Fluid
+Mechanics
+Dr. Muhammad
+Muqeet
+A1-306
+Fluid
+Mechanics
+Dr. Muhammad
+Muqeet
+A1-306
+Chemical
+Process
+Industries
+Dr. Khurram Shahzad
+Baig
+B2-102
+Chemical
+Process
+Principles-I
+Dr. Muhammad Irfan
+A1-205
+Fluid
+Mechanics
+Dr. Muhammad
+Muqeet
+A1-306
+Chemical
+Process
+Industries
+Dr. Khurram Shahzad
+Baig
+B2-103
+Basic
+Electrical
+Engineering
+Engr. Ayaz
+A1-205
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+C&EE-F23
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Mass
+Transfer
+Dr. Amir Muhammad
+B2-103
+Particulate
+Technology
+Dr. Muhammad Irfan
+B2-103
+Technical &
+Business
+Writing
+Ms. Sheeba Sadaf.
+A2-202
+Energy
+Engineering
+Dr. Muhammad
+Muqeet
+A2-102
+Chemical Engineering
+Thermodynamivs-II Lab
+Dr. Rizwan Ahmad  / Engr. Maryam Khalid
+B1-109 CHE(Lab)
+Mass
+Transfer
+Dr. Amir Muhammad
+B2-102
+Particulate
+Technology
+Dr. Muhammad Irfan
+B2-102
+Particulate
+Technology
+Dr. Muhammad Irfan
+B1-206
+Technical &
+Business
+Writing
+Ms. Sheeba Sadaf.
+A1-109
+Energy
+Engineering
+Dr. Muhammad
+Muqeet
+A2-111
+Mass
+Transfer
+Dr. Amir Muhammad
+B2-103
+Chemical
+Engineering
+Thermodyn
+amivs-II
+Dr. Rizwan Ahmad
+B2-103
+Technical &
+Business
+Writing
+Ms. Sheeba Sadaf.
+A1-205
+Mass Transfer Lab
+Dr. Amir Muhammad / Engr. Maryam Khalid
+B1-308 CHE(Lab)
+Chemical
+Engineering
+Thermodyn
+amivs-II
+Dr. Rizwan Ahmad
+B2-103
+Energy Engineering
+Lab
+Dr. Muhammad Muqeet / Engr. Maryam Khalid
+B1-302 CHE(LAB)
+Particulate Technology
+Lab
+Dr. Muhammad Irfan / Engr. Maryam Khalid
+A1-105 CHE(Lab)
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+C&EE-F22
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Process
+Simulation
+Dr. Amir Muhammad
+B2-103
+Analytical
+and Charact
+erization
+Techniques
+Dr. Fida Hussain
+A1-206
+Chemical
+Plant
+Design
+Dr. Muhammad Irfan /
+Prof Dr. Arshad Hussain
+B1-205
+Analytical
+and Charact
+erization
+Techniques
+Dr. Fida Hussain
+A1-206
+Membrane
+Separation
+Processes
+Dr. Rizwan Ahmad
+B2-103
+BioChemica
+l Enginnerin
+g
+Dr. Sadia Mehmood
+A2-112
+Process
+Simulation
+Dr. Amir Muhammad
+B1-206
+Membrane
+Separation
+Processes
+Dr. Rizwan Ahmad
+B1-206
+BioChemica
+l Enginnerin
+g
+Dr. Sadia Mehmood
+A1-206
+Community
+Service
+Dr. Rizwan Ahmad
+B1-206
+Process
+Simulation
+Dr. Amir Muhammad
+B2-102
+Analytical
+and Charact
+erization
+Techniques
+Dr. Fida Hussain
+B1-205
+Membrane
+Separation
+Processes
+Dr. Rizwan Ahmad
+B1-205
+BioChemica
+l Enginnerin
+g
+Dr. Sadia Mehmood
+A2-112
+FYP
+C&EE-F21
+Process Simulation Lab
+Dr. Amir Muhammad / Engr. Maryam Khalid
+B1-305(CL)
+Chemical
+Plant
+Design
+Dr. Muhammad Irfan /
+Prof Dr. Arshad Hussain
+B2-102
+Chemical
+Plant
+Design
+Dr. Muhammad Irfan /
+Prof Dr. Arshad Hussain
+B2-102
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+C&EE-F21
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Inorganic
+and Organic
+Chemistry
+Dr. Sadia Mehmood
+A2-102
+Entreprene
+urship
+Dr. Zubair
+A2-210
+Inorganic
+and Organic
+Chemistry
+Dr. Sadia Mehmood
+A1-306
+Entreprene
+urship
+Dr. Zubair
+A2-210
+Islamic
+Studies
+Mr. Syed Afzaal
+Hussain
+Online Class
+Quantitative
+Reasoning-I
+Dr. Kamran Ullah
+A1-205
+Quantitative
+Reasoning-I
+Dr. Kamran Ullah
+A2-203
+Inorganic
+and Organic
+Chemistry
+Dr. Sadia Mehmood
+A1-201
+Entreprene
+urship
+Dr. Muhammad
+Muqeet
+A2-202
+Quantitative
+Reasoning-I
+Dr. Kamran Ullah
+A1-206
+Entreprene
+urship
+Dr. Zubair
+A2-210
+Islamic
+Studies
+Mr. Syed Afzaal
+Hussain
+A1-207(LT)
+Entreprene
+urship
+Dr. Muhammad
+Muqeet
+A2-111
+Entreprene
+urship
+Dr. Muhammad
+Muqeet
+A2-103
+Inorganic and Organic
+Chemistry Lab
+Dr. Sadia Mehmood / Engr. Maryam Khalid
+B1-201 CHE(Lab)
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+MTE-F24
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Applied
+Geology &
+Mineral
+Dressing
+Dr. Samrina Sahir
+A2-111
+Materials
+Thermodyn
+amics
+Dr. Ghufran ur
+Rehman
+A2-203
+Engineering
+Mechanics
+Dr. Muhammad Arif
+Orakzai
+A2-203
+Community
+Service
+Dr. Saira Bibi
+A1-109
+Materials Engineering
+Lab-l
+Dr. Samrina Sahir / Engr. Shafqat / Mr. Ahmed Ikram
+Applied
+Geology &
+Mineral
+Dressing
+Dr. Samrina Sahir
+A1-206
+Materials
+Thermodyn
+amics
+Dr. Ghufran ur
+Rehman
+B1-101(CHE)L
+Crystallogra
+phy & X-ray
+Diffraction
+Dr. Muneza Khan
+A2-103
+Materials
+Thermodyn
+amics
+Dr. Ghufran ur
+Rehman
+A1-206
+Crystallogra
+phy & X-ray
+Diffraction
+Dr. Muneza Khan
+A2-211
+Engineering
+Mechanics
+Dr. Muhammad Arif
+Orakzai
+A1-109
+Materials Engineering
+Lab-l
+Dr. Samrina Sahir / Engr. Shafqat / Mr. Ahmed Ikram
+Applied
+Geology &
+Mineral
+Dressing
+Dr. Samrina Sahir
+A2-202
+Crystallogra
+phy & X-ray
+Diffraction
+Dr. Muneza Khan
+A2-211
+Engineering Mechanics
+Lab
+Dr. Muhammad Arif Orakzai / Mr. Ahmed Ikram
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+MTE-F23
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Manufacturi
+ng Process
+es
+Dr. Samrina Sahir
+A2-111
+Heat
+Treatment
+Processing
+Dr. Zubair
+A2-102
+Instrumenta
+tion &
+Process
+Control
+Dr. Ghufran ur
+Rehman
+A2-112
+Occupation
+al Health
+and Safety
+Dr Aftab akram
+A2-202
+Powder
+Processing
+Dr. Saira Bibi
+A1-109
+Manufacturi
+ng Process
+es
+Dr. Samrina Sahir
+A2-112
+Instrumenta
+tion &
+Process
+Control
+Dr. Ghufran ur
+Rehman
+B1-101(CHE)L
+Instrumentation &
+Process Control Lab
+Dr. Ghufran ur Rehman / Engr. Shafqat / Mr. Ahmed Ikram
+Heat
+Treatment
+Processing
+Dr. Zubair
+A2-103
+Joining of
+Materials
+Dr. Saira Bibi
+A1-109
+Joining of
+Materials
+Dr. Saira Bibi
+A1-206
+Instrumenta
+tion &
+Process
+Control
+Dr. Ghufran ur
+Rehman
+A2-103
+Occupation
+al Health
+and Safety
+Dr Aftab akram
+A2-111
+Powder
+Processing
+Dr. Saira Bibi
+A2-103
+Manufacturi
+ng Process
+es
+Dr. Samrina Sahir
+A2-112
+Heat
+Treatment
+Processing
+Dr. Zubair
+A2-112
+Materials Engineering
+Lab-III
+Dr. Zubair / Engr. Shafqat
+B1-106(L)
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+MTE-F22
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Technical
+Drawing
+and Graphic
+s
+Dr. Muhammad Arif
+Orakzai
+B1-206
+Technical Drawing and
+Graphics Lab/
+Engineering Drawing
+Dr. Muhammad Arif Orakzai
+B1-305(CL)
+Applied Physics Lab
+Engr. Ayesha Nadeem
+A1-301 Phy(Lab)
+Fundament
+als of ICT
+Engr. Ayesha
+Nadeem
+C1-B02
+English
+Language &
+Communica
+tion Skills
+Ms Bibi Ranra
+A2-210
+Islamic
+Studies
+Hamza Hamid
+A2-203
+Applied
+Physics
+Engr. Ayesha
+Nadeem
+B1-206
+Community
+Service
+Dr. Rizwan Ahmad
+B1-206
+English
+Language &
+Communica
+tion Skills
+Ms Bibi Ranra
+A1-109
+Technical Drawing and
+Graphics
+Dr. Muhammad Arif Orakzai
+Islamic
+Studies
+Hamza Hamid
+Online-1
+Applied
+Physics
+Engr. Ayesha
+Nadeem
+B1-206
+Applied
+Physics
+Engr. Ayesha
+Nadeem
+C1-B07
+Fundamentals of
+ICT Lab
+Engr. Ayesha Nadeem
+C2-3CL
+English
+Language &
+Communica
+tion Skills
+Ms Bibi Ranra
+A2-102
+Workshop Practice
+Dr. Sohail Malik / Engr. Khurram Khan
+A2-205 EE(lab)
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+BMCET-F24
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Mechanics
+of Materials
+Dr. Sohail Malik
+B1-206
+Industrial Materials
+(ID-II) Lab
+Dr. Muneza Khan
+Occupation
+al Health
+and Safety
+Dr Aftab akram
+A2-202
+Programmi
+ng Fundam
+entals
+Dr. Huma Ayub Vine
+B2-211(LT)
+Applied
+Thermodynamics Lab
+Dr. Muhammad Arif Orakzai
+Applied
+Thermodyn
+amics
+Dr. Muhammad Arif
+Orakzai
+B1-206
+Computer
+aided
+drafting and
+Modeling
+Lab
+Dr. Sohail Malik
+B1-205
+Applied
+Thermodyn
+amics
+Dr. Muhammad Arif
+Orakzai
+A2-103
+Applied
+Thermodyn
+amics
+Dr. Muhammad Arif
+Orakzai
+B2-102
+Industrial
+Materials
+(ID-II)
+Dr. Muneza Khan
+B2-102
+Occupation
+al Health
+and Safety
+Dr Aftab akram
+A2-111
+Mechanics of Materials
+Lab
+Dr. Sohail Malik
+Programmi
+ng Fundam
+entals
+Dr. Huma Ayub Vine
+B2-211(LT)
+Programmi
+ng Fundam
+entals
+Dr. Huma Ayub Vine
+B2-211(LT)
+Computer
+aided
+drafting and
+Modeling
+Lab
+Dr. Sohail Malik
+B1-205
+Mechanics
+of Materials
+Dr. Sohail Malik
+B1-205
+Industrial
+Materials
+(ID-II)
+Dr. Muneza Khan
+B1-206
+Programming
+Fundamentals Lab
+Dr. Huma Ayub Vine
+C2-6CL
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+BMCET-F23
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Technical Drawing and
+Graphics Lab/
+Engineering Drawing
+Dr. Muhammad Arif Orakzai
+B1-305(CL)
+Applied Physics Lab
+Engr. Ayesha Nadeem
+A1-301 Phy(Lab)
+Fundament
+als of ICT
+Engr. Ayesha
+Nadeem
+C1-B02
+English
+Language &
+Communica
+tion Skills
+Ms Bibi Ranra
+A2-210
+Islamic
+Studies
+Hamza Hamid
+A2-203
+Applied
+Physics
+Engr. Ayesha
+Nadeem
+B1-206
+Community
+Service
+Dr. Rizwan Ahmad
+B1-206
+English
+Language &
+Communica
+tion Skills
+Ms Bibi Ranra
+A1-109
+Islamic
+Studies
+Hamza Hamid
+Online-1
+Applied
+Physics
+Engr. Ayesha
+Nadeem
+B1-206
+Applied
+Physics
+Engr. Ayesha
+Nadeem
+C1-B07
+Fundamentals of
+ICT Lab
+Engr. Ayesha Nadeem
+C2-3CL
+English
+Language &
+Communica
+tion Skills
+Ms Bibi Ranra
+A2-102
+Workshop Practice
+Dr. Sohail Malik / Engr. Khurram Khan
+A2-205 EE(lab)
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+BBET-F24
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Digital
+Logic
+Design
+Dr. Haris Shehzad
+A2-210
+Occupation
+al Health
+and Safety
+Dr Aftab akram
+A2-202
+Programmi
+ng Fundam
+entals
+Dr. Huma Ayub Vine
+B2-211(LT)
+Human
+Anatomy
+Dr. Salik Javed Kakar
+B2-102
+Human
+Anatomy
+Dr. Salik Javed Kakar
+B1-206
+Digital Logic Design
+Lab
+Dr. Haris Shehzad / Mr. Yaseen Khan
+A2-304 DLD(Lab)
+Digital
+Logic
+Design
+Dr. Haris Shehzad
+A2-210
+Molecular
+Biology
+Dr Saleem ur
+Rahman
+B2-102
+Occupation
+al Health
+and Safety
+Dr Aftab akram
+A2-111
+Human
+Anatomy
+Dr. Salik Javed Kakar
+A2-210
+Digital
+Logic
+Design
+Dr. Haris Shehzad
+A2-210
+Molecular Biology Lab
+Dr Saleem ur Rahman
+B2-303(BL)
+Programmi
+ng Fundam
+entals
+Dr. Huma Ayub Vine
+B2-211(LT)
+Programmi
+ng Fundam
+entals
+Dr. Huma Ayub Vine
+B2-211(LT)
+Molecular
+Biology
+Dr Saleem ur
+Rahman
+B1-205
+Human Anatomy Lab
+Dr. Salik Javed Kakar
+C1-Basement(BL)
+Programming
+Fundamentals Lab
+Dr. Huma Ayub Vine
+C2-6CL
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+BBET-F23
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Chemistry
+and Stoichi
+ometry
+Dr. Fida Hussain
+A2-111
+English
+Language &
+Communica
+tion Skills
+Mr. Nuzhat
+A1-306
+Chemistry and
+Stoichiometry Lab
+Dr. Fida Hussain
+B1-201 CHE(Lab)
+Chemistry
+and Stoichi
+ometry
+Dr. Fida Hussain
+A2-112
+Islamic
+Studies
+Mr. Syed Afzaal
+Hussain
+Online Class
+English
+Language &
+Communica
+tion Skills
+Mr. Nuzhat
+A1-201
+Quantitative
+Reasoning-I
+Dr. Kamran Ullah
+A1-205
+Quantitative
+Reasoning-I
+Dr. Kamran Ullah
+A2-203
+Cell and
+Molecular
+Biology
+Dr. Sumera
+B1-206
+Chemistry
+and Stoichi
+ometry
+Dr. Fida Hussain
+A1-201
+Cell and Molecular
+Biology Lab
+Dr. Sumera
+B2-303(BL)
+Quantitative
+Reasoning-I
+Dr. Kamran Ullah
+A1-206
+Cell and
+Molecular
+Biology
+Dr. Sumera
+A2-111
+Islamic
+Studies
+Mr. Syed Afzaal
+Hussain
+A1-207(LT)
+English
+Language &
+Communica
+tion Skills
+Mr. Nuzhat
+A2-211
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+BMS-F24
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+General
+Pathology
+and Histopa
+thology-I
+Dr. Fazal Wahab
+B2-103
+Human
+Anatomy
+Dr. Salik Javed Kakar
+B2-102
+Human
+Anatomy
+Dr. Salik Javed Kakar
+B1-206
+Economics
+and Healthc
+are Manage
+ment
+Mr. Awais Khan
+A1-306
+Economics
+and Healthc
+are Manage
+ment
+Mr. Awais Khan
+A2-210
+Human
+Physiology-
+I
+Dr. Waqar Khalid
+Saeed
+B2-103
+Human
+Physiology-
+I
+Dr. Waqar Khalid
+Saeed
+B1-205
+General Pathology and
+Histopathology-I Lab
+Dr. Fazal Wahab
+B2-304(BL)
+General
+Pathology
+and Histopa
+thology-I
+Dr. Fazal Wahab
+B1-205
+Medical Virology/
+General Virology Lab
+Dr.Farrakh Javed
+B2-304(BL)
+Biochemistr
+y-I
+Dr. Humaira Ayub
+B2-102
+Biochemistr
+y-I
+Dr. Humaira Ayub
+B2-103
+Human
+Anatomy
+Dr. Salik Javed Kakar
+A2-210
+Medical
+Virology/
+General
+Virology
+Dr.Farrakh Javed
+B2-102
+Medical
+Virology/
+General
+Virology
+Dr.Farrakh Javed
+B2-102
+Biochemistry-I Lab
+Dr. Humaira Ayub
+B2-303(BL)
+Human Physiology-I
+Lab
+Dr. Waqar Khalid Saeed
+B2-301(BL)
+Human Anatomy Lab
+Dr. Salik Javed Kakar
+C1-Basement(BL)
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+BMS-F23
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+General
+Pathology
+and Histopa
+thology-I
+Dr. Waqar Khalid
+Saeed
+B1-205
+Human
+Genetics
+Dr. Hira Niazi
+B1-205
+Functional
+Diagnostics
+and Laborat
+ory Informat
+ion System
+Dr. Hira Niazi
+B1-205
+Immunology and
+Serology Lab
+Dr. Muhammad Afzal
+B2-303(BL)
+General
+Pathology
+and Histopa
+thology-I
+Dr. Waqar Khalid
+Saeed
+B2-102
+Human Physiology-II
+Lab
+Dr. Muhammad Afzal
+B2-301(BL)
+Functional Diagnostics
+and Laboratory
+Information System Lab
+Dr. Hira Niazi
+B2-204(BL)
+Biochemistry-II Lab
+Dr. Sana Ali Shah
+Immunolog
+y and
+Serology
+Dr. Muhammad Afzal
+B1-206
+Human
+Genetics
+Dr. Hira Niazi
+B1-205
+Human
+Physiology-
+II
+Dr. Muhammad Afzal
+B1-206
+Immunolog
+y and
+Serology
+Dr. Muhammad Afzal
+B1-205
+Functional
+Diagnostics
+and Laborat
+ory Informat
+ion System
+Dr. Hira Niazi
+A1-109
+Biochemistr
+y-II
+Dr. Sana Ali Shah
+B1-206
+Biochemistr
+y-II
+Dr. Sana Ali Shah
+A1-109
+Human
+Physiology-
+II
+Dr. Muhammad Afzal
+B2-102
+Human Genetics Lab
+Dr. Hira Niazi
+B2-303(BL)
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+BMS-S23
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Hematology
+Dr. Muhammad Afzal
+B1-206
+Environmen
+tal Health
+and Biosaft
+y
+Dr. Saqib Khan
+B1-206
+Human Reproduction
+and Embrylogy Lab
+Dr. Fazal Wahab
+B2-301(BL)
+Human
+Reproducti
+on and
+Embrylogy
+Dr. Fazal Wahab
+B1-205
+Environmental Health
+and Biosafety Lab
+Dr. Saqib Khan
+B2-307(BL)
+Biomedical
+Instrumenta
+tions and
+Techniques
+Dr. Saqib Khan
+A2-111
+Cell Culture and
+Cytology Lab
+Dr. Muhammad Imran Khan
+B2-108(BL)
+Cell Culture
+and Cytology
+Dr. Muhammad Imran
+Khan
+B2-102
+Chemical
+and Clinical
+Pathology
+Dr. Waqar Khalid
+Saeed
+B1-205
+Chemical and Clinical
+Pathology Lab
+Dr. Waqar Khalid Saeed
+B2-307(BL)
+Cell Culture
+and Cytology
+Dr. Muhammad Imran
+Khan
+B2-102
+Chemical
+and Clinical
+Pathology
+Dr. Waqar Khalid
+Saeed
+B1-206
+Hematology Lab
+Dr. Muhammad Afzal
+B2-304(BL)
+Human
+Reproducti
+on and
+Embrylogy
+Dr. Fazal Wahab
+B1-206
+Hematology
+Dr. Muhammad Afzal
+B2-103
+Environmen
+tal Health
+and Biosaft
+y
+Dr. Saqib Khan
+B1-205
+Biomedical
+Instrumenta
+tions and
+Techniques
+Dr. Saqib Khan
+A2-210
+Biomedical
+Instrumentations and
+Techniques Lab
+Dr. Saqib Khan
+B2-307(BL)
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+BMS-F22
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Pharmacolo
+gy and
+Toxicology
+Dr. Muhammad Imran
+Khan
+B2-102
+Pharmacology and
+Toxicology Lab
+Dr. Muhammad Imran Khan
+B2-301(BL)
+Research
+Methodolog
+y and Skills
+Enhacemen
+t
+Dr. Sana Ali Shah
+B1-206
+Molecular
+and Clinical
+Endocrinolo
+gy
+Dr. Fazal Wahab
+B1-205
+Molecular
+and Clinical
+Endocrinolo
+gy
+Dr. Fazal Wahab
+B2-103
+Research
+Methodolog
+y and Skills
+Enhacemen
+t
+Dr. Sana Ali Shah
+B2-103
+Forensic
+Sciences/
+Technology
+Dr. Humaira Ayub
+B2-211(LT)
+Forensic
+Sciences/
+Technology
+Dr. Humaira Ayub
+B2-211(LT)
+Pharmacolo
+gy and
+Toxicology
+Dr. Muhammad Imran
+Khan
+B2-103
+Medical &
+Scientific
+Ethics
+Dr.Farrakh Javed
+B2-103
+Medical &
+Scientific
+Ethics
+Dr.Farrakh Javed
+B2-103
+Biomaterials and Tissue
+Engineeering Lab
+Dr. Muneza Khan
+B2-307(BL)
+Research
+Methodolog
+y and Skills
+Enhacemen
+t
+Dr. Sana Ali Shah
+A2-202
+Molecular
+and Clinical
+Endocrinolo
+gy
+Dr. Fazal Wahab
+B1-206
+Biomaterial
+s and
+Tissue
+Engineeerin
+g
+Dr. Muneza Khan
+B2-308(LT)
+Biomaterial
+s and
+Tissue
+Engineeerin
+g
+Dr. Muneza Khan
+B2-308(LT)
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+BMS-F21
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Chemistry
+and Stoichi
+ometry
+Dr. Fida Hussain
+A2-111
+Ideology of
+Pakistan
+Dr. QURAT UL AIN
+A1-207(LT)
+English
+Language &
+Communica
+tion Skills
+Mr. Nuzhat
+A1-306
+Chemistry and
+Stoichiometry Lab
+Dr. Fida Hussain
+B1-201 CHE(Lab)
+Chemistry
+and Stoichi
+ometry
+Dr. Fida Hussain
+A2-112
+English
+Language &
+Communica
+tion Skills
+Mr. Nuzhat
+A1-201
+Quantitative
+Reasoning-I
+Dr. Kamran Ullah
+A1-205
+Quantitative
+Reasoning-I
+Dr. Kamran Ullah
+A2-203
+Chemistry
+and Stoichi
+ometry
+Dr. Fida Hussain
+A1-201
+Ideology of
+Pakistan
+Dr. QURAT UL AIN
+Online-1
+Introduction
+to Biotechnol
+ogy
+Dr Saleem ur
+Rahman
+B2-102
+Quantitative
+Reasoning-I
+Dr. Kamran Ullah
+A1-206
+Introduction
+to Biotechnol
+ogy
+Dr Saleem ur
+Rahman
+B2-102
+English
+Language &
+Communica
+tion Skills
+Mr. Nuzhat
+A2-211
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+BTY-F24
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+General
+Physiology
+Dr. Salik Javed Kakar
+B2-103
+General Microbiology
+Lab
+Dr. Sumera
+B2-209
+Classical
+Genetics
+Dr. Saqib Khan
+A1-109
+Classical
+Genetics
+Dr. Saqib Khan
+C1-B07
+General
+Microbiolog
+y
+Dr. Sumera
+B2-102
+Biosafety
+and Bioethi
+cs
+Dr. Hira Niazi
+B2-103
+Biosafety
+and Bioethi
+cs
+Dr. Hira Niazi
+B2-103
+General
+Physiology
+Dr. Salik Javed Kakar
+B1-205
+General
+Microbiolog
+y
+Dr. Sumera
+B2-102
+Molecular
+Biology
+Dr Saleem ur
+Rahman
+B2-102
+Biochemistr
+y-I
+Dr. Humaira Ayub
+B2-102
+Biochemistr
+y-I
+Dr. Humaira Ayub
+B2-103
+General
+Microbiolog
+y
+Dr. Sumera
+B1-206
+Biochemistry-I Lab
+Dr. Humaira Ayub
+B2-303(BL)
+Molecular Biology Lab
+Dr Saleem ur Rahman
+B2-303(BL)
+Molecular
+Biology
+Dr Saleem ur
+Rahman
+B1-205
+General
+Physiology
+Dr. Salik Javed Kakar
+B2-102
+Classical
+Genetics
+Dr. Saqib Khan
+B1-205
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+BTY-F23
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Plant Cell
+and Tissue
+Culture
+Dr Saleem ur
+Rahman
+B2-102
+Genetic
+Resources
+and Conser
+vation
+Dr. Nasir Ali
+B2-102
+Applied
+Immunolog
+y
+Dr. Sumera
+A1-205
+Plant Cell and Tissue
+Culture Lab
+Dr Saleem ur Rahman
+B2-108(BL)
+Plant Cell
+and Tissue
+Culture
+Dr Saleem ur
+Rahman
+B1-205
+Genomics
+and Proteo
+mics
+Ms. Mehwish nasir
+A2-112
+Genomics
+and Proteo
+mics
+Ms. Mehwish nasir
+A2-112
+Applied Immunology
+Lab
+Dr. Sumera
+B2-304(BL)
+Biochemistry-II Lab
+Dr. Sana Ali Shah
+Genetic
+Resources
+and Conser
+vation
+Dr. Nasir Ali
+B1-206
+Applied
+Immunolog
+y
+Dr. Sumera
+A1-206
+Medical Virology/
+General Virology Lab
+Dr.Farrakh Javed
+B2-304(BL)
+Medical
+Virology/
+General
+Virology
+Dr.Farrakh Javed
+B2-102
+Medical
+Virology/
+General
+Virology
+Dr.Farrakh Javed
+B2-102
+Genetic
+Resources
+and Conser
+vation
+Dr. Nasir Ali
+B1-205
+Biochemistr
+y-II
+Dr. Sana Ali Shah
+B1-206
+Biochemistr
+y-II
+Dr. Sana Ali Shah
+A1-109
+Genomics and
+Proteomics Lab
+Ms. Mehwish nasir
+B2-303(BL)
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+BTY-S23
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Analytical
+and Charact
+erization
+Techniques
+Dr. Fida Hussain
+A1-206
+Community
+Service
+Dr. Saira Bibi
+A1-109
+Genetic Engineering
+Lab
+Dr. Sana Ali Shah
+B2-307(BL)
+Analytical
+and Charact
+erization
+Techniques
+Dr. Fida Hussain
+A1-206
+Animal and
+Tissue
+Culture
+Dr. Muhammad Imran
+Khan
+B2-102
+Bioinformatics Lab
+Ms. Mehwish nasir
+B2-106(CL)
+Bioinformat
+ics
+Ms. Mehwish nasir
+C1-B01
+Genetic
+Engineering
+Dr. Sana Ali Shah
+B2-103
+BioChemica
+l Enginnerin
+g
+Dr. Sadia Mehmood
+A2-112
+Animal and Tissue
+Culture Lab
+Dr. Muhammad Imran Khan
+B2-108(BL)
+Analytical
+and Charact
+erization
+Techniques
+Dr. Fida Hussain
+B1-205
+Animal and
+Tissue
+Culture
+Dr. Muhammad Imran
+Khan
+B2-103
+BioChemica
+l Enginnerin
+g
+Dr. Sadia Mehmood
+A2-112
+Principle of Biochemical
+Engineering Lab
+Dr. Sadia Mehmood
+B1-201 CHE(Lab)
+Bioinformat
+ics
+Ms. Mehwish nasir
+A2-103
+Genetic
+Engineering
+Dr. Sana Ali Shah
+A2-203
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+BTY-F22
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Molecular
+Diagnostics
+Dr. Humaira Ayub
+B1-205
+Vaccine
+Biotechnolo
+gy
+Dr. Sadaf Zaidi
+B2-103
+Industrial
+Biotechnolo
+gy
+Dr. Nasir Ali
+B2-102
+Medical
+Biotechnolo
+gy
+Dr. Nasir Ali
+B1-205
+Molecular
+Diagnostics
+Dr. Humaira Ayub
+B2-102
+Industrial Biotechnology
+Lab
+Dr. Nasir Ali
+Medical
+Biotechnolo
+gy
+Dr. Nasir Ali
+B2-102
+Biosensor
+Dr. Muneza Khan
+B1-207(LT)
+Forensic
+Sciences/
+Technology
+Dr. Humaira Ayub
+B2-211(LT)
+Forensic
+Sciences/
+Technology
+Dr. Humaira Ayub
+B2-211(LT)
+Vaccine
+Biotechnolo
+gy
+Dr. Sadaf Zaidi
+B2-103
+Medical
+Biotechnolo
+gy
+Dr. Nasir Ali
+B2-103
+Molecular
+Diagnostics
+Dr. Humaira Ayub
+B1-205
+Vaccine
+Biotechnolo
+gy
+Dr. Sadaf Zaidi
+B2-103
+Biofuels
+and Biorefin
+eries
+Dr. Nasir Ali
+B1-206
+Industrial
+Biotechnolo
+gy
+Dr. Nasir Ali
+B1-205
+Biosensor
+Dr. Muneza Khan
+B1-207(LT)
+Biofuels
+and Biorefin
+eries
+Dr. Nasir Ali
+B1-206
+Biofuels
+and Biorefin
+eries
+Dr. Nasir Ali
+B1-205
+Forensic Technology
+Lab
+Dr. Humaira Ayub
+B2-304(BL)
+Biosensor
+Dr. Muneza Khan
+B1-207(LT)
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+BTY-F21
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Biological
+Data
+Modeling
+and Simulat
+ion
+Ms. Momina Jabeen
+Community
+Service
+Dr. Saira Bibi
+A1-109
+Genetic Engineering
+Lab
+Dr. Sana Ali Shah
+B2-307(BL)
+Omics
+Technologi
+es and
+Bioinformat
+ics Approac
+hes
+Ms. Momina Jabeen
+Bioinformat
+ics Scriptin
+g and
+Software
+Developme
+nt Lab
+Ms. Mehwish nasir
+Bioinformat
+ics Scriptin
+g and
+Software
+Developme
+nt Lab
+Ms. Mehwish nasir
+Inferential
+Statistics
+Ms. Fatima Imtiaz
+A2-301(LT)
+Genetic
+Engineering
+Dr. Sana Ali Shah
+B2-103
+Biological
+Data
+Modeling
+and Simulat
+ion
+Ms. Momina Jabeen
+Biological Data
+Modeling and
+Simulation Lab
+Ms. Momina Jabeen
+Modern
+Database
+Developme
+nt
+Ms Maria Gul
+C1-B02
+Omics
+Technologi
+es and
+Bioinformat
+ics Approac
+hes
+Ms. Momina Jabeen
+Omics
+Technologi
+es and
+Bioinformat
+ics Approac
+hes
+Ms. Momina Jabeen
+Inferential
+Statistics
+Ms. Fatima Imtiaz
+A1-307(LT)
+Inferential
+Statistics
+Ms. Fatima Imtiaz
+A2-201(LT)
+Modern Database
+Development Lab
+Ms Maria Gul / Mr. Osama Bin Naeem
+C2-3CL
+Bioinformatics Scripting
+and Software
+Development Lab
+Ms. Mehwish nasir
+Modern
+Database
+Developme
+nt
+Ms Maria Gul
+C1-B07
+Genetic
+Engineering
+Dr. Sana Ali Shah
+A2-203
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+BIF-F22
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Pharmaceut
+ical
+Chemistry-I
+A (Organic)
+Dr. Kashif Bashir
+C1-508(PC)
+Pharmaceutical
+Chemistry-IA (Organic)
+Lab
+Dr. Kashif Bashir
+C1-502 & 503(PL)
+Pharmaceut
+ical
+Chemistry-II
+A (Biochemi
+stry)
+Dr. Jawad Shah
+C1-108(LT)
+Pharmaceut
+ical
+Chemistry-II
+A (Biochemi
+stry)
+Dr. Jawad Shah
+C1-508(PC)
+English-A
+(Functional
+English)
+Mr Sabir Shah
+C1-108(LT)
+Group 1
+Anatomy &
+Histology
+Dr. Kashif Bashir
+C1-508(PC)
+Anatomy & Histology
+Lab
+Dr. Kashif Bashir
+C1-402 & 403(PL)
+Physiology-
+A
+Ms. Ayesha Zafar
+C1-508(PC)
+Pharmaceut
+ics IA
+Dr. Hira Ijaz
+C1-508(PC)
+English-A
+(Functional
+English)
+Mr Sabir Shah
+C1-108(LT)
+Group 1
+Anatomy &
+Histology
+Dr. Kashif Bashir
+C1-508(PC)
+Physiology-
+A
+Ms. Ayesha Zafar
+C1-508(PC)
+Pharmaceutical
+Chemistry-IIA
+(Biochemistry) Lab
+Dr. Jawad Shah
+C1-502 & 503(PL)
+Pharmaceutics IA Lab
+Dr. Hira Ijaz
+C1-501 & 506(PL)
+Anatomy &
+Histology
+Dr. Kashif Bashir
+C1-508(PC)
+Pharmaceut
+ical
+Chemistry-I
+A (Organic)
+Dr. Kashif Bashir
+C1-508(PC)
+Physiology-
+A
+Ms. Ayesha Zafar
+C1-108(LT)
+Pharmaceut
+ics IA
+Dr. Hira Ijaz
+C1-108(LT)
+Pharmaceut
+ics IA
+Dr. Hira Ijaz
+C1-108(LT)
+English-A
+(Functional
+English)
+Pharm-D-F24
+C1-108(LT)
+Group 2
+Pharmaceut
+ical
+Chemistry-I
+A (Organic)
+Dr. Kashif Bashir
+C1-108(LT)
+Physiology-A Lab
+Ms. Ayesha Zafar
+C1-401 & 406(PL)
+Pharmaceut
+ical
+Chemistry-II
+A (Biochemi
+stry)
+Dr. Jawad Shah
+C1-108(LT)
+English-A
+(Functional
+English)
+Pharm-D-F24
+C1-108(LT)
+Group 2
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+Pharm-D-F24
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Pharmaceut
+ics-IIA
+(Dosage
+Forms
+Science)
+Dr. Nighat Batool
+C1-508(PC)
+Pharmacog
+nosy-IA
+(Basic)
+Mr. Zahid Munawar
+C1-508(PC)
+Pharmacy
+Practice-IA
+(Pharmaceu
+tical
+Mathematic
+s)
+Ms. Bushra Iqbal
+C1-108(LT)
+Pharmaceutics-IIIA
+(Pharmaceutical
+Microbiology &
+Immunology) Lab
+Dr. Hira Ijaz / Dr. Nighat Batool
+C1-402 & 403(PL)
+Islamic
+Studies
+Mr. Usman Ali Khan
+Online Class
+Pharmacology and
+Therapeutics-IA Lab
+Dr. Hamad Ali
+C1-401 & 406(PL)
+Pharmaceut
+ics-IIA
+(Dosage
+Forms
+Science)
+Dr. Nighat Batool
+C1-508(PC)
+Pharmacog
+nosy-IA
+(Basic)
+Mr. Zahid Munawar
+C1-508(PC)
+Pharmacolo
+gy and
+Therapeutic
+s-IA
+Dr. Hamad Ali
+C1-108(LT)
+Islamic
+Studies
+Mr. Usman Ali Khan
+C1-508(PC)
+Pharmaceutics-IIA
+(Dosage Forms
+Science) Lab
+Dr. Nighat Batool
+C1-501 & 506(PL)
+Pharmacog
+nosy-IA
+(Basic)
+Mr. Zahid Munawar
+C1-508(PC)
+Pharmacy
+Practice-IA
+(Pharmaceu
+tical
+Mathematic
+s)
+Ms. Bushra Iqbal
+C1-508(PC)
+Islamic
+Studies
+Mr. Usman Ali Khan
+C1-508(PC)
+Pharmaceut
+ics-IIA
+(Dosage
+Forms
+Science)
+Dr. Nighat Batool
+C1-508(PC)
+Pharmaceuti
+cs-IIIA
+(Pharmaceuti
+cal Microbiol
+ogy &
+Immunology)
+Dr. Hira Ijaz / Dr.
+Nighat Batool
+C1-508(PC)
+Pharmacognosy-IB
+(Basic) Lab
+Mr. Zahid Munawar
+C1-502 & 503(PL)
+Pharmacy
+Practice-IA
+(Pharmaceu
+tical
+Mathematic
+s)
+Ms. Bushra Iqbal
+C1-508(PC)
+Pharmaceuti
+cs-IIIA
+(Pharmaceuti
+cal Microbiol
+ogy &
+Immunology)
+Dr. Hira Ijaz / Dr.
+Nighat Batool
+C1-108(LT)
+Pharmaceuti
+cs-IIIA
+(Pharmaceuti
+cal Microbiol
+ogy &
+Immunology)
+Dr. Hira Ijaz / Dr.
+Nighat Batool
+C1-508(PC)
+Pharmacolo
+gy and
+Therapeutic
+s-IA
+Dr. Hamad Ali
+C1-108(LT)
+Pharmacolo
+gy and
+Therapeutic
+s-IA
+Dr. Hamad Ali
+C1-508(PC)
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+Pharm-D-F23
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Pharmacolo
+gy and
+Therapeutic
+s-IB
+Dr. Hamad Ali
+C1-508(PC)
+Pharmaceuti
+cs-IIIB
+(Pharmaceuti
+cal Microbiol
+ogy &
+Immunology)
+Dr. Nighat Batool
+C1-108(LT)
+Ideology of
+Pakistan
+Dr. Muhammad
+Touqeer Akhtar Nasir
+Online-1
+Pharmacog
+nosy-IB
+(Basic)
+Mr. Zahid Munawar
+C1-508(PC)
+Pharmacolo
+gy and
+Therapeutic
+s-IB
+Dr. Hamad Ali
+C1-108(LT)
+Pharmaceuti
+cs-IIIB
+(Pharmaceuti
+cal Microbiol
+ogy &
+Immunology)
+Dr. Nighat Batool
+C1-108(LT)
+Pharmacog
+nosy-IB
+(Basic)
+Mr. Zahid Munawar
+C1-108(LT)
+Pharmaceutics-IIB
+(Dosage Forms
+Science) Lab
+Dr. Hira Ijaz
+C1-501 & 506(PL)
+Pharmacolo
+gy and
+Therapeutic
+s-IB
+Dr. Hamad Ali
+C1-108(LT)
+Pharmacology and
+Therapeutics-IB Lab
+Dr. Hamad Ali
+C1-401 & 406(PL)
+Pharmaceuti
+cs-IIIB
+(Pharmaceuti
+cal Microbiol
+ogy &
+Immunology)
+Dr. Nighat Batool
+C1-108(LT)
+Pharmaceut
+ics-IIB
+(Dosage
+Forms
+Science)
+Dr. Hira Ijaz
+C1-508(PC)
+Pharmaceutics-IIIB
+(Pharmaceutical
+Microbiology &
+Immunology) Lab
+Dr. Nighat Batool
+C1-402 & 403(PL)
+Ideology of
+Pakistan
+Dr. Muhammad
+Touqeer Akhtar Nasir
+A1-307(LT)
+Pharmacog
+nosy-IB
+(Basic)
+Mr. Zahid Munawar
+C1-508(PC)
+Pharmaceut
+ics-IIB
+(Dosage
+Forms
+Science)
+Dr. Hira Ijaz
+C1-108(LT)
+Pharmacognosy-IB
+(Basic) Lab
+Mr. Zahid Munawar
+C1-502 & 503(PL)
+Pharmaceut
+ics-IIB
+(Dosage
+Forms
+Science)
+Dr. Hira Ijaz
+C1-508(PC)
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+Pharm-D-S23
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Ideology of
+Pakistan
+Dr. QURAT UL AIN
+A2-201(LT)
+PHYSIOLO
+GY-I
+Ms. Ayesha Zafar
+C1-108(LT)
+KINESIOLO
+GY-I
+Mr Mian waleed
+ahmed
+C1-508(PC)
+ANATOMY
+–I
+Mr Mian waleed
+ahmed
+C1-108(LT)
+BIOST
+ATISTI
+CS-I
+DPT-F24
+Ideology of
+Pakistan
+Dr. QURAT UL AIN
+Online-1
+ANATOMY
+–I
+Mr Mian waleed
+ahmed
+C1-508(PC)
+BIOST
+ATISTI
+CS-I
+DPT-F24
+ANATOMY –I Lab
+Mr Mian waleed ahmed
+C1-310(PL)
+BIOST
+ATISTI
+CS-I
+DPT-F24
+C1-508(PC)
+PHYSIOLO
+GY-I
+Ms. Ayesha Zafar
+C1-508(PC)
+Kinesiology-I Lab
+Mr Mian waleed ahmed
+C1-310(PL)
+ANATOMY
+–I
+Mr Mian waleed
+ahmed
+C1-508(PC)
+PHYSIOLOGY-I Lab
+Ms. Ayesha Zafar
+C1-401 & 406(PL)
+KINESIOLO
+GY-I
+Mr Mian waleed
+ahmed
+C1-508(PC)
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+DPT-F24
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Biochemistr
+y & Genetic
+s-I
+Dr. Jawad Shah
+C1-508(PC)
+Biomechani
+cs &
+Ergonomics
+-I
+Mr Mian waleed
+ahmed
+C1-508(PC)
+Physiology-III Lab
+Ms. Ayesha Zafar
+C1-401 & 406(PL)
+Physiology-
+III
+Ms. Ayesha Zafar
+C1-508(PC)
+Biochemistr
+y & Genetic
+s-I
+Dr. Jawad Shah
+C1-508(PC)
+Biomechani
+cs &
+Ergonomics
+-I
+Mr Mian waleed
+ahmed
+C1-108(LT)
+ENGLISH-III
+(Technical
+Writing &
+Presentation
+Skills)
+Mr Sabir Shah
+C1-508(PC)
+Anatomy-III
+Mr. Mian Awais
+Ahmed
+C1-508(PC)
+Biomechani
+cs &
+Ergonomics
+-I
+Mr Mian waleed
+ahmed
+C1-108(LT)
+ENGLISH-III
+(Technical
+Writing &
+Presentation
+Skills)
+Mr Sabir Shah
+C1-108(LT)
+Physiology-
+III
+Ms. Ayesha Zafar
+C1-508(PC)
+ENGLISH-III
+(Technical
+Writing &
+Presentation
+Skills)
+Mr Sabir Shah
+C1-508(PC)
+Anatomy-III
+Mr. Mian Awais
+Ahmed
+C1-108(LT)
+Anatomy-III Lab
+Mr. Mian Awais Ahmed
+C1-310(PL)
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+DPT-F23
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Ideology of
+Pakistan
+Dr. QURAT UL AIN
+A1-207(LT)
+English
+Language &
+Communica
+tion Skills
+Mr. Nuzhat
+A1-306
+Fundament
+als of
+Sociology
+Ms Waheeba Razzaq
+A2-203
+Fundament
+als of
+Sociology
+Ms Waheeba Razzaq
+A1-205
+English
+Language &
+Communica
+tion Skills
+Mr. Nuzhat
+A1-201
+Quantitative
+Reasoning-I
+Dr. Kamran Ullah
+A1-205
+Quantitative
+Reasoning-I
+Dr. Kamran Ullah
+A2-203
+Fundament
+als of
+Sociology
+Ms Waheeba Razzaq
+A2-112
+Introduction
+to Psycholog
+y
+Ms Waheeba Razzaq
+A2-203
+Ideology of
+Pakistan
+Dr. QURAT UL AIN
+Online-1
+Quantitative
+Reasoning-I
+Dr. Kamran Ullah
+A1-206
+Introduction
+to Psycholog
+y
+Ms Waheeba Razzaq
+A1-109
+Introduction
+to Psycholog
+y
+Ms Waheeba Razzaq
+A2-111
+English
+Language &
+Communica
+tion Skills
+Mr. Nuzhat
+A2-211
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+Psychology-F24
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Mental
+Health and
+Psychology
+Pathology
+Dr Noreen Akhtar
+A1-206
+Personality
+Theories-I
+Ms Waheeba Razzaq
+A2-112
+Personality
+Theories-I
+Ms Waheeba Razzaq
+A1-109
+Mental
+Health and
+Psychology
+Pathology
+Dr Noreen Akhtar
+A2-111
+Professiona
+l Ethics
+Dr. Rana Asad
+A1-207(LT)
+HRM
+Dr. Hafiz Sikander
+C1-B05
+Social
+Psychology
+Ms. Alveera Habib
+B2-102
+Social
+Psychology
+Ms. Alveera Habib
+A2-210
+Social
+Psychology
+Ms. Alveera Habib
+B1-206
+Mental
+Health and
+Psychology
+Pathology
+Dr Noreen Akhtar
+A2-202
+Professiona
+l Ethics
+Dr. Rana Asad
+A1-307(LT)
+HRM
+Dr. Hafiz Sikander
+A2-102
+HRM
+Dr. Hafiz Sikander
+B2-103
+Personality
+Theories-I
+Ms Waheeba Razzaq
+A2-203
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+Psychology-F23
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Basic
+Counselling
+Skills
+Dr Noreen Akhtar
+A2-111
+Mental
+Health and
+Psychology
+Pathology
+Dr Noreen Akhtar
+A1-206
+Psychologi
+cal Testing
+Ms Waheeba Razzaq
+A2-202
+Qualitative
+Research
+methods
+Dr. Hafiz Sikander
+B2-102
+Cognitive
+Psychology
+Ms. Alveera Habib
+A1-205
+Cognitive
+Psychology
+Ms. Alveera Habib
+A2-102
+Basic
+Counselling
+Skills
+Dr Noreen Akhtar
+A2-102
+Mental
+Health and
+Psychology
+Pathology
+Dr Noreen Akhtar
+A2-111
+Psychologi
+cal Testing
+Ms Waheeba Razzaq
+A2-202
+Qualitative
+Research
+methods
+Dr. Hafiz Sikander
+A2-202
+Cognitive
+Psychology
+Ms. Alveera Habib
+A2-102
+Basic
+Counselling
+Skills
+Dr Noreen Akhtar
+A2-102
+Mental
+Health and
+Psychology
+Pathology
+Dr Noreen Akhtar
+A2-202
+Psychologi
+cal Testing
+Ms Waheeba Razzaq
+A2-202
+Qualitative
+Research
+methods
+Dr. Hafiz Sikander
+A1-205
+Fundament
+als of
+Marketing
+Dr. Sufyan
+A2-103
+Fundament
+als of
+Marketing
+Dr. Sufyan
+A2-111
+Fundament
+als of
+Marketing
+Dr. Sufyan
+A2-210
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+Psychology-F22
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Introduction
+to English
+Literature
+Ms. Sheeba Sadaf.
+C1-B02
+Introduction
+to Linguistics
+Ms. Uzma Khalil
+C1-B02
+English-A
+(Functional
+English)
+Ms Samra akram
+A2-103
+Introduction
+to English
+Literature
+Ms. Sheeba Sadaf.
+C1-B02
+Introduction
+to Linguistics
+Ms. Uzma Khalil
+C1-B02
+English-A
+(Functional
+English)
+Ms Samra akram
+A2-102
+Introduction
+to Linguistics
+Ms. Uzma Khalil
+C1-B02
+English-A
+(Functional
+English)
+Ms Samra akram
+A2-103
+Introduction
+to English
+Literature
+Ms. Sheeba Sadaf.
+C1-B01
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+English-F24
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Novel-I
+(18th
+Century
+Novel)
+Mr Yaseen Danish
+A2-203
+Critical
+Thinking &
+Decision
+Making
+Dr. Muhammad
+Farooq
+A2-111
+English(II)
+Professiona
+l Communic
+ation and
+Presentatio
+n Skills
+Mr Sabir Shah
+A2-102
+Introduction
+to Morpholog
+y
+Ms. Zainab Azmat
+A2-102
+Novel-I
+(18th
+Century
+Novel)
+Mr Yaseen Danish
+A1-205
+English(II)
+Professiona
+l Communic
+ation and
+Presentatio
+n Skills
+Mr Sabir Shah
+A2-203
+Introduction
+to Morpholog
+y
+Ms. Zainab Azmat
+A2-102
+Novel-I
+(18th
+Century
+Novel)
+Mr Yaseen Danish
+A2-102
+English(II)
+Professiona
+l Communic
+ation and
+Presentatio
+n Skills
+Mr Sabir Shah
+A2-102
+Introduction
+to Morpholog
+y
+Ms. Zainab Azmat
+A1-206
+Critical
+Thinking &
+Decision
+Making
+Dr. Muhammad
+Farooq
+A2-210
+Critical
+Thinking &
+Decision
+Making
+Dr. Muhammad
+Farooq
+A2-112
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+English-F23
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Introductio
+to Applied
+Linguistics
+Ms Samra akram
+A1-206
+Novel-I
+(18th
+Century
+Novel)
+Mr Yaseen Danish
+A2-203
+English(II)
+Professiona
+l Communic
+ation and
+Presentatio
+n Skills
+Mr Sabir Shah
+A2-102
+Introductio
+to Applied
+Linguistics
+Ms Samra akram
+A1-206
+Novel-I
+(18th
+Century
+Novel)
+Mr Yaseen Danish
+A1-205
+English(II)
+Professiona
+l Communic
+ation and
+Presentatio
+n Skills
+Mr Sabir Shah
+A2-203
+Introductio
+to Applied
+Linguistics
+Ms Samra akram
+A1-109
+Novel-I
+(18th
+Century
+Novel)
+Mr Yaseen Danish
+A2-102
+English(II)
+Professiona
+l Communic
+ation and
+Presentatio
+n Skills
+Mr Sabir Shah
+A2-102
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+English-S23
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Introductio
+to Applied
+Linguistics
+Ms Samra akram
+A1-206
+TEFL-Teach
+ing of
+English as
+Foreign
+Language
+Mr Sabir Shah
+C1-B07
+Sociolingui
+stics
+Ms. Zainab Azmat
+B1-206
+Introductio
+to Applied
+Linguistics
+Ms Samra akram
+A1-206
+Criticism
+Mr Yaseen Danish
+A2-203
+Romantic
+and Victoria
+n Poetry
+Ms. Sheeba Sadaf.
+A2-202
+Sociolingui
+stics
+Ms. Zainab Azmat
+B1-206
+Introductio
+to Applied
+Linguistics
+Ms Samra akram
+A1-109
+TEFL-Teach
+ing of
+English as
+Foreign
+Language
+Mr Sabir Shah
+A2-203
+Romantic
+and Victoria
+n Poetry
+Ms. Sheeba Sadaf.
+A1-206
+Sociolingui
+stics
+Ms. Zainab Azmat
+B2-103
+Criticism
+Mr Yaseen Danish
+A2-203
+TEFL-Teach
+ing of
+English as
+Foreign
+Language
+Mr Sabir Shah
+A2-103
+Romantic
+and Victoria
+n Poetry
+Ms. Sheeba Sadaf.
+A2-103
+Criticism
+Mr Yaseen Danish
+A2-203
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+English-F22
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Fundament
+als of
+Accounting
+Dr. Sher Ali Khan
+A2-111
+Fundament
+als of
+Accounting
+Dr. Sher Ali Khan
+A1-206
+Introduction
+to Business
+Dr. Hafiz Sikander
+A2-202
+English
+Language &
+Communica
+tion Skills
+Mr. Nuzhat
+A1-306
+Islamic
+Studies
+Mr. Syed Afzaal
+Hussain
+Online Class
+Fundament
+als of
+Accounting
+Dr. Sher Ali Khan
+A2-103
+Introduction
+to Business
+Dr. Hafiz Sikander
+A2-210
+English
+Language &
+Communica
+tion Skills
+Mr. Nuzhat
+A1-201
+Quantitative
+Reasoning-I
+Dr. Kamran Ullah
+A1-205
+Quantitative
+Reasoning-I
+Dr. Kamran Ullah
+A2-203
+Introduction
+to Business
+Dr. Hafiz Sikander
+A1-206
+Quantitative
+Reasoning-I
+Dr. Kamran Ullah
+A1-206
+Islamic
+Studies
+Mr. Syed Afzaal
+Hussain
+A1-207(LT)
+English
+Language &
+Communica
+tion Skills
+Mr. Nuzhat
+A2-211
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+BBA-F24
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Macro
+Economics
+Dr Sadia Akhter
+A2-112
+English(II)
+Professiona
+l Communic
+ation and
+Presentatio
+n Skills
+Mr Sabir Shah
+A2-102
+Macro
+Economics
+Dr Sadia Akhter
+A2-203
+English(II)
+Professiona
+l Communic
+ation and
+Presentatio
+n Skills
+Mr Sabir Shah
+A2-203
+Business
+Finance
+Dr. Omer
+C1-B02
+Macro
+Economics
+Dr Sadia Akhter
+A2-112
+English(II)
+Professiona
+l Communic
+ation and
+Presentatio
+n Skills
+Mr Sabir Shah
+A2-102
+Cost
+Accounting
+Dr. Zia ul Islam
+A2-210
+Cost
+Accounting
+Dr. Zia ul Islam
+A2-210
+Business
+Finance
+Dr. Omer
+A2-112
+Business
+Finance
+Dr. Omer
+A2-211
+Cost
+Accounting
+Dr. Zia ul Islam
+A2-210
+Business
+Law and
+Practices
+Adv. Muhammad Ali
+A2-111
+Business
+Law and
+Practices
+Adv. Muhammad Ali
+A2-103
+Business
+Law and
+Practices
+Adv. Muhammad Ali
+A2-103
+Fundament
+als of
+Marketing
+Dr. Sufyan
+A2-103
+Fundament
+als of
+Marketing
+Dr. Sufyan
+A2-111
+Fundament
+als of
+Marketing
+Dr. Sufyan
+A2-210
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+BBA-F23
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Leadership
+Dr. Hafiz Sikander
+A2-203
+Leadership
+Dr. Hafiz Sikander
+A1-205
+Leadership
+Dr. Hafiz Sikander
+A2-202
+HRM
+Dr. Hafiz Sikander
+C1-B05
+Financial
+Managemen
+t
+Dr. Omer
+A2-203
+Financial
+Managemen
+t
+Dr. Omer
+A2-203
+HRM
+Dr. Hafiz Sikander
+A2-102
+HRM
+Dr. Hafiz Sikander
+B2-103
+Financial
+Managemen
+t
+Dr. Omer
+A2-111
+Business
+Law and
+Practices
+Adv. Muhammad Ali
+A2-111
+Business
+Law and
+Practices
+Adv. Muhammad Ali
+A2-103
+Business
+Law and
+Practices
+Adv. Muhammad Ali
+A2-103
+Fundament
+als of
+Marketing
+Dr. Sufyan
+A2-103
+Fundament
+als of
+Marketing
+Dr. Sufyan
+A2-111
+Fundament
+als of
+Marketing
+Dr. Sufyan
+A2-210
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+BBA-S23
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Leadership
+Dr. Hafiz Sikander
+A2-203
+Leadership
+Dr. Hafiz Sikander
+A1-205
+English(II)
+Professiona
+l Communic
+ation and
+Presentatio
+n Skills
+Mr Sabir Shah
+A2-102
+Ethics and
+Social
+Responsibil
+ities
+Mr. Muhammad
+Younas
+A1-205
+Ethics and
+Social
+Responsibil
+ities
+Mr. Muhammad
+Younas
+A2-112
+Leadership
+Dr. Hafiz Sikander
+A2-202
+Business
+Analytics
+Dr. Omer
+B1-205
+Business
+Analytics
+Dr. Omer
+B1-205
+English(II)
+Professiona
+l Communic
+ation and
+Presentatio
+n Skills
+Mr Sabir Shah
+A2-203
+Business
+Analytics
+Dr. Omer
+A2-112
+English(II)
+Professiona
+l Communic
+ation and
+Presentatio
+n Skills
+Mr Sabir Shah
+A2-102
+Ethics and
+Social
+Responsibil
+ities
+Mr. Muhammad
+Younas
+A1-205
+Marketing
+Managemen
+t
+Dr. Sufyan
+A2-203
+Marketing
+Managemen
+t
+Dr. Sufyan
+A2-103
+Marketing
+Managemen
+t
+Dr. Sufyan
+A2-210
+Business
+Law and
+Practices
+Adv. Muhammad Ali
+A2-111
+Business
+Law and
+Practices
+Adv. Muhammad Ali
+A2-103
+Business
+Law and
+Practices
+Adv. Muhammad Ali
+A2-103
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+BBA-F22
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Fundament
+als of
+Accounting
+Dr. Sher Ali Khan
+A2-111
+Fundament
+als of
+Accounting
+Dr. Sher Ali Khan
+A1-206
+Introduction
+to Business
+Dr. Hafiz Sikander
+A2-202
+English
+Language &
+Communica
+tion Skills
+Mr. Nuzhat
+A1-306
+Islamic
+Studies
+Mr. Syed Afzaal
+Hussain
+Online Class
+Fundament
+als of
+Accounting
+Dr. Sher Ali Khan
+A2-103
+Introduction
+to Business
+Dr. Hafiz Sikander
+A2-210
+English
+Language &
+Communica
+tion Skills
+Mr. Nuzhat
+A1-201
+Quantitative
+Reasoning-I
+Dr. Kamran Ullah
+A1-205
+Quantitative
+Reasoning-I
+Dr. Kamran Ullah
+A2-203
+Introduction
+to Business
+Dr. Hafiz Sikander
+A1-206
+Quantitative
+Reasoning-I
+Dr. Kamran Ullah
+A1-206
+Islamic
+Studies
+Mr. Syed Afzaal
+Hussain
+A1-207(LT)
+English
+Language &
+Communica
+tion Skills
+Mr. Nuzhat
+A2-211
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+A&F-F24
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Financial
+Statement
+Analysis
+and Reporti
+ng
+Dr. Sher Ali Khan
+A2-202
+English(II)
+Professiona
+l Communic
+ation and
+Presentatio
+n Skills
+Mr Sabir Shah
+A2-102
+Ethics and
+Social
+Responsibil
+ities
+Mr. Muhammad
+Younas
+A1-205
+Ethics and
+Social
+Responsibil
+ities
+Mr. Muhammad
+Younas
+A2-112
+Financial
+Statement
+Analysis
+and Reporti
+ng
+Dr. Sher Ali Khan
+A2-202
+Financial
+Statement
+Analysis
+and Reporti
+ng
+Dr. Sher Ali Khan
+A2-202
+English(II)
+Professiona
+l Communic
+ation and
+Presentatio
+n Skills
+Mr Sabir Shah
+A2-203
+Data Analyti
+cs in
+Accounting
+and Finance
+Dr. Omer
+A2-112
+Data Analyti
+cs in
+Accounting
+and Finance
+Dr. Omer
+A2-202
+English(II)
+Professiona
+l Communic
+ation and
+Presentatio
+n Skills
+Mr Sabir Shah
+A2-102
+Ethics and
+Social
+Responsibil
+ities
+Mr. Muhammad
+Younas
+A1-205
+Data Analyti
+cs in
+Accounting
+and Finance
+Dr. Omer
+A2-111
+Managerial
+Accounting
+Dr. Zia ul Islam
+A1-205
+Business
+Law and
+Practices
+Adv. Muhammad Ali
+A2-111
+Business
+Law and
+Practices
+Adv. Muhammad Ali
+A2-103
+Business
+Law and
+Practices
+Adv. Muhammad Ali
+A2-103
+Managerial
+Accounting
+Dr. Zia ul Islam
+A1-206
+Managerial
+Accounting
+Dr. Zia ul Islam
+A2-211
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+A&F-F22
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Ideology of
+Pakistan
+Dr. QURAT UL AIN
+A1-207(LT)
+Objects in 3D
+Mr Naveed Khan
+Sculpture Shed-1
+Community
+Service
+Mr. Salman Jamil
+B1-207(LT)
+Foundation Drwaing
+Mr Abdur Rehman
+Sculpture Shed-1
+Foundation Drwaing
+Mr Abdur Rehman
+Sculpture Shed-1
+English
+Language &
+Communica
+tion Skills
+Mr. Nuzhat
+A1-306
+Ideology of
+Pakistan
+Dr. QURAT UL AIN
+Online-1
+Fundament
+als of ICT
+Engr. Ayesha
+Nadeem
+C1-B02
+English
+Language &
+Communica
+tion Skills
+Mr. Nuzhat
+A1-306
+Introduction to Digital Tools
+Mr. Rawal Zafar
+C2-SDT-CL1
+Fundamentals of
+ICT Lab
+Engr. Ayesha Nadeem
+C2-1CL
+History of Art and Design-I
+Mr. Syed Raza Kazim
+C2-Studio 2
+English
+Language &
+Communica
+tion Skills
+Mr. Nuzhat
+A2-211
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+SDAAT-F24
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Storytelling and
+Narative
+Construction
+Prof. Zafar Iqbal / Mr. Muhammad Ahsan
+Zeb
+C2-Studio 1
+Introduction to Drafting
+Ms. Saleha Sundus
+Islamic
+Studies
+Hamza Hamid
+A2-203
+Entrepreneurship
+Mr. Syed Raza Kazim
+A2-201(LT)
+Introduction to
+Digital Media
+Mr. Mansoor Qazi
+C2-SDT-CL1
+Design
+Thinking
+Prof. Zafar Iqbal
+C2-Studio 2
+Islamic
+Studies
+Hamza Hamid
+Online-1
+Drawing-I
+Mr. Shehrayar Zahid
+C2-Studio 4
+Digital Tools-I
+Mr Abdur Rehman
+C2-SDT-CL1
+Digital Tools-I
+Mr Abdur Rehman
+C2-SDT-CL1
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+SDAAT-S24
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Digital Tools -II
+Dr. Ayaz
+C2-Mac-Lab
+Digital Tools -II
+Dr. Ayaz
+C2-Mac-Lab
+History of
+Game &
+Animation
+Mr. Nadeem Khawar
+C2-Studio 4
+Mathematics for Art &
+Design
+Mr. Nadeem Khawar
+C2-Studio 3
+Fundamentals of Photography
+Mr. Rawal Zafar
+Technical &
+Business
+Writing
+Ms Samra akram
+A2-102
+Game/Animation
+Design Studio-I
+Mr Abdur Rehman
+C2-SDT-CL2
+Game/Animation
+Design Studio-I
+Mr Abdur Rehman
+C2-SDT-CL2
+Technical &
+Business
+Writing
+Ms Samra akram
+A2-211
+Drawing-II
+Mr Naveed Khan
+Sculpture Shed-1
+Technical &
+Business
+Writing
+Ms Samra akram
+A2-210
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+Game+Animation-III
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Programmi
+ng Fundam
+entals
+Dr. Huma Ayub Vine
+B2-211(LT)
+Game/Animation
+Design Studio-II
+Mr. Mansoor Qazi
+C2-Studio 1
+Game/Animation
+Design Studio-II
+Mr. Mansoor Qazi
+C2-Studio 1
+Screenplay
+Writing
+Prof. Zafar Iqbal
+C2-Studio 2
+Drawing-III
+Mr Naveed Khan
+Sculpture Shed-2
+Game/Animatio
+n Design
+Studio-II
+Mr. Mansoor Qazi
+C2-Studio 1
+Digital Tools-III
+Dr. Ayaz
+C2-Studio 1
+Programmi
+ng Fundam
+entals
+Dr. Huma Ayub Vine
+B2-211(LT)
+Programmi
+ng Fundam
+entals
+Dr. Huma Ayub Vine
+B2-211(LT)
+Basic Video
+Production
+Hamza Hamid
+C2-Mac-Lab
+Basic Video
+Production
+Hamza Hamid
+C2-Mac-Lab
+Programming
+Fundamentals Lab
+Dr. Huma Ayub Vine
+C2-6CL
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+Game+Animation-IV
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Game/Animation Studio-III
+Mr. Mansoor Qazi
+C2-Studio 2
+Game/Animation Studio-III
+Mr. Mansoor Qazi
+Game/Animatio
+n Studio-III
+Mr. Mansoor Qazi
+C2-Studio 3
+Digital Tool-IV
+Mr. Syed Saifuddin
+Digital Tool-IV
+Mr. Syed Saifuddin
+C2-Studio 4
+Research
+Methods and
+Report Writing
+Dr. Ayaz
+A2-201(LT)
+Digital Sound and Music
+Mr. Nadeem Khawar
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+Game+Animation-V
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Weaving-I/weaving-II
+Ms. Madiha Erum
+C2-Studio 4
+Fashion Illustartion
+Mr. Syed Saifuddin
+C2-Studio 3
+Mathematics for Art &
+Design
+Mr. Nadeem Khawar
+C2-Studio 3
+Fundamentals of Photography
+Mr. Rawal Zafar
+Technical &
+Business
+Writing
+Ms Samra akram
+A2-102
+Fashion Studio-I-II-III
+Ms. Saman Manzoor
+C2-Studio 4
+Fashion Studio-I-II-III
+Ms. Saman Manzoor
+Technical &
+Business
+Writing
+Ms Samra akram
+A2-211
+Pattern Making
+Ms. Saman Manzoor
+C2-Studio 1
+Technical &
+Business
+Writing
+Ms Samra akram
+A2-210
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+Fashion-III
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Weaving-I/weaving-II
+Ms. Madiha Erum
+C2-Studio 4
+Programmi
+ng Fundam
+entals
+Dr. Huma Ayub Vine
+B2-211(LT)
+Surface Design-I-II
+Ms. Hafsa Abdul Malik
+C2-Studio 2
+Draping-I/Draping-II
+Ms. Saman Manzoor
+Sewing-I/Sewing-II
+Ms. Saman Manzoor
+C2-Studio 2
+Textile Material
+and Constructio
+n
+Ms. Madiha Erum
+C2-Studio 4
+Fashion Studio-I-II-III
+Ms. Saman Manzoor
+C2-Studio 4
+Fashion Studio-I-II-III
+Ms. Saman Manzoor
+Programmi
+ng Fundam
+entals
+Dr. Huma Ayub Vine
+B2-211(LT)
+Programmi
+ng Fundam
+entals
+Dr. Huma Ayub Vine
+B2-211(LT)
+Color Theory
+and Application
+Mr. Muhammad Ahsan Zeb
+Programming
+Fundamentals Lab
+Dr. Huma Ayub Vine
+C2-6CL
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+Fashion-IV
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Socail Media Marketing
+Mr. Nadeem Khawar
+C2-SDT-CL1
+Theory of Art
+and Design
+Mr. Salman Jamil
+C2-Studio 1
+Draping-I/Draping-II
+Ms. Saman Manzoor
+Sewing-I/Sewing-II
+Ms. Saman Manzoor
+C2-Studio 2
+Research
+Methods and
+Report Writing
+Dr. Ayaz
+A2-201(LT)
+Fashion
+Studio-III
+Ms. Saman Manzoor
+C2-Studio 1
+Fashion Studio-I-II-III
+Ms. Saman Manzoor
+C2-Studio 4
+Fashion Studio-I-II-III
+Ms. Saman Manzoor
+Design
+Managemen
+t
+Ms. Hafsa Abdul
+Malik
+Design
+Managemen
+t
+Ms. Hafsa Abdul
+Malik
+C2-Studio 3
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+Fashion-V
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Weaving-I/weaving-II
+Ms. Madiha Erum
+C2-Studio 4
+Surface Design-I-II
+Ms. Hafsa Abdul Malik
+C2-Studio 2
+Fashion Illustartion
+Mr. Syed Saifuddin
+C2-Studio 3
+Mathematics for Art &
+Design
+Mr. Nadeem Khawar
+C2-Studio 3
+Fundamentals of Photography
+Mr. Rawal Zafar
+Technical &
+Business
+Writing
+Ms Samra akram
+A2-102
+Textile Design
+Studio-I
+Ms. Hafsa Abdul Malik
+Textile Design
+Studio-I
+Ms. Hafsa Abdul Malik
+Technical &
+Business
+Writing
+Ms Samra akram
+A2-211
+Pattern Making
+Ms. Saman Manzoor
+C2-Studio 1
+Technical &
+Business
+Writing
+Ms Samra akram
+A2-210
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+Textile-III
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Weaving-I/weaving-II
+Ms. Madiha Erum
+C2-Studio 4
+Programmi
+ng Fundam
+entals
+Dr. Huma Ayub Vine
+B2-211(LT)
+Surface Design-I-II
+Ms. Hafsa Abdul Malik
+C2-Studio 2
+Draping-I/Draping-II
+Ms. Saman Manzoor
+Sewing-I/Sewing-II
+Ms. Saman Manzoor
+C2-Studio 2
+Textile Material
+and Constructio
+n
+Ms. Madiha Erum
+C2-Studio 4
+Textile Studio II-III
+Ms. Madiha Erum
+Textile Studio II-III
+Ms. Madiha Erum
+C2-Studio 2
+Textile Studio II-III
+Ms. Madiha Erum
+Textile Studio II-III
+Ms. Madiha Erum
+Programmi
+ng Fundam
+entals
+Dr. Huma Ayub Vine
+B2-211(LT)
+Programmi
+ng Fundam
+entals
+Dr. Huma Ayub Vine
+B2-211(LT)
+Color Theory
+and Application
+Mr. Muhammad Ahsan Zeb
+Programming
+Fundamentals Lab
+Dr. Huma Ayub Vine
+C2-6CL
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+Textile-IV
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Socail Media Marketing
+Mr. Nadeem Khawar
+C2-SDT-CL1
+Theory of Art
+and Design
+Mr. Salman Jamil
+C2-Studio 1
+Draping-I/Draping-II
+Ms. Saman Manzoor
+Sewing-I/Sewing-II
+Ms. Saman Manzoor
+C2-Studio 2
+Textile Studio II-III
+Ms. Madiha Erum
+Textile Studio II-III
+Ms. Madiha Erum
+C2-Studio 2
+Research
+Methods and
+Report Writing
+Dr. Ayaz
+A2-201(LT)
+Textile Studio II-III
+Ms. Madiha Erum
+Textile Studio II-III
+Ms. Madiha Erum
+Textile
+Technologies
+Ms. Hafsa Abdul Malik
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+Textile-V
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Computer Modeling
+Mr. Shehrayar Zahid
+C2-SDT-CL2
+Fundamentals of Photography
+Mr. Shehrayar Zahid
+C2-SDT-CL2
+Visualization and
+Representation
+Mr. Salman Basharat
+C2-Studio 4
+Mathematics for Art &
+Design
+Mr. Nadeem Khawar
+C2-Studio 3
+Building Materials and
+Cocept-I
+Mr. Salman Basharat
+C2-Studio 4
+Technical &
+Business
+Writing
+Ms Samra akram
+A2-202
+Technical &
+Business
+Writing
+Ms Samra akram
+C1-B05
+Architecture Studio-I
+Mr. Syed Raza Kazim
+Architecture Studio-I
+Mr. Syed Raza Kazim
+Technical &
+Business
+Writing
+Ms Samra akram
+C1-B05
+Architecture Studio-I
+Mr. Syed Raza Kazim
+C2-Studio 3
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+Architecture-III
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+History and
+Theory of
+Architecture-II
+Ms. Saleha Sundus
+C2-Studio 3
+Building
+Services &
+Systems
+Mr. Shehrayar Zahid
+C2-Studio 2
+Seminar/Design
+Seminar
+Mr. Salman Jamil
+C2-Studio 1
+Computational Design &
+Application
+Mr. Shehrayar Zahid
+C2-Studio 3
+Research
+Methods and
+Report Writing
+Dr. Ayaz
+A2-201(LT)
+Architecture Studio-III
+Ms. Saleha Sundus / Mr. Salman Jamil
+C2-Studio 3
+Architecture Studio-III
+Ms. Saleha Sundus / Mr. Salman Jamil
+C2-Studio 3
+Architecture Studio-III
+Ms. Saleha Sundus / Mr. Salman Jamil
+C2-Studio 1
+Architecture Studio-III
+Ms. Saleha Sundus / Mr. Salman Jamil
+C2-Studio 2
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+Architecture-V
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Computer Modeling
+Mr. Shehrayar Zahid
+C2-SDT-CL2
+Visualization and
+Representation
+Mr. Salman Basharat
+C2-Studio 4
+Mathematics for Art &
+Design
+Mr. Nadeem Khawar
+C2-Studio 3
+Building Materials and
+Cocept-I
+Mr. Salman Basharat
+C2-Studio 4
+Technical &
+Business
+Writing
+Ms Samra akram
+A2-202
+Technical &
+Business
+Writing
+Ms Samra akram
+C1-B05
+Interior Design Studio-I
+Mr. Salman Basharat
+C2-Studio 4
+Interior Design Studio-I
+Mr. Salman Basharat
+C2-Studio 4
+Technical &
+Business
+Writing
+Ms Samra akram
+C1-B05
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+Interior-III
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Information Design
+Studio-I
+Mr. Rawal Zafar
+Fundamentals of Photography
+Mr. Shehrayar Zahid
+C2-SDT-CL2
+Information Design
+Studio-I
+Mr. Rawal Zafar
+Fundamentals of Typography
+Mr. Muhammad Ahsan Zeb
+C2-SDT-CL1
+Mathematics for Art &
+Design
+Mr. Nadeem Khawar
+C2-Studio 3
+Technical &
+Business
+Writing
+Ms Samra akram
+A2-202
+Technical &
+Business
+Writing
+Ms Samra akram
+C1-B05
+Drawing-II
+Mr Naveed Khan
+Sculpture Shed-1
+Technical &
+Business
+Writing
+Ms Samra akram
+C1-B05
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+Information-III
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Client Centered
+Design
+Hamza Hamid
+C2-Studio 3
+Client Centered
+Design
+Hamza Hamid
+C2-Studio 1
+Programmi
+ng Fundam
+entals
+Dr. Huma Ayub Vine
+B2-211(LT)
+Information Design
+Studio-II
+Prof. Zafar Iqbal
+Information Design
+Studio-II
+Prof. Zafar Iqbal
+Drawing-III
+Mr Naveed Khan
+Sculpture Shed-2
+Information Design
+Studio-III
+Mr. Muhammad Ahsan Zeb
+C2-Studio 2
+Information Design
+Studio-III
+Mr. Muhammad Ahsan Zeb
+C2-Studio 2
+Programmi
+ng Fundam
+entals
+Dr. Huma Ayub Vine
+B2-211(LT)
+Programmi
+ng Fundam
+entals
+Dr. Huma Ayub Vine
+B2-211(LT)
+Basic Video
+Production
+Hamza Hamid
+C2-Mac-Lab
+Basic Video
+Production
+Hamza Hamid
+C2-Mac-Lab
+Programming
+Fundamentals Lab
+Dr. Huma Ayub Vine
+C2-6CL
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+Information-IV
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Socail Media Marketing
+Mr. Nadeem Khawar
+C2-SDT-CL1
+Packaging Design
+Mr. Mehmood Sheikh
+Applied Game Design
+Dr. Ayaz
+C2-Mac-Lab
+Applied Game Design
+Dr. Ayaz
+C2-Mac-Lab
+User experience design
+Hamza Hamid
+C2-Studio 1
+Creative Writing
+Ms. Saleha Sundus
+C2-Studio 1
+Information Design
+Studio-III
+Mr. Muhammad Ahsan Zeb
+C2-Studio 2
+Information Design
+Studio-III
+Mr. Muhammad Ahsan Zeb
+C2-Studio 2
+Information
+Design
+Studio-III
+Mr. Muhammad Ahsan Zeb
+C2-Studio 2
+Fundament
+als of
+Marketing
+Dr. Sufyan
+A2-103
+Fundament
+als of
+Marketing
+Dr. Sufyan
+A2-111
+Fundament
+als of
+Marketing
+Dr. Sufyan
+A2-210
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+Information-V
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Seminar/Design
+Seminar
+Mr. Salman Jamil
+C2-Studio 1
+Oraganizati
+onal
+Behaviour
+Dr. Muhammad
+Hamza Khan
+A1-307(LT)
+Oraganizati
+onal
+Behaviour
+Dr. Muhammad
+Hamza Khan
+B1-307(LT)
+Project-I
+Information-VII
+Community
+Service
+Dr. Rizwan Ahmad
+B1-206
+Post Production
+Mr. Nadeem Khawar
+C2-SDT-CL3
+Oraganizati
+onal
+Behaviour
+Dr. Muhammad
+Hamza Khan
+C1-B03
+Project-I
+Information-VII
+Project-I
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+Information-VII
+SMA INDONESIA EMAS 2045
+Timetable generated:08-Sep-24
+aSc Timetables
+Mo
+Tu
+We
+Th
+Fr
+1
+9:00 - 9:30
+2
+9:30 - 10:00
+3
+10:00 - 10:30
+4
+10:30 - 11:00
+5
+11:00 - 11:30
+6
+11:30 - 12:00
+7
+12:00 - 12:30
+8
+12:30 - 13:00
+9
+13:00 - 13:30
+10
+13:30 - 14:00
+11
+14:00 - 14:30
+12
+14:30 - 15:00
+13
+15:00 - 15:30
+14
+15:30 - 16:00
+15
+16:00 - 16:30
+16
+16:30 - 17:00
+B2-108(BL)
