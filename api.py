@@ -1,3 +1,5 @@
+import asyncio
+from fastapi.responses import StreamingResponse
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
@@ -119,3 +121,53 @@ Answer:"""
 
     except Exception as e:
         return {"answer": f"Sorry, something went wrong: {str(e)}"}
+    # Admin login check
+class AdminLogin(BaseModel):
+    password: str
+
+@app.post("/admin/login")
+async def admin_login(data: AdminLogin):
+    correct = os.getenv("ADMIN_PASSWORD", "paf1234")
+    if data.password == correct:
+        return {"success": True}
+    return {"success": False}
+
+# Update bot endpoint with live logs
+@app.post("/admin/update")
+async def update_bot(data: AdminLogin):
+    correct = os.getenv("ADMIN_PASSWORD", "paf1234")
+    if data.password != correct:
+        return {"success": False, "message": "Unauthorized"}
+
+    async def run_scripts():
+        scripts = [
+            ("🕷️ Running Web Scraper...", "scraper.py"),
+            ("📄 Running PDF Scraper...", "pdf_scraper.py"),
+            ("🧠 Rebuilding Knowledge Base...", "knowledge_base.py"),
+        ]
+
+        for message, script in scripts:
+            yield f"data: {message}\n\n"
+            await asyncio.sleep(0.5)
+
+            process = await asyncio.create_subprocess_exec(
+                "python", script,
+                stdout=asyncio.subprocess.PIPE,
+                stderr=asyncio.subprocess.PIPE
+            )
+            stdout, stderr = await process.communicate()
+
+            if process.returncode == 0:
+                yield f"data: ✅ {script} completed successfully!\n\n"
+            else:
+                yield f"data: ❌ {script} failed: {stderr.decode()}\n\n"
+
+            await asyncio.sleep(0.5)
+
+        yield "data: 🎉 Bot updated successfully! Reload to use latest data.\n\n"
+        yield "data: DONE\n\n"
+
+    return StreamingResponse(
+        run_scripts(),
+        media_type="text/event-stream"
+    )
