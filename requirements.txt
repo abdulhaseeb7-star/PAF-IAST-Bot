@@ -1,0 +1,15 @@
+requests
+beautifulsoup4
+pymupdf
+langchain
+langchain-community
+langchain-core
+langchain-huggingface
+langchain-groq
+langchain-text-splitters
+faiss-cpu
+sentence-transformers
+fastapi
+uvicorn
+python-dotenv
+groq
