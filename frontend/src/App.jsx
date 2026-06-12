@@ -15,7 +15,6 @@ export default function App() {
   const [windowWidth, setWindowWidth] = useState(window.innerWidth);
   const messagesEndRef = useRef(null);
 
-  // Track window size for responsive design
   useEffect(() => {
     const handleResize = () => setWindowWidth(window.innerWidth);
     window.addEventListener("resize", handleResize);
@@ -73,22 +72,16 @@ export default function App() {
     try {
       const response = await axios.post(
         "https://paf-iast-bot-production.up.railway.app/chat",
-        {
-          question: userMessage,
-          language: language,
-        }
+        { question: userMessage, language: language }
       );
       setMessages((prev) => [
         ...prev,
         { sender: "bot", text: response.data.answer },
       ]);
-    } catch (error) {
+    } catch {
       setMessages((prev) => [
         ...prev,
-        {
-          sender: "bot",
-          text: "Sorry, I'm having trouble connecting. Please try again.",
-        },
+        { sender: "bot", text: "Sorry, I'm having trouble connecting. Please try again." },
       ]);
     }
     setLoading(false);
@@ -98,10 +91,27 @@ export default function App() {
     if (e.key === "Enter") sendMessage();
   };
 
+  // Chat window size — floating on both mobile and desktop
+  const chatStyle = {
+    position: "fixed",
+    bottom: isMobile ? "90px" : "90px",
+    right: isMobile ? "12px" : "24px",
+    width: isMobile ? "calc(100vw - 24px)" : "370px",
+    height: isMobile ? "65vh" : "520px",
+    maxHeight: isMobile ? "550px" : "520px",
+    background: "white",
+    borderRadius: "16px",
+    boxShadow: "0 8px 30px rgba(0,0,0,0.25)",
+    display: "flex",
+    flexDirection: "column",
+    zIndex: 9999,
+    overflow: "hidden",
+  };
+
   return (
     <div style={{ fontFamily: "Arial, sans-serif" }}>
 
-      {/* Background */}
+      {/* Background Page */}
       <div style={{
         width: "100vw",
         height: "100vh",
@@ -110,8 +120,8 @@ export default function App() {
         flexDirection: "column",
         alignItems: "center",
         justifyContent: "center",
-        gap: isMobile ? "14px" : "20px",
-        padding: "20px",
+        gap: isMobile ? "12px" : "20px",
+        padding: isMobile ? "16px" : "20px",
         boxSizing: "border-box",
         overflowX: "hidden",
       }}>
@@ -121,16 +131,16 @@ export default function App() {
           src="https://paf-iast.edu.pk/wp-content/uploads/2021/03/logo.png"
           alt="PAF-IAST Logo"
           style={{
-            width: isMobile ? "120px" : "180px",
+            width: isMobile ? "100px" : "180px",
             filter: "brightness(0) invert(1)"
           }}
           onError={(e) => e.target.style.display = "none"}
         />
 
-        {/* University Name */}
+        {/* Title */}
         <div style={{ textAlign: "center", color: "white" }}>
           <div style={{
-            fontSize: isMobile ? "22px" : "28px",
+            fontSize: isMobile ? "20px" : "28px",
             fontWeight: "bold",
             letterSpacing: "1px",
             textShadow: "0 2px 8px rgba(0,0,0,0.3)"
@@ -138,7 +148,7 @@ export default function App() {
             PAF-IAST
           </div>
           <div style={{
-            fontSize: isMobile ? "12px" : "14px",
+            fontSize: isMobile ? "11px" : "14px",
             opacity: 0.85,
             marginTop: "6px",
             maxWidth: "320px",
@@ -151,7 +161,7 @@ export default function App() {
 
         {/* Divider */}
         <div style={{
-          width: "60px",
+          width: "50px",
           height: "3px",
           background: "rgba(255,255,255,0.5)",
           borderRadius: "2px"
@@ -160,119 +170,105 @@ export default function App() {
         {/* Quick Links */}
         <div style={{
           display: "flex",
-          gap: isMobile ? "8px" : "16px",
+          gap: isMobile ? "8px" : "12px",
           flexWrap: "wrap",
           justifyContent: "center",
-          padding: "0 16px",
+          padding: "0 12px",
+          maxWidth: "400px",
         }}>
           {["Admissions", "Programs", "Fee Structure", "Scholarships", "Contact"].map((link) => (
             <div key={link} style={{
               background: "rgba(255,255,255,0.15)",
               color: "white",
-              padding: isMobile ? "6px 12px" : "8px 18px",
+              padding: isMobile ? "5px 10px" : "8px 16px",
               borderRadius: "20px",
               fontSize: isMobile ? "11px" : "13px",
               cursor: "pointer",
-              backdropFilter: "blur(4px)",
-              border: "1px solid rgba(255,255,255,0.2)"
+              border: "1px solid rgba(255,255,255,0.25)",
             }}>
               {link}
             </div>
           ))}
         </div>
 
-        {/* Chat Hint */}
+        {/* Hint */}
         <div style={{
-          color: "rgba(255,255,255,0.7)",
-          fontSize: isMobile ? "12px" : "13px",
-          marginTop: "6px",
+          color: "rgba(255,255,255,0.75)",
+          fontSize: isMobile ? "11px" : "13px",
           display: "flex",
           alignItems: "center",
-          gap: "8px",
+          gap: "6px",
           textAlign: "center",
-          padding: "0 20px"
+          padding: "0 20px",
+          marginTop: "4px",
         }}>
           <span>🎓</span>
-          <span>Click the chat button to ask our AI Assistant anything!</span>
+          <span>Tap the chat button to ask our AI Assistant!</span>
         </div>
       </div>
 
-      {/* Chat Bubble Button — only show when chat is closed */}
-      {!isOpen && (
-        <div
-          onClick={() => setIsOpen(true)}
-          style={{
-            position: "fixed",
-            bottom: "24px",
-            right: "24px",
-            width: isMobile ? "54px" : "60px",
-            height: isMobile ? "54px" : "60px",
-            borderRadius: "50%",
-            background: "linear-gradient(135deg, #1a5276, #2e86c1)",
-            color: "white",
-            display: "flex",
-            alignItems: "center",
-            justifyContent: "center",
-            cursor: "pointer",
-            boxShadow: "0 4px 15px rgba(0,0,0,0.3)",
-            fontSize: "24px",
-            zIndex: 9999,
-          }}
-        >
-          🎓
-        </div>
-      )}
-
-      {/* Chat Window */}
-      {isOpen && (
-        <div style={{
+      {/* Floating Chat Bubble Button */}
+      <div
+        onClick={() => setIsOpen(!isOpen)}
+        style={{
           position: "fixed",
-          top: isMobile ? "0" : "auto",
-          bottom: isMobile ? "0" : "90px",
-          left: isMobile ? "0" : "auto",
-          right: isMobile ? "0" : "24px",
-          width: isMobile ? "100vw" : "370px",
-          height: isMobile ? "100vh" : "520px",
-          background: "white",
-          borderRadius: isMobile ? "0" : "16px",
-          boxShadow: "0 8px 30px rgba(0,0,0,0.2)",
+          bottom: "24px",
+          right: "24px",
+          width: isMobile ? "52px" : "60px",
+          height: isMobile ? "52px" : "60px",
+          borderRadius: "50%",
+          background: "linear-gradient(135deg, #1a5276, #2e86c1)",
+          color: "white",
           display: "flex",
-          flexDirection: "column",
-          zIndex: 9999,
-          overflow: "hidden",
-        }}>
+          alignItems: "center",
+          justifyContent: "center",
+          cursor: "pointer",
+          boxShadow: "0 4px 20px rgba(0,0,0,0.35)",
+          fontSize: isMobile ? "22px" : "26px",
+          zIndex: 10000,
+        }}
+      >
+        {isOpen ? "✕" : "🎓"}
+      </div>
+
+      {/* Floating Chat Window */}
+      {isOpen && (
+        <div style={chatStyle}>
 
           {/* Header */}
           <div style={{
             background: "linear-gradient(135deg, #1a5276, #2e86c1)",
             color: "white",
-            padding: "14px 16px",
+            padding: "12px 14px",
             display: "flex",
             alignItems: "center",
             justifyContent: "space-between",
             flexShrink: 0,
           }}>
-            <div style={{ display: "flex", alignItems: "center", gap: "10px" }}>
-              <div style={{ fontSize: "24px" }}>🎓</div>
+            <div style={{ display: "flex", alignItems: "center", gap: "8px" }}>
+              <div style={{ fontSize: "22px" }}>🎓</div>
               <div>
-                <div style={{ fontWeight: "bold", fontSize: isMobile ? "14px" : "15px" }}>
+                <div style={{
+                  fontWeight: "bold",
+                  fontSize: isMobile ? "13px" : "15px"
+                }}>
                   PAF-IAST Assistant
                 </div>
                 <div style={{
-                  fontSize: "11px",
+                  fontSize: "10px",
                   opacity: 0.85,
-                  maxWidth: isMobile ? "160px" : "200px",
+                  maxWidth: isMobile ? "140px" : "180px",
                   whiteSpace: "nowrap",
                   overflow: "hidden",
-                  textOverflow: "ellipsis"
+                  textOverflow: "ellipsis",
                 }}>
                   {selectedLang.greeting}
                 </div>
               </div>
             </div>
 
-            {/* Right side — Language + Close */}
-            <div style={{ display: "flex", alignItems: "center", gap: "8px" }}>
+            {/* Language + Close */}
+            <div style={{ display: "flex", alignItems: "center", gap: "6px" }}>
               <select
                 value={language}
                 onChange={(e) => handleLanguageChange(e.target.value)}
@@ -280,12 +276,11 @@ export default function App() {
                   background: "rgba(255,255,255,0.2)",
                   color: "white",
                   border: "1px solid rgba(255,255,255,0.4)",
-                  borderRadius: "8px",
-                  padding: "4px 6px",
-                  fontSize: "11px",
+                  borderRadius: "6px",
+                  padding: "3px 5px",
+                  fontSize: "10px",
                   cursor: "pointer",
                   outline: "none",
-                  maxWidth: isMobile ? "70px" : "100px",
                 }}
               >
                 <option value="en" style={{ color: "black" }}>🇬🇧 EN</option>
@@ -295,15 +290,13 @@ export default function App() {
                 <option value="de" style={{ color: "black" }}>🇩🇪 DE</option>
               </select>
 
-              {/* Close Button */}
               <div
                 onClick={() => setIsOpen(false)}
                 style={{
                   cursor: "pointer",
-                  fontSize: "18px",
-                  padding: "4px 6px",
+                  fontSize: "16px",
+                  padding: "2px 6px",
                   opacity: 0.9,
-                  lineHeight: 1,
                 }}
               >
                 ✕
@@ -311,15 +304,15 @@ export default function App() {
             </div>
           </div>
 
-          {/* Messages Area */}
+          {/* Messages */}
           <div style={{
             flex: 1,
             overflowY: "auto",
-            padding: "16px",
+            padding: "12px",
             background: "#f5f8ff",
             display: "flex",
             flexDirection: "column",
-            gap: "10px",
+            gap: "8px",
           }}>
             {messages.map((msg, i) => (
               <div key={i} style={{
@@ -328,7 +321,7 @@ export default function App() {
               }}>
                 <div style={{
                   maxWidth: "80%",
-                  padding: "10px 14px",
+                  padding: "9px 13px",
                   borderRadius: msg.sender === "user"
                     ? "16px 16px 4px 16px"
                     : "16px 16px 16px 4px",
@@ -336,9 +329,9 @@ export default function App() {
                     ? "linear-gradient(135deg, #1a5276, #2e86c1)"
                     : "white",
                   color: msg.sender === "user" ? "white" : "#333",
-                  fontSize: isMobile ? "13px" : "14px",
+                  fontSize: isMobile ? "12px" : "14px",
                   lineHeight: "1.5",
-                  boxShadow: "0 2px 6px rgba(0,0,0,0.1)",
+                  boxShadow: "0 2px 6px rgba(0,0,0,0.08)",
                   wordBreak: "break-word",
                 }}>
                   {msg.text}
@@ -346,15 +339,14 @@ export default function App() {
               </div>
             ))}
 
-            {/* Typing indicator */}
             {loading && (
               <div style={{ display: "flex", justifyContent: "flex-start" }}>
                 <div style={{
                   background: "white",
                   padding: "10px 16px",
                   borderRadius: "16px 16px 16px 4px",
-                  boxShadow: "0 2px 6px rgba(0,0,0,0.1)",
-                  fontSize: "18px",
+                  boxShadow: "0 2px 6px rgba(0,0,0,0.08)",
+                  fontSize: "16px",
                   letterSpacing: "2px",
                 }}>
                   ●●●
@@ -364,9 +356,9 @@ export default function App() {
             <div ref={messagesEndRef} />
           </div>
 
-          {/* Input Box */}
+          {/* Input */}
           <div style={{
-            padding: "12px",
+            padding: "10px 12px",
             background: "white",
             borderTop: "1px solid #eee",
             display: "flex",
@@ -383,11 +375,11 @@ export default function App() {
               placeholder={selectedLang.placeholder}
               style={{
                 flex: 1,
-                padding: "10px 14px",
+                padding: "9px 14px",
                 borderRadius: "24px",
                 border: "1px solid #ddd",
                 outline: "none",
-                fontSize: "14px",
+                fontSize: isMobile ? "13px" : "14px",
                 minWidth: 0,
                 boxSizing: "border-box",
               }}
@@ -396,15 +388,17 @@ export default function App() {
               onClick={sendMessage}
               disabled={loading}
               style={{
-                background: loading ? "#ccc" : "linear-gradient(135deg, #1a5276, #2e86c1)",
+                background: loading
+                  ? "#ccc"
+                  : "linear-gradient(135deg, #1a5276, #2e86c1)",
                 color: "white",
                 border: "none",
                 borderRadius: "50%",
-                width: "42px",
-                height: "42px",
-                minWidth: "42px",
+                width: "40px",
+                height: "40px",
+                minWidth: "40px",
                 cursor: loading ? "not-allowed" : "pointer",
-                fontSize: "18px",
+                fontSize: "16px",
                 display: "flex",
                 alignItems: "center",
                 justifyContent: "center",
