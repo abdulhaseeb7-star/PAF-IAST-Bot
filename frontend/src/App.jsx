@@ -63,7 +63,7 @@ export default function App() {
         setLoading(true);
 
         try {
-            const response = await axios.post("http://localhost:8000/chat", {
+            const response = await axios.post("https://paf-iast-bot-production.up.railway.app/chat", {
                 question: userMessage,
                 language: language,
             });
