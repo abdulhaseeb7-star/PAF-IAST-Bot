@@ -1,19 +1,66 @@
 import { useState, useRef, useEffect } from "react";
 import axios from "axios";
 
+const API_URL = "https://paf-iast-bot-production.up.railway.app";
+
+const LANGUAGES = {
+  en: {
+    name: "🇬🇧 EN",
+    greeting: "Ask me anything about PAF-IAST",
+    placeholder: "Type your question here...",
+    welcome: "👋 Hello! I'm PAFI, your PAF-IAST AI Assistant! I can help you with admissions, programs, fee structure, scholarships, and much more. How can I assist you today?",
+    typing: "PAFI is thinking...",
+  },
+  ur: {
+    name: "🇵🇰 UR",
+    greeting: "پافی — آپ کا پی اے ایف آئی اے ایس ٹی اسسٹنٹ",
+    placeholder: "اپنا سوال یہاں لکھیں...",
+    welcome: "👋 السلام علیکم! میں پافی ہوں، آپ کا PAF-IAST AI اسسٹنٹ! داخلہ، پروگرامز، فیس، اسکالرشپ — کچھ بھی پوچھیں!",
+    typing: "پافی سوچ رہا ہے...",
+  },
+  zh: {
+    name: "🇨🇳 ZH",
+    greeting: "PAFI — 您的PAF-IAST智能助手",
+    placeholder: "在这里输入您的问题...",
+    welcome: "👋 你好！我是PAFI，您的PAF-IAST智能助手！关于招生、课程、费用、奖学金，请随时问我！",
+    typing: "PAFI正在思考...",
+  },
+  ar: {
+    name: "🇸🇦 AR",
+    greeting: "PAFI — مساعدك الذكي في PAF-IAST",
+    placeholder: "اكتب سؤالك هنا...",
+    welcome: "👋 مرحباً! أنا PAFI، مساعدك الذكي في PAF-IAST! اسألني عن القبول والبرامج والرسوم والمنح!",
+    typing: "PAFI يفكر...",
+  },
+  de: {
+    name: "🇩🇪 DE",
+    greeting: "PAFI — Ihr PAF-IAST KI-Assistent",
+    placeholder: "Geben Sie Ihre Frage hier ein...",
+    welcome: "👋 Hallo! Ich bin PAFI, Ihr PAF-IAST KI-Assistent! Fragen Sie mich zu Zulassung, Programmen, Gebühren und Stipendien!",
+    typing: "PAFI denkt nach...",
+  },
+};
+
+const QUICK_QUESTIONS = [
+  "What are the admission requirements?",
+  "What is the fee structure?",
+  "What BS programs are offered?",
+  "What scholarships are available?",
+  "How to contact PAF-IAST?",
+];
+
 export default function App() {
   const [isOpen, setIsOpen] = useState(false);
+  const [language, setLanguage] = useState("en");
   const [messages, setMessages] = useState([
-    {
-      sender: "bot",
-      text: "👋 Hi! I'm PAF-IAST Assistant. Ask me anything about admissions, programs, fees, or scholarships!",
-    },
+    { sender: "bot", text: LANGUAGES.en.welcome, time: new Date() },
   ]);
   const [input, setInput] = useState("");
   const [loading, setLoading] = useState(false);
-  const [language, setLanguage] = useState("en");
   const [windowWidth, setWindowWidth] = useState(window.innerWidth);
+  const [showQuickQ, setShowQuickQ] = useState(true);
   const messagesEndRef = useRef(null);
+  const inputRef = useRef(null);
 
   useEffect(() => {
     const handleResize = () => setWindowWidth(window.innerWidth);
@@ -21,87 +68,70 @@ export default function App() {
     return () => window.removeEventListener("resize", handleResize);
   }, []);
 
-  const isMobile = windowWidth < 768;
-
-  const languages = {
-    en: {
-      greeting: "Ask me anything about PAF-IAST",
-      placeholder: "Ask about admissions, fees...",
-      welcome: "👋 Hi! I'm PAF-IAST Assistant. Ask me anything about admissions, programs, fees, or scholarships!",
-    },
-    ur: {
-      greeting: "پی اے ایف آئی اے ایس ٹی کے بارے میں پوچھیں",
-      placeholder: "داخلہ، فیس کے بارے میں پوچھیں...",
-      welcome: "👋 السلام علیکم! میں PAF-IAST اسسٹنٹ ہوں۔ داخلہ، پروگرامز، فیس یا اسکالرشپ کے بارے میں پوچھیں!",
-    },
-    zh: {
-      greeting: "询问有关PAF-IAST的任何问题",
-      placeholder: "询问招生、费用...",
-      welcome: "👋 你好！我是PAF-IAST助手。请询问有关招生、课程、费用或奖学金的任何问题！",
-    },
-    ar: {
-      greeting: "اسأل عن أي شيء يتعلق بـ PAF-IAST",
-      placeholder: "اسأل عن القبول والرسوم...",
-      welcome: "👋 مرحباً! أنا مساعد PAF-IAST. اسأل عن القبول والبرامج والرسوم أو المنح الدراسية!",
-    },
-    de: {
-      greeting: "Fragen Sie alles über PAF-IAST",
-      placeholder: "Fragen zu Zulassung, Gebühren...",
-      welcome: "👋 Hallo! Ich bin der PAF-IAST Assistent. Fragen Sie mich alles über Zulassung, Programme, Gebühren oder Stipendien!",
-    },
-  };
-
-  const selectedLang = languages[language];
-
-  const handleLanguageChange = (lang) => {
-    setLanguage(lang);
-    setMessages([{ sender: "bot", text: languages[lang].welcome }]);
-  };
-
   useEffect(() => {
     messagesEndRef.current?.scrollIntoView({ behavior: "smooth" });
   }, [messages]);
 
-  const sendMessage = async () => {
-    if (!input.trim() || loading) return;
-    const userMessage = input.trim();
+  useEffect(() => {
+    if (isOpen) inputRef.current?.focus();
+  }, [isOpen]);
+
+  const isMobile = windowWidth < 768;
+  const lang = LANGUAGES[language];
+
+  const handleLanguageChange = (l) => {
+    setLanguage(l);
+    setMessages([{ sender: "bot", text: LANGUAGES[l].welcome, time: new Date() }]);
+    setShowQuickQ(true);
+  };
+
+  const formatTime = (date) => {
+    return date?.toLocaleTimeString([], { hour: "2-digit", minute: "2-digit" });
+  };
+
+  const sendMessage = async (text) => {
+    const userMessage = (text || input).trim();
+    if (!userMessage || loading) return;
+
     setInput("");
-    setMessages((prev) => [...prev, { sender: "user", text: userMessage }]);
+    setShowQuickQ(false);
+    setMessages((prev) => [
+      ...prev,
+      { sender: "user", text: userMessage, time: new Date() },
+    ]);
     setLoading(true);
 
     try {
-      const response = await axios.post(
-        "https://paf-iast-bot-production.up.railway.app/chat",
-        { question: userMessage, language: language }
-      );
+      const response = await axios.post(`${API_URL}/chat`, {
+        question: userMessage,
+        language,
+      });
       setMessages((prev) => [
         ...prev,
-        { sender: "bot", text: response.data.answer },
+        { sender: "bot", text: response.data.answer, time: new Date() },
       ]);
     } catch {
       setMessages((prev) => [
         ...prev,
-        { sender: "bot", text: "Sorry, I'm having trouble connecting. Please try again." },
+        {
+          sender: "bot",
+          text: "I'm sorry, I'm having trouble connecting right now. Please try again or contact PAF-IAST at info@paf-iast.edu.pk",
+          time: new Date(),
+        },
       ]);
     }
     setLoading(false);
   };
 
-  const handleKeyPress = (e) => {
-    if (e.key === "Enter") sendMessage();
-  };
-
-  // Chat window size — floating on both mobile and desktop
   const chatStyle = {
     position: "fixed",
-    bottom: "90px",
-    right: "24px",
-    width: isMobile ? "calc(100vw - 32px)" : "350px",
-    height: isMobile ? "60vh" : "500px",
-    maxWidth: "100vw",
+    bottom: isMobile ? "0" : "90px",
+    right: isMobile ? "0" : "24px",
+    width: isMobile ? "100vw" : "380px",
+    height: isMobile ? "100vh" : "560px",
     background: "white",
-    borderRadius: "16px",
-    boxShadow: "0 8px 30px rgba(0,0,0,0.25)",
+    borderRadius: isMobile ? "0" : "20px",
+    boxShadow: "0 8px 40px rgba(0,0,0,0.2)",
     display: "flex",
     flexDirection: "column",
     zIndex: 9999,
@@ -110,31 +140,48 @@ export default function App() {
 
   return (
     <div>
-      {/* Floating Chat Bubble Button */}
-      <div
-        onClick={() => setIsOpen(!isOpen)}
-        style={{
-          position: "fixed",
-          bottom: "24px",
-          right: "24px",
-          width: isMobile ? "52px" : "60px",
-          height: isMobile ? "52px" : "60px",
-          borderRadius: "50%",
-          background: "linear-gradient(135deg, #1a5276, #2e86c1)",
-          color: "white",
-          display: "flex",
-          alignItems: "center",
-          justifyContent: "center",
-          cursor: "pointer",
-          boxShadow: "0 4px 20px rgba(0,0,0,0.35)",
-          fontSize: isMobile ? "22px" : "26px",
-          zIndex: 10000,
-        }}
-      >
-        {isOpen ? "✕" : "🎓"}
-      </div>
+      {/* Chat Bubble */}
+      {!isOpen && (
+        <div
+          onClick={() => setIsOpen(true)}
+          style={{
+            position: "fixed",
+            bottom: "24px",
+            right: "24px",
+            width: isMobile ? "58px" : "65px",
+            height: isMobile ? "58px" : "65px",
+            borderRadius: "50%",
+            background: "linear-gradient(135deg, #1a5276, #2e86c1)",
+            color: "white",
+            display: "flex",
+            flexDirection: "column",
+            alignItems: "center",
+            justifyContent: "center",
+            cursor: "pointer",
+            boxShadow: "0 4px 20px rgba(26,82,118,0.5)",
+            zIndex: 10000,
+            animation: "pulse 2s infinite",
+          }}
+        >
+          <div style={{ fontSize: "24px" }}>🎓</div>
+          <div style={{ fontSize: "8px", opacity: 0.9, fontWeight: "bold" }}>PAFI</div>
+        </div>
+      )}
 
-      {/* Floating Chat Window */}
+      {/* Pulse animation */}
+      <style>{`
+        @keyframes pulse {
+          0% { box-shadow: 0 0 0 0 rgba(26,82,118,0.5); }
+          70% { box-shadow: 0 0 0 12px rgba(26,82,118,0); }
+          100% { box-shadow: 0 0 0 0 rgba(26,82,118,0); }
+        }
+        .msg-text { white-space: pre-wrap; }
+        ::-webkit-scrollbar { width: 4px; }
+        ::-webkit-scrollbar-track { background: #f1f1f1; }
+        ::-webkit-scrollbar-thumb { background: #2e86c1; border-radius: 4px; }
+      `}</style>
+
+      {/* Chat Window */}
       {isOpen && (
         <div style={chatStyle}>
 
@@ -142,64 +189,83 @@ export default function App() {
           <div style={{
             background: "linear-gradient(135deg, #1a5276, #2e86c1)",
             color: "white",
-            padding: "12px 14px",
+            padding: "14px 16px",
             display: "flex",
             alignItems: "center",
             justifyContent: "space-between",
             flexShrink: 0,
           }}>
-            <div style={{ display: "flex", alignItems: "center", gap: "8px" }}>
-              <div style={{ fontSize: "22px" }}>🎓</div>
+            <div style={{ display: "flex", alignItems: "center", gap: "10px" }}>
+              {/* Avatar */}
+              <div style={{
+                width: "40px",
+                height: "40px",
+                borderRadius: "50%",
+                background: "rgba(255,255,255,0.2)",
+                display: "flex",
+                alignItems: "center",
+                justifyContent: "center",
+                fontSize: "20px",
+                flexShrink: 0,
+              }}>
+                🎓
+              </div>
               <div>
                 <div style={{
                   fontWeight: "bold",
-                  fontSize: isMobile ? "13px" : "15px"
+                  fontSize: "15px",
+                  display: "flex",
+                  alignItems: "center",
+                  gap: "6px",
                 }}>
-                  PAF-IAST Assistant
+                  PAFI
+                  <span style={{
+                    background: "#27ae60",
+                    borderRadius: "10px",
+                    padding: "1px 6px",
+                    fontSize: "9px",
+                    fontWeight: "normal",
+                  }}>
+                    ONLINE
+                  </span>
                 </div>
-                <div style={{
-                  fontSize: "10px",
-                  opacity: 0.85,
-                  maxWidth: isMobile ? "140px" : "180px",
-                  whiteSpace: "nowrap",
-                  overflow: "hidden",
-                  textOverflow: "ellipsis",
-                }}>
-                  {selectedLang.greeting}
+                <div style={{ fontSize: "10px", opacity: 0.85 }}>
+                  PAF-IAST AI Assistant
                 </div>
               </div>
             </div>
 
-            {/* Language + Close */}
-            <div style={{ display: "flex", alignItems: "center", gap: "6px" }}>
+            {/* Controls */}
+            <div style={{ display: "flex", alignItems: "center", gap: "8px" }}>
               <select
                 value={language}
                 onChange={(e) => handleLanguageChange(e.target.value)}
                 style={{
                   background: "rgba(255,255,255,0.2)",
                   color: "white",
-                  border: "1px solid rgba(255,255,255,0.4)",
+                  border: "1px solid rgba(255,255,255,0.3)",
                   borderRadius: "6px",
-                  padding: "3px 5px",
-                  fontSize: "10px",
+                  padding: "4px 6px",
+                  fontSize: "11px",
                   cursor: "pointer",
                   outline: "none",
                 }}
               >
-                <option value="en" style={{ color: "black" }}>🇬🇧 EN</option>
-                <option value="ur" style={{ color: "black" }}>🇵🇰 UR</option>
-                <option value="zh" style={{ color: "black" }}>🇨🇳 ZH</option>
-                <option value="ar" style={{ color: "black" }}>🇸🇦 AR</option>
-                <option value="de" style={{ color: "black" }}>🇩🇪 DE</option>
+                {Object.entries(LANGUAGES).map(([code, l]) => (
+                  <option key={code} value={code} style={{ color: "black" }}>
+                    {l.name}
+                  </option>
+                ))}
               </select>
-
               <div
                 onClick={() => setIsOpen(false)}
                 style={{
                   cursor: "pointer",
-                  fontSize: "16px",
+                  fontSize: "18px",
+                  opacity: 0.8,
                   padding: "2px 6px",
-                  opacity: 0.9,
+                  borderRadius: "4px",
+                  background: "rgba(255,255,255,0.1)",
                 }}
               >
                 ✕
@@ -211,110 +277,230 @@ export default function App() {
           <div style={{
             flex: 1,
             overflowY: "auto",
-            padding: "12px",
+            padding: "16px",
             background: "#f5f8ff",
             display: "flex",
             flexDirection: "column",
-            gap: "8px",
+            gap: "12px",
           }}>
+
             {messages.map((msg, i) => (
               <div key={i} style={{
                 display: "flex",
-                justifyContent: msg.sender === "user" ? "flex-end" : "flex-start",
+                flexDirection: "column",
+                alignItems: msg.sender === "user" ? "flex-end" : "flex-start",
+                gap: "3px",
               }}>
+                {/* Bot label */}
+                {msg.sender === "bot" && (
+                  <div style={{
+                    fontSize: "10px",
+                    color: "#888",
+                    paddingLeft: "4px",
+                    display: "flex",
+                    alignItems: "center",
+                    gap: "4px",
+                  }}>
+                    🎓 PAFI
+                  </div>
+                )}
+
                 <div style={{
-                  maxWidth: "80%",
-                  padding: "9px 13px",
+                  maxWidth: "82%",
+                  padding: "10px 14px",
                   borderRadius: msg.sender === "user"
-                    ? "16px 16px 4px 16px"
-                    : "16px 16px 16px 4px",
+                    ? "18px 18px 4px 18px"
+                    : "18px 18px 18px 4px",
                   background: msg.sender === "user"
                     ? "linear-gradient(135deg, #1a5276, #2e86c1)"
                     : "white",
                   color: msg.sender === "user" ? "white" : "#333",
-                  fontSize: isMobile ? "12px" : "14px",
+                  fontSize: isMobile ? "13px" : "14px",
                   lineHeight: "1.6",
-                  boxShadow: "0 2px 6px rgba(0,0,0,0.08)",
+                  boxShadow: "0 2px 8px rgba(0,0,0,0.08)",
                   wordBreak: "break-word",
-                  textAlign: "left",
-                  whiteSpace: "pre-wrap",
                 }}>
-                  {msg.text}
+                  <div className="msg-text">{msg.text}</div>
+                </div>
+
+                {/* Timestamp */}
+                <div style={{
+                  fontSize: "9px",
+                  color: "#aaa",
+                  paddingLeft: msg.sender === "bot" ? "4px" : "0",
+                  paddingRight: msg.sender === "user" ? "4px" : "0",
+                }}>
+                  {formatTime(msg.time)}
                 </div>
               </div>
             ))}
 
+            {/* Typing indicator */}
             {loading && (
-              <div style={{ display: "flex", justifyContent: "flex-start" }}>
+              <div style={{
+                display: "flex",
+                flexDirection: "column",
+                alignItems: "flex-start",
+                gap: "3px",
+              }}>
+                <div style={{ fontSize: "10px", color: "#888", paddingLeft: "4px" }}>
+                  🎓 PAFI
+                </div>
                 <div style={{
                   background: "white",
-                  padding: "10px 16px",
-                  borderRadius: "16px 16px 16px 4px",
-                  boxShadow: "0 2px 6px rgba(0,0,0,0.08)",
-                  fontSize: "16px",
-                  letterSpacing: "2px",
+                  padding: "12px 16px",
+                  borderRadius: "18px 18px 18px 4px",
+                  boxShadow: "0 2px 8px rgba(0,0,0,0.08)",
+                  display: "flex",
+                  alignItems: "center",
+                  gap: "8px",
                 }}>
-                  ●●●
+                  <div style={{ display: "flex", gap: "4px" }}>
+                    {[0, 1, 2].map((i) => (
+                      <div key={i} style={{
+                        width: "8px",
+                        height: "8px",
+                        borderRadius: "50%",
+                        background: "#2e86c1",
+                        animation: `bounce 1.2s ${i * 0.2}s infinite`,
+                      }} />
+                    ))}
+                  </div>
+                  <span style={{ fontSize: "12px", color: "#888" }}>
+                    {lang.typing}
+                  </span>
                 </div>
               </div>
             )}
+
+            {/* Quick Questions */}
+            {showQuickQ && messages.length <= 1 && (
+              <div style={{ marginTop: "8px" }}>
+                <div style={{
+                  fontSize: "11px",
+                  color: "#888",
+                  marginBottom: "8px",
+                  textAlign: "center",
+                }}>
+                  💡 Quick Questions:
+                </div>
+                <div style={{
+                  display: "flex",
+                  flexDirection: "column",
+                  gap: "6px",
+                }}>
+                  {QUICK_QUESTIONS.map((q, i) => (
+                    <div
+                      key={i}
+                      onClick={() => sendMessage(q)}
+                      style={{
+                        background: "white",
+                        border: "1px solid #d0e8f7",
+                        borderRadius: "12px",
+                        padding: "8px 12px",
+                        fontSize: "12px",
+                        color: "#1a5276",
+                        cursor: "pointer",
+                        transition: "all 0.2s",
+                        boxShadow: "0 1px 4px rgba(0,0,0,0.05)",
+                      }}
+                      onMouseEnter={(e) => {
+                        e.target.style.background = "#f0f7ff";
+                        e.target.style.borderColor = "#2e86c1";
+                      }}
+                      onMouseLeave={(e) => {
+                        e.target.style.background = "white";
+                        e.target.style.borderColor = "#d0e8f7";
+                      }}
+                    >
+                      {q}
+                    </div>
+                  ))}
+                </div>
+              </div>
+            )}
+
             <div ref={messagesEndRef} />
           </div>
 
           {/* Input */}
           <div style={{
-            padding: "10px 12px",
+            padding: "12px",
             background: "white",
             borderTop: "1px solid #eee",
             display: "flex",
             gap: "8px",
             flexShrink: 0,
-            boxSizing: "border-box",
-            width: "100%",
+            alignItems: "center",
           }}>
             <input
+              ref={inputRef}
               type="text"
               value={input}
               onChange={(e) => setInput(e.target.value)}
-              onKeyPress={handleKeyPress}
-              placeholder={selectedLang.placeholder}
+              onKeyPress={(e) => e.key === "Enter" && sendMessage()}
+              placeholder={lang.placeholder}
+              disabled={loading}
               style={{
                 flex: 1,
-                padding: "9px 14px",
+                padding: "10px 16px",
                 borderRadius: "24px",
-                border: "1px solid #ddd",
+                border: "1.5px solid #d0e8f7",
                 outline: "none",
-                fontSize: isMobile ? "13px" : "14px",
+                fontSize: "14px",
                 minWidth: 0,
-                boxSizing: "border-box",
+                background: loading ? "#f9f9f9" : "white",
+                color: "#333",
               }}
             />
             <button
-              onClick={sendMessage}
-              disabled={loading}
+              onClick={() => sendMessage()}
+              disabled={loading || !input.trim()}
               style={{
-                background: loading
+                background: loading || !input.trim()
                   ? "#ccc"
                   : "linear-gradient(135deg, #1a5276, #2e86c1)",
                 color: "white",
                 border: "none",
                 borderRadius: "50%",
-                width: "40px",
-                height: "40px",
-                minWidth: "40px",
-                cursor: loading ? "not-allowed" : "pointer",
+                width: "42px",
+                height: "42px",
+                minWidth: "42px",
+                cursor: loading || !input.trim() ? "not-allowed" : "pointer",
                 fontSize: "16px",
                 display: "flex",
                 alignItems: "center",
                 justifyContent: "center",
                 flexShrink: 0,
+                transition: "background 0.2s",
               }}
             >
               ➤
             </button>
           </div>
+
+          {/* Footer */}
+          <div style={{
+            padding: "6px",
+            background: "white",
+            textAlign: "center",
+            fontSize: "10px",
+            color: "#aaa",
+            borderTop: "1px solid #f5f5f5",
+            flexShrink: 0,
+          }}>
+            Powered by PAF-IAST AI • paf-iast.edu.pk
+          </div>
         </div>
       )}
+
+      {/* Bounce animation */}
+      <style>{`
+        @keyframes bounce {
+          0%, 60%, 100% { transform: translateY(0); }
+          30% { transform: translateY(-6px); }
+        }
+      `}</style>
     </div>
   );
 }

@@ -1,10 +1,10 @@
-import asyncio
-from fastapi.responses import StreamingResponse
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from dotenv import load_dotenv
 import os
+import asyncio
+from fastapi.responses import StreamingResponse
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_community.vectorstores import FAISS
 from langchain_groq import ChatGroq
@@ -16,7 +16,6 @@ load_dotenv()
 
 app = FastAPI()
 
-# Allow React frontend to talk to backend
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
@@ -24,7 +23,6 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# Load knowledge base once on startup
 print("📂 Loading knowledge base...")
 embeddings = HuggingFaceEmbeddings(
     model_name="all-MiniLM-L6-v2",
@@ -35,41 +33,88 @@ db = FAISS.load_local(
     embeddings,
     allow_dangerous_deserialization=True
 )
-retriever = db.as_retriever(search_kwargs={"k": 3})
+retriever = db.as_retriever(search_kwargs={"k": 5})
 
-# Load LLM
 llm = ChatGroq(
     model="llama-3.3-70b-versatile",
     api_key=os.getenv("GROQ_API_KEY"),
     temperature=0.3
 )
 
-# Prompt
-prompt = PromptTemplate.from_template("""
-You are a helpful assistant for PAF-IAST (Pak-Austria Fachhochschule: Institute of Applied Sciences and Technology) university website.
-Use the following information to answer the student's question accurately and politely.
-If the answer is not in the provided information, say "I don't have that information right now. Please contact PAF-IAST directly at info@paf-iast.edu.pk or call 0995-111 723 278."
-Always respond in a friendly, professional and helpful tone.
+print("✅ Bot ready!")
 
-IMPORTANT LANGUAGE RULE:
-- Detect the language of the student's question automatically
-- Always reply in the SAME language the student used
-- If the question is in Urdu, reply in Urdu
-- If the question is in Chinese, reply in Chinese
-- If the question is in Arabic, reply in Arabic
-- If the question is in German, reply in German
-- If the question is in English, reply in English
-- Default language is English if unsure
+# ─── SYSTEM PROMPT ───────────────────────────────────────
+SYSTEM_PROMPT = """
+You are PAFI — the official AI Assistant for PAF-IAST 
+(Pak-Austria Fachhochschule: Institute of Applied Sciences 
+and Technology), located in Haripur, Khyber Pakhtunkhwa, Pakistan.
 
-Context:
+YOUR IDENTITY:
+- Your name is PAFI (PAF-IAST Intelligence)
+- You are friendly, professional, and helpful
+- You represent PAF-IAST officially
+- You care about every student's success
+
+YOUR KNOWLEDGE:
+- You know everything about PAF-IAST from official sources
+- Admissions, programs, fees, scholarships, campus life
+- Faculty, research centers, international collaborations
+- Academic schedules, eligibility criteria
+
+STRICT RULES:
+1. ALWAYS reply in the SAME language the student used
+2. PAF-IAST charges SAME fee for ALL BS programs (Rs. 159,441/semester national)
+3. PAF-IAST charges SAME fee for ALL MS programs
+4. If question has multiple parts — answer ALL parts
+5. ALWAYS give exact numbers when available in context
+6. If info is partially available — give what you know
+7. NEVER make up information not in context
+8. For missing info — direct to info@paf-iast.edu.pk or 0995-111 723 278
+9. Be conversational — not robotic
+10. Use bullet points for lists, be organized
+
+CONTACT INFO (always available):
+- Email: info@paf-iast.edu.pk
+- Phone: 0995-111 723 278
+- Address: Khanpur Road, Mang Haripur, KPK
+- Website: paf-iast.edu.pk
+
+GREETING RESPONSES:
+- If student says hi/hello/salam → greet warmly and ask how you can help
+- If student says thanks → respond warmly
+- If student asks who you are → explain you are PAFI, PAF-IAST's AI assistant
+
+FEE STRUCTURE (always remember):
+BS Programs (National): 
+  - Admission Fee: Rs. 30,000 (one time)
+  - Security Fee: Rs. 30,000 (one time)  
+  - Tuition Fee: Rs. 159,441 per semester
+  - ECA Charges: Rs. 4,000 per semester
+  - Other Expenses: Rs. 4,500 per semester
+  - Per Credit Hour: Rs. 9,664
+
+BS Programs (International):
+  - All fees are exactly double the national fees
+
+MS/PhD Programs (National):
+  - Admission Fee: Rs. 30,000 (one time)
+  - Tuition Fee: Rs. 159,441 per semester
+  - Per Credit Hour: Rs. 16,105
+
+Context from PAF-IAST official data:
 {context}
 
 Student Question: {question}
 
-Answer:""")
+PAFI Answer:"""
+
+prompt = PromptTemplate.from_template(SYSTEM_PROMPT)
 
 def format_docs(docs):
-    return "\n\n".join(doc.page_content for doc in docs)
+    return "\n\n".join([
+        f"[Source: {doc.metadata.get('page', 'PAF-IAST')}]\n{doc.page_content}"
+        for doc in docs
+    ])
 
 chain = (
     {
@@ -81,47 +126,53 @@ chain = (
     | StrOutputParser()
 )
 
+
+# ─── CHAT ENDPOINT ───────────────────────────────────────
 class Question(BaseModel):
     question: str
     language: str = "en"
 
+@app.get("/")
+def root():
+    return {
+        "status": "PAFI — PAF-IAST AI Assistant is running! 🎓",
+        "version": "2.0"
+    }
+
 @app.post("/chat")
 async def chat(q: Question):
     try:
-        # Step 1 - Translate question to English for FAISS search
+        # Translate non-English to English for FAISS search
         if q.language != "en":
-            translate_prompt = f"""
-Translate this question to English. Return ONLY the translated text, nothing else.
-Question: {q.question}
-English Translation:"""
+            translate_prompt = f"""Translate this to English. 
+Return ONLY the translation, nothing else.
+Text: {q.question}
+English:"""
             translated = llm.invoke(translate_prompt).content.strip()
         else:
             translated = q.question
 
-        # Step 2 - Search FAISS with English question
+        # Search FAISS with English question
         docs = retriever.invoke(translated)
-        context = "\n\n".join(doc.page_content for doc in docs)
+        context = format_docs(docs)
 
-        # Step 3 - Answer in user's original language
-        answer_prompt = f"""
-You are a helpful assistant for PAF-IAST university website.
-Use the following information to answer the student's question accurately and politely.
-If the answer is not in the provided information, say you don't have that info and suggest contacting info@paf-iast.edu.pk or calling 0995-111 723 278.
-IMPORTANT: Reply in the SAME language as the Student Question below.
+        # Build final prompt with original language question
+        final_prompt = SYSTEM_PROMPT.replace(
+            "{context}", context
+        ).replace(
+            "{question}", q.question
+        )
 
-Context:
-{context}
-
-Student Question: {q.question}
-
-Answer:"""
-
-        answer = llm.invoke(answer_prompt).content.strip()
+        answer = llm.invoke(final_prompt).content.strip()
         return {"answer": answer}
 
     except Exception as e:
-        return {"answer": f"Sorry, something went wrong: {str(e)}"}
-    # Admin login check
+        return {
+            "answer": f"I'm sorry, I encountered an error. Please try again or contact PAF-IAST at info@paf-iast.edu.pk"
+        }
+
+
+# ─── ADMIN ENDPOINTS ─────────────────────────────────────
 class AdminLogin(BaseModel):
     password: str
 
@@ -132,7 +183,6 @@ async def admin_login(data: AdminLogin):
         return {"success": True}
     return {"success": False}
 
-# Update bot endpoint with live logs
 @app.post("/admin/update")
 async def update_bot(data: AdminLogin):
     correct = os.getenv("ADMIN_PASSWORD", "paf1234")
@@ -143,7 +193,7 @@ async def update_bot(data: AdminLogin):
         scripts = [
             ("🕷️ Starting Web Scraper — scraping 20 pages...", "scraper.py"),
             ("📄 Starting PDF Scraper — extracting 13 PDFs...", "pdf_scraper.py"),
-            ("🧠 Rebuilding Knowledge Base — this takes 3-5 minutes...", "knowledge_base.py"),
+            ("🧠 Rebuilding Knowledge Base — takes 3-5 mins...", "knowledge_base.py"),
         ]
 
         for message, script in scripts:
@@ -155,10 +205,9 @@ async def update_bot(data: AdminLogin):
                     "python", script,
                     stdout=asyncio.subprocess.PIPE,
                     stderr=asyncio.subprocess.PIPE,
-                    cwd="/app"  # Railway working directory
+                    cwd="/app"
                 )
 
-                # Stream output line by line
                 while True:
                     line = await process.stdout.readline()
                     if not line:
@@ -168,26 +217,25 @@ async def update_bot(data: AdminLogin):
                         yield f"data: {decoded}\n\n"
                         await asyncio.sleep(0.1)
 
-                # Wait for completion with timeout
                 try:
-                    await asyncio.wait_for(process.wait(), timeout=300)  # 5 min timeout
+                    await asyncio.wait_for(process.wait(), timeout=300)
                 except asyncio.TimeoutError:
                     process.kill()
-                    yield f"data: ⚠️ {script} timed out after 5 minutes\n\n"
+                    yield f"data: ⚠️ {script} timed out\n\n"
                     continue
 
                 if process.returncode == 0:
-                    yield f"data: ✅ {script} completed successfully!\n\n"
+                    yield f"data: ✅ {script} completed!\n\n"
                 else:
-                    stderr_output = await process.stderr.read()
-                    yield f"data: ❌ {script} failed: {stderr_output.decode()[:200]}\n\n"
+                    err = await process.stderr.read()
+                    yield f"data: ❌ Error: {err.decode()[:200]}\n\n"
 
             except Exception as e:
-                yield f"data: ❌ Error running {script}: {str(e)}\n\n"
+                yield f"data: ❌ {str(e)}\n\n"
 
             await asyncio.sleep(0.5)
 
-        yield "data: 🎉 Bot updated successfully!\n\n"
+        yield "data: 🎉 PAFI updated with latest PAF-IAST data!\n\n"
         yield "data: DONE\n\n"
 
     return StreamingResponse(
