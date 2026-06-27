@@ -141,33 +141,60 @@ async def update_bot(data: AdminLogin):
 
     async def run_scripts():
         scripts = [
-            ("🕷️ Running Web Scraper...", "scraper.py"),
-            ("📄 Running PDF Scraper...", "pdf_scraper.py"),
-            ("🧠 Rebuilding Knowledge Base...", "knowledge_base.py"),
+            ("🕷️ Starting Web Scraper — scraping 20 pages...", "scraper.py"),
+            ("📄 Starting PDF Scraper — extracting 13 PDFs...", "pdf_scraper.py"),
+            ("🧠 Rebuilding Knowledge Base — this takes 3-5 minutes...", "knowledge_base.py"),
         ]
 
         for message, script in scripts:
-            yield f"data: {message}\n\n"
+            yield f"data: ⏳ {message}\n\n"
+            await asyncio.sleep(0.3)
+
+            try:
+                process = await asyncio.create_subprocess_exec(
+                    "python", script,
+                    stdout=asyncio.subprocess.PIPE,
+                    stderr=asyncio.subprocess.PIPE,
+                    cwd="/app"  # Railway working directory
+                )
+
+                # Stream output line by line
+                while True:
+                    line = await process.stdout.readline()
+                    if not line:
+                        break
+                    decoded = line.decode().strip()
+                    if decoded:
+                        yield f"data: {decoded}\n\n"
+                        await asyncio.sleep(0.1)
+
+                # Wait for completion with timeout
+                try:
+                    await asyncio.wait_for(process.wait(), timeout=300)  # 5 min timeout
+                except asyncio.TimeoutError:
+                    process.kill()
+                    yield f"data: ⚠️ {script} timed out after 5 minutes\n\n"
+                    continue
+
+                if process.returncode == 0:
+                    yield f"data: ✅ {script} completed successfully!\n\n"
+                else:
+                    stderr_output = await process.stderr.read()
+                    yield f"data: ❌ {script} failed: {stderr_output.decode()[:200]}\n\n"
+
+            except Exception as e:
+                yield f"data: ❌ Error running {script}: {str(e)}\n\n"
+
             await asyncio.sleep(0.5)
 
-            process = await asyncio.create_subprocess_exec(
-                "python", script,
-                stdout=asyncio.subprocess.PIPE,
-                stderr=asyncio.subprocess.PIPE
-            )
-            stdout, stderr = await process.communicate()
-
-            if process.returncode == 0:
-                yield f"data: ✅ {script} completed successfully!\n\n"
-            else:
-                yield f"data: ❌ {script} failed: {stderr.decode()}\n\n"
-
-            await asyncio.sleep(0.5)
-
-        yield "data: 🎉 Bot updated successfully! Reload to use latest data.\n\n"
+        yield "data: 🎉 Bot updated successfully!\n\n"
         yield "data: DONE\n\n"
 
     return StreamingResponse(
         run_scripts(),
-        media_type="text/event-stream"
+        media_type="text/event-stream",
+        headers={
+            "Cache-Control": "no-cache",
+            "X-Accel-Buffering": "no"
+        }
     )

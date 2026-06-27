@@ -1,13 +1,525 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>frontend</title>
-  </head>
-  <body>
-    <div id="root"></div>
-    <script type="module" src="/src/main.jsx"></script>
-  </body>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Pak-Austria Fachhochschule</title>
+  <link rel="icon" href="https://paf-iast.edu.pk/wp-content/uploads/2026/04/cropped-PAFIASTFAVPNG-270x270.png" />
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: 'Segoe UI', Arial, sans-serif; color: #333; }
+
+    /* ─── TOP BAR ─── */
+    .top-bar {
+      background: #1a5276;
+      color: white;
+      padding: 6px 40px;
+      display: flex;
+      justify-content: flex-end;
+      gap: 20px;
+      font-size: 12px;
+    }
+    .top-bar a { color: white; text-decoration: none; }
+    .top-bar a:hover { text-decoration: underline; }
+
+    /* ─── NAVBAR ─── */
+    nav {
+      background: white;
+      padding: 0 40px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+      position: sticky;
+      top: 0;
+      z-index: 1000;
+    }
+    .logo img { height: 70px; padding: 8px 0; }
+    .nav-links { display: flex; gap: 0; list-style: none; }
+    .nav-links > li { position: relative; }
+    .nav-links > li > a {
+      display: block;
+      padding: 24px 16px;
+      color: #333;
+      text-decoration: none;
+      font-size: 13px;
+      font-weight: 600;
+      transition: color 0.2s;
+    }
+    .nav-links > li > a:hover { color: #1a5276; }
+    .nav-links > li:hover .dropdown { display: block; }
+    .dropdown {
+      display: none;
+      position: absolute;
+      top: 100%;
+      left: 0;
+      background: white;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+      min-width: 220px;
+      z-index: 999;
+      border-top: 3px solid #1a5276;
+    }
+    .dropdown a {
+      display: block;
+      padding: 10px 16px;
+      color: #333;
+      text-decoration: none;
+      font-size: 13px;
+      border-bottom: 1px solid #f0f0f0;
+    }
+    .dropdown a:hover { background: #f0f7ff; color: #1a5276; }
+    .apply-btn {
+      background: #1a5276;
+      color: white !important;
+      padding: 10px 20px !important;
+      border-radius: 4px;
+      font-size: 13px !important;
+    }
+    .apply-btn:hover { background: #2e86c1 !important; }
+
+    /* ─── HERO ─── */
+    .hero {
+      position: relative;
+      height: 580px;
+      background: linear-gradient(135deg, #1a5276 0%, #2e86c1 60%, #1a5276 100%);
+      display: flex;
+      align-items: center;
+      overflow: hidden;
+    }
+    .hero::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: url('https://paf-iast.edu.pk/wp-content/uploads/2026/03/Fall2026AdmissionAdvV1.jpeg') center/cover;
+      opacity: 0.3;
+    }
+    .hero-content {
+      position: relative;
+      z-index: 1;
+      color: white;
+      padding: 0 80px;
+      max-width: 700px;
+    }
+    .hero-content h1 {
+      font-size: 48px;
+      font-weight: 800;
+      line-height: 1.2;
+      margin-bottom: 16px;
+      text-shadow: 0 2px 8px rgba(0,0,0,0.3);
+    }
+    .hero-content p {
+      font-size: 16px;
+      opacity: 0.9;
+      margin-bottom: 28px;
+      line-height: 1.6;
+    }
+    .hero-btns { display: flex; gap: 14px; }
+    .btn-primary {
+      background: white;
+      color: #1a5276;
+      padding: 13px 28px;
+      border-radius: 4px;
+      text-decoration: none;
+      font-weight: 700;
+      font-size: 14px;
+      transition: all 0.2s;
+    }
+    .btn-primary:hover { background: #f0f7ff; transform: translateY(-2px); }
+    .btn-secondary {
+      background: transparent;
+      color: white;
+      padding: 13px 28px;
+      border-radius: 4px;
+      text-decoration: none;
+      font-weight: 700;
+      font-size: 14px;
+      border: 2px solid white;
+      transition: all 0.2s;
+    }
+    .btn-secondary:hover { background: rgba(255,255,255,0.1); }
+
+    /* ─── STATS ─── */
+    .stats {
+      background: #1a5276;
+      padding: 40px;
+      display: flex;
+      justify-content: center;
+      gap: 60px;
+    }
+    .stat { text-align: center; color: white; }
+    .stat-number {
+      font-size: 42px;
+      font-weight: 800;
+      color: #f0c040;
+    }
+    .stat-label { font-size: 13px; opacity: 0.85; margin-top: 4px; }
+
+    /* ─── QUICK LINKS ─── */
+    .quick-links {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 0;
+    }
+    .quick-link {
+      padding: 40px 30px;
+      text-align: center;
+      text-decoration: none;
+      color: white;
+      transition: opacity 0.2s;
+    }
+    .quick-link:hover { opacity: 0.9; transform: translateY(-3px); transition: all 0.2s; }
+    .quick-link:nth-child(1) { background: #2e86c1; }
+    .quick-link:nth-child(2) { background: #1a5276; }
+    .quick-link:nth-child(3) { background: #117a65; }
+    .quick-link:nth-child(4) { background: #6c3483; }
+    .quick-link-icon { font-size: 36px; margin-bottom: 12px; }
+    .quick-link h3 { font-size: 16px; font-weight: 700; margin-bottom: 6px; }
+    .quick-link p { font-size: 12px; opacity: 0.85; }
+
+    /* ─── SECTION ─── */
+    .section { padding: 70px 80px; }
+    .section-title {
+      font-size: 28px;
+      font-weight: 700;
+      color: #1a5276;
+      margin-bottom: 8px;
+    }
+    .section-line {
+      width: 50px;
+      height: 3px;
+      background: #2e86c1;
+      margin-bottom: 30px;
+    }
+
+    /* ─── NEWS ─── */
+    .news-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px; }
+    .news-card {
+      border-radius: 8px;
+      overflow: hidden;
+      box-shadow: 0 2px 12px rgba(0,0,0,0.1);
+      transition: transform 0.2s;
+    }
+    .news-card:hover { transform: translateY(-4px); }
+    .news-card img { width: 100%; height: 180px; object-fit: cover; }
+    .news-card-body { padding: 16px; }
+    .news-date { font-size: 12px; color: #2e86c1; margin-bottom: 6px; }
+    .news-card-body h4 { font-size: 15px; color: #1a5276; line-height: 1.4; }
+
+    /* ─── ADMISSIONS ─── */
+    .admissions-section {
+      background: #f0f7ff;
+      padding: 70px 80px;
+      display: flex;
+      gap: 60px;
+      align-items: center;
+    }
+    .admissions-text { flex: 1; }
+    .admissions-text h2 { font-size: 28px; color: #1a5276; font-weight: 700; margin-bottom: 12px; }
+    .admissions-text p { color: #555; line-height: 1.7; margin-bottom: 20px; }
+    .admissions-img { flex: 1; }
+    .admissions-img img { width: 100%; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15); }
+
+    /* ─── COLLABORATIONS ─── */
+    .collab-section { padding: 60px 80px; background: #fafafa; }
+    .collab-logos {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 20px;
+      align-items: center;
+      justify-content: center;
+      margin-top: 24px;
+    }
+    .collab-logos img {
+      height: 50px;
+      object-fit: contain;
+      filter: grayscale(30%);
+      transition: filter 0.2s;
+    }
+    .collab-logos img:hover { filter: grayscale(0%); }
+
+    /* ─── FOOTER ─── */
+    footer {
+      background: #1a5276;
+      color: white;
+      padding: 50px 80px 20px;
+    }
+    .footer-grid {
+      display: grid;
+      grid-template-columns: 2fr 1fr 1fr 1fr;
+      gap: 40px;
+      margin-bottom: 40px;
+    }
+    .footer-brand img { height: 60px; margin-bottom: 16px; filter: brightness(0) invert(1); }
+    .footer-brand p { font-size: 13px; opacity: 0.8; line-height: 1.6; }
+    .footer-col h4 { font-size: 14px; font-weight: 700; margin-bottom: 14px; color: #f0c040; }
+    .footer-col a {
+      display: block;
+      color: rgba(255,255,255,0.8);
+      text-decoration: none;
+      font-size: 13px;
+      margin-bottom: 8px;
+    }
+    .footer-col a:hover { color: white; }
+    .footer-bottom {
+      border-top: 1px solid rgba(255,255,255,0.2);
+      padding-top: 20px;
+      text-align: center;
+      font-size: 12px;
+      opacity: 0.7;
+    }
+
+    /* ─── CHAT BUBBLE ─── */
+    #chat-root {
+      position: fixed;
+      bottom: 0;
+      right: 0;
+      z-index: 99999;
+    }
+
+    /* ─── MOBILE ─── */
+    @media (max-width: 768px) {
+      .top-bar { display: none; }
+      nav { padding: 0 16px; }
+      .nav-links { display: none; }
+      .hero { height: 400px; }
+      .hero-content { padding: 0 24px; }
+      .hero-content h1 { font-size: 28px; }
+      .stats { gap: 20px; padding: 24px 16px; flex-wrap: wrap; }
+      .stat-number { font-size: 28px; }
+      .quick-links { grid-template-columns: repeat(2, 1fr); }
+      .section { padding: 40px 24px; }
+      .news-grid { grid-template-columns: 1fr; }
+      .admissions-section { flex-direction: column; padding: 40px 24px; }
+      .collab-section { padding: 40px 24px; }
+      footer { padding: 40px 24px 20px; }
+      .footer-grid { grid-template-columns: 1fr; gap: 24px; }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- TOP BAR -->
+  <div class="top-bar">
+    <a href="#">Events</a>
+    <a href="#">CMS</a>
+    <a href="#">ERP</a>
+    <a href="#">LMS</a>
+    <a href="#">Downloads</a>
+    <a href="#">Careers</a>
+  </div>
+
+  <!-- NAVBAR -->
+  <nav>
+    <div class="logo">
+      <a href="#">
+        <img src="https://paf-iast.edu.pk/wp-content/uploads/2024/06/PAFIASTLOGOPNGFinal.png" alt="PAF-IAST Logo" />
+      </a>
+    </div>
+    <ul class="nav-links">
+      <li><a href="#">Home</a></li>
+      <li>
+        <a href="#">About ▾</a>
+        <div class="dropdown">
+          <a href="#">Chairman Advisory Board</a>
+          <a href="#">Rector</a>
+          <a href="#">Board of Governors</a>
+          <a href="#">History</a>
+          <a href="#">Vision & Mission</a>
+          <a href="#">Campus Life</a>
+        </div>
+      </li>
+      <li>
+        <a href="#">Study ▾</a>
+        <div class="dropdown">
+          <a href="#">Bachelor Programs</a>
+          <a href="#">Master Programs</a>
+          <a href="#">Academic Schedule</a>
+          <a href="#">Student Societies</a>
+          <a href="#">Scholarships</a>
+        </div>
+      </li>
+      <li>
+        <a href="#">Admissions ▾</a>
+        <div class="dropdown">
+          <a href="#">Fee Structure</a>
+          <a href="#">Eligibility Criteria</a>
+          <a href="#">Merit Scheme</a>
+          <a href="#">Entry Test</a>
+          <a href="#">FAQs</a>
+        </div>
+      </li>
+      <li>
+        <a href="#">Research ▾</a>
+        <div class="dropdown">
+          <a href="#">Sino-Pak Center for AI</a>
+          <a href="#">Agriculture Food Technologies</a>
+          <a href="#">Mineral Resource Engineering</a>
+          <a href="#">Railway Engineering</a>
+        </div>
+      </li>
+      <li><a href="#">Contact Us</a></li>
+      <li><a href="#" class="apply-btn">Apply Now</a></li>
+    </ul>
+  </nav>
+
+  <!-- HERO -->
+  <div class="hero">
+    <div class="hero-content">
+      <h1>Skilling Pakistan</h1>
+      <p>Pak-Austria Fachhochschule: Institute of Applied Sciences and Technology — a technology-focused initiative creating high-quality technical education in collaboration with Austrian and Chinese universities.</p>
+      <div class="hero-btns">
+        <a href="#" class="btn-primary">Apply Now — Fall 2026</a>
+        <a href="#" class="btn-secondary">Explore Programs</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- STATS -->
+  <div class="stats">
+    <div class="stat">
+      <div class="stat-number">70+</div>
+      <div class="stat-label">PhD Faculty</div>
+    </div>
+    <div class="stat">
+      <div class="stat-number">4206</div>
+      <div class="stat-label">Students</div>
+    </div>
+    <div class="stat">
+      <div class="stat-number">132</div>
+      <div class="stat-label">International Students</div>
+    </div>
+    <div class="stat">
+      <div class="stat-number">484</div>
+      <div class="stat-label">Alumni</div>
+    </div>
+  </div>
+
+  <!-- QUICK LINKS -->
+  <div class="quick-links">
+    <a href="#" class="quick-link">
+      <div class="quick-link-icon">🎓</div>
+      <h3>Admissions</h3>
+      <p>Apply for Fall 2026</p>
+    </a>
+    <a href="#" class="quick-link">
+      <div class="quick-link-icon">📚</div>
+      <h3>Programs</h3>
+      <p>BS & MS Programs</p>
+    </a>
+    <a href="#" class="quick-link">
+      <div class="quick-link-icon">💰</div>
+      <h3>Scholarships</h3>
+      <p>Merit & Need Based</p>
+    </a>
+    <a href="#" class="quick-link">
+      <div class="quick-link-icon">🔬</div>
+      <h3>Research</h3>
+      <p>Innovation & Technology</p>
+    </a>
+  </div>
+
+  <!-- NEWS -->
+  <div class="section">
+    <div class="section-title">News & Events</div>
+    <div class="section-line"></div>
+    <div class="news-grid">
+      <div class="news-card">
+        <img src="https://paf-iast.edu.pk/wp-content/uploads/2026/06/729275134_1622154883254164_6268286958237514688_n-900x500.jpg" alt="News" />
+        <div class="news-card-body">
+          <div class="news-date">June 24, 2026</div>
+          <h4>PAF-IAST welcomed a German–UK delegation</h4>
+        </div>
+      </div>
+      <div class="news-card">
+        <img src="https://paf-iast.edu.pk/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-23-at-2.35.52-PM-900x500.jpeg" alt="News" />
+        <div class="news-card-body">
+          <div class="news-date">June 23, 2026</div>
+          <h4>PAF-IAST Secures 2nd Position in HEC NSCT 2026</h4>
+        </div>
+      </div>
+      <div class="news-card">
+        <img src="https://paf-iast.edu.pk/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-20-at-12.55.22-PM-900x500.jpeg" alt="News" />
+        <div class="news-card-body">
+          <div class="news-date">June 20, 2026</div>
+          <h4>PAF-IAST Ranks No 1 in KP's Newly Emerging Universities</h4>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ADMISSIONS -->
+  <div class="admissions-section">
+    <div class="admissions-text">
+      <h2>Admissions Open — Fall 2026</h2>
+      <div class="section-line"></div>
+      <p>At PAF-IAST, we are committed to promoting equal opportunities and welcoming students from all backgrounds, irrespective of their creed, color, gender, ethnicity, and their social and financial status.</p>
+      <p>PAF-IAST strongly encourages female students to join any program of their choice and realize their dreams.</p>
+      <a href="#" class="btn-primary" style="display:inline-block; background:#1a5276; color:white;">Apply Now</a>
+    </div>
+    <div class="admissions-img">
+      <img src="https://paf-iast.edu.pk/wp-content/uploads/2026/03/Fall2026AdmissionAdvV1.jpeg" alt="Admissions" />
+    </div>
+  </div>
+
+  <!-- COLLABORATIONS -->
+  <div class="collab-section">
+    <div class="section-title">International Collaborations</div>
+    <div class="section-line"></div>
+    <div class="collab-logos">
+      <img src="https://paf-iast.edu.pk/wp-content/uploads/2021/03/ic1.png" alt="FH Joanneum" />
+      <img src="https://paf-iast.edu.pk/wp-content/uploads/2021/03/ic2.png" alt="JKU" />
+      <img src="https://paf-iast.edu.pk/wp-content/uploads/2021/03/ic3.png" alt="CUMT" />
+      <img src="https://paf-iast.edu.pk/wp-content/uploads/2021/03/ic4.png" alt="GDUT" />
+      <img src="https://paf-iast.edu.pk/wp-content/uploads/2021/03/ic5.png" alt="USTB" />
+      <img src="https://paf-iast.edu.pk/wp-content/uploads/2021/03/ic6.png" alt="NJTU" />
+      <img src="https://paf-iast.edu.pk/wp-content/uploads/2021/03/ic8.png" alt="SHU" />
+      <img src="https://paf-iast.edu.pk/wp-content/uploads/2025/04/THWS-LOGO.png" alt="THWS" />
+      <img src="https://paf-iast.edu.pk/wp-content/uploads/2025/04/ConvertryUniversityLogo.png" alt="Coventry" />
+    </div>
+  </div>
+
+  <!-- FOOTER -->
+  <footer>
+    <div class="footer-grid">
+      <div class="footer-brand">
+        <img src="https://paf-iast.edu.pk/wp-content/uploads/2024/06/PAFIASTLOGOPNGFinal.png" alt="PAF-IAST" />
+        <p>Khanpur Road, Mang Haripur, Khyber Pakhtunkhwa<br/>
+        📞 0995-111 723 278<br/>
+        📧 info@paf-iast.edu.pk</p>
+      </div>
+      <div class="footer-col">
+        <h4>Our Campus</h4>
+        <a href="#">Green Campus</a>
+        <a href="#">History</a>
+        <a href="#">Vision</a>
+        <a href="#">Infrastructure</a>
+        <a href="#">Video Gallery</a>
+      </div>
+      <div class="footer-col">
+        <h4>Useful Links</h4>
+        <a href="#">Departments</a>
+        <a href="#">International Office</a>
+        <a href="#">Central Library</a>
+        <a href="#">Downloads</a>
+        <a href="#">Careers</a>
+      </div>
+      <div class="footer-col">
+        <h4>Research</h4>
+        <a href="#">Sino-Pak Center for AI</a>
+        <a href="#">Railway Engineering</a>
+        <a href="#">Mineral Resources</a>
+        <a href="#">Nano-Technology</a>
+        <a href="#">Agriculture & Food</a>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      Copyright © 2026 PAF-IAST. All Rights Reserved.
+    </div>
+  </footer>
+
+  <!-- CHAT BUBBLE (loads from React) -->
+  <div id="chat-root"></div>
+  <script type="module" src="/src/main.jsx"></script>
+
+</body>
 </html>
