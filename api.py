@@ -251,3 +251,12 @@ async def update_bot(data: AdminLogin):
             "X-Accel-Buffering": "no"
         }
     )
+from fastapi.responses import FileResponse
+import os
+
+@app.get("/widget.js")
+async def serve_widget():
+    return FileResponse(
+        "widget.js",
+        media_type="application/javascript"
+    )
