@@ -175,10 +175,11 @@ export default function App() {
       {isOpen && (
         <div style={{
           position: "fixed",
-          bottom: isMobile ? "0" : "90px",
+          bottom: isMobile ? "0" : "80px",
           right: isMobile ? "0" : "0px",
           width: isMobile ? "100vw" : "350px",
-          height: isMobile ? "100vh" : "560px",
+          height: isMobile ? "100vh" : "500px",
+          maxHeight: "calc(100vh - 100px)",
           background: "white",
           borderRadius: isMobile ? "0" : "20px",
           boxShadow: "0 8px 40px rgba(0,0,0,0.2)",
