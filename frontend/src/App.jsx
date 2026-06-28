@@ -13,7 +13,7 @@ const LANGUAGES = {
   },
   ur: {
     name: "🇵🇰 UR",
-    greeting: "پافی — آپ کا پی اے ایف آئی اے ایس ٹی اسسٹنٹ",
+    greeting: "پافی — آپ کا PAF-IAST اسسٹنٹ",
     placeholder: "اپنا سوال یہاں لکھیں...",
     welcome: "👋 السلام علیکم! میں پافی ہوں، آپ کا PAF-IAST AI اسسٹنٹ! داخلہ، پروگرامز، فیس، اسکالرشپ — کچھ بھی پوچھیں!",
     typing: "پافی سوچ رہا ہے...",
@@ -123,24 +123,27 @@ export default function App() {
     setLoading(false);
   };
 
-  const chatStyle = {
-    position: "fixed",
-    bottom: isMobile ? "0" : "90px",
-    right: isMobile ? "0" : "24px",
-    width: isMobile ? "100vw" : "380px",
-    height: isMobile ? "100vh" : "560px",
-    background: "white",
-    borderRadius: isMobile ? "0" : "20px",
-    boxShadow: "0 8px 40px rgba(0,0,0,0.2)",
-    display: "flex",
-    flexDirection: "column",
-    zIndex: 9999,
-    overflow: "hidden",
-  };
-
   return (
     <div>
-      {/* Chat Bubble */}
+      <style>{`
+        * { box-sizing: border-box; }
+        @keyframes pulse {
+          0% { box-shadow: 0 0 0 0 rgba(26,82,118,0.5); }
+          70% { box-shadow: 0 0 0 12px rgba(26,82,118,0); }
+          100% { box-shadow: 0 0 0 0 rgba(26,82,118,0); }
+        }
+        @keyframes bounce {
+          0%, 60%, 100% { transform: translateY(0); }
+          30% { transform: translateY(-5px); }
+        }
+        .msg-text { white-space: pre-wrap; word-break: break-word; }
+        .quick-btn:hover { background: #e8f4fd !important; border-color: #2e86c1 !important; }
+        ::-webkit-scrollbar { width: 4px; }
+        ::-webkit-scrollbar-track { background: #f1f1f1; }
+        ::-webkit-scrollbar-thumb { background: #2e86c1; border-radius: 4px; }
+      `}</style>
+
+      {/* ── Chat Bubble Button ── */}
       {!isOpen && (
         <div
           onClick={() => setIsOpen(true)}
@@ -148,8 +151,8 @@ export default function App() {
             position: "fixed",
             bottom: "24px",
             right: "24px",
-            width: isMobile ? "58px" : "65px",
-            height: isMobile ? "58px" : "65px",
+            width: "62px",
+            height: "62px",
             borderRadius: "50%",
             background: "linear-gradient(135deg, #1a5276, #2e86c1)",
             color: "white",
@@ -158,97 +161,116 @@ export default function App() {
             alignItems: "center",
             justifyContent: "center",
             cursor: "pointer",
-            boxShadow: "0 4px 20px rgba(26,82,118,0.5)",
-            zIndex: 10000,
             animation: "pulse 2s infinite",
+            zIndex: 10000,
           }}
         >
-          <div style={{ fontSize: "24px" }}>🎓</div>
-          <div style={{ fontSize: "8px", opacity: 0.9, fontWeight: "bold" }}>PAFI</div>
+          <div style={{ fontSize: "24px", lineHeight: 1 }}>🎓</div>
+          <div style={{ fontSize: "8px", fontWeight: "bold", marginTop: "2px" }}>PAFI</div>
         </div>
       )}
 
-      {/* Pulse animation */}
-      <style>{`
-        @keyframes pulse {
-          0% { box-shadow: 0 0 0 0 rgba(26,82,118,0.5); }
-          70% { box-shadow: 0 0 0 12px rgba(26,82,118,0); }
-          100% { box-shadow: 0 0 0 0 rgba(26,82,118,0); }
-        }
-        .msg-text { white-space: pre-wrap; }
-        ::-webkit-scrollbar { width: 4px; }
-        ::-webkit-scrollbar-track { background: #f1f1f1; }
-        ::-webkit-scrollbar-thumb { background: #2e86c1; border-radius: 4px; }
-      `}</style>
-
-      {/* Chat Window */}
+      {/* ── Chat Window ── */}
       {isOpen && (
-        <div style={chatStyle}>
+        <div style={{
+          position: "fixed",
+          bottom: isMobile ? "0" : "90px",
+          right: "0",
+          width: isMobile ? "100vw" : "370px",
+          height: isMobile ? "100vh" : "560px",
+          background: "white",
+          borderRadius: isMobile ? "0" : "20px",
+          boxShadow: "0 8px 40px rgba(0,0,0,0.2)",
+          display: "flex",
+          flexDirection: "column",
+          zIndex: 9999,
+          overflow: "hidden",
+        }}>
 
-          {/* Header */}
+          {/* ── Header ── */}
           <div style={{
             background: "linear-gradient(135deg, #1a5276, #2e86c1)",
-            color: "white",
-            padding: "14px 16px",
+            padding: "10px 12px",
             display: "flex",
             alignItems: "center",
             justifyContent: "space-between",
             flexShrink: 0,
+            width: "100%",
           }}>
-            <div style={{ display: "flex", alignItems: "center", gap: "10px" }}>
-              {/* Avatar */}
+            {/* Left */}
+            <div style={{
+              display: "flex",
+              alignItems: "center",
+              gap: "8px",
+              minWidth: 0,
+              flex: 1,
+            }}>
               <div style={{
-                width: "40px",
-                height: "40px",
+                width: "36px",
+                height: "36px",
                 borderRadius: "50%",
                 background: "rgba(255,255,255,0.2)",
                 display: "flex",
                 alignItems: "center",
                 justifyContent: "center",
-                fontSize: "20px",
+                fontSize: "18px",
                 flexShrink: 0,
               }}>
                 🎓
               </div>
-              <div>
+              <div style={{ minWidth: 0 }}>
                 <div style={{
+                  color: "white",
                   fontWeight: "bold",
-                  fontSize: "15px",
+                  fontSize: "14px",
                   display: "flex",
                   alignItems: "center",
-                  gap: "6px",
+                  gap: "5px",
                 }}>
                   PAFI
                   <span style={{
                     background: "#27ae60",
-                    borderRadius: "10px",
-                    padding: "1px 6px",
-                    fontSize: "9px",
+                    borderRadius: "8px",
+                    padding: "1px 5px",
+                    fontSize: "8px",
                     fontWeight: "normal",
                   }}>
                     ONLINE
                   </span>
                 </div>
-                <div style={{ fontSize: "10px", opacity: 0.85 }}>
+                <div style={{
+                  color: "rgba(255,255,255,0.85)",
+                  fontSize: "10px",
+                  whiteSpace: "nowrap",
+                  overflow: "hidden",
+                  textOverflow: "ellipsis",
+                }}>
                   PAF-IAST AI Assistant
                 </div>
               </div>
             </div>
 
-            {/* Controls */}
-            <div style={{ display: "flex", alignItems: "center", gap: "8px" }}>
+            {/* Right */}
+            <div style={{
+              display: "flex",
+              alignItems: "center",
+              gap: "6px",
+              flexShrink: 0,
+              marginLeft: "8px",
+            }}>
               <select
                 value={language}
                 onChange={(e) => handleLanguageChange(e.target.value)}
                 style={{
                   background: "rgba(255,255,255,0.2)",
                   color: "white",
-                  border: "1px solid rgba(255,255,255,0.3)",
+                  border: "1px solid rgba(255,255,255,0.4)",
                   borderRadius: "6px",
-                  padding: "4px 6px",
-                  fontSize: "11px",
+                  padding: "4px 4px",
+                  fontSize: "10px",
                   cursor: "pointer",
                   outline: "none",
+                  width: "62px",
                 }}
               >
                 {Object.entries(LANGUAGES).map(([code, l]) => (
@@ -257,54 +279,48 @@ export default function App() {
                   </option>
                 ))}
               </select>
-              <div
+
+              <button
                 onClick={() => setIsOpen(false)}
                 style={{
+                  background: "rgba(255,255,255,0.2)",
+                  border: "1px solid rgba(255,255,255,0.4)",
+                  borderRadius: "6px",
+                  color: "white",
                   cursor: "pointer",
-                  fontSize: "18px",
-                  opacity: 0.8,
-                  padding: "2px 6px",
-                  borderRadius: "4px",
-                  background: "rgba(255,255,255,0.1)",
+                  fontSize: "14px",
+                  padding: "4px 8px",
+                  flexShrink: 0,
+                  lineHeight: 1,
                 }}
               >
                 ✕
-              </div>
+              </button>
             </div>
           </div>
 
-          {/* Messages */}
+          {/* ── Messages ── */}
           <div style={{
             flex: 1,
             overflowY: "auto",
-            padding: "16px",
+            padding: "14px",
             background: "#f5f8ff",
             display: "flex",
             flexDirection: "column",
-            gap: "12px",
+            gap: "10px",
           }}>
-
             {messages.map((msg, i) => (
               <div key={i} style={{
                 display: "flex",
                 flexDirection: "column",
                 alignItems: msg.sender === "user" ? "flex-end" : "flex-start",
-                gap: "3px",
+                gap: "2px",
               }}>
-                {/* Bot label */}
                 {msg.sender === "bot" && (
-                  <div style={{
-                    fontSize: "10px",
-                    color: "#888",
-                    paddingLeft: "4px",
-                    display: "flex",
-                    alignItems: "center",
-                    gap: "4px",
-                  }}>
+                  <div style={{ fontSize: "10px", color: "#888", paddingLeft: "2px" }}>
                     🎓 PAFI
                   </div>
                 )}
-
                 <div style={{
                   maxWidth: "82%",
                   padding: "10px 14px",
@@ -318,17 +334,14 @@ export default function App() {
                   fontSize: isMobile ? "13px" : "14px",
                   lineHeight: "1.6",
                   boxShadow: "0 2px 8px rgba(0,0,0,0.08)",
-                  wordBreak: "break-word",
                 }}>
                   <div className="msg-text">{msg.text}</div>
                 </div>
-
-                {/* Timestamp */}
                 <div style={{
                   fontSize: "9px",
-                  color: "#aaa",
-                  paddingLeft: msg.sender === "bot" ? "4px" : "0",
-                  paddingRight: msg.sender === "user" ? "4px" : "0",
+                  color: "#bbb",
+                  paddingLeft: msg.sender === "bot" ? "2px" : "0",
+                  paddingRight: msg.sender === "user" ? "2px" : "0",
                 }}>
                   {formatTime(msg.time)}
                 </div>
@@ -341,9 +354,9 @@ export default function App() {
                 display: "flex",
                 flexDirection: "column",
                 alignItems: "flex-start",
-                gap: "3px",
+                gap: "2px",
               }}>
-                <div style={{ fontSize: "10px", color: "#888", paddingLeft: "4px" }}>
+                <div style={{ fontSize: "10px", color: "#888", paddingLeft: "2px" }}>
                   🎓 PAFI
                 </div>
                 <div style={{
@@ -358,8 +371,8 @@ export default function App() {
                   <div style={{ display: "flex", gap: "4px" }}>
                     {[0, 1, 2].map((i) => (
                       <div key={i} style={{
-                        width: "8px",
-                        height: "8px",
+                        width: "7px",
+                        height: "7px",
                         borderRadius: "50%",
                         background: "#2e86c1",
                         animation: `bounce 1.2s ${i * 0.2}s infinite`,
@@ -375,7 +388,7 @@ export default function App() {
 
             {/* Quick Questions */}
             {showQuickQ && messages.length <= 1 && (
-              <div style={{ marginTop: "8px" }}>
+              <div style={{ marginTop: "4px" }}>
                 <div style={{
                   fontSize: "11px",
                   color: "#888",
@@ -384,14 +397,11 @@ export default function App() {
                 }}>
                   💡 Quick Questions:
                 </div>
-                <div style={{
-                  display: "flex",
-                  flexDirection: "column",
-                  gap: "6px",
-                }}>
+                <div style={{ display: "flex", flexDirection: "column", gap: "6px" }}>
                   {QUICK_QUESTIONS.map((q, i) => (
                     <div
                       key={i}
+                      className="quick-btn"
                       onClick={() => sendMessage(q)}
                       style={{
                         background: "white",
@@ -401,16 +411,7 @@ export default function App() {
                         fontSize: "12px",
                         color: "#1a5276",
                         cursor: "pointer",
-                        transition: "all 0.2s",
                         boxShadow: "0 1px 4px rgba(0,0,0,0.05)",
-                      }}
-                      onMouseEnter={(e) => {
-                        e.target.style.background = "#f0f7ff";
-                        e.target.style.borderColor = "#2e86c1";
-                      }}
-                      onMouseLeave={(e) => {
-                        e.target.style.background = "white";
-                        e.target.style.borderColor = "#d0e8f7";
                       }}
                     >
                       {q}
@@ -423,15 +424,16 @@ export default function App() {
             <div ref={messagesEndRef} />
           </div>
 
-          {/* Input */}
+          {/* ── Input ── */}
           <div style={{
-            padding: "12px",
+            padding: "10px 12px",
             background: "white",
             borderTop: "1px solid #eee",
             display: "flex",
             gap: "8px",
-            flexShrink: 0,
             alignItems: "center",
+            flexShrink: 0,
+            width: "100%",
           }}>
             <input
               ref={inputRef}
@@ -443,14 +445,13 @@ export default function App() {
               disabled={loading}
               style={{
                 flex: 1,
-                padding: "10px 16px",
+                padding: "10px 14px",
                 borderRadius: "24px",
                 border: "1.5px solid #d0e8f7",
                 outline: "none",
-                fontSize: "14px",
+                fontSize: "13px",
                 minWidth: 0,
                 background: loading ? "#f9f9f9" : "white",
-                color: "#333",
               }}
             />
             <button
@@ -463,44 +464,36 @@ export default function App() {
                 color: "white",
                 border: "none",
                 borderRadius: "50%",
-                width: "42px",
-                height: "42px",
-                minWidth: "42px",
+                width: "40px",
+                height: "40px",
+                minWidth: "40px",
                 cursor: loading || !input.trim() ? "not-allowed" : "pointer",
                 fontSize: "16px",
                 display: "flex",
                 alignItems: "center",
                 justifyContent: "center",
                 flexShrink: 0,
-                transition: "background 0.2s",
               }}
             >
               ➤
             </button>
           </div>
 
-          {/* Footer */}
+          {/* ── Footer ── */}
           <div style={{
-            padding: "6px",
+            padding: "5px",
             background: "white",
             textAlign: "center",
-            fontSize: "10px",
-            color: "#aaa",
+            fontSize: "9px",
+            color: "#bbb",
             borderTop: "1px solid #f5f5f5",
             flexShrink: 0,
           }}>
             Powered by PAF-IAST AI • paf-iast.edu.pk
           </div>
+
         </div>
       )}
-
-      {/* Bounce animation */}
-      <style>{`
-        @keyframes bounce {
-          0%, 60%, 100% { transform: translateY(0); }
-          30% { transform: translateY(-6px); }
-        }
-      `}</style>
     </div>
   );
 }
