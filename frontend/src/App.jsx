@@ -171,12 +171,13 @@ export default function App() {
       )}
 
       {/* ── Chat Window ── */}
+
       {isOpen && (
         <div style={{
           position: "fixed",
           bottom: isMobile ? "0" : "90px",
-          right: "0",
-          width: isMobile ? "100vw" : "370px",
+          right: isMobile ? "0" : "0px",
+          width: isMobile ? "100vw" : "350px",
           height: isMobile ? "100vh" : "560px",
           background: "white",
           borderRadius: isMobile ? "0" : "20px",
