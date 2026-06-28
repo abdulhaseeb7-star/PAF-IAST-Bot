@@ -41,13 +41,43 @@ const LANGUAGES = {
   },
 };
 
-const QUICK_QUESTIONS = [
-  "What are the admission requirements?",
-  "What is the fee structure?",
-  "What BS programs are offered?",
-  "What scholarships are available?",
-  "How to contact PAF-IAST?",
-];
+const QUICK_QUESTIONS = {
+  en: [
+    "What are the admission requirements?",
+    "What is the fee structure?",
+    "What BS programs are offered?",
+    "What scholarships are available?",
+    "How to contact PAF-IAST?",
+  ],
+  ur: [
+    "داخلہ کی ضروریات کیا ہیں؟",
+    "فیس کتنی ہے؟",
+    "کون سے BS پروگرامز ہیں؟",
+    "اسکالرشپ کیسے ملے گی؟",
+    "PAF-IAST سے کیسے رابطہ کریں؟",
+  ],
+  zh: [
+    "入学要求是什么？",
+    "学费是多少？",
+    "提供哪些学士课程？",
+    "有哪些奖学金？",
+    "如何联系PAF-IAST？",
+  ],
+  ar: [
+    "ما هي متطلبات القبول؟",
+    "ما هي الرسوم الدراسية؟",
+    "ما هي البرامج المتاحة؟",
+    "ما هي المنح الدراسية؟",
+    "كيف أتواصل مع PAF-IAST؟",
+  ],
+  de: [
+    "Was sind die Zulassungsvoraussetzungen?",
+    "Wie hoch sind die Studiengebühren?",
+    "Welche Bachelor-Programme gibt es?",
+    "Welche Stipendien gibt es?",
+    "Wie kontaktiere ich PAF-IAST?",
+  ],
+};
 
 export default function App() {
   const [isOpen, setIsOpen] = useState(false);
@@ -400,7 +430,7 @@ export default function App() {
                   💡 Quick Questions:
                 </div>
                 <div style={{ display: "flex", flexDirection: "column", gap: "6px" }}>
-                  {QUICK_QUESTIONS.map((q, i) => (
+                  {(QUICK_QUESTIONS[language] || QUICK_QUESTIONS.en).map((q, i) => (
                     <div
                       key={i}
                       className="quick-btn"
