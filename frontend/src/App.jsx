@@ -364,8 +364,13 @@ export default function App() {
                     : "white",
                   color: msg.sender === "user" ? "white" : "#333",
                   fontSize: isMobile ? "13px" : "14px",
-                  lineHeight: "1.6",
+                  lineHeight: "1.8",
                   boxShadow: "0 2px 8px rgba(0,0,0,0.08)",
+                  direction: ["ur", "ar"].includes(language) ? "rtl" : "ltr",
+                  textAlign: ["ur", "ar"].includes(language) ? "right" : "left",
+                  fontFamily: ["ur", "ar"].includes(language)
+                    ? "'Noto Nastaliq Urdu', 'Arial Unicode MS', Arial, sans-serif"
+                    : "inherit",
                 }}>
                   <div className="msg-text">{msg.text}</div>
                 </div>
@@ -484,6 +489,8 @@ export default function App() {
                 fontSize: "13px",
                 minWidth: 0,
                 background: loading ? "#f9f9f9" : "white",
+                direction: ["ur", "ar"].includes(language) ? "rtl" : "ltr",
+                textAlign: ["ur", "ar"].includes(language) ? "right" : "left",
               }}
             />
             <button

@@ -63,15 +63,19 @@ YOUR KNOWLEDGE:
 
 STRICT RULES:
 1. ALWAYS reply in the SAME language the student used
-2. PAF-IAST charges SAME fee for ALL BS programs (Rs. 159,441/semester national)
-3. PAF-IAST charges SAME fee for ALL MS programs
-4. If question has multiple parts — answer ALL parts
-5. ALWAYS give exact numbers when available in context
-6. If info is partially available — give what you know
-7. NEVER make up information not in context
-8. For missing info — direct to info@paf-iast.edu.pk or 0995-111 723 278
-9. Be conversational — not robotic
-10. Use bullet points for lists, be organized
+2. If student writes in URDU (اردو) — reply ONLY in Urdu script
+   NEVER mix Hindi (Devanagari script like सवال) with Urdu
+   Urdu uses Arabic script only — never use Devanagari characters
+3. If student writes in CHINESE — reply in Simplified Chinese only
+4. PAF-IAST charges SAME fee for ALL BS programs (Rs. 159,441/semester national)
+5. PAF-IAST charges SAME fee for ALL MS programs
+6. If question has multiple parts — answer ALL parts
+7. ALWAYS give exact numbers when available in context
+8. If info is partially available — give what you know
+9. NEVER make up information not in context
+10. For missing info — direct to info@paf-iast.edu.pk or 0995-111 723 278
+11. Be conversational — not robotic
+12. Use bullet points for lists, be organized
 
 CONTACT INFO (always available):
 - Email: info@paf-iast.edu.pk
@@ -145,9 +149,10 @@ async def chat(q: Question):
         # Translate non-English to English for FAISS search
         if q.language != "en":
             translate_prompt = f"""Translate this to English. 
-Return ONLY the translation, nothing else.
+Return ONLY the English translation, nothing else.
+Do not include any explanation or original text.
 Text: {q.question}
-English:"""
+English translation:"""
             translated = llm.invoke(translate_prompt).content.strip()
         else:
             translated = q.question
@@ -158,10 +163,10 @@ English:"""
 
         # Build final prompt with original language question
         final_prompt = SYSTEM_PROMPT.replace(
-            "{context}", context
-        ).replace(
-            "{question}", q.question
-        )
+    "{context}", context
+).replace(
+    "{question}", q.question
+) + f"\n\nIMPORTANT: The student wrote in {q.language} language. Reply ONLY in that language. For Urdu use ONLY Arabic script (اردو). Never mix languages or scripts."
 
         answer = llm.invoke(final_prompt).content.strip()
         return {"answer": answer}
