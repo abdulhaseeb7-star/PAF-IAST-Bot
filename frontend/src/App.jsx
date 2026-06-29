@@ -153,24 +153,32 @@ export default function App() {
     setLoading(false);
   };
 
+  // ── Purple Colors ──
+  const purpleGradient = "linear-gradient(135deg, #4a148c, #6a1b9a)";
+  const darkPurple = "#4a148c";
+  const purpleBg = "#f3e5f5";
+
   return (
     <div>
       <style>{`
         * { box-sizing: border-box; }
         @keyframes pulse {
-          0% { box-shadow: 0 0 0 0 rgba(28,27,59,0.5); }
-          70% { box-shadow: 0 0 0 12px rgba(26,82,118,0); }
-          100% { box-shadow: 0 0 0 0 rgba(26,82,118,0); }
+          0% { box-shadow: 0 0 0 0 rgba(74,20,140,0.5); }
+          70% { box-shadow: 0 0 0 12px rgba(74,20,140,0); }
+          100% { box-shadow: 0 0 0 0 rgba(74,20,140,0); }
         }
         @keyframes bounce {
           0%, 60%, 100% { transform: translateY(0); }
           30% { transform: translateY(-5px); }
         }
         .msg-text { white-space: pre-wrap; word-break: break-word; }
-        .quick-btn:hover { background: #e8f4fd !important; border-color: #2e86c1 !important; }
+        .quick-btn:hover { 
+          background: #f3e5f5 !important; 
+          border-color: #6a1b9a !important; 
+        }
         ::-webkit-scrollbar { width: 4px; }
         ::-webkit-scrollbar-track { background: #f1f1f1; }
-        ::-webkit-scrollbar-thumb { background: #2e86c1; border-radius: 4px; }
+        ::-webkit-scrollbar-thumb { background: #6a1b9a; border-radius: 4px; }
       `}</style>
 
       {/* ── Chat Bubble Button ── */}
@@ -184,7 +192,7 @@ export default function App() {
             width: "62px",
             height: "62px",
             borderRadius: "50%",
-            background: "linear-gradient(135deg, #1c1b3b, #2c2b5e)",
+            background: purpleGradient,
             color: "white",
             display: "flex",
             flexDirection: "column",
@@ -193,6 +201,7 @@ export default function App() {
             cursor: "pointer",
             animation: "pulse 2s infinite",
             zIndex: 10000,
+            boxShadow: "0 4px 20px rgba(74,20,140,0.5)",
           }}
         >
           <div style={{ fontSize: "24px", lineHeight: 1 }}>🎓</div>
@@ -201,7 +210,6 @@ export default function App() {
       )}
 
       {/* ── Chat Window ── */}
-
       {isOpen && (
         <div style={{
           position: "fixed",
@@ -211,17 +219,18 @@ export default function App() {
           height: isMobile ? "100vh" : "500px",
           maxHeight: "calc(100vh - 100px)",
           background: "white",
-          borderRadius: isMobile ? "0" : "20px",
-          boxShadow: "0 8px 40px rgba(0,0,0,0.2)",
+          borderRadius: isMobile ? "0" : "20px 0 0 20px",
+          boxShadow: "0 8px 40px rgba(74,20,140,0.2)",
           display: "flex",
           flexDirection: "column",
           zIndex: 9999,
           overflow: "hidden",
+          border: "1px solid #ce93d8",
         }}>
 
           {/* ── Header ── */}
           <div style={{
-            background: "linear-gradient(135deg, #1c1b3b, #2c2b5e)",
+            background: purpleGradient,
             padding: "10px 12px",
             display: "flex",
             alignItems: "center",
@@ -336,7 +345,7 @@ export default function App() {
             flex: 1,
             overflowY: "auto",
             padding: "14px",
-            background: "#f5f8ff",
+            background: purpleBg,
             display: "flex",
             flexDirection: "column",
             gap: "10px",
@@ -349,7 +358,7 @@ export default function App() {
                 gap: "2px",
               }}>
                 {msg.sender === "bot" && (
-                  <div style={{ fontSize: "10px", color: "#888", paddingLeft: "2px" }}>
+                  <div style={{ fontSize: "10px", color: "#7b1fa2", paddingLeft: "2px" }}>
                     🎓 PAFI
                   </div>
                 )}
@@ -360,12 +369,12 @@ export default function App() {
                     ? "18px 18px 4px 18px"
                     : "18px 18px 18px 4px",
                   background: msg.sender === "user"
-                    ? "linear-gradient(135deg, #1c1b3b, #2c2b5e))"
+                    ? purpleGradient
                     : "white",
                   color: msg.sender === "user" ? "white" : "#333",
                   fontSize: isMobile ? "13px" : "14px",
                   lineHeight: "1.8",
-                  boxShadow: "0 2px 8px rgba(0,0,0,0.08)",
+                  boxShadow: "0 2px 8px rgba(74,20,140,0.1)",
                   direction: ["ur", "ar"].includes(language) ? "rtl" : "ltr",
                   textAlign: ["ur", "ar"].includes(language) ? "right" : "left",
                   fontFamily: ["ur", "ar"].includes(language)
@@ -393,14 +402,14 @@ export default function App() {
                 alignItems: "flex-start",
                 gap: "2px",
               }}>
-                <div style={{ fontSize: "10px", color: "#888", paddingLeft: "2px" }}>
+                <div style={{ fontSize: "10px", color: "#7b1fa2", paddingLeft: "2px" }}>
                   🎓 PAFI
                 </div>
                 <div style={{
                   background: "white",
                   padding: "12px 16px",
                   borderRadius: "18px 18px 18px 4px",
-                  boxShadow: "0 2px 8px rgba(0,0,0,0.08)",
+                  boxShadow: "0 2px 8px rgba(74,20,140,0.1)",
                   display: "flex",
                   alignItems: "center",
                   gap: "8px",
@@ -411,7 +420,7 @@ export default function App() {
                         width: "7px",
                         height: "7px",
                         borderRadius: "50%",
-                        background: "#2e86c1",
+                        background: darkPurple,
                         animation: `bounce 1.2s ${i * 0.2}s infinite`,
                       }} />
                     ))}
@@ -428,7 +437,7 @@ export default function App() {
               <div style={{ marginTop: "4px" }}>
                 <div style={{
                   fontSize: "11px",
-                  color: "#888",
+                  color: "#7b1fa2",
                   marginBottom: "8px",
                   textAlign: "center",
                 }}>
@@ -442,13 +451,13 @@ export default function App() {
                       onClick={() => sendMessage(q)}
                       style={{
                         background: "white",
-                        border: "1px solid #d0e8f7",
+                        border: "1px solid #ce93d8",
                         borderRadius: "12px",
                         padding: "8px 12px",
                         fontSize: "12px",
-                        color: "#1a5276",
+                        color: darkPurple,
                         cursor: "pointer",
-                        boxShadow: "0 1px 4px rgba(0,0,0,0.05)",
+                        boxShadow: "0 1px 4px rgba(74,20,140,0.05)",
                       }}
                     >
                       {q}
@@ -465,7 +474,7 @@ export default function App() {
           <div style={{
             padding: "10px 12px",
             background: "white",
-            borderTop: "1px solid #eee",
+            borderTop: "1px solid #ce93d8",
             display: "flex",
             gap: "8px",
             alignItems: "center",
@@ -484,7 +493,7 @@ export default function App() {
                 flex: 1,
                 padding: "10px 14px",
                 borderRadius: "24px",
-                border: "1.5px solid #d0e8f7",
+                border: "1.5px solid #ce93d8",
                 outline: "none",
                 fontSize: "13px",
                 minWidth: 0,
@@ -499,7 +508,7 @@ export default function App() {
               style={{
                 background: loading || !input.trim()
                   ? "#ccc"
-                  : "linear-gradient(135deg, #1c1b3b, #2c2b5e)",
+                  : purpleGradient,
                 color: "white",
                 border: "none",
                 borderRadius: "50%",
@@ -512,6 +521,7 @@ export default function App() {
                 alignItems: "center",
                 justifyContent: "center",
                 flexShrink: 0,
+                boxShadow: "0 2px 8px rgba(74,20,140,0.3)",
               }}
             >
               ➤
@@ -524,8 +534,8 @@ export default function App() {
             background: "white",
             textAlign: "center",
             fontSize: "9px",
-            color: "#bbb",
-            borderTop: "1px solid #f5f5f5",
+            color: "#7b1fa2",
+            borderTop: "1px solid #f3e5f5",
             flexShrink: 0,
           }}>
             Powered by PAF-IAST AI • paf-iast.edu.pk
