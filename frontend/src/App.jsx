@@ -158,7 +158,7 @@ export default function App() {
       <style>{`
         * { box-sizing: border-box; }
         @keyframes pulse {
-          0% { box-shadow: 0 0 0 0 rgba(26,82,118,0.5); }
+          0% { box-shadow: 0 0 0 0 rgba(28,27,59,0.5); }
           70% { box-shadow: 0 0 0 12px rgba(26,82,118,0); }
           100% { box-shadow: 0 0 0 0 rgba(26,82,118,0); }
         }
