@@ -153,19 +153,19 @@ export default function App() {
     setLoading(false);
   };
 
-  // ── Purple Colors ──
-  const purpleGradient = "linear-gradient(135deg, #4a148c, #6a1b9a)";
-  const darkPurple = "#4a148c";
-  const purpleBg = "#f3e5f5";
+  // ── Navy Colors ──
+  const purpleGradient = "linear-gradient(135deg, #1a1a3e, #2c2c6c)";
+  const darkPurple = "#1a1a3e";
+  const purpleBg = "#eeeef5";
 
   return (
     <div>
       <style>{`
         * { box-sizing: border-box; }
         @keyframes pulse {
-          0% { box-shadow: 0 0 0 0 rgba(74,20,140,0.5); }
-          70% { box-shadow: 0 0 0 12px rgba(74,20,140,0); }
-          100% { box-shadow: 0 0 0 0 rgba(74,20,140,0); }
+          0% { box-shadow: 0 0 0 0 rgba(26,26,62,0.5); }
+          70% { box-shadow: 0 0 0 12px rgba(26,26,62,0); }
+          100% { box-shadow: 0 0 0 0 rgba(26,26,62,0); }
         }
         @keyframes bounce {
           0%, 60%, 100% { transform: translateY(0); }
@@ -173,12 +173,12 @@ export default function App() {
         }
         .msg-text { white-space: pre-wrap; word-break: break-word; }
         .quick-btn:hover { 
-          background: #f3e5f5 !important; 
-          border-color: #6a1b9a !important; 
+          background: #eeeef5 !important; 
+          border-color: #2c2c6c !important; 
         }
         ::-webkit-scrollbar { width: 4px; }
         ::-webkit-scrollbar-track { background: #f1f1f1; }
-        ::-webkit-scrollbar-thumb { background: #6a1b9a; border-radius: 4px; }
+        ::-webkit-scrollbar-thumb { background: #2c2c6c; border-radius: 4px; }
       `}</style>
 
       {/* ── Chat Bubble Button ── */}
@@ -201,7 +201,7 @@ export default function App() {
             cursor: "pointer",
             animation: "pulse 2s infinite",
             zIndex: 10000,
-            boxShadow: "0 4px 20px rgba(74,20,140,0.5)",
+            boxShadow: "0 4px 20px rgba(26,26,62,0.5)",
           }}
         >
           <div style={{ fontSize: "24px", lineHeight: 1 }}>🎓</div>
@@ -220,12 +220,12 @@ export default function App() {
           maxHeight: "calc(100vh - 100px)",
           background: "white",
           borderRadius: isMobile ? "0" : "20px 0 0 20px",
-          boxShadow: "0 8px 40px rgba(74,20,140,0.2)",
+          boxShadow: "0 8px 40px rgba(26,26,62,0.2)",
           display: "flex",
           flexDirection: "column",
           zIndex: 9999,
           overflow: "hidden",
-          border: "1px solid #ce93d8",
+          border: "1px solid #9090c0",
         }}>
 
           {/* ── Header ── */}
@@ -358,7 +358,7 @@ export default function App() {
                 gap: "2px",
               }}>
                 {msg.sender === "bot" && (
-                  <div style={{ fontSize: "10px", color: "#7b1fa2", paddingLeft: "2px" }}>
+                  <div style={{ fontSize: "10px", color: "#2c2c6c", paddingLeft: "2px" }}>
                     🎓 PAFI
                   </div>
                 )}
@@ -374,7 +374,7 @@ export default function App() {
                   color: msg.sender === "user" ? "white" : "#333",
                   fontSize: isMobile ? "13px" : "14px",
                   lineHeight: "1.8",
-                  boxShadow: "0 2px 8px rgba(74,20,140,0.1)",
+                  boxShadow: "0 2px 8px rgba(26,26,62,0.1)",
                   direction: ["ur", "ar"].includes(language) ? "rtl" : "ltr",
                   textAlign: ["ur", "ar"].includes(language) ? "right" : "left",
                   fontFamily: ["ur", "ar"].includes(language)
@@ -402,14 +402,14 @@ export default function App() {
                 alignItems: "flex-start",
                 gap: "2px",
               }}>
-                <div style={{ fontSize: "10px", color: "#7b1fa2", paddingLeft: "2px" }}>
+                <div style={{ fontSize: "10px", color: "#2c2c6c", paddingLeft: "2px" }}>
                   🎓 PAFI
                 </div>
                 <div style={{
                   background: "white",
                   padding: "12px 16px",
                   borderRadius: "18px 18px 18px 4px",
-                  boxShadow: "0 2px 8px rgba(74,20,140,0.1)",
+                  boxShadow: "0 2px 8px rgba(26,26,62,0.1)",
                   display: "flex",
                   alignItems: "center",
                   gap: "8px",
@@ -437,7 +437,7 @@ export default function App() {
               <div style={{ marginTop: "4px" }}>
                 <div style={{
                   fontSize: "11px",
-                  color: "#7b1fa2",
+                  color: "#2c2c6c",
                   marginBottom: "8px",
                   textAlign: "center",
                 }}>
@@ -451,13 +451,13 @@ export default function App() {
                       onClick={() => sendMessage(q)}
                       style={{
                         background: "white",
-                        border: "1px solid #ce93d8",
+                        border: "1px solid #9090c0",
                         borderRadius: "12px",
                         padding: "8px 12px",
                         fontSize: "12px",
                         color: darkPurple,
                         cursor: "pointer",
-                        boxShadow: "0 1px 4px rgba(74,20,140,0.05)",
+                        boxShadow: "0 1px 4px rgba(26,26,62,0.05)",
                       }}
                     >
                       {q}
@@ -474,7 +474,7 @@ export default function App() {
           <div style={{
             padding: "10px 12px",
             background: "white",
-            borderTop: "1px solid #ce93d8",
+            borderTop: "1px solid #9090c0",
             display: "flex",
             gap: "8px",
             alignItems: "center",
@@ -493,7 +493,7 @@ export default function App() {
                 flex: 1,
                 padding: "10px 14px",
                 borderRadius: "24px",
-                border: "1.5px solid #ce93d8",
+                border: "1.5px solid #9090c0",
                 outline: "none",
                 fontSize: "13px",
                 minWidth: 0,
@@ -521,7 +521,7 @@ export default function App() {
                 alignItems: "center",
                 justifyContent: "center",
                 flexShrink: 0,
-                boxShadow: "0 2px 8px rgba(74,20,140,0.3)",
+                boxShadow: "0 2px 8px rgba(26,26,62,0.3)",
               }}
             >
               ➤
@@ -534,8 +534,8 @@ export default function App() {
             background: "white",
             textAlign: "center",
             fontSize: "9px",
-            color: "#7b1fa2",
-            borderTop: "1px solid #f3e5f5",
+            color: "#2c2c6c",
+            borderTop: "1px solid #e0e0f0",
             flexShrink: 0,
           }}>
             Powered by PAF-IAST AI • paf-iast.edu.pk
