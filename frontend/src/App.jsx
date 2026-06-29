@@ -184,7 +184,7 @@ export default function App() {
             width: "62px",
             height: "62px",
             borderRadius: "50%",
-            background: "linear-gradient(135deg, #1a5276, #2e86c1)",
+            background: "linear-gradient(135deg, #1c1b3b, #2c2b5e)",
             color: "white",
             display: "flex",
             flexDirection: "column",
@@ -221,7 +221,7 @@ export default function App() {
 
           {/* ── Header ── */}
           <div style={{
-            background: "linear-gradient(135deg, #1a5276, #2e86c1)",
+            background: "linear-gradient(135deg, #1c1b3b, #2c2b5e)",
             padding: "10px 12px",
             display: "flex",
             alignItems: "center",
@@ -360,7 +360,7 @@ export default function App() {
                     ? "18px 18px 4px 18px"
                     : "18px 18px 18px 4px",
                   background: msg.sender === "user"
-                    ? "linear-gradient(135deg, #1a5276, #2e86c1)"
+                    ? "linear-gradient(135deg, #1c1b3b, #2c2b5e))"
                     : "white",
                   color: msg.sender === "user" ? "white" : "#333",
                   fontSize: isMobile ? "13px" : "14px",
@@ -499,7 +499,7 @@ export default function App() {
               style={{
                 background: loading || !input.trim()
                   ? "#ccc"
-                  : "linear-gradient(135deg, #1a5276, #2e86c1)",
+                  : "linear-gradient(135deg, #1c1b3b, #2c2b5e)",
                 color: "white",
                 border: "none",
                 borderRadius: "50%",
