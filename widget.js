@@ -18,7 +18,7 @@
       width: 62px;
       height: 62px;
       border-radius: 50%;
-      background: linear-gradient(135deg, #1a5276, #2e86c1);
+      background: linear-gradient(135deg, #1c1b3b, #2c2b5e);
       color: white;
       display: flex;
       flex-direction: column;
@@ -26,16 +26,16 @@
       justify-content: center;
       cursor: pointer;
       z-index: 999999;
-      box-shadow: 0 4px 20px rgba(26,82,118,0.5);
+      box-shadow: 0 4px 20px rgba(28,27,59,0.5);
       animation: pafi-pulse 2s infinite;
       font-family: Arial, sans-serif;
     }
     #pafi-bubble .pafi-icon { font-size: 24px; line-height: 1; }
     #pafi-bubble .pafi-label { font-size: 8px; font-weight: bold; margin-top: 2px; }
     @keyframes pafi-pulse {
-      0% { box-shadow: 0 0 0 0 rgba(26,82,118,0.5); }
-      70% { box-shadow: 0 0 0 12px rgba(26,82,118,0); }
-      100% { box-shadow: 0 0 0 0 rgba(26,82,118,0); }
+      0% { box-shadow: 0 0 0 0 rgba(28,27,59,0.5); }
+      70% { box-shadow: 0 0 0 12px rgba(28,27,59,0); }
+      100% { box-shadow: 0 0 0 0 rgba(28,27,59,0); }
     }
     #pafi-window {
       position: fixed;
@@ -65,7 +65,7 @@
       }
     }
     #pafi-header {
-      background: linear-gradient(135deg, #1a5276, #2e86c1);
+      background: linear-gradient(135deg, #1c1b3b, #2c2b5e);
       padding: 10px 12px;
       display: flex;
       align-items: center;
@@ -148,7 +148,7 @@
       gap: 10px;
     }
     #pafi-messages::-webkit-scrollbar { width: 4px; }
-    #pafi-messages::-webkit-scrollbar-thumb { background: #2e86c1; border-radius: 4px; }
+    #pafi-messages::-webkit-scrollbar-thumb { background: #1c1b3b; border-radius: 4px; }
     .pafi-msg-row {
       display: flex;
       flex-direction: column;
@@ -171,7 +171,7 @@
       white-space: pre-wrap;
     }
     .pafi-bubble-msg.user {
-      background: linear-gradient(135deg, #1a5276, #2e86c1);
+      background: linear-gradient(135deg, #1c1b3b, #2c2b5e);
       color: white;
       border-radius: 18px 18px 4px 18px;
     }
@@ -204,7 +204,7 @@
       width: 7px;
       height: 7px;
       border-radius: 50%;
-      background: #2e86c1;
+      background: #1c1b3b;
       animation: pafi-bounce 1.2s infinite;
     }
     .pafi-dot:nth-child(2) { animation-delay: 0.2s; }
@@ -228,19 +228,19 @@
     }
     .pafi-quick-btn {
       background: white;
-      border: 1px solid #d0e8f7;
+      border: 1px solid #d0d0e8;
       border-radius: 12px;
       padding: 8px 12px;
       font-size: 12px;
-      color: #1a5276;
+      color: #1c1b3b;
       cursor: pointer;
       box-shadow: 0 1px 4px rgba(0,0,0,0.05);
       text-align: left;
       transition: all 0.2s;
     }
     .pafi-quick-btn:hover {
-      background: #e8f4fd;
-      border-color: #2e86c1;
+      background: #e8e8f4;
+      border-color: #1c1b3b;
     }
     #pafi-input-area {
       padding: 10px 12px;
@@ -255,14 +255,14 @@
       flex: 1;
       padding: 10px 14px;
       border-radius: 24px;
-      border: 1.5px solid #d0e8f7;
+      border: 1.5px solid #d0d0e8;
       outline: none;
       font-size: 13px;
       min-width: 0;
       font-family: Arial, sans-serif;
     }
     #pafi-send {
-      background: linear-gradient(135deg, #1a5276, #2e86c1);
+      background: linear-gradient(135deg, #1c1b3b, #2c2b5e);
       color: white;
       border: none;
       border-radius: 50%;
