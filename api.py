@@ -4,7 +4,9 @@ from pydantic import BaseModel
 from dotenv import load_dotenv
 import os
 import asyncio
-from fastapi.responses import StreamingResponse
+import base64
+import httpx
+from fastapi.responses import StreamingResponse, FileResponse
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_community.vectorstores import FAISS
 from langchain_groq import ChatGroq
@@ -146,7 +148,6 @@ def root():
 @app.post("/chat")
 async def chat(q: Question):
     try:
-        # Translate non-English to English for FAISS search
         if q.language != "en":
             translate_prompt = f"""Translate this to English. 
 Return ONLY the English translation, nothing else.
@@ -157,16 +158,14 @@ English translation:"""
         else:
             translated = q.question
 
-        # Search FAISS with English question
         docs = retriever.invoke(translated)
         context = format_docs(docs)
 
-        # Build final prompt with original language question
         final_prompt = SYSTEM_PROMPT.replace(
-    "{context}", context
-).replace(
-    "{question}", q.question
-) + f"\n\nIMPORTANT: The student wrote in {q.language} language. Reply ONLY in that language. For Urdu use ONLY Arabic script (اردو). Never mix languages or scripts."
+            "{context}", context
+        ).replace(
+            "{question}", q.question
+        ) + f"\n\nIMPORTANT: The student wrote in {q.language} language. Reply ONLY in that language. For Urdu use ONLY Arabic script (اردو). Never mix languages or scripts."
 
         answer = llm.invoke(final_prompt).content.strip()
         return {"answer": answer}
@@ -175,6 +174,70 @@ English translation:"""
         return {
             "answer": f"I'm sorry, I encountered an error. Please try again or contact PAF-IAST at info@paf-iast.edu.pk"
         }
+
+
+# ─── GITHUB PUSH HELPER ──────────────────────────────────
+GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
+GITHUB_REPO = os.getenv("GITHUB_REPO")  # e.g. "abdulhaseeb7-star/PAF-IAST-Bot"
+GITHUB_BRANCH = os.getenv("GITHUB_BRANCH", "main")
+
+# Folders whose files get pushed back to GitHub after a rebuild
+FOLDERS_TO_PUSH = ["knowledge_base", "scraped_data"]
+
+
+async def push_file_to_github(client, local_path, repo_path):
+    """Push a single file to GitHub using the Contents API (create or update)."""
+    with open(local_path, "rb") as f:
+        content_b64 = base64.b64encode(f.read()).decode("utf-8")
+
+    url = f"https://api.github.com/repos/{GITHUB_REPO}/contents/{repo_path}"
+    headers = {
+        "Authorization": f"Bearer {GITHUB_TOKEN}",
+        "Accept": "application/vnd.github+json",
+    }
+
+    # Check if file already exists to get its sha (required for updates)
+    get_res = await client.get(url, headers=headers, params={"ref": GITHUB_BRANCH})
+    sha = get_res.json().get("sha") if get_res.status_code == 200 else None
+
+    payload = {
+        "message": f"update: auto-sync {repo_path} via admin panel",
+        "content": content_b64,
+        "branch": GITHUB_BRANCH,
+    }
+    if sha:
+        payload["sha"] = sha
+
+    put_res = await client.put(url, headers=headers, json=payload)
+    return put_res.status_code in (200, 201), put_res.text
+
+
+async def push_knowledge_to_github():
+    """Push every file inside FOLDERS_TO_PUSH to GitHub. Yields progress strings."""
+    if not GITHUB_TOKEN or not GITHUB_REPO:
+        yield "⚠️ GITHUB_TOKEN or GITHUB_REPO not set — skipping GitHub sync"
+        return
+
+    async with httpx.AsyncClient(timeout=60) as client:
+        pushed = 0
+        failed = 0
+        for folder in FOLDERS_TO_PUSH:
+            if not os.path.isdir(folder):
+                continue
+            for root, _, files in os.walk(folder):
+                for fname in files:
+                    local_path = os.path.join(root, fname)
+                    repo_path = local_path.replace("\\", "/")  # relative path = repo path
+
+                    ok, msg = await push_file_to_github(client, local_path, repo_path)
+                    if ok:
+                        pushed += 1
+                        yield f"  ↳ ✅ pushed {repo_path}"
+                    else:
+                        failed += 1
+                        yield f"  ↳ ❌ failed {repo_path}: {msg[:120]}"
+
+        yield f"📦 GitHub sync complete — {pushed} files pushed, {failed} failed"
 
 
 # ─── ADMIN ENDPOINTS ─────────────────────────────────────
@@ -240,7 +303,17 @@ async def update_bot(data: AdminLogin):
 
             await asyncio.sleep(0.5)
 
-        yield "data: 🎉 PAFI updated with latest PAF-IAST data!\n\n"
+        # ── NEW: Push updated files to GitHub so the change is permanent ──
+        yield "data: 🔗 Pushing updated knowledge base to GitHub...\n\n"
+        await asyncio.sleep(0.2)
+        try:
+            async for line in push_knowledge_to_github():
+                yield f"data: {line}\n\n"
+                await asyncio.sleep(0.05)
+        except Exception as e:
+            yield f"data: ❌ GitHub push failed: {str(e)}\n\n"
+
+        yield "data: 🎉 PAFI updated with latest PAF-IAST data and saved to GitHub!\n\n"
         yield "data: DONE\n\n"
 
     return StreamingResponse(
@@ -251,8 +324,7 @@ async def update_bot(data: AdminLogin):
             "X-Accel-Buffering": "no"
         }
     )
-from fastapi.responses import FileResponse
-import os
+
 
 @app.get("/widget.js")
 async def serve_widget():
