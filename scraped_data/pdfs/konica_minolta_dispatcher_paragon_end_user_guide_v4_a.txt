@@ -1,0 +1,140 @@
+Konica Minolta Dispatcher Paragon End User Guide
+Contents
+Authenticating at Multifunctional Devices ..................................................................................... 2
+Authenticate by Pin (note you can authenticate by swiping your card on the reader) .... 2
+Authenticate by Username/password .................................................................................... 3
+ID Card Registration ....................................................................... Error! Bookmark not defined.
+Secure Printing .................................................................................................................................... 7
+Secure Scan ........................................................................................................................................... 8
+Mobile Print: ........................................................................................................................................ 8
+FAQ: ...................................................................................................................................................... 9
+End user guide
+2
+Authenticating at Multifunctional Devices
+The following authentication options are available:
+• Card swipe
+• PIN
+• Username and password
+• Or a combination of them
+Your organization will determine which are available.
+Authenticate by Pin (note you can authenticate by swiping your card on the reader)
+ Touch the PIN box.
+ Using the keypad on the
+screen, input your PIN.
+ Then touch the OK
+button.
+End user guide
+3
+ You will return to this
+screen.
+ You may have the option
+to select Print All.
+ Yes, will print all your
+waiting documents.
+ No, will require you to
+select the jobs waiting to
+print.
+ Touch the Login button.
+Authenticate by Username/password
+ Enter your  network
+username (Login) by
+touching the Login box.
+ Enter your username.
+ Touch OK
+End user guide
+4
+ Touch the Password box.
+ Using the keypad on the
+screen, input your
+Password.
+ Then touch the OK
+button
+ You will return to this
+screen.
+ You may have the option
+to select Print All.
+ Yes, will print all your
+waiting documents.
+ No, will require you to
+select the jobs to print.
+ Touch the Login button.
+End user guide
+5
+Card Activation method for Dispatcher Paragon
+This method is for new cards not yet register to any valid users in Dispatcher
+Paragon.
+1. At the MFP you will be presented with the following screen.
+2. Tapping your card on the card reader will take you to the screen illustrated below
+End user guide
+6
+3. Enter the username and password you want to associated with the card and select
+the “Activate” button
+4. The card is now associated to the user and ready to use.
+End user guide
+7
+Secure Printing
+ Touch the Dispatcher
+Print button
+ If Print All has not been
+enabled as the default,
+Touch the Waiting
+button.
+ Printed print shows a
+list of previously
+printed jobs.
+ Jobs can be marked as
+favorites and they are
+in the Favorite option.
+ Touch your print job(s)
+
+selects all
+waiting print jobs
+
+will delete the
+selected jobs
+
+Access job
+details and advanced
+options
+
+Return to
+previous screen
+
+indicates that a
+job is incompatible
+with the MFD.
+Changing finishing
+options may resolve
+the problem.
+On once job(s) have been selected, press the blue button located on the MFD to release
+your print job.
+End user guide
+8
+Secure Scan
+ Touch the Scan/Fax button
+ Touch your email address
+ This is your only option.
+You cannot email to
+another email address.
+ All other options are
+available/unavailable
+depending on your
+company’s default settings.
+ You can allow the system
+to name your file or you
+can click the ON icon,
+which allows you to type in
+the file name.
+ Click OK when finished.
+ Press the Blue button on
+the MFD when ready to
+send.
+Mobile Print:
+ From your Mobile device send an email from your company email account.
+ Authenticate and release your mobile print job at any managed device
+End user guide
+9
+FAQ:
+What kind of files can be uploaded for print? Office Documents, PDF files, Image files, text files,
+web page screenshots.   PDF files require no processing and generally produce the best
+results.

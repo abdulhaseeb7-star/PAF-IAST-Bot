@@ -1,0 +1,597 @@
+Pak-Austria Fachhochschule:
+Institute of Applied Sciences & Technology
+Mang, Haripur, Khyber Pakhtunkhwa
+Test 1
+Test 2
+Test 3
+1. Test duration is 2 hours.
+2. Test consists of 100 MCQs.
+3. Test consists of 3 sections.
+•
+English: 20%
+•
+Biology: 40%
+•
+Chemistry: 40%
+1. Test duration is 2 hours.
+2. Test consists of 100 MCQs.
+3. Test consists of 3 sections.
+•
+English: 20%
+•
+Math: 40%
+•
+Physics: 40%
+1. Test duration is 2 hours.
+2. Test consists of 100 MCQs.
+3. Test consists of 3 sections.
+•
+English: 20%
+•
+General Math: 40%
+•
+Computer: 40%
+Test 4
+Test 5
+Test 6
+1. Test duration is 2 hours.
+2. Test consists of 100 MCQs.
+3. Test consists of 3 sections.
+•
+Drawing: 50%
+•
+Aptitudes: 50%
+1. Test duration is 2 hours.
+2. Test consists of 100 MCQs.
+3. Test consists of 5 sections.
+•
+English: 10%
+•
+General Math: 20%
+•
+Analytical: 20%
+•
+Drawing: 25%
+•
+Aptitudes: 25%
+1. Test duration is 2 hours.
+2. Test consists of 100 MCQs.
+3. Test consists of 3 sections.
+•
+English: 20%
+•
+Arithmetic: 40%
+•
+Analytical: 40%
+SECTION 1
+ENGLISH
+Guidelines
+This section has 20 questions, and each question has equal marks.
+Click on Next to proceed further.
+Q1. …………………… me, I would be happy to dedicate a few extra hours for the humanitarian
+cause.
+A) As of
+B) As for
+C) As from
+D) As to
+Q2. They have a(n)…………………. on the top prize in the competition.
+A) advantage
+B) edge
+C) eye
+D) vision
+Q3. Ahmed was true to his ………………… when he saved the child’s life in the accident but
+asked for money as a favor from the child’s parents.
+A) colors
+B) tones
+C) character
+D) self
+Q4. Are we ……………………… to leave on vacation?
+A) already
+B) altogether
+C) all together
+D) all ready
+Q5. He is very careful. He……………………………… his children to drive his car in rush hour
+traffic.
+A) does not allow
+B) did not allow
+C) allowed
+D) allow
+Q6. The coach’s insistence on fitness has become ………………… He yells at players all the time.
+A) emotional
+B) dilatory
+C) obsessive
+D) rational
+Q7. They …………………………… just reaching the office at 5 p.m. when I finished off my work.
+A) have been
+B) will be
+C) had been
+D) were
+Q8. Would he like the dinner? I …………………. very hard to make it delicious.
+A) will be working
+B) will work
+C) worked
+D) had worked
+Q9. Our group will be ……………. by your group at next intersection but the goal of both groups
+will remain same.
+A) joined
+B) replaced
+C) ignored
+D) influenced
+Q10. The …………….. applauded enthusiastically after the performance was finished.
+A) audience
+B) spectators
+C) bystanders
+D) onlookers
+Q11. She ________ for the upcoming tennis tournament.
+a. Trains
+b. Is training.
+c. Will training
+d. Is going to train.
+Q12. I ________ New Zealand next year.
+a. go
+b. will go
+c. going
+d. will go to
+Q13. There are some vacant rooms ________ in flats and shared houses.
+a. both
+b. between
+c. either
+d. neither
+Q14. The sun rises ________ the east.
+a. in
+b. On
+c. from
+d. towards
+Q15. Nitrogen gas is in abundance ________ the Earth.
+a. in
+b. On
+c. Above
+d. along
+Q16. For good health, she ________ bed earlier.
+a. Should go
+b. Should go to
+c. Should goes
+d. Should goes to
+Q17. If you have time, you ________ the nature museum.
+a. should visit
+b. should visited
+c. have to visit
+d. have to visited
+Q18. It is our problem, not ________.
+a. their
+b. their’s
+c. there
+d. there’s
+Q19. The number of guests at the party ________ amazing.
+a. was
+b. were
+c. had
+d. had have
+Q20. ________ 600 and 800 B.C, Olympics were held in Athens, Greece.
+a. during
+b. unless
+c. until
+d. between
+SECTION: 2
+General Math
+Guidelines
+This section has 40 questions, and each question has equal marks.
+Click on Next to proceed further.
+21. A number exceeds another number by 6.the sum of the numbers is 18. find the smaller
+number?
+a. 6
+b. 8
+c. 10
+d. 12
+22. What is the Arithmetic Mean of the following data 3,6,9,12,15.
+a. 6
+b. 9
+c. 12
+d. 15
+23. Find two number whose sum is 30 and the difference is 6 _____________?
+a. 12, 16
+b. 12, 18
+c. 16, 12
+d. 14, 16
+24. How much 60% of 50 is greater than 40% of 30?
+a. 14
+b. 16
+c. 18
+d. 20
+25.After decreasing 24% in the price of an article costs Rs.912. Find the actual cost of an
+article?
+a. 1500
+b. 1400
+c. 1300
+d. 1200
+26.If 6 men can make 10 sofas in 2 days, then 8 men can make 8 sofas in__________?
+a. 1 day
+b. 1.2 days
+c. 1.5 days
+d. 1.8 days
+27.A rectangular carpet has an area of 120 square meters and a parameter of 46m. The length
+of it’s diagonals is_________?
+a. 17m
+b. 15m
+c. 13m
+d. 11m
+28.The Ratio of the length and breadth of a plot is 3:2 .If the breadth is 40m less than the what
+is the parameter of the plot?
+a. 320m
+b. 400m
+c. 440m
+d. 480m
+29.The circumferences of two concentric circles are 176 m and 132 cm respectively. What is the
+difference between their radii?
+a. 7m
+b. 8m
+c. 12m
+d. 20m
+30.If the diameter of a circle is increased by 100 % its area is increased by:_________?
+a. 100%
+b. 200%
+c. 300%
+d. 400%
+31.If the diagonal of a square is doubled. How does the area of the square change?
+a. Become twofold
+b. Become threefold
+c. Become fourfold
+d. No Change
+32.If the ratio of the areas of two squares is 9:1 ratio of their perimeters is_________?
+a. 1:9
+b. 1:3
+c. 9:1
+d. 3:1
+33.15 cattle can graze a field in 20 days 20 cattle can graze 3 such field in how many days?
+a. 30
+b. 45
+c. 60
+d. 75
+34.If 12 members family spend Rs. 850 in 10 days. Then a family of 8 people will spend Rs. 340
+in how many days.
+a. 6
+b. 7
+c. 8
+d. 9
+35.A train 240 m long passes a pole in 24 seconds. How long will it take to pass a platform 650 m
+long?
+a. 78sec
+b. 80sec
+c. 89sec
+d. 92sec
+36.Rayan crosses a 400m bridge in 3 minutes. What is speed?
+a. 4 kmph
+b. 8 kmph
+c. 12 kmph
+d. 15 kmph
+37.The average weight of A, B and C is 45 kg. If the average weight of A and B be 40 kg and
+that of B and C be 43 kg, then the weight of B is___________?
+a. 15 kg
+b. 21 kg
+c. 27 kg
+d. 31 kg
+38. 0.004 × 0.02 = ?
+a. 0.008
+b. 0.0008
+c. 0.00008
+d. 0.000008
+39. What is the average of the numbers: 0, 0, 4, 10, 4, and 6?
+a. 4
+b. 8
+c. 12
+d. 16
+40. |–3| + |3| – 3 + 3 = ?
+a. 3
+b. 6
+c. 9
+d. 12
+41. What is the value of y in the equation 3y – 13 – 8 = 0 ?
+a. 7
+b. 8
+c. -7
+d. 9
+42.What comes next in the sequence: 1, 3, 11, 43, ____ ?
+a. 151
+b. 161
+c. 171
+d. 181
+43.What is the distance traveled by a car which traveled at a speed of 80 km/hr for 3 hours and
+30 minutes?
+a. 270 km
+b. 280 km
+c. 300 km
+d. 360 km
+44.In a class of 60 students 20% are boys. How many girls are there in the class?
+a. 56
+b. 48
+c. 38
+d. 32
+45. 6 + 6 − 6 × 6 ÷ 6 = ?
+a. 0
+b. -6
+c. 6
+d. 12
+47. For x = –2, the value of the function
+is
+a. -2
+b. 2
+c. 4
+d. -4
+48. The radius of a wire is decreased to one –third if volume remains the same length will
+increase
+a. 9 times
+b. 6 times
+c. 3 times
+d. No change
+49. In a 100 m race, A can beat B by 25 m and B can beat C by 4 m. In the same race, A can beat
+C by:________?
+a. 24
+b. 26
+c. 28
+d. 30
+50. You deposit Rs.600 into a 6 month certificate of deposit. After 6 months the balance is
+Rs.618. Find the simple annual interest rate
+a. 5%
+b. 6%
+c. 7%
+d. 8%
+51.Find the least square number which is divisible by 10, 12, 15 and 18?\
+a. 900
+b. 1200
+c. 1500
+d. 2100
+52. If the number of elements in a set S are 5. Then the number of elements of the power set P(S)
+are ?
+a. 16
+b. 32
+c. 36
+d. 12
+53.If the set G={1,w,w2} is an abelian group w.r.t multiplication, then inverse of w is ?
+a. 1
+b. W
+c. w2
+d. None of above
+54. If A and B are matrices, then which from the following is true ?
+a. (At)t ≠ A
+b. AB ≠ BA
+c. A + B ≠ B +A
+d. All are true
+55. If
+then |A| = ?
+a. 2
+b. 3
+c. 4
+d. 5
+56. If
+, then
+a. 2
+b. 3
+c. 4
+d. 5
+57. What is the value of the logarithm
+a. 2
+b. -2
+c. 5
+d. -5
+58. What is the value of x in the equation
+a. ½
+b. 1/3
+c. 3
+d. 1/9
+59. If x2 + 1 = 0, then x = ?
+a. ± i
+b. ± 1
+c. -1
+d. 1
+60. Find the roots of quadratic equation: x2 + x – 42 = 0?
+a. -6, 7
+b. -7, 6
+c. -6, 9
+d. 7, 9
+SECTION: 3
+COMPUTER
+Guidelines
+This section has 40 questions, and each question has equal marks.
+Click on Next to proceed further.
+Q61. The term ‘Computer’ is derived from__________?
+(A) Latin
+(B) German
+(C) French
+(D) Arabic
+Q62. Who is the father of Computer?
+(A) Allen Turing
+(B) Charles Babbage
+(C) Simur Cray
+(D) Augusta Adaming
+Q63. The basic operations performed by a computer are__________?
+(A) Arithmetic operation
+(B) Logical operation
+(C) Storage and relative
+(D) All the above
+Q64. Who is the father of Internet ?
+(A) Chares Babbage
+(B) Vint Cerf
+(C)  Denis Riche
+(D) Martin Cooper
+Q65. If a computer has more than one processor, then it is known as__________?
+(A) Uni-process
+(B) Multiprocessor
+(C) Multi-threaded
+(D) Multi-programming
+Q66. WAN stands for_____________?
+(A) Wap Area Network
+(B) Wide Area Network
+(C) Wide Array Net
+(D) Wireless Area Network
+Q67 _________ is called the father of modern digital computer?
+(A) Allen Turing
+(B) Blaise Pascal
+(C) Charles Babbage
+(D) J.H  Muller
+Q68 Who is the father of Computer science?
+(A) Allen Turing
+(B) Charles Babbage
+(C) Simur Cray
+(D) Augusta Adaming
+Q69 CPU contains___________?
+(A) a card reader and a printing device
+(B) an analytical engine and a control unit
+(C) a control unit and an arithmetic logic unit
+(D) an arithmetic logic unit and a card reader
+Q70. Which of the following controls the process of interaction between the user and the operating
+system?
+(A) User interface
+(B) Language translator
+(C) Platform
+(D) Screen saver
+Q71.  The first computers were programmed using___________?
+(A) Assembly language
+(B) Machine language
+(C) Source code
+(D) Object code
+Q72. Coded entries which are used to gain access to a computer system are called__________?
+(A) Entry codes
+(B) Passwords
+(C) Security commands
+(D) Code words
+Q73. You can organize files by storing them in__________?
+(A) archives
+(B) folders
+(C) indexes
+(D) lists
+Q74. What type of resource is most likely to be a shared common resource in a computer
+Network?
+(A) Printers
+(B) Speakers
+(C) Floppy disk drives
+(D) None of these
+Q75. Which device is required for the Internet connection?
+(A) Joystick
+(B) Modem
+(C) CD Drive
+(D) NIC Card
+Q76. What is a light pen?
+(A) A Mechanical Input device
+(B) Optical input device
+(C) Electronic input device
+(D) Optical output device
+Q77. UNIVAC is___________?
+(A) Universal Automatic Computer
+(B) Universal Array Computer
+(C) Unique Automatic Computer
+(D) Unvalued Automatic Computer
+Q78. The capacity of 3.5 inch floppy disk was__________?
+(A) 1.40 MB
+(B) 1.44 GB
+(C) 1.40 GB
+(D) 1.44 MB
+Q79. MICR stands for_________?
+(A) Magnetic ink character recognition
+(B) Magnetic Ink Code Reader
+(C) Magnetic Ink Cases Reader
+(D) None of these
+Q80. EBCDIC stands for__________?
+(A) Extended Binary Coded Decimal Interchange Code
+(B) Extended Bit Code Decimal Interchange Code
+(C) Extended Bit Case Decimal Interchange Code
+(D) Extended Binary Case Decimal Interchange Code
+Q81. Which of the following is a part of the Central Processing Unit?
+(A) Printer
+(B) Key board
+(C) Mouse
+(D) Arithmetic & Logic unit
+Q82. CAD stands for_________?
+(A) Computer aided design
+(B) Computer algorithm for design
+(C) Computer application in design
+(D) Computer analogue design
+Q83. Junk e-mail is also called_________?
+(A) spam
+(B) spoof
+(C) sniffer script
+(D) spool
+Q84. which statement describe “Hackers”?
+(A) break into other people’s computers
+(B) may legally break into computers as long as they do not do any damage
+(C) are people who are allergic to computers
+(D) all have the same motive
+Q85. Example of non-numeric data is_________?
+(A) Employee address
+(B) Examination score
+(C) Bank balance
+(D) All of these
+Q86. What is embedded system?
+(A) The programme which arrives by being wrapped in box.
+(B) The programme which is the permanent part of the computer
+(C) The computer which is the part of a larger system or machine
+(D) The computer and software system that control the machine
+Q87. When a file is saved for the first time?
+(A) a copy is automatically printed
+(B) it must be given a name to identify it
+(C) it does not need a name
+(D) it only needs a name if it is not going to be printed
+Q88. __________represents raw facts, where-as__________is data made meaningful?
+(A) Information, reporting
+(B) Data, information
+(C) Information, bits
+(D) Records, bytes
+Q89. Which programming languages are classified as low level languages?
+(A) BASIC, COBOL, Fortran
+(B) Prolog
+(C) C, C++
+(D) Assembly languages
+Q90. Which of the following is not anti- viruses software?
+(A) Avira
+(B) Kaspersky
+(C) Oracle
+(D) McAfee
+Q91. What does DMA stand for?
+(A) Distinct Memory Access
+(B) Direct Memory Access
+(C) Direct Module Access
+(D) Direct Memory Allocation
+Q92. Which of the following is a storage device?
+(A) Tape
+(B) Hard Disk
+(C) Floppy Disk
+(D) All of the above
+Q93. Which of the following is first generation of computer?
+(A) EDSAC
+(B) IBM-1401
+(C) CDC-1604
+(D) ICL-2900
+Q94. IBM 1401 is_________?
+(A) First Generation Computer
+(B) Second Generation Computer
+(C) Third Generation Computer
+(D) Fourth Generation Computer
+Q95. Second Generation computers were developed during___________?
+(A) 1949 to 1955
+(B) 1956 to 1965
+(C) 1965 to 1970
+(D) 1970 to 1990
+Q96. Which of the following devices can be used to directly image printed text?
+(A) OCR
+(B) OMR
+(C) MICR
+(D) All of above
+Q97. The output quality of a printer is measured by____________?
+(A) Dot per inch
+(B) Dot per sq. inch
+(C) Dots printed per unit time
+(D) All of above
+Q98. In analogue computer_____________?
+(A) Input is first converted to digital form
+(B) Input is never converted to digital form
+(C) Output is displayed in digital form
+(D) All of above
+Q99. In latest generation computers, the instructions are executed___________?
+(A) Parallel only
+(B) Sequentially only
+(C) Both sequentially and parallel
+(D) All of above
+Q100. Who designed the first electronics computer – ENIAC?
+(A) Van-Neumann
+(B) Joseph M. Jacquard
+(C) J. Presper Eckert and John W Mauchly
+(D) All of above

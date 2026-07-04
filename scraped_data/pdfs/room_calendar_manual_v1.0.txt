@@ -1,0 +1,13 @@
+How to book a room through Outlook Desktop Application
+Step1: Go to search bar and write “Outlook” and then double click on Outlook App.
+Note: (Outlook App must be installed in system in prior to Step 1)
+Step2: In Outlook, under Home tab, click on “New Items” and then “Appointment”
+Step3: Under Appointment tab click on “Scheduling Assistant”
+Step4: In Search Bar, write “PAF”, you can find all PAF-IAST rooms
+Step5: Double click on your desired room and then click ok button.
+Step6: Now the Room successfully added in your Calendar list
+Step6: Double Click on the Room Calendar, you will have the room calendar shown as below.
+Step7: For New Appointment, Right click under date and click on “New Meeting Request”.
+Step8: Schedule your meeting and send to participants.
+Note: Once you schedule the meeting to a specific room, the concern delegator can accept or reject
+your meeting. Also you will have the error if there is conflict in time.

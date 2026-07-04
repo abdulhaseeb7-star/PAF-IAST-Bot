@@ -1,0 +1,256 @@
+Pak-Austria Fachhochschule:
+Institute of Applied Sciences & Technology
+Mang, Haripur, Khyber Pakhtunkhwa
+Test 1
+Test 2
+Test 3
+1.
+Test duration is 2 hours.
+2.
+Test consists of 100 MCQs.
+3.
+Test consists of 3 sections.
+•
+English: 20%
+•
+Biology: 40%
+•
+Chemistry: 40%
+1.
+Test duration is 2 hours.
+2.
+Test consists of 100 MCQs.
+3.
+Test consists of 3 sections.
+•
+English: 20%
+•
+Math: 40%
+•
+Physics: 40%
+1.
+Test duration is 2 hours.
+2.
+Test consists of 100 MCQs.
+3.
+Test consists of 3 sections.
+•
+English: 20%
+•
+General Math: 40%
+•
+Computer: 40%
+Test 4
+Test 5
+Test 6
+1.
+Test duration is 2 hours.
+2.
+Test consists of 100 MCQs.
+3.
+Test consists of 2 sections.
+•
+Drawing: 25%
+•
+Aptitudes: 25%
+•
+Interview: 50%
+1.
+Test duration is 2 hours.
+2.
+Test consists of 100 MCQs.
+3.
+Test consists of 5 sections.
+•
+General Math: 10%
+•
+Drawing: 20%
+•
+Aptitudes: 20%
+•
+Interview: 50%
+1.
+Test duration is 2 hours.
+2.
+Test consists of 100 MCQs.
+3.
+Test consists of 3 sections.
+•
+English: 20%
+•
+Arithmetic: 40%
+•
+Analytical: 40%
+SECTION: 1
+GENERAL MATH
+Guidelines
+This section has 20 questions, and each question has equal marks.
+Click on Next to proceed further.
+1. A number exceeds another number by 6.the sum of the numbers is 18. find the smaller
+number?
+A.
+6
+B.
+8
+C.
+10
+D.
+12
+2. What is the Arithmetic Mean of the following data 3,6,9,12,15.
+A. 6
+B.
+9
+C. 12
+D. 15
+3. Find two number whose sum is 30 and the difference is 6 _____________?
+A.
+12, 16
+B.
+12, 18
+C.
+16, 12
+D.
+14, 16
+4. How much 60% of 50 is greater than 40% of 30?
+A.
+14
+B.
+16
+C.
+18
+D.
+20
+5.After decreasing 24% in the price of an article costs Rs.912. Find the actual cost of an
+article?
+A.
+1500
+B.
+1400
+C.
+1300
+D.
+1200
+6.If 6 men can make 10 sofas in 2 days, then 8 men can make 8 sofas in__________?
+A.
+1 day
+B.
+1.2 days
+C.
+1.5 days
+D.
+1.8 days
+7. A rectangular carpet has an area of 120 square meters and a parameter of 46m. The length
+of it’s diagonals is_________?
+A.
+17m
+B.
+15m
+C.
+13m
+D.
+11m
+8.The Ratio of the length and breadth of a plot is 3:2 .If the breadth is 40m less than the what
+is the parameter of the plot?
+A.
+320m
+B.
+400m
+C.
+440m
+D.
+480m
+9.The circumferences of two concentric circles are 176 m and 132 cm respectively. What is the
+difference between their radii?
+A.
+7m
+B.
+8m
+C.
+12m
+D.
+20m
+10.If the diameter of a circle is increased by 100 % its area is increased by:_________?
+A.
+100%
+B.
+200%
+C.
+300%
+D.
+400%
+SECTION 02
+DRAWING
+Note: You will be asked for Live Sketching.
+SECTION 03
+APTITUDE
+Guidelines
+This section has 25 questions, and each question has equal marks.
+Click on Next to proceed further.
+Q. 1 Write a short essay (500 words) on any one of the topics given below. (15 Marks)
+Essay to be written on answer sheet given to you
+A. How education changes the life of a person?
+or
+B. Why you missed your childhood?
+----------------------------------------------------------------------------------------------------------------
+-----
+Part: 2
+Q. 2 Select the right figure:
+(10 Marks)
+o Which set of symbols should replace the question marks? ? ? ? ? ?
+a.
+b.
+c.
+d.
+2. Which two symbols are missing?
+a.
+b.
+c.
+d.
+3. Which is the odd one out?
+a.
+b.
+c.
+d.
+4. Which is the odd one out?
+a.
+b.
+c.
+d.
+5. Which does not belong in this sequence?
+a.
+b.
+c.
+c.
+6. A large volume of water is gushing through a pipe which narrows at the outlet. At which
+point, A, B, C or D will the water flow fastest?
+a. A
+b. B
+c. C
+d. D
+7. Which circle below should replace the question mark?
+a.
+b.
+c.
+d.
+8.
+As
+Is to
+a.
+b.
+c.
+d.
+9. Which symbol is missing in following figure?
+a.
+b.
+c.
+d.
+10. The below set of six numbers has a relationship to the set of six numbers below. The two sets
+of six boxes on the left have the same relationship as the two sets of six boxes on the right.
+Which set of numbers should therefore replace the question marks?
+a.
+b.
+c.
+d.
+SECTION 04
+Interview
+General interview with the head of the department

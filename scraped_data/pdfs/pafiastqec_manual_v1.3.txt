@@ -1,0 +1,1112 @@
+QEC Policy Manual
+Table of Contents
+Chapter 1: Introduction ................................................................................................................... 1
+1.1.
+Introduction .......................................................................................................................... 1
+1.2.
+Vision ................................................................................................................................... 2
+1.3.
+Mission ................................................................................................................................. 2
+1.4.
+Objectives of QEC ............................................................................................................... 2
+1.5.
+Scope and Functions of QEC ............................................................................................... 2
+1.5.
+ToRs of QEC........................................................................................................................ 3
+1.6.
+QEC Organogram ................................................................................................................ 5
+Chapter 2: Quality Management System ........................................................................................ 6
+2.1.
+Quality Management System ............................................................................................... 6
+2.2.
+Quality Structure .................................................................................................................. 6
+2.2.1.
+Quality Structure at Institutional Level ........................................................................ 6
+2.2.2.
+Quality Structure at Department Level ......................................................................... 7
+2.2.3.
+Quality Structure at Program Level .............................................................................. 8
+2.2.4.
+Student Advisory Committee ..................................................................................... 10
+Chapter 3: Quality Review, Assurance, and Enhancement .......................................................... 12
+3.1.
+Quality Review .................................................................................................................. 12
+3.1.1.
+Self-Assessment.......................................................................................................... 12
+3.1.2.
+Program Self-Assessment ........................................................................................... 15
+3.1.3.
+Ph.D., MS/M.Phil.  & Equivalent Program Review ................................................... 16
+Program Review Procedure ...................................................................................................... 17
+3.1.4.
+Review of Institutional Performance and Evaluation (RIPE) ..................................... 17
+3.2.
+Quality Assurance .............................................................................................................. 19
+3.2.1.
+Academic Standards ................................................................................................... 20
+3.2.2.
+Quality of Learning Opportunities ............................................................................. 20
+3.2.3.
+Research and Other Scholarly Activities .................................................................... 21
+3.2.4.
+Community Participation ............................................................................................ 21
+3.3.
+Quality Management and Enhancement ............................................................................ 22
+3.3.1.
+Governance and Leadership ....................................................................................... 22
+3.3.2.
+Academic Leadership ................................................................................................. 22
+3.3.3.
+Self-Evaluation ........................................................................................................... 22
+3.3.4.
+Management of Stakeholders’ Feedback .................................................................... 22
+Chapter 4: Assessment Plan and Quality Aspects ........................................................................ 24
+4.
+Internal and External Quality Assurance .............................................................................. 24
+4.1.
+Internal Quality Assurance System for Self-Assessment ............................................... 24
+4.2.
+External Quality Assurance System (EQAS) ................................................................. 27
+4.3.
+Accreditation .................................................................................................................. 27
+4.4.
+ISO Standards and Certification ..................................................................................... 27
+4.5.
+Quality Agencies Membership ....................................................................................... 28
+4.6.
+The Future Dimensions of Quality Assurance ............................................................... 28
+1
+Chapter 1: Introduction
+1.1. Introduction
+Global dynamics are changing rapidly, and the constant changes pose challenges to every sector.
+Remaining competitive in the age of the knowledge economy requires continuous improvement
+and quality enhancement. To understand the global dynamics and requirements, the role of quality
+assurance and enhancement has become an integral part of higher education institutions (HEIs).
+The Higher Education Commission (HEC) of Pakistan established Quality Assurance Agency
+(QAA) in 2005 with a vision “To promote, enhance and assure the quality of higher education
+across HEIs in Pakistan”. The role of QAA is the policymaking, monitoring of quality in higher
+education, developing guidelines, capacity building, and of external quality assurance. Under the
+directives of QAA-HEC, Quality Enhancement Cells (QECs) were established in the HEIs and
+Universities across Pakistan. The role of internal quality assurance and enhancement and
+compliance with the quality parameters of QAA was assigned to QEC.
+Quality Enhancement Cell (QEC) of Pak-Austria Fachhochschule Institute of Applied Sciences
+and Technology (PAF-IAST) is established for quality assurance and enhancement. At PAF-IAST,
+quality means that adhere to our vision and mission of “Skilling Pakistan”. Quality is to satisfy the
+needs of all stakeholders by achieving excellence of the highest standards and continuous
+improvement in academia. We are committed to producing skilled and knowledgeable graduates
+that can contribute to the socio-economic development of Pakistan and at the global level. We are
+accountable for the public expectations, and we ensure that the standards are met. The global
+landscape is continuously evolving and there is always an opportunity for continuous
+improvement.  The quality assurance system responds to the diversity of higher education systems,
+institutions, programs, and students. Therefore, PAF-IAST is continuously reviewing the standards
+and increasing the benchmarks to ensure quality education at par with the national and
+international standards.
+Quality is the responsibility of everyone. Therefore, quality assurance supports the development
+of quality culture at the individual as well as collective level. Quality is a cultural/psychological
+element of shared values, beliefs, expectations, and commitment toward quality. At the same time,
+it is a structural/managerial element with defined processes that enhance quality and aims at
+coordinating individual efforts. Quality culture at PAF-IAST is a shared responsibility where every
+individual is accountable and responsible for the quality of education and for contributing to the
+fulfillment of the vision and mission of PAF-IAST. QEC takes all the necessary steps to evaluate,
+measure, and maintain the quality of all academic and non-academic activities. PAF-IAST learns
+and evolves as we aim at a quality culture rather than a rigid set of procedures. This culture helps
+us in understanding our system and in the identification of the areas for improvement. The
+2
+evaluation mechanism adopted under quality assurance is utilized for the development and
+strengthening of PAF-IAST.
+1.2. Vision
+To strengthen the quality culture at PAF-IAST that assures and enhances the quality of higher
+education at par with national and international standards.
+1.3. Mission
+Our mission is to develop a viable and sustainable quality management system and culture to
+ensure that academic programs, teaching, research, and support services endure the standards of
+internal and external quality assurance and enhancement for continuous improvement.
+1.4. Objectives of QEC
+The objectives of QEC PAF-IAST are to:
+1. Develop a quality culture at PAF-IAST where all stakeholders are involved in the quality
+assurance and enhancement process.
+2. Uphold the public confidence in the quality and safeguarding standards of education at
+PAF-IAST.
+3. Develop and implement internal quality parameters at par with national and international
+standards.
+4. Review progress on both internal and external quality assurance.
+5. Define explicit and clear standards as a point of reference for quality assurance and
+enhancement.
+6. Ensure that PAF-IAST’s quality assurance procedures are designed to fit in with the
+national and international quality practices.
+7. Adhere to a System of Self-Assessment and review as prescribed by external quality
+assurance and regulatory bodies.
+8. Provide opportunities and support to the faculty and staff in their capacity building.
+9. Seek collaboration in various fields of common interest with local and international bodies.
+10. Take all necessary measures for quality enhancement of all academic and non-academic
+activities at PAF-IAST.
+1.5. Scope and Functions of QEC
+The Quality Enhancement Cell at PAF-IAST plays a major role in building quality culture, quality
+assurance, and quality enhancement. The scope of QEC at PAF-IAST is to establish a quality
+management system and implement it. The following domains are under the scope of QEC:
+• Development of quality culture and quality framework.
+• Design and implementation of quality assurance mechanism and self-assessment tools.
+• Continuous assessment and evaluation of academic programs and institutional
+performance.
+3
+• Ensure compliance with the statutory regulations and requirements of the regulatory
+bodies.
+• Safeguarding the public confidence in the quality of education.
+• Standardization of education and support services to ensure compliance with the quality
+standards.
+• Participate and contribute to quality assurance activities at the national and international
+levels.
+• Providing support to PAF-IAST in the capacity building of faculty and staff for continuous
+improvement and development.
+• The devise mechanism for continuous quality improvement (CQI) and quality
+enhancement.
+• Collection / provision of university statistics/data for university ranking by national/
+international agencies.
+• Promoting collaboration with national and international universities/organizations.
+• Review and verification of research publications.
+• Checking plagiarism and dealing with plagiarism cases.
+• Review of academic affiliations and partnerships with other institutions.
+• Coordination between accrediting departments and accreditation councils.
+• Establish Student role in quality assurance activities.
+1.6. ToRs of QEC
+• Promoting public confidence that the standard of academic awards is safeguarded, and
+that quality is assured and enhanced
+• Systematic internal review of academic standards and the quality of teaching and learning
+in each subject area
+• Systematic review of academic affiliations and partnerships with other institutions to
+ensure effective management of standards and quality of programs
+• Facilitating external review of programs and the institution
+• Coordination and liaison with QAA-HEC for implementation of HEC’s guidelines related
+to quality assurance
+• Coordination between accrediting departments and accreditation councils for timely
+accreditation of programmes from respective councils
+• Facilitating in establishment and functioning of QEC sub-offices at campuses, constituent
+units and affiliated institutions
+• Supervision of sub-offices of QEC at campuses, constituent units and affiliated
+institutions
+• Actively participating in meetings of all statutory bodies
+• Capacity building of all internal stakeholders on QA-related activities
+4
+• Ensuring institutional alignment with the National Qualifications Framework of Pakistan
+at associate degree programme, bachelor, master’s, and doctoral level
+• Developing and enhancing quality assurance processes to affirm that the quality of
+provision and the standard of awards are being maintained
+• Fostering curriculum, subject and faculty/staff development, together with research and
+other scholarly activities
+• Developing and enhancing procedures for student partnership in quality assurance
+activities
+• Ensuring that the institution’s quality assurance procedures are aligned with national
+arrangements for maintaining and improving the quality of higher education
+• Developing, managing and enhancing procedures for the following:
+•
+Approval of new programs
+•
+Annual monitoring and evaluation, including at program and faculty level, as well
+as of stakeholder evaluation
+•
+Departmental review
+•
+Student feedback
+•
+Employer and alumni feedback
+•
+Faculty feedback
+•
+Employer participation in relevant quality assurance activities
+•
+Program review and self-assessment
+•
+Institutional review and self-assessment
+•
+Regulatory frameworks for qualifications.
+5
+1.7. QEC Organogram
+Figure 1: Quality Enhancement Cell Organogram
+Rector
+Manager QEC
+Head QEC
+Deputy
+Manager QEC
+Assistant
+Manager QEC
+RIPE & Rankings
+Data Analyst
+Computer
+Typist
+Supporting
+Staff
+Assistant
+Manager QEC
+Self-Assessment & Program Review
+Assistant
+6
+Chapter 2: Quality Management System
+2.1. Quality Management System
+Quality Management System (QMS) is the building block for coordinated activities to direct and
+control PAF-IAST with regard to quality. It comprises processes that are geared toward delivering
+quality education to a consistently high standard. Quality education depends on the skills with
+which the various stakeholder’s voices are integrated, processed, and escalated into features of the
+institution and its related deliverables. PAF-IAST’s structure, facilities, programs and contents,
+delivery modes, and instructional interaction at the student-teacher interface. To ensure quality,
+management in PAF-IAST has to be disciplined, time-based, up-front, create strategic capabilities,
+adaptive to change, ensure integration of efforts, establish a learning culture, align all efforts
+towards common goals, create a system for continuous monitoring and adjustment, provide
+sufficient resources for medium-term, and the top management play a leadership role. QMS at
+PAF-IAST consists of a corpus of integrated, aligned, complex elements that relate in some
+sophisticated way.
+QEC at PAF-IAST adopted a comprehensive framework and QMS for quality assurance and
+enhancement. The following subsections describe the stages in QMS.
+2.2. Quality Structure
+Quality cannot be achieved without the involvement and support of every member of PAF-IAST.
+Therefore, the quality structure is designed at the institutional level, department level, and program
+level.
+2.2.1. Quality Structure at Institutional Level
+QEC is functioning as a section at an institutional level. To ensure a shared vision and quality
+culture, QEC is supported by the ‘Quality Assurance and Implementation Committee (QAIC)’.
+This committee shall comprise the following members.
+• Rector (convener)
+• All Deans
+• All Head of Sections
+• Manager QEC (secretary)
+• Student Council Representatives (2)
+• Any other official on special invitation
+2.2.1.1.
+Functions of QAIC
+• QAIC shall meet four times a year to review the QEC’s annual/semi-annual report and take
+necessary action.
+• QAIC will review the findings of self-assessment, RIPE, and program review. After reviewing
+the reports, QAIC will devise action plans and implementation plans.
+7
+• QAIC will fix responsibilities and timeline for the action plans and implementation plans as
+per recommendations of the internal and external self-assessment, RIPE, and Program review
+panels.
+• QAIC will review and approve the progress on the recommendations/areas for improvement
+mentioned in points 3-4.
+• QAIC will review and approve the self-assessment criteria/survey tools and processes.
+• QAIC will ensure appropriate measures are taken to comply with the procedures of QAA-HEC
+and other national/international accreditation bodies.
+• QAIC will take the necessary steps for quality enhancement.
+• QAIC upon recommendation of QEC, approves and recommends capacity-building programs
+on quality for the faculty and staff.
+• QAIC will support QEC in collaborations at the national and international level or in matters
+related to quality assurance and enhancement.
+• QAIC initiate and coordinate, all relevant external guidance and requirements related to quality
+assurance.
+.2.1.3.
+ToRs of QAIC
+• To monitor all relevant external guidance and requirements related to quality assurance,
+initiating and coordinating action as appropriate.
+• To develop and keep under review the university’s Academic Policy and Quality Framework,
+that is, the systems, policies and guidance for assuring and enhancing the quality of students’
+learning experience and maintaining academic standards, and to consider and manage the
+outcomes of these processes.
+• To have oversight of the university’s approach to assuring the completeness, accuracy,
+reliability and fitness for purpose of information provided for applicants and students.
+• To maintain operational oversight of academic and student-related policy and legislation,
+considering proposals for minor and operational legislative changes, consulting with legal
+services as appropriate.
+• To consider proposals for the addition, withdrawal, suspension, and exceptional amendment
+of programs of study of the university. This will normally be undertaken by chair’s action for
+regular reporting to a subsequent meeting of the committee.
+• The discussions of the QAIC are rooted in the student life cycle
+• A key output of the discussions of the QAIC are the identification of opportunities for
+enhancement across the institution
+.2.2. Quality Structure at Department Level
+Every academic department shall have a departmental quality assurance committee (DQAC). This
+committee will have the following composition.
+• Chairman/Head of the Department (convener)
+• Coordinator(s)
+8
+• Department QEC coordinator (to be nominated by the department head and will work as a
+representative/liaison of QEC in their respective department)
+• Nominee/representative of QEC
+• Program Team (PT) convener(s)
+.2.2.3.
+Functions of DQAC
+The departmental Quality Assurance Committee (DQAC) shall have the following functions.
+• Conduct self-assessment as prescribed by QEC.
+• Provide data/reports to the QEC required as part of internal/external quality assurance.
+• Nominate Program Team (PT) members.
+• Ensure timely completion of self-assessment reports (SARs).
+• Arrange and facilitate Assessment Teams (ATs) visits.
+• Conduct departmental level meetings on the reports of ATs and record minutes of the meeting.
+• Devise an action plan and take necessary actions to implement the ATs recommendations.
+• Provide evidence of the actions taken on ATs recommendations.
+• Discuss the survey findings and take necessary action(s) at the department level.
+• Develop and approve the department’s strategic plan from the statutory bodies.
+• Ensure alignment of the department’s vision, mission, and objectives with PAF-IAST.
+• Ensure alignment of program vision, mission, objectives, and learning outcomes with the
+department.
+• Support and training of CLO, PLO mapping, and coverage of all outcomes.
+• Auditing of course files.
+• Reviewing the SAC and PAC recommendations.
+• Review of the courses feedback by faculty and students for necessary action/revision.
+• Provide support and data to QEC for rankings and collaborations.
+.2.3. Quality Structure at Program Level
+Every program shall have two committees: Program Advisory Committee (PAC) and Student
+Advisory Committee (SAC).
+Program Advisory Committees provide industry expertise and insight to help program areas
+develop, renew and promote PAF-IAST’s programs according to labor market needs. The PAC
+ensures the program is current and relevant to industry, business, and society. Program advisers
+identify current and future industry trends and shifts in the skills and knowledge graduates need to
+meet employer requirements. Program Advisory Committee members are key liaisons between
+PAF-IAST and industry and between PAF-IAST and the community. The role of PAC in the
+success of PAF-IAST is very crucial as the institute is of applied science and technology, therefore,
+PACs role in developing close ties with business, industry, and the labor market is of great
+importance.
+9
+.2.3.3.
+Composition of PAC
+• Chairperson (Elected by the committee during the first meeting for the period of two
+years from 1st July every year. Responsible for organizing and conducting the meeting
+with advice and counsel from a program representative)
+• The total number of PAC members (Leaders in their fields who act as advisors for the
+programs) may vary between 7-15 where 70% of external members (Be representative of
+the field of study to ensure relevance in content, ongoing support, and community
+involvement) and 30% internal members.
+Members will endeavor to attend all committee meetings to ensure the continuity of the group.
+Members who miss three consecutive meetings will be deemed to have resigned unless it is due
+to extenuating circumstances to be determined by the Dean and Advisory Committee Chair.
+The resignation will be acknowledged by the Chair at the third meeting
+.2.1.3.
+Role and Functions of Program Advisory Committee
+• Program advisory committees work closely with the academic teams to ensure student and
+graduate success.
+• ensure curriculum quality, evaluate the effectiveness of programs and identify future
+trends.
+• Identify and promote student recruiting processes.
+• Provide information concerning the desired education and the experience necessary for job
+placement and career success.
+• Arrange site visits or field trips for students, faculty, and counselors.
+• Assist in surveys/research or projections of the local labor market needs.
+• Assist in facilitating students in part-time or cooperative education work which may
+include clinical experiences, internships, apprenticeships, and other cooperative
+partnerships intended to enhance students’ learning experiences.
+• Provide information about job opportunities for graduates and identify possibilities for
+faculty professional development.
+• Arrange guest speakers from business and industry to enhance student’s educational
+experience.
+• Assist in identifying state-of-the-art equipment, books, journals, magazines, etc. needed.
+• Review and provide guidance for program instruction to include the necessary skills and
+technical and general information that is taught.
+• Assess the equipment and facilities and make recommendations as needed.
+• Be accessible to evaluation and accreditation groups.
+• Review the feedback collected through the survey and devise an action plan.
+• Review the progress of the programs in terms of goal attainment and action plan.
+• Conduct periodic reviews and visits to ensure quality is met.
+• Prepare students for the job market, job hunting, and preparation for job interviews.
+10
+.2.2. Student Advisory Committee
+A Student Advisory Committee (SAC) is convened at each campus of the department/program to
+assist the DQAC and PAC to monitor quality assurance in learning and teaching. The functions of
+the Student Advisory Committee are to monitor and assess the delivery of current theory and
+practice as it relates to the educational outcomes of the courses. The SAC in each Program assesses
+the implementation of, and identifies the need for, academic policies and procedures. SAC
+monitors the entire learning environment of the campus, including the library, student recreational
+facilities, teaching resources, and learning materials. The Committee recommends the DQAC
+adaptations and modifications to the curriculum when necessary. It ensures the ethical and
+professional delivery of training in accordance with the PAF-IAST’s Code of Practice.
+Membership of the SAC in each program is comprised of academic counselors, student
+representatives, and representatives of the teaching staff.
+.2.2.3.
+Role and Function of Student Representative
+The role and function of a Student Representative is to liaise with the student body to accurately
+and objectively represent students’ suggestions, ideas, information, and concerns to the Student
+Advisory Committee. Students may nominate any student currently enrolled. A student may self-
+nominate should they possess the interest and commitment to represent the student body. A Student
+Representative is invited onto the Student Advisory Committee based on the student’s overall
+suitability, availability and the number of nominations received. The primary task of a Student
+Representative is to represent the views, opinions, and concerns of the student body, and to
+represent the outcomes of the program’s SAC deliberations to the student body.
+.2.2.4. Composition of SAC
+This committee will have the following composition.
+• Academic counselors/advisor
+• Student representatives (may nominate/self-nominate/elective) from each Batch.
+• Representatives of the teaching staff.
+The Student Representatives have the responsibility to students to:
+• Be available to listen to student views and concerns, and actively represent them in an
+objective and accurate manner
+• Attend scheduled student advisory committee meetings throughout the academic year
+• Provide accurate feedback to the student body on the proceedings of the Student Advisory
+Committee
+SAC shall have a monthly meeting, and the minutes of the meeting shall be shared with HoD,
+Dean, Director Establishment, and QEC.
+11
+Departmental
+Quality Assurance
+Committee (DQAC)
+Department
+Level
+Quality
+Enhancement Cell
+(QEC)
+Quality Assurance
+and Implementation
+Committee (QAIC)
+University
+Level
+Program Advisory
+Committee (PAC)
+Student Advisory
+Committee (SAC)
+Program
+Level
+12
+Chapter 3: Quality Review, Assurance, and Enhancement
+The quality structure functions to review, assure, and enhance quality. These are the fundamental
+areas to establish a quality culture in PAF-IAST.
+3.1. Quality Review
+Quality review is a developmental process that is carried out in academic, administrative, and
+support units of PAF-IAST. This stage is very important for quality assurance and enhancement.
+During the review stage, the progress of each unit of PAF-IAST is reviewed over a specified time
+period and an overall review of PAF-IAST during the selected time period is reviewed. The quality
+review is considered valuable for several reasons including the following:
+• It presents detailed information about the area and the collective perception of staff and
+students of its role in the PAF-IAST.
+• It presents a succinct and comprehensive statement of the area’s view of its strategic
+objectives and for a PAF-IAST, of its teaching, learning and research, and other significant
+activities.
+• It provides a reflective and self-critical analysis of the activities of the PAF-IAST.
+• It shows the quality systems and processes which are already in place in the PAF-IAST
+and permit an assessment of their effectiveness.
+• It helps the departments and programs to identify and analyze their strengths, weaknesses,
+opportunities, and threats and allows it to suggest appropriate remedies where necessary.
+• It identifies those weaknesses, if any, in academic, organizational, and other matters which
+are under the control of the department and which can be remedied by action.
+• It identifies shortfalls in resources and provides an externally validated case for increased
+resource allocation.
+• It provides a framework within which the Area can continue to work in the future towards
+quality improvement.
+The quality review comprises the review of the following parameters/areas:
+• Review of the curriculum, teaching, and learning process.
+• Review of the programs’ PLOs
+• Conduct self-evaluation report
+• Conduct meetings with faculty, employers, students, and other key stakeholders.
+• Conduct surveys
+• Audit and review of programs (portfolio, curriculum, schedule, qualifications, etc.)
+All internal stakeholders are part of the quality review. The responsibility is shared by all those
+mentioned in the PAF-IAST quality structure (including QAIC, DQAC, PAC, SAC, faculty
+members, department chair, and other committees at the departmental level).
+13
+The quality review process at PAF-IAST includes four key stages.
+I.
+Self-Assessment
+II.
+Peer Review
+III.
+Improvement Planning and Follow-up
+IV.
+Report Publication
+3.1.1. Self-Assessment
+Self-Assessment (SA) is a systematic process of evaluating the various aspects of the institution
+or academic programs and whether quality standards are being met. For further improvement, SA
+collects information and evidence from the stakeholders, reviews those, and identifies the
+weaknesses and areas that need further improvement to enhance the quality of teaching learning
+and education. Self-Assessment does not mean that evidence of quality education is not available.
+It provides direction to continuous improvement through gradual internalization of the standards
+and good practices. Self-Assessment examines the state of practices and quality using a well-
+structured survey framework. Self- Assessment serves as a preparation for external peer review
+and validation for approval and accreditation.
+Self-Assessment explores the key issues of:
+a) What does the university do to provide education?
+b) Whether the university does the right things to provide education.
+c) Whether the university is doing the right things in the right way?
+d) Has the university clearly defined goals to achieve?
+e) Whether the process guiding the university is adequate to achieve the goals?
+Self-assessment is the preliminary stage of quality review and has a significant role in quality
+assurance. Quality assurance in higher education is a global practice now. With the changes in the
+higher education landscape and emerging needs of the stakeholders, there is an urgency to look
+into the effectiveness of the academic programs. Higher education must be more closely aligned
+to the needs of the community, and the needs of the graduates to explore their potential in terms
+of employability and lifelong learning. Universities should focus on preparing graduates with a
+positive mindset, skills, and competence, which would help them to find a good fit into the social
+system. In order to drive the QA system in the right direction the following questions are very
+critical. Understanding the current state of quality of education the institution is providing,
+Identifying the areas and issues that need to be addressed and improved to enhance and maintain
+quality in education, and integrating the concerns of major stakeholders into the educational
+system to provide a better experience.
+A self-assessment exercise is an effective approach to gaining a clear understanding of the current
+situation through an informative SWOT analysis. The self-assessment exercise helps to judge the
+overall effectiveness of the academic program and educational processes. It provides an
+opportunity to attain a deeper understanding of the areas that may need improvement. Thus, self-
+14
+assessment becomes one of the core activities of the quality assurance process. It has gained
+increasing importance to address the critical issues for a credible quality assurance system.
+The quality of education can be measured by the employability of the graduates and their capacity
+to launch startup businesses and become successful entrepreneurs. The quality of education can
+also be judged by the extent of its contribution to organizations and national development as well
+as to local and global communities.  In an ever-changing environmental setting, the definition of
+quality education and requirements for quality education are also changing continuously. With the
+changes in the definition of quality education, there is an urgency to look into the effectiveness of
+the existing academic programs and the appropriateness of institutional capacity to maintain
+quality in education. Self-assessment uses observable performances as the basis or evidence for
+judgment that underpins a program or institution to become responsive (Loacker, 2004).
+Self-assessment becomes a very important exercise for academic institutions for continuous
+improvement and quality assurance in education. It refers to a comprehensive and systematic
+process of collecting and analyzing information from major stakeholders on the QA areas and
+related aspects of the educational institution. The SA process allows the organization to identify
+the strengths and areas in which improvements are required for quality education. It also provides
+information to participants, allowing them to evaluate and understand the overall quality of
+academic programs. Self-assessment provides direction and guidelines to prepare a comprehensive
+improvement plan addressing the issues critical to quality assurance. The understanding and
+practice of self-assessment promote the developmental process. It is never exhaustive in its ability
+to grow. It enables the participants of the program and/or institution to observe the situation
+precisely and to identify the deficiencies between expectations and actual performances.
+The objectives of self-assessment are to:
+• Improve the quality of education addressing the needs of the major stakeholders and
+national relevance.
+• Maintain and continuously enhance academic standards
+• Enhance students’ learning
+• Verify that the existing programs meet their objectives and institutional goals
+• Provide feedback for quality assurance of academic programs
+• Prepare the academic program for review by discipline councils
+• Create a basis for external assessment and validation.
+• Provide guidelines or direction to the program offering entity or to the PAF-IAST for
+strategic planning.
+The self-assessment at PAF-IAST is the process used to assess the academic programs as well as
+institutional performance. Self-assessment is based on the principles of improvement,
+participation, reflection, coverage, facts-driven, sensitization, acceptance, endorsement, and
+continuity.
+15
+3.1.2. Program Self-Assessment
+Program self-assessment is one of the major activities under program review. Academic activities
+are the core activities of any HEI. Therefore, the most important aspects of quality education are
+teaching, curriculum, learning opportunities, and research. These activities are conducted at the
+program level and measuring the quality of those activities is the primary aspect of quality. Self-
+assessment of the program is very critical for improving its quality of teaching learning and
+research. It is also a requirement for program accreditation. A program review is a cyclical process
+for evaluating and continuously enhancing the quality and effectiveness of the programs under
+assessment.
+At the program self-assessment level, a systematic approach is adopted to collect, review, and use
+of information about the programs offered at PAF-IAST. It involves the thorough examination of
+all aspects and components of the program in respect of stakeholders‟ opinion.  It is a process of
+identifying the strengths and weaknesses of the program in terms of the capacity for effective
+teaching-learning, student performance assessment, program management, ability to provide
+students support services, and adequate physical facilities.
+Program Self-Assessment Procedure
+QEC is responsible for planning, coordinating, and following up on the self-assessment (SA)
+activities. The Program self-assessment is a continuous cycle of assessment. Each academic
+program shall undergo a self-assessment (SA) every two years (assessment cycle). The assessment
+cycle is timebound and the timeline allocated for each step is mentioned in the flowchart. The steps
+of the procedure for SA are as follows:
+I.
+The QEC initiates the SA one semester prior to the end of the assessment cycle through the
+Rector Office in which the program is offered. However, if the program is undergoing the
+SA for the first time, the department will be given one academic year for preparation.
+II.
+QAIC meeting will be convened to discuss the SA cycle and approve the programs
+undergoing the self-assessment process.
+III.
+The deans of the respective faculties shall call the meeting of department
+heads/chairpersons. The agenda of the meeting shall be the constitution of DQAC and the
+nomination of the Program Team (PT).
+IV.
+PTs shall be nominated for each program under review. Ideally, the PTs shall comprise of
+three members (one senior faculty member as convener and two other faculty members of
+the same department/program). The PTs will be formed and function for one year. During
+this one-year period, the PTs will conduct the self-assessment and facilitate the external
+peer review and prepare the improvement plan for further academic development. In
+addition, the DQAC will oversee the QA-related activities within the program offering
+entity and will make sure that all the QA activities undertaken by the QEC and applicable
+to the entity are being implemented properly. The DQAC in cooperation with QEC will
+work to develop the QA culture within the entity.
+V.
+Upon the notification of PTs, QEC will conduct training/workshop of PTs on the SA
+process and provide all necessary resources required for program SA and drafting self-
+assessment report (SAR).
+16
+VI.
+QEC, DQAC, and PTs will conduct surveys. PTs will perform the data entry and analysis
+of their respective programs.
+VII.
+Compiling and Drafting SAR as per the format by the nominated PTs.
+VIII.
+Submitting the SAR to DQAC for review and approval.
+IX.
+Submitting SAR to Dean for approval and onward submission to QEC.
+X.
+QEC will review the SAR to ensure that it is prepared according to the required format.
+XI.
+In case of any deficiency in SAR, QEC will return the SAR to PTs for necessary revision
+and resubmission.
+XII.
+QEC will initiate the next stage of peer review. The Rector forms a program assessment
+team (AT) in consultation with the QEC and DQAC recommendations.
+XIII.
+One subject expert (senior and external member) shall be nominated as convener and the
+PT convener of each program shall be nominated as a member of ATs.
+XIV.
+The QEC plans and schedules the AT visit period in coordination with the department that
+is offering the program. ATs on the scheduled day shall review the SARs and draft
+findings/reports of each program reviewed. The report shall comply in light of the standard
+format and scorecard.
+XV.
+The AT conducts the assessment, submits a report and presents its findings in an exit
+meeting that shall be attended by the QEC, Dean and PT and faculty members.
+XVI.
+QEC will file the report and also share it with DQAC for necessary action at the
+departmental level.
+XVII.
+The QEC shall submit an executive summary on the AT findings to the Vice Chancellor /
+Rector.
+XVIII.
+The Department shall prepare and submit an implementation plan to QEC based on the AT
+findings. The plan must include AT findings and the corrective actions to be taken,
+assignment of responsibility and a time frame for such actions.
+XIX.
+The QEC shall follow up on the implementation plan to ensure departments are adhering
+to the implementation plan. The academic department shall inform the QEC each time a
+corrective action is implemented. QEC shall review the implementation plan once a
+semester to assess the progress of implementation.
+XX.
+During the next cycle, the department shall provide evidence of action taken on each
+recommendation as per AT’s report.
+3.1.3. Ph.D., MS/M.Phil.  & Equivalent Program Review
+As decided by the Commission in the 9th meeting held on 26 November 2005. The quality of
+master’s and Ph.D. (level 7 & 8 programs) are peer-reviewed keeping in view the minimum criteria
+of HEC to enhance their quality to make them internationally compatible.
+Reviewing the quality and standards of level 7 & 8 programs is very important. Due to the
+mushroom growth of DAIs and the increase in the demand for higher education, every DAI has
+started offering level 7-8 qualification programs. However, the quality of these programs is of
+major concern. HEC has established a set of standards to review the quality of all Ph.D.,
+MS/M.Phil. and equivalent programs.
+17
+Program Review will be conducted every year as part of Self-Assessment. The Proformas for
+program review are adopted from QAA-HEC.
+Program Review Procedure
+I.
+QEC Initiates Program Review with the formal approval of the Rector.
+II.
+DQAC of every department where level 7 & 8 programs are offered will be notified by
+QEC regarding initiation of MS/MPhil/Equivalent and PhD Program Review.
+III.
+DQAC/Chairman/HoD will nominate a focal person for their respective department.
+IV.
+QEC will organize a seminar/workshop for the department’s focal persons. The agenda of
+the seminar/workshop will be capacity building, sharing the procedure of program review,
+providing information on the proformas, and providing last year’s recommendation and
+gathering the data for the visit.
+V.
+Focal person will collect all relevant information, fill in the proformas and submit the same
+to DQAC. Focal person will have to complete the required process within 10 working days.
+VI.
+DQAC will review the information and submit the verified information to QEC within 5
+working days.
+VII.
+QEC will compile the documentation and request the Rector for the approval of External
+Reviewers for Program Review.
+VIII.
+With the permission of the Rector, arrange Program Review by inviting External Examiner
+outside the University. Ideally, one or two external examiners and three internal members
+are nominated by Rector as the ‘Program Review Team’.
+IX.
+On the day of the Program Review visit, all activities will be conducted as per the QAA-
+HEC standards and schedule.
+X.
+The initial report of the program review will be prepared by the review team and shared
+with QEC. The draft will be shared with the Rector and the suggestions/recommendations
+of the program review will be shared with QAIC.
+XI.
+QAIC will devise an action plan as per suggestions/recommendations of the program
+review report. The action plan shall consist of specific actions, timeline, responsible body,
+and follow-up mechanism to ensure compliance with the recommendations.
+XII.
+Evidence of completion of the action plan shall be shared with QEC for further processing
+and drafting of the compliance report.
+3.1.4. Review of Institutional Performance and Evaluation (RIPE)
+The RIPE process is crucial for every HEI to review their performance and progress critically.
+RIPE provides institutions with performance indicators that will permit you to understand HEI’s
+standings as per international standards. RIPE is conducted both as a tool for self-assessment
+internally and is a major requirement of QAA-HED.  To improve the performance of HEIs, HEC
+has started with the primary step of outlining the Performance Evaluation Standards for the HEIs
+to be used for the purpose.
+RIPE comprises of two sets of information.
+18
+a) Answer to the questions (along with proof/evidence) as per standards defined by QAA-
+HEC,
+b) Compilation and provision of university-wide data (University Portfolio Report).
+QEC at PAF-IAST will follow the guidelines of RIPE as described by QAA-HEC in the RIPE
+manual.
+Besides preparation of the RIPE evidence and UPR, the RIPE visit shall be conducted. Self-RIPE
+or QAA-HEC shall conduct the RIPE visit.
+RIPE Process
+The RIPE visit is spread over three days. RIPE Process comprises of the following activities.
+1. In the case of self-RIPE, the panel will be recommended by QEC to the Rector for approval.
+The panel comprises of two RIPE experts (QEC heads from other HEIs) and three internal
+members to be nominated by the Rector.
+2. In case of RIPE conducted by QAA, the panel will be notified by QAA and the schedule
+of the visit shall be shared by the QAA.
+3. The panel will meet the Rector followed by a brief presentation by the QEC regarding
+PAF-IAST.
+4. The panel will work in the designated room to review each standard along with the
+evidence.
+5. The panel will meet the chairmen/HoDs.
+6. The RIPE Panel will meet with the Assistant Professors/lecturers (to be nominated by the
+departments), at least two faculty members from each department.
+7. RIPE review panel will meet with students of each department (ideally one/two students
+from each department and each program).
+8. The panel will meet with the Director Establishment, Director Finance, Director P&D,
+Controller of Examination, Head QEC.
+9. The panel will visit the classrooms, laboratories, library, and other facilities.
+10. The RIPE panel will discuss the overall visit and meet the Rector (exit meeting).
+11. After the completion of the visit, the RIPE panel will draft the report and share with QEC.
+12. QEC will share the report with QAIC in a meeting to discuss the recommendations. During
+the meeting, action plan will be devised for each of the RIPE review panel
+recommendations. Tasks will be assigned to the responsible body and timeline will be set
+to complete each item of the action plan. The responsible body shall submit the progress
+report along with the proof of action.
+RIPE Standards
+Various performance evaluation standards outlining major areas to be focused on by the HEIs for
+evaluation of their effectiveness and future development are given below:
+Standard 1:    Vision, mission, goals and strategic planning
+Standard 2:    Governance, leadership and organisation
+Standard 3:    Institutional resources and planning
+19
+Standard 4:    Audit and finance
+Standard 5:    Affiliated colleges/institutions
+Standard 6:    Internationalisation of higher education and global engagement
+Standard 7:    Faculty recruitment, development and support services
+Standard 8:    Academic programs and curricula
+Standard 9:     Admission, progression, assessment, and certification
+Standard 10:   Student support services
+Standard 11:   Impactful teaching and learning and community engagement.
+Standard 12:   Research, innovation, entrepreneurship and industrial linkage
+Standard 13:   Fairness and integrity
+Standard 14:   Public information and transparency
+Standard 15:   Institutional effectiveness, quality assurance and enhancement
+Standard 16:   CQI and cyclical external quality assurance
+These standards are subject to revision by QAA-HEC. PAF-IAST will adopt the standards as per
+the requirements of QAA.
+SARs, Program Review, and RIPE comprise of self-assessment procedures and peer review
+processes. After completion of the first two stages of self-assessment, the Improvement Planning
+and Follow-up will be initiated which will be the responsibility of PAF-IAST’s Quality Structure.
+At the end of each cycle, a report of every activity will be shared with the QAA-HEC and will be
+made available on the website.
+3.2. Quality Assurance
+Quality in education is a dynamic entity and therefore various factors that determine the quality of
+higher education must be set in equilibrium at a level that matches international expectations and
+standards. These factors include inter-alia, leadership, quality of faculty, quality of students,
+curriculum, infrastructure facilities, research and learning environment, governance, strategic
+planning, and assessment procedures.
+The Quality Enhancement Cells (QECs) working in the universities as a focal point for all quality
+assurance policies and practices will play their role not only in introducing, defining, and
+developing these concepts but also to practice through tools of quality assurance.
+PAF-IAST is keen to develop a strategic vision to address the relevant issues with strong support
+to push the equilibrium up and to make it match the international standards of quality in education
+learning. The PAF-IAST has adopted a multi-dimensional approach focused on the issue of
+quality, with particular emphasis on
+20
+i.
+The improvement of quality of faculty
+ii.
+Infrastructural improvement
+iii.
+Improvement of research and learning environment
+iv.
+Improvement of curricula
+v.
+Addressing governance issues
+vi.
+Assessment issues
+vii.
+Accreditation of new academic programs
+The concepts frequently used in developing the process and procedures of quality assurance are
+discussed to facilitate the perceptions on a common path of understanding. These concepts of
+quality assurance are discussed below.
+3.2.1. Academic Standards
+The academic standards largely discussed in this Manual for practitioners of Quality Assurance in
+higher education, professionals of QECs and QAA, are given below. These standards can be
+improved with the passage of time and as per international standards.
+3.2.1.1.
+Intended Learning Outcomes (ILO)
+The Intended Learning Outcomes (ILOs) are the knowledge, understanding, and skills that the
+institution intends for its programs that are integrated into the mission statement and developed to
+reflect the use of external reference standards at the appropriate level. The ILOs need to be satisfied
+while reporting through self-assessment for external assessment of Quality Assurance.
+3.2.1.2.
+Curricula
+The curricula for the program facilitate the realization of the known intended learning outcomes.
+The quality of curricula plays important role in defining the quality of teaching and learning
+outcomes. Thus, QECs are responsible to integrate the quality procedures in developing and
+improving the quality of curricula with consistency to respond to new developments in research
+and teaching.
+3.2.1.3.
+Student Assessment
+Student Assessment is comprised of a set of processes, including examinations and other activities
+conducted by the institution to measure the achievement of the intended learning outcomes of a
+course/ program. Student Assessments also provide the means by which students are ranked
+according to their achievements. It needs to be confirmed that students are well informed on the
+criteria by which they are assessed and given appropriate structured feedback that supports their
+continuous learning. Student feedback is helpful in revising/improving the current standards to a
+certain level of improvement.
+3.2.1.4.
+Student Achievement
+The quality assurance system of universities and higher education institutions should be in place
+effectively to assure that levels of students’ achievements are maintained with due consideration
+to the use of external reference points, moderation, and evaluation of achievement.
+21
+3.2.2. Quality of Learning Opportunities
+The clarity of concepts on Academic Standards needs to be followed by developing a common
+understanding on quality of learning outcomes which is one of the key objectives of whole process
+of integrating quality assurance. The quality of learning opportunities at an institution or university
+may be evaluated against following reflective indicators that need to be satisfied to meet the global
+standards:
+3.2.2.1.
+Teaching and Learning
+There are effective teaching and learning systems, informed by a shared, strategic view of learning
+and the selection of appropriate teaching methods; and due attention is paid to the facilitation of
+independent learning.
+3.2.2.2.
+Student Support
+Academic and general support to facilitate students in dealing with possible academic problems
+ensures that they can make progress satisfactorily through their program and are informed about
+their progress.
+3.2.2.3.
+Learning Resources
+It is to be ensured that:
+• The facilities at institutions for learning are appropriate, adequate, and used effectively.
+• The institution’s staff of all kinds namely; academic, support, technical and administrative
+is adequate and meets the requirements of academic standards and strategies for learning
+and teaching.
+• The staff of the institution is competent to effectively teach, facilitate learning, and
+maintain a scholarly approach to teaching and to discipline.
+3.2.3. Research and Other Scholarly Activities
+As per the mandate, the Quality Enhancement Cells will be responsible for assure that the system
+to organize research and other scholarly activities related to the teaching and supervision of
+doctoral students is relevant to the mission of the respective institution. A few of the research and
+other scholarly activities of the universities and other higher education institutions are enlisted
+below as potential areas that need to be focused on by Quality Enhancement Cells:
+• Effectiveness of plans and the scale of activity
+• Distinguishing features
+• How do the activities relate to the other academic activities in the institution?
+3.2.4. Community Participation
+The concept of integrated community participation in the whole process of learning and teaching
+is a relatively new concept but important to achieve the desired level of quality assurance.
+Therefore, more efforts are needed by the QECs to introduce the concept where it does not exist
+previously and to make it more effective where it exists in an underlying way and is difficult to be
+practiced. The system of quality assurance ensures that a higher education institution, informed by
+its mission, makes a significant contribution to the community it belongs, to the society it serves
+22
+and to the wider environment. The level of success in community participation can be assessed
+through QA system in place in the following areas:
+• The contribution it makes
+• The range of activities, relevance to the institution’s mission and plan
+• Examples of effective practice
+The standards of quality assurance and control can be achieved with.
+• Top management support and commitment
+• Creation of roles and responsibilities
+• Development of policies and procedures
+• Development of processes
+• Capacity building
+• Supporting tools
+• Data collection, analysis, and management
+Quality assurance is the responsibility of top management, faculty members, quality assurance
+committees, departments, and sections of PAF-IAST. Quality assurance takes into account the
+needs and expectations of students, all other stakeholders, and society. The process of quality
+assurance supports the development of a quality culture at PAF-IAST.
+3.3. Quality Management and Enhancement
+The main purposes of quality assurance is quality enhancement. Policy experts caution that
+enhancement-centered approaches to quality assurance at the system level are more likely to
+succeed in mature higher education systems where quality assurance processes have a long history
+of development and practice. Moving from an accountability-focused approach to a more
+enhancement-centered system takes time and system’s maturity. The focus of quality enhancement
+is on the following areas.
+3.3.1. Governance and Leadership
+Governance, management, and quality assurance systems should be sufficient to manage existing
+academic activities and respond to development and change.
+3.3.2. Academic Leadership
+The academic leadership in the institution provides a strong and sustainable basis for academic
+activities to grow in an environment conducive to learning.
+3.3.3. Self-Evaluation
+Self–Evaluation, internal reporting and improvement plans should be open, transparent, focused
+and supportive of continuing improvement. The procedural details are provided in this manual
+which ensures internal and external quality review and assurance.
+3.3.4. Management of Stakeholders’ Feedback
+The institutions have mechanisms for receiving, processing and responding to the reviews and
+feedback coming from a range of stakeholders. The feedback management system of PAF-IAST
+23
+ensures that effective and timely action is taken to promote strengths, address any weaknesses
+identified and demonstrate responsibility and accountability.
+24
+Chapter 4: Assessment Plan and Quality Aspects
+The assessment of all academic and support activities is a major part of quality review and
+assurance. Assessment of every activity at PAF-IAST contributes towards the quality parameters,
+thus, resulting in quality enhancement. PAF-IAST adheres internal quality assurance (IQA)
+system, external quality assurance (EQA) system, accreditation,
+4. Internal and External Quality Assurance
+IQA involves a system of self-assessment as elaborated in this document. EQA involves adherence
+to the requirements of the accreditation council, Quality Assurance Agency (QAA), Quality
+Assurance Division (QAD), Policies and criteria, and meeting the international standards of
+quality.
+4.1.
+Internal Quality Assurance System for Self-Assessment
+UNESCO (2013) affirm that internal quality assurance (IQA) refers to each institution’s or
+program’s policies and mechanisms for ensuring that it is fulfilling its own purposes, as well as
+the standards that apply to higher education in general, or to the profession or discipline in
+particular.
+The internal QA process largely takes place within the academic program/ department itself.
+Generally, this process collects continued information in a systematic way about the quality being
+achieved. The primary focus of IQA is to conduct self-analysis (assessment), quality plans,
+monitoring, and evaluation. These sets of activities are focused on the programs offered by PAF-
+IAST, the people (students, faculty, staff, community, and other stakeholders), and the place
+(institution). IQA is a self-assessment mechanism where the monitoring and evaluation of the
+programs (all the processes, procedures, and activities within an institution), people (internal and
+external stakeholders in quality assurance activities), and places (space and facilities of an
+educational institution) is managed by QEC with the help of all stakeholders. The core purpose of
+IQA is to understand our standing (the strengths and weaknesses), and for the identification of
+areas for improvement. The Self-Assessment reports (SARs) are the cornerstone of the whole IQA
+system and need to be prepared under the guidance provided by QECs and the Manual of Self-
+Assessment published by HEC as the first documented effort to implement the quality assurance
+processes in higher education institutions.
+The Self-Assessment report to be validated by peers is the backbone of the whole exercise of
+Quality Assurance and Enhancement in academics. Thus, a standard Self-Assessment report
+should motivate the internal QA by identifying its weaknesses and strengths, in practicing to be
+prepared for external assessment, and informing the external evaluators about the internal QA
+System. A self-assessment report should provide comprehensive information regarding objectives,
+structure, and content of the academic programs, learning and teaching environment and
+curriculum organization etc. SAR report format and standards are explained in section 3.1.1 Self-
+Assessment is an effective tool for academic Quality Assurance and provides feedback to
+administration to initiate action plans for improvement.
+25
+To strengthen the IQA process, the yearly progress report (YPR) as per the guidelines of QAA-
+HEC has been adapted and the IQA has been designed accordingly.  Furthermore, the IQA
+framework of PAF-IAST comprises of additional measures to ensure the quality at highest level.
+Strategic Plan
+The strategic plan of PAF-IAST is a roadmap for the entire institution. Five years plan is prepared
+and implemented as a guiding tool for PAF-IAST. The academic departments and centers will
+prepare their own strategic plan which should be aligned with the strategic plan of PAF-IAST.
+DQAC has a major role in monitor the progress and submission of their annual report to QEC for
+presentation at QAIC.
+University-Wide Framework Alignment
+Alignment of PAF-IAST’s strategic plan, vision, mission, goals and objectives at the department
+level and program level is necessary and an integral part of IQA. To make sure that the vision is
+shared and the strategic aspects of PAF-IAST are aligned with each and every unit of institute, an
+assessment and monitoring roadmap has been developed.
+• Each department shall have a strategic plan,
+• Each department shall have aligned its vision, mission, goals, and objectives with the PAF-
+IAST.
+• Each department shall have ILOs aligned with the ILOs of PAF-IAST.
+• Each department shall have identified KPIs and assessment mechanisms,
+• The programs offered by every department shall have PEOs, PLOs, and CLOs and they
+shall be aligned with the department.
+• The department must specify next how these outcomes and objectives will be assessed
+through direct and indirect measures.
+• Each department should analyze the collected assessment data and produce SARs
+regularly.
+• The action plan should be devised and followed to ensure that the recommended actions
+are taken on time.
+• Each department should ensure that SAC, PAC, and DQAC are established and actively
+performing their respective roles in their respective departments.
+Assessment and Review of PEOs, PLOs, and CLOs
+PAF-IAST is a newly established institution, thus, does not have any graduated students. However,
+as a part of IQA, the assessment of PEOs is very important. The process of assessment exists with
+a defined roadmap.
+• Run employer surveys and alumni surveys to assess PEOs
+• Run alumni surveys to assess PLOs and initiate improvement actions.
+• Assessment of CLOs.
+• Teaching, learning, and assessing students to measure PLOs achievement.
+• Share the findings of employer survey and alumni survey with SAC and PAC for their
+feedback and improvement actions.
+26
+To review the PLOs, the following framework shall be followed.
+• Run student course evaluation survey,
+• Assessment of CLOs,
+• Review course portfolios to ensure alignment of teaching, learning, and assessment
+activities with CLOs,
+• Teaching, learning, and assessing students to measure CLOs achievement,
+• Improvement action in teaching, learning, assessment tools, and curriculum.
+Program Assessment Process
+Program assessment shall be conducted on annual basis. To support the assessment, surveys will
+be conducted. These surveys will be conducted by students, faculty, employers, graduating (exit)
+students, and alumni as per approved formats. The information collected from these surveys will
+be utilized for assessments at the program level, department level, and institutional level. The
+survey instruments comprise of the following.
+• Course evaluation (to be filled by students and faculty)
+• Program evaluation (graduating students, alumni, employer)
+• Faculty evaluation (students)
+• Faculty profile evaluation (Faculty resume)
+• Supervision survey (to be filled by supervisee at the end of completion of research
+thesis/project)
+• Matrix relating to program outcomes and objectives,
+• Matrix relating to the alignment of vision, mission, and objectives.
+• Course folders,
+• Program specifications form,
+• Course specification form.
+Knowledge Management Tools for IQA
+PAF-IAST has embedded knowledge management system that comprises of program information
+repository, assessment and assistant tools, and monitoring dashboard. The information repository
+comprises of strategic information and alignment.
+a) PAF-IAST vision, mission, goals, objectives, and PAF-IAST’s intended learning outcomes,
+b) School/faculty/center vision and mission,
+c) department vision, mission, goals, objectives, ILOs,
+d) program vision, mission, goals, objectives, PEOs, PLOs, curriculum, KPIs,
+e) Course specification, assessment, CLOs.
+As an assessment assistant tool, two types of assessment will be conducted: direct (through KPIs)
+and indirect via surveys. Monitoring and reporting tools will be used based on CMS.
+27
+Capacity Building
+To promote a quality culture, QEC will initiate a wide range of capacity-building programs as per
+need. National Qualification Framework (NQF), self-assessment, program review, curriculum
+design and revision, preparation of PEOs, PLOs, CLOs, etc, institutional audit, research ethics,
+and plagiarism policy, and others are part of capacity-building programs by QEC.
+Plagiarism Policy
+Plagiarism policy will be adapted as per the HEC guidelines, and code of ethics, and in accordance
+with the global standard.
+Research Verification
+To ensure the quality of research conducted and published by the students and faculty members of
+PAF-IAST, QEC will be responsible for the verification and certification of research work.
+Integrity and Upholding of PAF-IAST values
+QEC as a part of IQA will take all necessary steps to ensure the integrity and upholding the values
+of PAF-IAST.
+Public Information
+QEC has developed its own web page where the activities are published regularly. The
+dissemination of information, impartial and objective information, both quantitative and
+qualitative information is published. Access to such information on the official website and social
+media is ensured.
+4.2.
+External Quality Assurance System (EQAS)
+External quality assurance (EQA) is an equally important aspect of the quality management system
+at PAF-IAST. Compliance with the benchmarking, audit standards, assessment, and review
+mechanisms of, QAA, QAD, HEC, and other agencies is part of EQA. External quality assurance
+(EQA) refers to the actions of an external body, possibly a QA agency which assesses the operation
+of the institution or its programs, to determine whether it is meeting the agreed standards. The aim
+is to achieve accountability and enhance institutions’ performance. EQA is necessary to prove to
+the public that the goals set by the institution will be achieved. Adherence with the EQAS standards
+promotes public confidence in PAF-IAST, therefore, we are committed to meeting the parameters
+defined for transparency and accountability by external agencies. EQA allows opportunities for
+continuous improvement and helps us understand our strengths and weakness.
+4.3.
+Accreditation
+A specific element in the Quality assurance system is accreditation. Accreditation is the coping
+stone of the QA system. PAF-IAST wants to make sure that all academic programs meet the
+requirements of their respective councils and are in line with the standards set by the councils.
+4.4.
+ISO Standards and Certification
+ISO standards and certifications are also an important aspect of EQA and equally important for
+HEIs. PAF-IAST will work with zeal and commitment to the robust and globally recognized
+approach that is focused on continually improving the processes at par with international standards.
+28
+Initially, the focus will be on attaining ISO 9001:2015 certification for the recognition of the
+quality management system at PAF-IAST.
+4.5.
+Quality Agencies Membership
+Memberships of national and international agencies/organizations help improve the standards and
+an important aspect of continuous quality improvement. Thus, the QEC of PAF-IAST will gain
+membership of such agencies and organizations for learning, contribution, and quality
+enhancement. Some of the available agencies for quality in higher education are listed below.
+• The International Network for Quality Assurance Agencies in Higher Education
+(INQAAHE)
+• the Asia-Pacific Quality Network (APQN)
+• The Council for Higher Education Accreditation (CHEA)
+• Association of Quality Assurance Agencies of the Islamic World (AQAAIW)
+• The Eurasian Centre for Accreditation and Quality Assurance in Higher Education and
+Health Care (ECAQA)
+• CHEA International Quality Group (CIQG)
+• Pakistan Network of Quality Assurance in Higher Education (PNQAHE)
+4.6.
+The Future Dimensions of Quality Assurance
+PAF-IAST is committed towards achieving highest standards of quality in higher education. To
+be more responsive towards the quality and standardization, QEC is working to develop and
+promote quality culture at PAF-IAST and contribution in the quality enhancement at national and
+international level. We are committed to achieve world quality label (WQL) by partnering with
+the international agencies.

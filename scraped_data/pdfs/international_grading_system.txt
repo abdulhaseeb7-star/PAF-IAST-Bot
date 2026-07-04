@@ -1,0 +1,53 @@
+4. Grading system
+PAF-IAST follows the Relative Grading System in its scheme of studies. Two types of averages are
+computed for the grades obtained by a student: The semester grade point average (SGPA) and cumulative
+grade point average (CGPA). SGPA indicates the GPA of a course completed in a semester; whereas CGPA
+reflects the GPA of all courses completed by a certain date by a student.
+Grade Letter
+Grade Point
+Interpretation
+A
+4
+Exceptional
+A-
+3.67
+Outstanding
+B+
+3.33
+Excellent
+B
+3
+Very Good
+B-
+2.67
+Good
+C+
+2.33
+Average
+C
+2
+Satisfactory
+C-
+1.67
+Low Pass
+D+
+1.33
+Marginal Pass
+D
+1
+Unsatisfactory
+F
+0
+Fail
+Q
+-
+Qualified
+W
+-
+Withdrawn
+I
+-
+Incomplete
+IP
+-
+In Progress

@@ -17,9 +17,12 @@
   },
   "contact": {
     "email": "info@paf-iast.edu.pk",
+    "admissions_email": "admissions@paf-iast.edu.pk",
+    "careers_email": "careers@paf-iast.edu.pk",
     "phone": "0995-111 723 278",
+    "alt_phone": "0995-931210-11",
     "address": "Khanpur Road, Mang Haripur, KPK",
     "website": "paf-iast.edu.pk"
-  },
+},
   "last_updated": "2026-06-30"
 }

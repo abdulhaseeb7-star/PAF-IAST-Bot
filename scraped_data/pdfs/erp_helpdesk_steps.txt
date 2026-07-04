@@ -1,0 +1,9 @@
+1. Click on the "Helpdesk" option from the main menu.
+2. The system will auto pick your name and Email.
+Fill in the required fields such as subject and detail description.
+Add any attachments or files related to the ticket (if needed)
+3. Click on the "Submit" button to generate the helpdesk ticket.
+4. A ticket number will be generated and accordingly communicated via email.
+To view old tickets in the helpdesk menu, follow these steps:
+1. Click on the "View my Tickets" option from the Helpdesk menu.
+2. You can then click on a specific ticket to view its detail.

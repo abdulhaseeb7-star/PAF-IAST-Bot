@@ -1,0 +1,7 @@
+Step by step procedure to apply for leave:
+1. Log in to ERP: Enter your credentials on login page.
+2. Access Leave Module: Click on the "Leaves" module on the dashboard.
+3. Create Leave Request: Select the option to create a new leave request.
+4. Fill in Details: Choose the leave type, add dates for start and end, and provide a brief reason.
+5. Submit Request: Click the submit button to send your leave application for approval.
+6. Check for Approval: Check your applied leaves status from Requested Leave status module.

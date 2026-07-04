@@ -1,0 +1,9 @@
+How to book a room through Outlook Desktop Application
+Step1: Go to search bar and write “Outlook” and then double click on Outlook App.
+Note: (Outlook App must be installed in system in prior to Step 1)
+Step2: In Outlook, under Home tab, click on “New Items” and then “Appointment”
+Step3: Under Appointment tab click on “Scheduling Assistant”
+Step4:    Enter the meeting details, select the require and optional attendees and room
+accordingly.
+Step 5: Click on the Send button, your request will reach PS to rector, He / She can reject or accept your
+meetings.

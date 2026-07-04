@@ -1,0 +1,11 @@
+Share your Microsoft 365 calendar with people inside or outside your
+organization
+Step 1: Click on calendar icon shows at the left bottom of your outlook home tab.
+Step 2: From your Calendar folder, on the Home menu, select Share Calendar.
+Step 3: In the Calendar Properties dialog box, click Add.
+Step 4: You can search for people from your address book or type in their email addresses in the Add
+box. When you're done adding names in the Add Users dialog box, click OK.
+Step 5: Back in the Calendar Properties dialog box, select the person's name or email address, then
+choose the level of details that you want to share with the person, then click OK.
+Step 6: The person you've shared your calendar with will receive a sharing invitation by email.
+Step 7: Once the recipient clicks Accept, they'll see your shared calendar in their calendar list.

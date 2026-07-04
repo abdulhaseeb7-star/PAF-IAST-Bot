@@ -1,0 +1,2424 @@
+R e s e a r c h  M a g a z i n e
+2021-22
+A PROJECT OF THE KPK GOVERNMENT
+PAF-IAST Research in Applied Sciences and Engineering
+1.	 Message from the Rector
+07
+2.	 Research and Innovation Concept of PAF-IAST
+09
+3.	 Research Labs  at PAF-IAST
+12
+•	 Genomics Lab
+14
+•	 Microbiology Lab
+14
+•	 Endocrinology and Translational Medicine Lab
+14
+•	 Assisted Reproductive Technologies & Medicine
+14
+•	 Drug Discovery, Drug Repurposing and Bio signaling
+14
+•	 Biomaterials and tissue engineering lab
+15
+•	 Cell Culture & Stem Cells lab
+15
+•	 Microscopy Lab
+15
+•	 Fluorescence-Activated Cell Sorting
+15
+and Analyzer (Facs) Lab
+15
+•	 Membrane Technology Lab:
+15
+•	 Air Quality Monitoring Lab
+15
+•	 Water and Wastewater Quality Testing Lab:
+15
+•	 Biofuel Production Lab
+15
+•	 Material Synthesis Lab
+17
+•	 Catalysis Lab
+17
+•	 Engineering Mechanics & Mechanical Testing Lab
+17
+•	 Heat Treatment Lab
+17
+•	 Fish Innovation Lab
+17
+4.	 Centers Of Excellence PAF-IAST
+18
+5.	 Funded Projects
+28
+6.	 Faculty Trainings
+42
+7.	 Research Productivity
+44
+8.	 Research Products
+66
+9.	 Seminars, Conferences and Workshops
+70
+10.	Linkages And Collaboration
+72
+11.	r of Excellence in Transportation/Railway                          Engi­
+neering (COETRE)Up-coming events
+CONTENTS
+RESEARCH    REPORT   2021/22
+6
+RESEARCH    REPORT   2021/22
+7
+MESSAGE
+FROM THE RECTOR
+As the first Rector of Pak-Austria Fachhochschule Institute of Applied
+Sciences and Technology (PAF- IAST), I couldn’t be more excited about
+the impact this institution will have on Pakistan’s economy. At PAF-IAST, we
+are committed to providing our students with a world-class education that
+combines theoretical knowledge with practical skills, so they can hit the
+ground running when they start their careers. Our vision is to be the premier
+institution for applied sciences and technology education in Pakistan by
+providing our students with the skills and knowledge they need to succeed
+in their chosen fields.
+Our mission is to deliver a high-quality education that prepares our students
+for the real world. We believe that practical experience is just as important
+as theoretical knowledge and that is why we put a strong emphasis on
+providing hands-on training and internships to our students. Our goal is to
+provide our students with the skills and knowledge that are in high demand
+in the job market, so they can be successful in their chosen careers.
+We also place a strong emphasis on research, innovation, and
+entrepreneurship. We encourage our students to think creatively, explore
+new ideas and solve real-world problems. We have a dedicated team of
+experts who provide guidance, mentorship, and support to our students in
+all aspects of research and innovation.
+PAF-IAST is continuously engaged with the industry. We have a vibrant
+culture of industry partnership; this helps us to understand the industry
+demands and align our curriculum accordingly so that our graduates are
+industry ready and have the required skills.
+At the heart of PAF-IAST is the Technology Park, an innovation hub built to
+promote new start-up companies with close ties to the Austrian, Chinese, and
+Pakistani industries. The emphasis will be on applied research of industrial
+importance, with the goal of fostering the development and manufacture
+of innovative products both for the local market of Pakistan and for export.
+I would like to invite all of our students, faculty, and staff to actively participate
+in the life of our institution. Your ideas and suggestions are always welcome,
+and we encourage you to take advantage of the many opportunities we offer
+for professional development and personal growth.
+Thank you for choosing PAF-IAST, and I look forward to working together to
+make our institution an even better place to learn, work, and grow.
+Prof. Dr. Mohammad Mujahid
+Rector
+Pak-Austria Fachhochschule Institute of Applied Sciences and Technology
+(PAF-IAST)
+MESSAGE FROM THE RECTOR
+RESEARCH    REPORT   2021/22
+8
+RESEARCH    REPORT   2021/22
+9
+RESEARCH AND INNOVATION CONCEPT OF PAF-IAST
+RESEARCH AND
+INNOVATION
+CONCEPT OF PAF-IAST
+Pak-Austria Fachhochschule: Institute of Applied Sciences and Technology
+(PAF-IAST), founded in 2019, is a unique concept and a quantum leap
+forward in the fast burgeoning, knowledge-based economy far beyond a
+mere educational structure. It is an unprecedented initiative with focus on
+the promotion of research, innovation, and entrepreneurship with a Lab to
+Market concept thus becoming a model, to promote entrepreneurial eco-
+system for knowledge-based economy through high-tech research labs,
+incubators, innovative café, and a center for professional development and
+consultancy. PAF- IAST has self-assured to take up the challenge to produce
+at least one commercializable research-based novel product a year thus
+promoting innovation and entrepreneurship rather than merely conventional
+teaching and basic research.
+The Office of Research Innovation & Commercialization (ORIC) is responsible
+to coordinate all the research activities and translation of research into
+economic growth. It establishes linkages between researchers, industries,
+government institutions, funding agencies, intellectual property offices, and
+all stakeholders who join hands for the prosperity & betterment of society. The
+PAF-IAST has developed an industry-focused curriculum to produce skilled
+professionals and a strong linkage with the local industry is built already. The
+skills and knowledge are provided to the students and faculty to become
+an innovative, opportunity-driven, and entrepreneurial manager(s), which is
+the spirit of the Lab to Market concept. The PAF-IAST teaching is specially
+focused on how to generate scalable new ideas that fulfill a market need and
+have a positive impact on the socio-economic situation of the society.
+The Institute is not only providing technical support but a hefty amount of
+funds is already set aside to provide financial support for applied research
+and building of new startups to foster entrepreneurial culture. The PAF-IAST
+built a multistory technology park building, where all the start-ups will be
+located, and this will be the heart of “Lab to Market” activities. The PAF-
+IAST will change the trends of research culture in Pakistan from scholarly
+publications to the products hence the dream of a knowledge-based
+economy in Pakistan will come true.
+PAF-IAST has envisaged a comprehensive plan for providingintellectual
+platform that includes an Innovation Technology Park (ITP) for the indigenous
+research and development of export-oriented technology solutions. PAF-
+IAST holds a strategic position as an Industrial special economic zone (SEZ)
+having accessibility to a nearby dry port in Havellian, in Hattar, whereas PAF-
+RESEARCH    REPORT   2021/22
+10
+RESEARCH    REPORT   2021/22
+11
+IAST is just 3 km off the CPEC Hazara motorway while technology clusters to
+be developed are within the vicinity will have high demands of skilled human
+capital and knowledge infrastructure.
+All of this work aims to build on Pakistan’s existing industries by incorporating
+new technologies in order to develop and foster next-generation products
+and processes in line with the fourth industrial revolution, as well as to create
+jobs through start-up support.
+INTELLECTUAL PLATFORM BY PAF-IAST
+It is worth mentioning that inventions alone are not innovations; Innovation
+is the result of a passionate painstaking roller coaster journey of research
+that results in a commercializable end product employing new technologies.
+Conventional route for dissemination of new knowledge as a result of
+basic research includes; traditional publications and generating intellectual
+property that may lead to a business case establishing a company.
+Alternately, in an entrepreneurial world knowledge is disseminated by
+transforming new knowledge into a valuable commodity as a result of
+academic exercise by researchers that commercialized through academic
+entrepreneurship. In academia, the usual challenge faced by faculty
+and researchers is their bench-scale proof of concept discovery in the
+laboratory, which leads to recognition, immature discovery is unfortunately
+not convincing enough for commercialization. Appreciating the missing link,
+academics have comprehended the importance of embryonic academic
+entrepreneurship which involves much more effort to transform an invention
+into innovation.  it is all about the cross-fertilization of notions and the
+manifestation of opportunities.
+FUNDED RESEARCH AT PAF-IAST
+Faculty is encouraged to establish close liaisons with industries and find
+avenues to commercialize their research. They are supported to work on
+projects which are applied in nature and market-driven. A start-up grant is
+planned to award to faculty as a seed fund for their research projects which
+makes business sense. Using this fund, faculty can create opportunities
+for the students in their respective disciplines of knowledge. Faculty is
+encouraged to establish their startups under the umbrella of ITP. The financial
+constraints are reduced so that faculty can whole heartedly work on the
+commercialization of their products, processes & technologies.
+RESEARCH AND INNOVATION CONCEPT OF PAF-IAST
+RESEARCH    REPORT   2021/22
+12
+RESEARCH
+LABS  AT PAF-IAST
+PAF-IAST has a robust vision to work on the cusp of
+innovative science, therefore the constituent faculties and
+programs regularly collaborate internally as well as externally
+in individual and joint projects to move forward. Considering
+the importance of research in sectors such as healthcare,
+agriculture, conservation, sustainability, IT and CS, Chemical
+and mineral Engineering, energy, etc, the departments have
+established specialized research Labs to provide solutions to
+our societal problems. These Labs and their  corresponding
+significance is as follows:
+RESEARCH    REPORT   2021/22
+13
+RESEARCH    REPORT   2021/22
+14
+RESEARCH LABS AT PAF-IAST
+GENOMICS LAB
+The Genomics lab established at PAF-IAST will be a hub for conducting
+research in oncology, genetic disease testing, non-invasive prenatal testing,
+pharmacogenetics and more.
+MICROBIOLOGY LAB
+Microbiology laboratories have all the facilities to conduct research on plant
+diseases that are caused by bacteria, fungi, viruses, algae, and protozoa. In
+diagnostics, this lab is used to confirm the occurrence of infectious diseases
+and to identify etiological agents.
+HISTOPATHOLOGY & IMMUNOHISTOCHEMISTRY
+Histopathology is the science of visualizing pathological features of tissue
+with the help of various tissue processing, staining and microscopic
+techniques. PAF-IAST, histology laboratory is well-equipped to perform basic
+and advanced procedures of histopathology.
+ENDOCRINOLOGY AND TRANSLATIONAL MEDICINE LAB
+This lab is equipped with state-of-the-art equipment to study hormones,
+assays to measure various hormones, and to take the scientific discoveries
+from the laboratory to the field or clinical setting.
+ASSISTED REPRODUCTIVE TECHNOLOGIES & MEDICINE
+The Assisted Reproductive Technologies and Medicine Laboratory is
+equipped with state-of-the-art equipment to develop cost-effective molecular
+diagnostics kits for infertility and efficient fertility therapy.
+DRUG DISCOVERY, DRUG REPURPOSING AND BIOSIGNALING
+State of the art research laboratory at PAF-IAST offers the identification
+of potential new therapeutic candidates and molecular attestation of
+STATE OF THE
+ART RESEARCH
+LABS
+RESEARCH    REPORT   2021/22
+15
+RESEARCH LABS AT PAF-IAST
+bio-signaling induced by drugs and their clinical screening in various
+neuropsychiatric disorders.
+BIOMATERIALS AND TISSUE ENGINEERING LAB
+The Biomaterials and tissue engineering lab is equipped with 3-D Bioprinter
+(1st in Pakistan) and many other equipments. It is established to acquaint
+students with an experience of conventional 2D and 3D mammalian cell
+culture systems.
+CELL CULTURE & STEM CELLS LAB
+This lab is a part of the biomaterials and tissue engineering lab, where all the
+facilities are available to perform culturing of different types of cells and stem
+cells in sterile conditions.
+MICROSCOPY LAB
+Microscopy Lab is a common resource offering comprehensive light,
+florescence, and confocal microscopy technologies.
+FLUORESCENCE-ACTIVATED CELL SORTING AND ANALYZER (FACS) LAB
+This lab is equipped with a fluorescence-activated cell sorter (FACS) which
+capitalizes on a technique to separate specific cell populations based on
+phenotypes detected by flow cytometry.
+MEMBRANE TECHNOLOGY LAB
+PAF-IAST Membrane Technology Lab offers a unique ability to permeate
+specific solute components pass through it but also for gas and vapor
+separations and to exploit it for several applications such as CO2 separation,
+water purification, water desalination, and different environmental aspects.
+AIR QUALITY MONITORING LAB
+Air pollution is one of the big challenges faced around the globe. To monitor
+the quality of air and control air pollution by testing air quality for conducting
+tests outdoor and indoor.
+WATER AND WASTEWATER QUALITY TESTING LAB
+Water and wastewater quality testing lab is a lab where measurement and
+treatment methods of water and wastewater are being taught by introducing
+them to various testing and treating devices.
+BIOFUEL PRODUCTION LAB
+In our biofuel production lab, biofuels like biogas, bio diesel, and bio ethanol
+RESEARCH    REPORT   2021/22
+16
+STATE OF ART RESEARCH LABS
+RESEARCH    REPORT   2021/22
+17
+STATE OF ART RESEARCH LABS
+plants are placed to practice the conversion of waste into energy. In our bio
+lab nanoparticles in different shapes with focus on a variety of applications in
+energy conversion, medicine and electronics are developed.
+MATERIAL SYNTHESIS LAB
+Equipment and facilities for material synthesis for catalytical studies are
+readily available in the Material Synthesis lab at C&EE.
+CATALYSIS LAB
+This lab is developed for surface chemistry studies related to heterogeneous
+catalysis, electrocatalysis, and photocatalysis through experimental rate
+measurements, spectroscopy, and adsorption measurements.
+ENGINEERING MECHANICS & MECHANICAL TESTING LAB
+The engineering mechanics & mechanical testing lab is designed to
+demonstrate to students the basic principles of Engineering Mechanics,
+namely, Engineering Statics, Engineering Dynamics, and Mechanical testing.
+HEAT TREATMENT LAB
+The purpose of this lab is to determine how different types of heat treating
+would affect a metal’s mechanical properties by changing the microstructure
+at different temperatures and treatments.
+FISH INNOVATION LAB
+PAF-IAST has a small water reservoir and a dam on campus where different
+types of fish are grown. Fish research is a neglected area in Pakistan
+though fisheries can be utilized to alleviate poverty and improve nutrition in
+Pakistan’s populations. After identification of this area, the Institute is keen
+to establish a “Fish Innovation Lab” where to utilize fish culture technologies
+and biotechnological techniques to improve fish production.
+RESEARCH    REPORT   2021/22
+18
+CENTERS
+OF EXCELLENCE
+AT PAF-IAST
+RESEARCH    REPORT   2021/22
+19
+CENTERS OF
+EXCELLENCE AT PAF-IAST
+PAF-IAST is a multi-faceted initiative that aims to create and establish
+additional Centers/Schools of excellence that are demand-driven and
+geared towards meeting the needs of the industry and ensuing economic
+development that is foreseen in the background scenario of the -China-
+Pakistan Economic Corridor (CPEC). Keeping in view the new avenues and
+significance of CPEC, PAF-IAST is establishing 04 Centers of excellence
+with the co-operation of China, solely geared towards the provision of skills
+concerned with:
+1.	 Railway Engineering;
+2.	 Agriculture Food Technologies;
+3.	 Mineral Resources Engineering; and
+4.	 Artificial Intelligence
+MOUs & MOAs with the following Universities in China have been signed
+CENTERS OF EXCELLENCE AT PAF-IAST
+CENTRE OF EXCELLENCE
+Railway Engineering
+Agriculture Food Technologies
+Mineral Resources Engineering
+Artificial Intelligence
+Beijing Jiaotong University
+Jiangsu Agriculture University (JSU)
+China University of Mining and
+Technology
+Guangdong University of
+Technology (GDUT) and SIAT
+MOA & MOU SIGNED
+RESEARCH    REPORT   2021/22
+20
+SINO-PAK
+CENTRE OF ARTIFICIAL
+INTELLIGENCE (SPCAI)
+SPCAI
+is
+sponsored
+by
+the
+Ministry
+of
+Information
+Technology
+and
+Telecommunication (MoITT) under Public
+Sector
+Development
+Program
+(PSDP)
+(hereinafter referred to as ‘SPCAI,’ which
+expression shall include its successors and
+permitted assigns). SPCAI is being executed,
+maintained, and operated by PAF-IAST. The
+overall objective of the center is to build
+national capacity to carry out research and
+development in the emerging field of artificial
+intelligence.
+It is the first center of excellence in Artificial
+Intelligence that integrates ten research
+laboratories under a single roof with the
+potential to develop integrated solutions.
+The center also has a high-performance
+computing infrastructure to support SPCAI
+and regional collaborators. SPCAI is in close
+proximity to Hattar Industrial Estate (Special
+Economic Zone-Hattar), Pakistan First Digital
+City, KPK, and Havellian dry-port under
+CPEC leads to significant opportunities in
+which AI can support industry and eventually
+the economy of Pakistan. SPCAI has close
+collaboration with Austrian and Chinese
+academia and industry that replicates the
+state-of-the-art and proven practices of
+establishing a research center.
+RESEARCH    REPORT   2021/22
+21
+CENTERS OF EXCELLENCE AT PAF-IAST
+OBJECTIVES
+•	 Build national capacity to carry out R&D in the emerging field of artificial
+intelligence by producing expertise through MS/PhD programs in
+collaboration with Chinese and Austrian universities.
+•	 To solve local problems using AI and market them through the technology
+park.
+•	 Provide high-value shared services to industrial partners.
+•	 To engage faculty and students in applied research to fulfill the industrial
+requirement by providing innovative solutions, especially focusing on
+Pakistan’s social and economic fabric.
+•	 To establish a partnership with international research centers and leverage
+their rich experience to develop the Center for Artificial Intelligence as an
+internationally renowned center in AI, attracting international projects and
+customers.
+NATIONAL AND INTERNATIONAL ACADEMIC LINKAGES FOR RESEARCH
+1.	 National Engineering & Scientific Commission of Pakistan (NESCOM)
+2.	 National Centre for Physics (NCP)
+3.	 LENOVO
+4.	 Advanced Telecom Services (ATS)
+5.	 National Radio and Telecommunication Corporation (NRTC)
+6.	 International Center for Chemical and Biological Sciences (ICCBS)
+7.	 COMSTECH Organization of Islamic Cooperation Standing Committee
+on Scientific and Technological Cooperation
+8.	 The Johannes Kepler University Linz (JKU),
+9.	 Austria Software Competence Center Hagenberg (SCCH), Austria
+10.	Guangdong University of Technology (GDUT), China (MOA)
+11.	Shenzhen Institutes of Advanced Technology (SIAT), China (MOU)
+RESEARCH    REPORT   2021/22
+22
+CENTER OF
+EXCELLENCE IN
+TRANSPORTATION/
+RAILWAY ENGINEERING
+(COETRE)
+CENTERS OF EXCELLENCE AT PAF-IAST
+The Center of Excellence in Transportation/Railway Engineering (COETRE)
+has been established to train professionals for leadership positions in the
+transportation industry. In the fall of 2021, COETRE launched a specialized
+curriculum for a one-and-a-half-year MS Degree in Railway Systems
+Engineering.The first such academic program in Pakistan, if not in the region,
+has about thirty-two (32) students enrolled, twenty-seven (27) of whom are
+serving officers of Pakistan Railways, belonging to different disciplines
+namely, civil, mechanical, electrical, and stores and purchase departments.
+Knowledgeable and experienced faculty comprising of ‘Professors of Practice’
+from different disciplines of the railway industry and qualified academicians
+from the universities are teaching the students. Foreign faculty has also been
+engaged to teach different subjects. The Center of Excellence is all set to
+introduce another important MS Degree Program in Transportation Systems
+Engineering from the Fall  2022.
+In consonance with the PAF-IAST’s slogan of ‘Skilling Pakistan”, COETRE
+has also successfully undertaken skill development short courses for officers
+of Pakistan Railways. So far, almost two hundred (200) officers, belonging
+to different departments of Pakistan Railways, have been trained at the PAF-
+IAST campus. Efforts are underway to start short courses in other rail-related
+technical fields and to provide IT-related skills to the railway employees at
+their places of posting.
+To achieve excellence in the field of transportation and railways and to keep
+abreast with international best practices in the field, COETRE has already
+signed a Memorandum of Agreement with the prestigious Beijing Jiaotong
+University, Beijing, China, (BJTU). The two institutions are actively engaged
+with each other for enhancing cooperation in the field of faculty training and
+exchange and also student exchange resulting in dual degrees.
+RESEARCH    REPORT   2021/22
+23
+CENTERS OF EXCELLENCE AT PAF-IAST
+OBJECTIVES
+•	 A Center of Excellence in Transportation/Railway Engineering has been
+established at PAF-IAST in Pakistan to address the neglected field of
+transport sector, to educate and research this field.
+•	 The Center of Excellence in Transportation/Railway Engineering was
+created to aid the Government of Pakistan’s efforts to improve its
+transportation network by investing in highways, railway network
+upgrades, international connectivity, port and shipping development,
+increasing aviation capacity, and developing pipelines for gas and fuel.
+•	 Investments of billions of dollars have been pledged through programs
+such as the China-Pakistan Economic Corridor (CPEC) and Central
+Asian Regional Economic Cooperation (CAREC) to upgrade railway
+and motorway projects, ports and provide connectivity by rail and road
+between Pakistan.
+•	 The AI Center for Transportation focuses on providing MS Degrees in
+Transportation Engineering and Railway Systems Engineering, as well as
+skill development programs for over 200 Pakistan Railway officers and
+other modes of transportation.
+•	 The Center for Rail Transport Research has 26 active rail-related research
+projects and anticipates more to come with the implementation of CPEC
+and CAREC, also established a mutually beneficial relationship with the
+Beijing Jiatong University, China, to bolster their academic and research
+pursuits.
+•	 The Centre for Transportation stays informed of latest advancements and
+developments in transportation around the world to benefit students and
+researchers with modern international standards and practices.
+NATIONAL AND INTERNATIONAL ACADEMIC LINKAGES FOR RESEARCH
+1.	 Beijing Jiao tong University (Foreign Industrial Liaison partner & Dual
+Degree Program)
+2.	 Pakistan Railways
+3.	 Ministry of Railways
+4.	 Walton Academy
+RESEARCH    REPORT   2021/22
+24
+MINERAL
+RESOURCE
+ENGINEERING
+CENTERS OF EXCELLENCE AT PAF-IAST
+Sino-Pak Center for Mineral Resources Engineering (SPCMRE) is soon to be
+established at PAF-IAST. The Chinese Government Funding Agency, China
+International Development Cooperation Agency (CIDCA) has approved
+funding for four centers at PAF-IAST of which a major share will be given to
+this center. State-of-the-art facilities are going to be established here with the
+cooperation of the Chinese biggest mining university, the China University
+of Mining & Technology (CUMT). These facilities include everything from
+prospecting to mineral processing and even extractive metallurgical pilot
+plants are going to be established here. These unique features will make this
+center a distinguished and the only one of its kind in Pakistan.
+SPCMRE has already signed MoU & MoA with the Minerals Development
+Department (MDD) of Khyber Pakhtunkhwa. SPCMRE is working on a 10
+year (2022-32) strategic action plan, the minerals policy 2022 & the pilot
+plants located in the Mineral Testing Laboratories, Peshawar in collaboration
+with MDD. These include Nepheline Syenite, Malakand Chromite, Copper,
+Iron, Silver, and Gold extraction plants. The students of the center are
+already working on these plants and it is planned to improve the capacity &
+diverse applications of these units. These plants can be presented as model
+industries that can be replicated as well. This way, huge job, and business
+opportunities can be created through mineral-based industrial clusters. The
+SPCMRE will play a central role in all these activities.
+RESEARCH    REPORT   2021/22
+25
+CENTERS OF EXCELLENCE AT PAF-IAST
+OBJECTIVES
+1.	 Research and development for value addition of mineral resources
+2.	 Business development in the mineral sector
+3.	 Extraction of metals and other mineral-based products.
+NATIONAL AND INTERNATIONAL ACADEMIC LINKAGES FOR RESEARCH
+1.	 University of Mining & Technology (CUMT)
+2.	 Minerals Development Department (MDD) of Khyber Pakhtunkhwa
+RESEARCH    REPORT   2021/22
+26
+SINO-PAK CENTER
+OF EXCELLENCE
+IN AGRICULTURE
+FOOD TECHNOLOGIES
+CENTERS OF EXCELLENCE AT PAF-IAST
+Pakistan is an agricultural country where different crops are produced in
+huge quantities. However, food losses are very high due to the lack of proper
+technology which leads to food shortage and food scarcity in different regions
+ofthe country are in an alarming situation. Therefore, the establishment of
+a “Sino-Pak Center of Excellence in Agriculture Food Technologies” is the
+utmost need of the time. For this purpose, a memorandum of agreement
+(MOA) had been signed with Jiangsu University China.
+RESEARCH    REPORT   2021/22
+27
+OBJECTIVES
+•	 Build national capacity to carry out R&D in the emerging field of Food
+Processing and Packaging Technology with the mutual understanding
+and collaboration of national and international experts.
+•	 Solve problem of food shortage by increasing agriculture food production
+and provision of appropriate food nutrition.
+•	 Provide the basis for Agro-based small-scale industries.
+•	 Reduction of food losses particularly, fresh fruits and vegetables and
+enhancing their processing, preservation, and packaging.
+•	 Provide high-value shared services to academia, startups and industrial
+partners.
+•	 Human Resource Development in various food sectors.
+NATIONAL AND INTERNATIONAL ACADEMIC LINKAGES FOR RESEARCH
+1.	 Jiangsu University China.
+2.	 Austrian Universities
+CENTERS OF EXCELLENCE AT PAF-IAST
+RESEARCH    REPORT   2021/22
+28
+FUNDED
+PROJECTS
+RESEARCH    REPORT   2021/22
+29
+TITLE: DESIGN OF HYBRID POWER
+MANAGEMENT UNIT FOR THE OPERATION OF
+POINT MACHINE SYSTEM IN PAKISTAN
+RAILWAY FOR EFFICIENT TRAFFIC CONTROL
+PRINCIPAL INVESTIGATOR
+Dr. Muhammad Aamir, Assistant Professor, Department of Electrical and
+Computer Engineering
+CO-PI
+(Affiliation)
+FUNDING AGENCY
+NRPU, Higher Education Commission, Pakistan
+AMOUNT
+3.5 Million PKR
+ABSTRACT
+Pakistan railways faced the problems of train delays due to the unavailability
+of power for the signaling system. This causes loss to the economy and
+damages the reputation of the organization. Therefore, a novel power
+management system has been proposed that can provide uninterruptible
+power to the signaling system.
+PMU IMPACT ON SOCIETY
+The proposed project will provide uninterruptible power to the signaling
+system which will solve the problems of train delays faced by Pakistan
+Railways.
+FUNDED PROJECTS
+Diesel Generator
+Utility Grid
+UPS system
+Point Machine
+Photovoltaic System
+Variable
+Frequency
+Drive
+Power
+Management
+System
+RESEARCH    REPORT   2021/22
+30
+FUNDED PROJECTS
+TITLE: DEVELOPMENT OF SOLID OXIDE ELECTRO­
+LYZER CELL (SOEC) TECHNOLOGY TO BE INTE­
+GRATED WITH COAL/GAS-FIRED POWER PLANT
+EXHAUST FOR EFFECTIVE CO2 UTILIZATION
+PRINCIPAL INVESTIGATOR
+DR. MUHAMMAD ZUBAIR KHAN ASSISTANT PROFESSOR, DEPARTMENT
+OF MINERAL, MINING AND MATERIAL ENGINEERING
+ABSTRACT
+The excessive use of fossil fuels in the industry in Pakistan is one of the
+major sources of CO2 emission in the environment. We have proposed
+the development of solid oxide electrolyzer cell (SOEC) technology to be
+integrated with coal/oil/gas-fired power plant exhaust for effective CO2
+utilization. This technology suggests a most suitable solution for reducing
+the CO2 emission from industrial exhaust to the environment, thereby,
+addressing the issues of climate change and global warming.
+GRAPHICAL ABSTRACT:
+Schematic representation of our solution to mitigate the CO2 emission at
+industrial exhaust using electrical energy from renewable/nuclear sources
+and producing synthetic fuel for the industry.
+RESEARCH    REPORT   2021/22
+31
+FUNDED PROJECTS
+TITLE: DEVELOPMENT & CHARACTERIZATION OF
+HVOF SPRAYED CHROMITE POWDER COATINGS
+AS AN ALTERNATIVE TO HARD CHROME PLATING
+PRINCIPAL INVESTIGATOR:
+Dr. Abdul Mateen Khan
+FUNDING AGENCY
+Pakistan Science Foundation
+AMOUNT
+9,835,762.00 PKR (~9.83M PKR)
+ABSTRACT
+Pakistan is rich in mineral resources. These resources can be used for the
+betterment of the country. If these materials are converted into value-added
+products, this can result in creation of large number of jobs & business
+opportunities. This can reduce dependence on imports and increase revenue
+because of the much higher value of the products.
+IMPACT ON SOCIETY
+The potential impact of this effort can be huge, as it shall put Pakistan on the
+clean energy of the region, if not the world, and accelerate its march towards
+green and sustainable mobility solutions. Furthermore, the project can result
+in the sub-system’s expertise for long-term indigenous development and
+commercialization in reducing global warming.
+Industries
+1. Tuny-Pak Minerals Pvt. Ltd. Islamabad
+2. Armenza International Pvt. Ltd, Sialkot
+3. JEBRA Minerals & Metallurgy Pvt. Ltd.
+Islamabad
+GOVT. of KPK
+Academia
+1. Pak-Austria
+Fachhochschule-Institute of
+Applied Sciences & Technology,
+Haripur
+RESEARCH    REPORT   2021/22
+32
+TITLE: ESTABLISHMENT OF DNA BASED
+PRE-SYMPTOMATIC DIAGNOSTIC METHODS FOR
+GLAUCOMA
+PRINCIPAL INVESTIGATOR
+DR. HUMAIRA AYUB, ASSISTANT PROFESSOR, DEPARTMENT OF
+BIOMEDICAL SCIENCES
+CO PI
+DR. SADIA MEHMOOD
+FUNDING AGENCY
+HIGHER EDUCATION COMMISSION, PAKISTAN
+AMOUNT
+12.8 MILLION PKR
+ABSTRACT
+Glaucoma initiates and progresses without the notice of the patient, resulting
+in loss of central vison. We aim to discover molecular biomarkers for early
+indication of the disease risk and save the sight. We will determine the genetic
+component of the disease, and establish a DNA-based pre-symptomatic
+diagnostic biomarker that will help in carrier testing and identify the individuals
+at risk followed by monitoring and counselling of the patients.
+GRAPHICAL ABSTRACT
+The project conforms to the health and well-being of individuals improving
+The project conforms to the health and well-being of individuals with early
+and pre-symptomatic diagnosis of the disease, identifying individuals at risk
+of development of the disease thus saving them from getting blind.
+C
+C
+C
+C
+C
+T
+T
+G
+l
+a
+u
+c
+o
+m
+i
+c
+V
+i
+s
+i
+o
+n
+C
+o
+u
+n
+s
+e
+l
+l
+i
+n
+g
+o
+f
+i
+n
+d
+i
+v
+i
+d
+u
+a
+l
+s
+a
+t
+R
+i
+s
+k
+E
+s
+t
+a
+b
+l
+i
+s
+h
+D
+N
+A
+B
+a
+s
+e
+d
+B
+i
+o
+c
+h
+i
+p
+P
+r
+e
+-
+s
+y
+m
+p
+t
+o
+m
+a
+t
+i
+c
+d
+i
+a
+g
+n
+o
+s
+i
+s
+• Irreversible damage
+to  optic nerve
+• Progressive
+• Loss of peripheral
+vison
+• Diagnosis is delayed
+because the patient miss
+the symptoms
+• Lack of tools to identify
+people at risk
+DNA Based Biochip Designed
+A
+t
+h
+i
+e
+f
+o
+f
+s
+i
+g
+h
+t
+F
+a
+m
+i
+l
+i
+a
+l
+G
+e
+n
+e
+t
+i
+c
+s
+P
+o
+p
+u
+l
+a
+t
+i
+o
+n
+G
+e
+n
+e
+t
+i
+c
+s
+Timely Diagnosis
+Delayed Diagnosis
+Vision Saved
+Vision Lost
+FUNDED PROJECTS
+RESEARCH    REPORT   2021/22
+33
+FUNDED PROJECTS
+TITLE: PRECLINICAL DRUG PROFILING
+IN ANIMAL MODEL OF DRUG ADDICTION
+USING BEHAVIOR AND FUNCTIONAL
+PHARMACOGENETICS APPROACH
+PRINCIPAL INVESTIGATOR
+DR. MUHAMMAD IMRAN KHAN, ASSISTANT PROFESSOR, DEPARTMENT
+OF BIOMEDICAL SCIENCES
+FUNDING AGENCY
+HIGHER EDUCATION COMMISSION, PAKISTAN
+AMOUNT
+9.76 MILLION PKR
+ABSTRACT
+Drug addiction is a foe that affects most of the population worldwide.
+The psychoactive drugs from natural sources or their derivatives as pure
+compounds are extensively studied for various CNS activities such as
+antipsychotics, antianxiety, schizophrenia, and antidepressant activity but
+hitherto have not been evaluated for de-addiction property, dependence,
+and tolerance i.e. against drug abuse. It has also been proposed that
+different intra- extracellular signaling like NMDA, NF-KB, Dopamine, GABA,
+nitric oxide system, etc. in various brain regions, inflammation, and oxidative
+stress has an important pathological role in drug addiction, dependence,
+and tolerance. The discovery of various biomolecules against these targets
+may be useful agents in the prevention of withdrawal syndrome and drug
+relapse. Thus, the strategy of blocking oxidative stress, inhibiting various
+biosignaling, and inflammation by well-known natural compounds such as
+resveratrol, Carvacrol, curcumin, etc. may be useful in the development of a
+new therapy for drug tolerance and withdrawal syndrome. Hence, the main
+objective of the present research project is to investigate the therapeutic
+potential of these psychoactive medicinal agents and their pure compounds
+for the treatment of morphine/alcohol/heroin/methamphetamine addiction
+and withdrawal in the animal model and to examine and uncover the various
+molecular basis for their effective treatment.
+IMPACT/ OUTCOME
+In the modern world, scientific advancements in terms of technology and
+research for new drug development has brought a dramatic change in
+designing innovative drugs and efficient treatment protocols for various non-
+communicable and neuropsychiatric diseases. However, still there exist many
+research gaps which if addressed can fix many health-related problems
+and can cure various associated comorbidities. The demographics show
+RESEARCH    REPORT   2021/22
+34
+that in neuropsychiatric disorders, addiction to various drugs like morphine,
+cocaine, methamphetamine, marijuana, etc. has an important place to be
+addressed at the earliest as it highly affects the socioeconomic aspect of
+society. The addicted individual under treatment faces severe withdrawal
+symptoms during abstinence which must be addressed symptomatically.
+The consequences of this withdrawal effect, limited use for medical purpose
+due to tolerance and dependence, and relapse of addiction appealed us to
+search for a new drug that might have a high potential for addressing the
+issue of drug addiction. It will boost the economic condition of our nation
+via drug development and research integrity in international forums. Such
+research will also minimize the healthcare burden and patient suffering.
+FUNDED PROJECTS
+M orphine
+induced
+Dependence
+M orphine
+NFK
+TNFa
+IL’s
+PPAR
+NFK
+C
+Opioid
+Receptor
+5 days Protocol
+inhibitor
+NOS
+GST
+cGMP
+Behavioral
+Study
+Nalaxone
+Morphine
+50 mg , 75 mg,100 mg
+NMDA
+Opioid dependence
+withdrawal
+PPAR
+PPAR
+NMDA
+NO
+O XID ATIVE
+STRESS
+ROS
+IHC
+ELISA
+Tissue antioxidant
+RTPCR / Western Blot
+Brain tissue
+Sampling
+GSH
+LPO
+catalase
+L-NAME, 7NI, AG, L-arginine
+MK, Ifenprodil, Ketamine
+GW, Pioglitazone
+a/f30 min
+a/f15 min
+Carveol
+Carvacrol
+Emodin
+Rutin
+Compound
+RESEARCH    REPORT   2021/22
+35
+TITLE: AUTOMATED DETECTION OF ACUTE
+ISCHEMIC INFARCT ON “CODE STROKE”
+HEAD CT USING DEEP NEURAL NETWORKS
+PRINCIPAL INVESTIGATOR
+DR.MUHAMMAD MOHSIN KHAN
+FUNDING AGENCY
+HIGHER EDUCATION COMMISSION, PAKISTAN
+AMOUNT
+4.3 MILLION PKR
+ABSTRACT
+Strokes are caused by an abrupt blockage of arteries leading to the brain
+(ischemic stroke), stroke is also called a brain attack. Other strokes are caused
+by bleeding into brain tissue when a blood vessel bursts (hemorrhagic stroke).
+It affects the entire body, including paralysis or partial paralysis, cognitive and
+memory deficits, speech and visual issues, emotional difficulties, daily living
+challenges, and pain. Paralysis is a common outcome of stroke, often on
+one side of the body. Because stroke occurs rapidly and requires immediate
+treatment. In Pakistan, the incidence rate of stroke is very high, and it is
+increasing to 350,000 new cases every year. (1)
+Deep neural networks with volumetric analysis capabilities have achieved
+promising results in the classification of medical images. These machine
+learning models can help with surveillance and diagnosis of critical findings
+like acute infarct, which can be particularly important in resource-challenged
+parts of the country without access to subspecialty-trained radiologists.
+Deep neural networks require high-performance computational machines
+and a large amount of training datasets.
+FUNDED PROJECTS
+RESEARCH    REPORT   2021/22
+36
+TITLE: 1. SMART CITY AND URBAN PLANNING
+INTELLIGENT FORECASTING AND CONTROL OF
+ENERGY STORAGE FOR SMART BUILDINGS (IN­
+TERACT)
+PRINCIPAL INVESTIGATOR
+Dr. Sohail Khan
+CO-PI
+Mr. Imad Asif from IKS Services Pvt Ltd (Industrial Collaborator)
+FUNDING AGENCY
+SPACI
+AMOUNT
+5.97 Million PKR
+DURATION
+One Year
+ABSTRACT
+The primary goal of the project is to develop and test a prototype energy
+management system for buildings that minimize the cost of energy and
+ensure the availability of the energy supply. It is assumed that a PV system
+and storage have been installed at the building.
+OFFERINGS
+• System (EMS
+Controller)
+• Service (Software
+Planning Tool and
+maintenance)
+THREATS
+• Sensitive to
+energy storage
+parameters
+• Controllable
+inverter system
+and Interfacing
+challenges
+STRENGTHS
+• Learning form
+previous
+experience
+• Optimal Dispatch
+and cost-effective
+supply
+OPPORTUNITIES
+• Extendable to
+include new
+technologies
+• Database
+Collection
+END- USER
+INDUSTRY
+• Residential
+(Home EMS)
+• Commercial
+(Building EMS)
+• Industrial
+(Industrial EMS)
+MARKET
+REACH
+• Power and
+Energy Sector
+• Education,
+Healthcare,
+manufacturing
+FRAMEWORK SPECIFICATION
+TESTING AND
+CONTROLLER DEPLOMENT
+PROTOTYPE MODELLING
+AND DEVELOPMENT
+FIELD VALIDATION
+AND EVALUATION
+SEPTEMBER 2021
+AUGUST 2021
+INTERACT
+PROJECT TIMELINE
+FUNDED PROJECTS
+RESEARCH    REPORT   2021/22
+37
+Hand Gesture
+Capturing Using
+mm-Wave Radar
+Signal Processing &
+Enhancement
+Decision based on
+Machine Learning
+PROJECT GESTAR
+A NEW SENSING
+PARADIGM
+FUNDED PROJECTS
+TITLE: 2. GESTAR – INTERNET OF THINGS
+USING MM-WAVE RADAR AND AI FOR
+DEVELOPMENT OF NEW GESTURE LANGUAGE
+PRINCIPAL INVESTIGATOR
+Dr. Zaffar Haider Janjua
+CO-PI
+Dr. Hammad M. Cheema
+INDUSTRIAL PARTNER
+Renzym Pvt. Ltd.
+AMOUNT
+PKR 6.5 Million
+DURATION
+One Year
+ABSTRACT
+The project aims to develop a hardware-software framework for obtaining
+radar data, formulate a library of unique gestures suitable for detection using
+mm-wave radar, develop a machine learning pipeline for gesture recognition
+and classification, integrate the radar hardware-software system with few
+public use devices, test and customize the product for the use-cases of
+public interest such as touchless systems and assistive living devices for
+blind people, and demonstrate a working system to potential customers at
+an open-day.
+RESEARCH    REPORT   2021/22
+38
+TITLE: 3. INTELLISURV – COMPUTER VISION
+AN INTELLIGENT SURVEILLANCE
+SYSTEM FOR DETECTION OF ANOMALIES
+IN REAL-TIME VIDEOS
+PRINCIPAL INVESTIGATOR
+Dr. Fiza Murtaza
+CO-PI
+Dr. Muhammad Haroon Yousaf (from Academia), Dr. Muhammad Zeeshan
+(From Industry)
+INDUSTRIAL COLLABORATOR
+Advanced Telecom Services
+AMOUNT
+PKR 5.3 million
+DURATION
+One Year
+ABSTRACT
+The primary goal of the project is to propose IntelliSurv system targeting the
+development of an intelligent add-on in surveillance systems through the
+deployment of AI-on-the-Edge technology for anomaly detection in real-time
+videos.
+Crime Detection from
+Real-time Video
+Streams
+Detection of Crime  Actions
+Video
+Intellisurv
+FUNDED PROJECTS
+RESEARCH    REPORT   2021/22
+39
+FUNDED PROJECTS
+4. INTELLIGENT BIOMEDICAL APPLICATIONS
+SIGHT FOR BLIND-SPOT
+A SMART REHABILITATION TRAINING PROTOCOL FOR INDIVIDUALS WITH
+RETINAL DEGENERATIVE DISEASES
+PRINCIPAL INVESTIGATOR
+Humaira Ayub
+CO-PI
+Syed Omer Gilani
+INDUSTRIAL PARTNER
+N-Ovative Health Technologies Pvt Ltd
+AMOUNT
+PKR 6.9 MILLION.
+DURATION
+One Year
+ABSTRACT
+The primary goal of the project is to develop a smart rehabilitation solution
+for Retinal Degenerative Diseases (RDD) based on patients’ visual field
+specifications (saccades and blind-spots) so that they can learn faster by
+utilizing their residual vision.
+PROJECT CONCEPT
+Subretinal Hemorrhage
+Preferred Retinal
+Locus
+Macular Scar
+AI-based Model Training
+VISION OF PATIENT WITH AMD
+DEVELOP TRAINED RL
+FOR VISION IMPROVEMENT
+Atrophy
+Drusen
+IDENTIFY PRL
+RESEARCH    REPORT   2021/22
+40
+INDUSTRIAL PROJECTS
+TITLE: DEVELOPMENT OF A 2-IN-1 COMBO RAPID
+TESTING ASSAY FOR MALARIA AND DENGUE
+PRINCIPAL INVESTIGATOR
+Dr. Farakh Javed/ PAF-IAST
+CO-PI
+Dr. Muhammad Arslan Latif
+FUNDING INDUSTRY
+Human Health care
+AMOUNT
+PKR 0.5 million
+ABSTRACT
+Malaria and Dengue have the same symptoms, and both are vector-borne
+infections. Due to differential diagnosis, doctors get confused to identify the
+disease. The present aim of the study is to develop a 2-in-1 combo kit against
+dengue and malaria testing. This kit provides early diagnosis of malaria or
+dengue to help the physician to start treatment in time.
+IMPACT ON SOCIETY
+This kit provides early diagnosis of malaria or dengue to help the physician to
+start treatment in time. Moreover, this kit will give accurate and sensitive results
+as it will be developed from the local strains circulating in the population of
+Pakistan.
+FUNDED PROJECTS
+RESEARCH    REPORT   2021/22
+41
+INDUSTRIAL PROJECTS
+TITLE: MOSSCENT:DEVELOPMENT AND
+FORMULATION OF INSECT REPELLENT  BASED ON
+HERBAL AND NANOSTRUCTURED LIPID CARRIER
+PRINCIPAL INVESTIGATOR
+Dr. Muhammad Imran Khan
+CO-PI
+Dr. Wajid Ahmad Qureshi
+FUNDING INDUSTRY
+MEDEVOX Pharmaceuticals Pvt.Ltd. Islamabad
+AMOUNT
+PKR 0.7 MILLION
+FUNDED PROJECTS
+ABSTRACT
+MOSSCENT is an insect-repellent
+product
+based
+on
+herbal
+and
+nanostructured
+lipid
+carrier.
+The
+product is highly breakthrough in terms
+of its formulation, as it is free from all
+those formulations such as DEET, Clove
+oil, Citronella oil, and IR3535 which are
+toxic in long run, aren’t environmentally
+friendly and can cause Delirium, skin
+allergies, hives, and urticaria when
+frequently used.
+IMPACT ON SOCIETY
+All those insects repellent present in
+our local market used in our society
+contain chemicals that are hazardous
+for different ages and sex. MOSSENT
+is a solution for all those existing prob­
+lems.
+Mosscent
+RESEARCH    REPORT   2021/22
+42
+FACULTY
+TRAININGS
+RESEARCH    REPORT   2021/22
+43
+FACULTY TRAINING AND
+POST-DOCTORAL TRAINING
+SPONSORSHIP
+PAF-IAST is in collaboration with FH JOANNEUM and MCI | The
+Entrepreneurial School Austria for faculty development training. Twenty-
+Three Faculty members from five (05) departments of PAF-IAST were sent for
+four-month training to Austria for capacity building in university management
+system. The faculty had extensive training lectures and industrial visits in
+Austria related to the management of applied research projects, industrial
+linkages, accreditation of its programs, and internationalization. The purpose
+is to bring the applied research concept to Pakistan and to enable the students
+of PAF-IAST for practical skills and applied research projects. This will help
+in contributing to society and advance the Pakistani nation to the best level
+so that they could be capable to implement the emerging technologies in
+real-life applications.
+PAF-IAST also sponsors Post-doctoral training for its faculty members to get
+faculty training and to conduct joint research projects in Austria. PAF- IAST
+is in research collaboration with SCCH Austria and the Institute of Software
+Systems Engineering (ISSE), Johannes Kepler University (JKU), Linz.
+Currently, three Faculty members; Dr. Maqbool Khan, Dr. Waqar Mehmood,
+and Dr. Arshad Ahmad, from the Department of IT and Computer Science
+are in Austria for post-doctoral training. Dr. Maqbool Khan is involved in
+conducting research at SCCH focusing on data-driven solutions for smart
+and intelligent manufacturing under the hood of industry 4.0 & 5.0 revolution
+and the digital twin concept. The research area is Prognostics and Health
+Management (PHM) specifically Human-Centered AI and predictive analytics
+in smart industry domain. He joined SCCH for post-doctoral training to work
+jointly with the SCCH team and assist them on project deliverables during
+his stay at SCCH. Currently, he is involved in two EU-funded projects. At
+the institute of Software Systems Engineering at JKU, Austria Dr. Arshad
+Ahmad is mainly dealing with the challenges of requirements engineering for
+developing Artificial intelligence systems. In addition, he is also involved in
+one project teaming.ai with SCCH, Hagenberg, Austria as well. Research by
+Dr. Waqar Mehmood at JKI focuses on Microservice architecture (MSA) and
+it’s applications. He joined JKU for post-doctoral training to work jointly with
+the ISSE team and assist them on project deliverables during his stay at JKU.
+Currently, he is involved in investigating how variability management, model-
+driven engineering, software reusability, and product extraction can be done
+in the MSA paradigm.
+TRAVEL GRANTS
+RESEARCH    REPORT   2021/22
+44
+C
+A
+S
+E
+S
+T
+U
+D
+Y
+RESEARCH
+PRODUCTIVITY
+RESEARCH    REPORT   2021/22
+45
+RESEARCH PRODUCTIVITY
+RESEARCH PRODUCTIVITY
+PATENTS 2021
+1. Muhammad Irfan, Ray C. C. Cheung, and Zahid Ullah, “Bank-selective
+Power Efficient Ternary Content-addressable Memory”. Application Number
+(US patent): 17353803. Filing date: 21 June 2021.
+2. Fazli Wahid, Taous Khan, Naveera Naeem, Wound healing topical
+formulation and preparation thereof. Granted (143734, 14 Dec 2021) IPO-
+Pakistan.
+PATENTS 2022
+1.	 Muhammad Irfan, Ray C. C. Cheung, and Zahid Ullah, “Bank-selective
+Power Efficient Ternary Content-addressable Memory”. Application
+Number (US patent): 17353803. Filing date: 21 June 2021.
+2.	 Khan MI, Wang D, Ullah N, Shah FA, Fahad S, Khan SU, Wahab A, Khan
+AU, inventors; Muhammad Imran Khan, assignee. TRANS-ANETHOLE
+((E)-1-METHOXY-4-(1-PROPENYL) BENZENE), A NEW AND POTENT
+INHIBITOR OF PROLYL ENDOPEPTIDASE. United States patent
+application US 17/214,886. 2022 Sep 29.
+RESEARCH ARTICLES
+1.	 Wahab, F., Rodriguez Polo, I. and Behr, R., 2021. SIRT1 expression
+and regulation in the primate testis. International journal of molecular
+sciences, 22(6), p.3207. https://doi.org/10.3390/ijms22063207. (Impact
+Factor =  5.923, Citations = 01)
+2.	 Rauf, N., Nawaz, A., Ullah, H., Ullah, R., Nabi, G., Ullah, A., Wahab, F.,
+Jahan, S. and Fu, J., 2021. Therapeutic effects of chitosan-embedded
+vitamin C, E nanoparticles against cisplatin-induced gametogenic
+and androgenic toxicity in adult male rats. Environmental Science and
+Pollution Research, 28(40), pp.56319-56332. https://doi.org/10.1007/
+s11356-021-14516-y.  (Impact Factor = 3.056, Citations = 02)
+3.	 Ullah, R., Naz, R., Batool, A., Wazir, M., Rahman, T.U., Nabi, G., Wahab, F.,
+Fu, J. and Shahab, M., 2021. RF9 Rescues Cortisol-Induced Repression
+of Testosterone Levels in Adult Male Macaques. Frontiers in physiology,
+12, p.205. https://doi.org/10.3389/fphys.2021.630796. (Impact Factor =
+4.134, Citations = 00).
+RESEARCH    REPORT   2021/22
+46
+4.	 Muhammad, H., Khan, R., Wahab, F., Khan, I., Shah, B., Ali, A., Farooqi,
+N., Ali, N., Jalil, F. and Ali, S., 2020. Diagnosis of Idiopathic Primary
+Infertility in a Consanguineous Infertile Family using Clinical and
+Molecular Cytogenetic Techniques. Genetics and Molecular Research,
+19(5). (Impact Factor = 0.876, Citations = 00)
+5.	 Manzoor, K.N., Javed, F., Ejaz, M., Ali, M., Mujaddadi, N., Khan, A.A.,
+Khattak, A.A., Zaib, A., Ahmad, I., Saeed, W.K. and Manzoor, S., 2021.
+The global emergence of Chikungunya infection: An integrated view.
+Reviews in medical virology, p.e2287. e2287. doi:10.1002/rmv.2287.
+(Impact Factor = 6.9, Citations = 01)
+6.	 Javed, F., Saeed, W.K., Manzoor, K.N., Khattak, A.A. and Khan, A.A.,
+2021. Need for polio eradication efforts in Pakistan: Where to focus.
+Journal of Medical Virology, 93(8), pp.4627-4628. https://doi.org/10.1002/
+jmv.27082. (Imapct Factor = 2.3, Citations = 00).
+7.	 Usman Ayub Awan, Aamer Ali Khattak, Mohsina Haq et al. Frequency,
+distribution and determinants of Helicobacter pylori infection in adults
+and adolescents with gastric symptoms: Cross-sectional epidemiological
+inquiry in District Haripur, Pakistan. 2021, Brazilian Journal of Biology, 84,
+1-7. (Impact Factor = 1.65).
+8.	 Talib, A., Manzoor, K.N., Ijaz, A., Adnan, F., Javed, F. and Khan, A.A.,
+2021. Encapsulated virgin coconut oil as a nanoscale in vitro solution
+against multiple drug resistant Staphylococcus aureus. Micro & nano
+letters, 16(1), pp.9-15. https://doi.org/10.1049/mna2.12001. (Impact
+Factor = 1.1, Citations = 01).
+9.	 Haghniaz, R., Rabbani, A., Vajhadin, F., Khan, T., Kousar, R., Khan,
+A.R., Montazerian, H., Iqbal, J., Libanori, A., Kim, H.J. and Wahid, F.,
+2021. Anti‐bacterial and wound healing‐promoting effects of zinc ferrite
+nanoparticles. Journal of Nanobiotechnology, 19(1), pp.1-15. https://doi.
+org/10.1186/s12951-021-00776-w.  (Impact Factor = 10.435, Citations
+= 24).
+10.	Bashir, K., Naz, S., Farooq, U., Wahid, F., Shah, A.J., McCauley, E.P.,
+Crews, P. and Khan, T., 2021. Assessing the ethnobotanical potential of
+Carissa opaca berries by merging outcomes from metabolomics profiling,
+enzyme assays, and in silico docking studies. Food Chemistry, 363,
+p.130259.
+https://doi.org/10.1016/j.foodchem.2021.130259.
+(Impact
+Factor = 7.514, Citations = 01)
+11.	Subhan, F., Hussain, Z., Tauseef, I., Shehzad, A. and Wahid, F., 2021.
+A review on recent advances and applications of fish collagen. Critical
+reviews in food science and nutrition, 61(6), pp.1027-1037. https://doi.or
+g/10.1080/10408398.2020.1751585.  (Impact Factor = 11.176, Citations
+= 37)
+RESEARCH PRODUCTIVITY
+RESEARCH    REPORT   2021/22
+47
+12.	Rasheed, H.M., Wahid, F., Ikram, M., Qaisar, M., Shah, A.J. and
+Khan, T., 2021. Chemical profiling and anti-breast cancer potential
+of hexane fraction of Sphaeranthus indicus flowers. Tropical Journal
+of Pharmaceutical Research, 20(9), pp.1931-1939. doi: 10.4314/tjpr.
+v20i9.21. (Impact Factor = 0.533)
+13.	Badshah, M., Ullah, H., Wahid, F. and Khan, T., 2021. Properties
+and Applications of Modified Bacterial Cellulose-Based Materials.
+Current Nanoscience, 17(3), pp.351-364. https://doi.org/10.1016/j.
+biopha.2021.112492.  (Impact Factor = 1.824, Citations = 01)
+14.	Madni, A., Khalid, A., Wahid, F., Ayub, H., Khan, R. and Kousar, R., 2021.
+Preparation and Applications of Guar Gum Composites in Biomedical,
+Pharmaceutical, Food, and Cosmetics Industries. Current Nanoscience,
+17(3), pp.365-379. https://doi.org/10.2174/15734137169992011101425
+51. (Impact Factor = 1.824, Citations = 02)
+15.	Rabbani, A., Haghniaz, R., Khan, T., Khan, R., Khalid, A., Naz, S.S., Ul-
+Islam, M., Vajhadin, F. and Wahid, F., 2021. Development of bactericidal
+spinel ferrite nanoparticles with effective biocompatibility for potential
+wound healing applications. RSC Advances, 11(3), pp.1773-1782. doi:
+10.1039/D0RA08417D.  (Impact Factor = 3.36, Citations = 04)
+16.	Madni, A., Kousar, R., Naeem, N. and Wahid, F., 2021. Recent
+advancements in applications of chitosan-based biomaterials for skin
+tissue engineering. Journal of Bioresources and Bioproducts, 6(1),
+pp.11-25. https://doi.org/10.1016/j.jobab.2021.01.002.  (Impact Factor
+= 00, Citations = 21)
+17.	Sajjad, W., He, F., Ullah, M.W., Ikram, M., Shah, S.M., Khan, R., Khan, T.,
+Khalid, A., Yang, G. and Wahid, F., 2020. Fabrication of bacterial cellulose-
+curcumin nanocomposite as a novel dressing for partial thickness skin
+burn. Frontiers in bioengineering and biotechnology, p.1089. https://doi.
+org/10.3389/fbioe.2020.553037. (Impact Factor = 5.890, Citations = 24)
+18.	Badshah, M., Ullah, H., He, F., Wahid, F., Farooq, U., Andersson, M.
+and Khan, T., 2020. Development and Evaluation of Drug Loaded
+Regenerated Bacterial Cellulose-Based Matrices as a Potential Dosage
+Form. Frontiers in Bioengineering and Biotechnology, p.1389. https://doi.
+org/10.3389/fbioe.2020.579404. (Impact Factor = 5.890, Citations = 02)
+19.	Rasheed, H.M., Kan, T. and Wahid, F., 2020. Chemical Composition and
+Pharmacological Evaluation of Essential Oil from Jasminum Officinale
+Flowers for Spasmolytic and Vasodilator Activities. Farmacia, 68(4),
+pp.722-727. doi: 10.31925/farmacia.2020.4.19.  (Impact Factor = 1.433,
+Citations = 01)
+20.	Said, A., Naeem, N., Siraj, S., Khan, T., Javed, A., Rasheed, H.M., Sajjad,
+RESEARCH PRODUCTIVITY
+RESEARCH    REPORT   2021/22
+48
+W., Shah, K. and Wahid, F., 2020. Mechanisms underlying the wound
+healing and tissue regeneration properties of Chenopodium album. 3
+Biotech, 10(10), pp.1-10. https://doi.org/10.1007/s13205-020-02436-6.
+(Impact Factor = 2.406, Citations = 03)
+21.	Badshah, M., Ullah, H., Wahid, F. and Khan, T., 2020. Bacterial
+Cellulose-Based Metallic Green Nanocomposites for Biomedical and
+Pharmaceutical Applications. Current Pharmaceutical Design, 26(45),
+pp.5866-5880. https://doi.org/10.2174/1381612826666201006125142.
+(Impact Factor = 3.116, Citations = 02)
+22.	Zafar, N., Madni, A., Khalid, A., Khan, T., Kousar, R., Naz, S.S. and Wahid, F.,
+2020. Pharmaceutical and Biomedical Applications of Green Synthesized
+Metal and Metal Oxide Nanoparticles. Current Pharmaceutical Design,
+26(45), pp.5844-5865. https://doi.org/10.2174/13816128266662011261
+44805. (Impact Factor = 3.116, Citations = 03)
+23.	Ahmad, H., Tonelli, A., Campus, C., Capris, E., Facchini, V., Sandini,
+G. and Gori, M., 2021. An audio-visual motor training improves audio
+spatial localization skills in individuals with scotomas due to retinal
+degenerative diseases. Acta Psychologica, 219, p.103384. doi: 10.1016/j.
+actpsy.2021.103384. (Impact Factor = 1.734, Citations = 00)
+24.	Ashraf, M.A., Khan, M.N., Chohan, S.R., Khan, M., Rafique, W., Farid,
+M.F. and Khan, A.U., 2021, October. Social Media Improves Students’
+Academic Performance: Exploring the Role of Social Media Adoption in
+the Open Learning Environment among International Medical Students
+in China. In Healthcare (Vol. 9, No. 10, p. 1272). Multidisciplinary Digital
+Publishing Institute. doi: 10.3390/healthcare9101272. (Impact Factor =
+1.58, Citations = 00)
+25.	Naeem, H.B., Murtaza, F., Yousaf, M.H. and Velastin, S.A., 2021. T-VLAD:
+Temporal vector of locally aggregated descriptor for multiview human
+action recognition. Pattern Recognition Letters, 148, pp.22-28. doi:
+10.1016/j.patrec.2021.04.023. (Impact Factor = 2.81, Citations = 01)
+26.	Boudjellal, N., Zhang, H., Khan, A., Ahmad, A., Naseem, R., Shang, J.
+and Dai, L., 2021. ABioNER: a BERT-based model for Arabic biomedical
+named-entity recognition. Complexity, 2021. doi: 10.1155/2021/6633213.
+(Impact Factor = 2.833, Citations = 08)
+27.	Ehatisham-ul-Haq, M., Arsalan, A., Raheel, A. and Anwar, S.M., 2021.
+Expert-novice classification of mobile game player using smartphone
+inertial sensors. Expert Systems with Applications, 174, p.114700. doi:
+10.1016/j.eswa.2021.114700 (Impact Factor = 6.954, Citations = 02)
+28.	Ehatisham-ul-Haq, M., Azam, M.A., Murtaza, F., Amin, Y. and Fu, Q.,
+2021. S-THAD: a framework for sensor-based temporal human activity
+detection from continuous data streams. Journal of Ambient Intelligence
+RESEARCH PRODUCTIVITY
+RESEARCH    REPORT   2021/22
+49
+and Humanized Computing, pp.1-15. doi: 10.1007/s12652-021-02931-5.
+(Impact Factor = 7.104, Citations = 01)
+29.	Haindl, P., Buchgeher, G., Khan, M. and Moser, B., 2022. Towards
+a Reference Software Architecture for Human-AI Teaming in Smart
+Manufacturing.
+arXiv
+preprint
+arXiv:2201.04876.
+doi:
+10.48550/
+ARXIV.2201.04876. (Impact Factor = 00, Citations = 00)
+30.	Hannan, A., Hussain, F., Ali, N., Ehatisham-Ul-Haq, M., Ashraf, M.U.,
+Mohammad Alghamdi, A. and Saeed Alfakeeh, A., 2021. A decentralized
+hybrid computing consumer authentication framework for a reliable
+drone delivery as a service. Plos one, 16(4), p.e0250737. doi: 10.1371/
+journal.pone.0250737. (Impact Factor = 3.24, Citations = 04)
+31.	Haq, I.U., Khan, Z.Y., Ahmad, A., Hayat, B., Khan, A., Lee, Y.E. and Kim, K.I.,
+2021. Evaluating and Enhancing the Robustness of Sustainable Neural
+Relationship Classifiers Using Query-Efficient Black-Box Adversarial
+Attacks. Sustainability, 13(11), p.5892. doi: 10.3390/su13115892. (Impact
+Factor = 3.251, Citations = 01)
+32.	Iqbal, A. and Lee, T.J., 2021. Spatiotemporal Medium Access Control for
+Wireless Powered IoT Networks. IEEE Internet of Things Journal, 8(19),
+pp.14822-14834. doi: 10.1109/JIOT.2021.3072038. (Impact Factor =
+9.936, Citations = 01)
+33.	Khan, A.W., Khan, M.U., Khan, J.A., Ahmad, A., Khan, K., Zamir, M.,
+Kim, W. and Ijaz, M.F., 2021. Analyzing and evaluating critical challenges
+and practices for software vendor organizations to secure big data on
+cloud computing: an ahp-based systematic approach. IEEE Access,
+9, pp.107309-107332. doi: 10.1109/ACCESS.2021.3100287. (Impact
+Factor = 3.367, Citations = 05)
+34.	Khan, A., Zhang, H., Boudjellal, N., Ahmad, A., Shang, J., Dai, L. and
+Hayat, B., 2021. Election Prediction on Twitter: A Systematic Mapping
+Study. Complexity, 2021. doi: 10.1155/2021/5565434. (Impact Factor =
+2.833, Citations = 00)
+35.	Khattak, S., Khan, M., Usman, T., Ali, J., Wu, D.X., Jahangir, M., Haleem,
+K., Muhammad, P., Rauf, M.A., Saddique, K. and Khan, N.H., 2021.
+Assessment of General Populations Knowledge, Attitude, and Perceptions
+Toward the Coronavirus Disease (COVID-19): A Cross-Sectional Study
+from Pakistan. Frontiers in medicine, 8. doi: 10.3389/fmed.2021.747819.
+(Impact Factor = 5.091, Citations = 00)
+36.	Naseem, R., Shaukat, Z., Irfan, M., Shah, M.A., Ahmad, A., Muhammad,
+F., Glowacz, A., Dunai, L., Antonino-Daviu, J. and Sulaiman, A., 2021.
+Empirical assessment of machine learning techniques for software
+requirements risk prediction. Electronics, 10(2), p.168. doi: 10.3390/
+electronics10020168. (Impact Factor = 2.397, Citations = 04)
+RESEARCH PRODUCTIVITY
+RESEARCH    REPORT   2021/22
+50
+37.	Siddiqui, N., Khalid, H., Murtaza, F., Ehatisham-Ul-Haq, M. and Azam,
+M.A., 2020. A novel algebraic technique for design of computational
+substitution-boxes using action of matrices on Galois field. IEEE Access,
+8, pp.197630-197643. doi: 10.1109/ACCESS.2020.3034832. (Impact
+Factor = 3.367, Citations = 08)
+38.	Siddiqui, N., Yousaf, F., Murtaza, F., Ehatisham-ul-Haq, M., Ashraf, M.U.,
+Alghamdi, A.M. and Alfakeeh, A.S., 2020. A highly nonlinear substitution-
+box (S-box) design using action of modular group on a projective line
+over a finite field. Plos one, 15(11), p.e0241890. doi: 10.1371/journal.
+pone.0241890 . (Impact Factor = 3.24, Citations = 14)
+39.	Ullah, A., Wang, J., Anwar, M.S., Ahmad, A., Nazir, S., Khan, H.U. and Fei,
+Z., 2021. Fusion of machine learning and privacy preserving for secure
+facial expression recognition. Security and Communication Networks,
+2021. doi: 10.1155/2021/6673992. (Impact Factor = 1.791, Citations =
+05)
+40.	Ali, A., Sheeraz, M.A., Bibi, S., Khan, M.Z., Malik, M.S. and Ali, W., 2021.
+Artificial neural network (ANN)-based optimization of a numerically
+analyzed m-shaped piezoelectric energy harvester. Functional Materials
+Letters, 14(08), p.2151046. doi: 10.1142/S1793604721510462. (Impact
+Factor = 2.17, Citations = 00)
+41.	Ibrahim, M., Mujahid, O., Rehman, N.U., Qazi, A., Ullah, Z. and Fouzder,
+T., 2021. An FPGA-Based Accelerated Mutation Detection System for the
+Tumor Suppressor Gene. IEEE Access, 9, pp.164542-164550. (Impact
+Factor = 3.367, Citations = 00)
+42.	Rehman, K. and Ullah, Z., 2021. PackeX: Low-Power High-Performance
+Packet Classifier Using Memory on FPGAs. Wireless Communications
+and Mobile Computing, 2021. https://doi.org/10.1155/2021/5544435.
+(Impact Factor = 2.336, Citations = 00)
+43.	Bilal, M., Ullah, Z. and Islam, I.U., 2021. Fast Codebook Generation Using
+Pattern Based Masking Algorithm for Image Compression. IEEE Access,
+9, pp.98904-98915. (Impact Factor = 3.367, Citations = 01)
+44.	Qazi, A., Ullah, Z. and Hafeez, A., 2021. Fast Mapping and Updating
+Algorithms for a Binary CAM on FPGA. IEEE Canadian Journal of
+Electrical and Computer Engineering, 44(2), pp.156-164. (Impact Factor
+= 1.434, Citations = 00)
+45.	Irfan, M., Ullah, Z., Sanka, A.I. and Cheung, R.C., 2020. Accelerated
+Updating Mechanisms for FPGA-Based Ternary Content-Addressable
+Memory. IEEE Embedded Systems Letters, 13(2), pp.37-40. (Impact
+Factor = 2.169, Citations = 00)
+RESEARCH PRODUCTIVITY
+RESEARCH    REPORT   2021/22
+51
+46.	Hafeez, A., Khan, A.N. and Ullah, Z., 2020. Impact of graphics processing
+units on diagnosis using bio-imaging. Journal of Engineering and Applied
+Sciences, 39(2), pp.143-153. (Impact Factor = 0.85, Citations = 00)
+47.	Irfan, M., Ullah, Z., Chowdhury, M.H. and Cheung, R.C., 2020. RPE-
+TCAM: Reconfigurable power-efficient ternary content-addressable
+memory on FPGAs. IEEE Transactions on Very Large Scale Integration
+(VLSI) Systems, 28(8), pp.1925-1929. (Impact Factor = 2.312, Citations
+= 04)
+48.	Khan, H.S., Aamir, M., Kauhaniemi, K., Mumtaz, M., Hassan, M.W. and
+Ali, M., 2021. Improved finite control set model predictive control for
+distributed energy resource in islanded microgrid with fault-tolerance
+capability. Engineering Science and Technology, an International Journal,
+24(3), pp.694-705. https://doi.org/10.1016/j.jestch.2020.12.015.  (Impact
+Factor = 3.219, Citations = 03)
+49.	Jafri, A.R., Aamir, M., Subramaniam, U., Haroon, F. and Yaseen, M., 2020.
+Model Predictive Control (MPC) based distributed control algorithm for
+Bidirectional interlinking converter (BIC) in hybrid microgrids. (Impact
+Factor = 1.6, Citations = 01)
+50.	Ahmed, T., Waqar, A., Al-Ammar, E.A., Ko, W., Kim, Y., Aamir, M. and Habib,
+H.U.R., 2020. Energy management of a battery storage and D-STATCOM
+integrated power system using the fractional order sliding mode control.
+CSEE Journal of Power and Energy Systems, 7(5), pp.996-1010. (Impact
+Factor = 3.115, Citations = 13)
+51.	Ul-Haq, A., Jalal, M., Aamir, M., Cecati, C., Muslim, F.B., Raja, A.A. and Iqbal,
+J., 2020. Simulations and experimental validation of one cycle controlled
+nine-level inverter using FPGA. Computers & Electrical Engineering, 88,
+p.106885. https://doi.org/10.1016/j.compeleceng.2020.106885.  (Impact
+Factor = 2.663, Citations = 04)
+52.	Al-Ammar, E.A., Farzana, K., Waqar, A., Aamir, M., Haq, A.U., Zahid, M.
+and Batool, M., 2021. ABC algorithm based optimal sizing and placement
+of DGs in distribution networks considering multiple objectives. Ain
+Shams Engineering Journal, 12(1), pp.697-708. https://doi.org/10.1016/j.
+asej.2020.05.002.  (Impact Factor = 1.91, Citations = 22)
+53.	Rehman, B.U., Babar, M.I., Ahmad, A.W., Alhumyani, H., Abdel
+Azim, G., Saeed, R.A. and Abdel Khalek, S., 2021. Joint power
+control and user grouping for uplink power domain non-orthogonal
+multiple
+access.
+International
+Journal
+of
+Distributed
+Sensor
+Networks,
+17(12),p.15501477211057443.
+https://doi.org/10.1177%
+2F15501477211057443.  (Impact Factor = 1.476, Citations = 01)
+54.	Raheel, K., Altaf, A., Waheed, A., Kiani, S.H., Sehrai, D.A., Tubbal, F.
+and Raad, R., 2021. E-shaped H-slotted dual band mmwave antenna
+RESEARCH PRODUCTIVITY
+RESEARCH    REPORT   2021/22
+52
+for 5G technology. Electronics, 10(9), p.1019.  https://doi.org/10.3390/
+electronics10091019.  (Impact Factor = 2.397, Citations = 07)
+55.	Asmara Jadoon, Hassan Asghar, Babar Nazir, Narjes Nabipour, Failure
+Prediction Based Fault Tolerance Resource Management Techniques in
+Cloud, Springer International Journal of Cloud Computing, 2020. (Impact
+Factor = 2.788, Citations = 00)
+56.	Asghar, H. and Nazir, B., 2021. Analysis and implementation of reactive
+fault tolerance techniques in Hadoop: a comparative study. The Journal
+of Supercomputing, 77(7), pp.7184-7210. https://doi.org/10.1007/
+s11227-021-03651-5. (Impact Factor = 2.6, Citations = 05)
+57.	Ahmad, Z., Nazir, B. and Umer, A., 2021. A fault‐tolerant workflow
+management system with Quality-of-Service-aware scheduling for
+scientific workflows in cloud computing. International Journal of
+Communication Systems, 34(1), p.e4649. https://doi.org/10.1002/
+dac.4649.  (Impact Factor = 2.047, Citations = 08)
+58.	Muhammad, N., Khan, H., Bibi, N., Usman, M., Ahmed, N., Khan, S.N.
+and Mahmood, Z., 2021. Frequency component vectorisation for image
+dehazing. Journal of Experimental & Theoretical Artificial Intelligence,
+33(6),
+pp.919-932.
+https://doi.org/10.1080/0952813X.2020.1794232.
+(Impact Factor = 2.304, Citations = 08)
+59.	Muhammad, N., Bibi, N., Shah, M.A., Zainab, S., Ullah, I. and Mahmood,
+Z., 2021. An entropy based salient edge enhancement using fusion
+process. Applied Mathematical Modelling, 93, pp.525-537. https://doi.
+org/10.1016/j.apm.2020.12.002. (Impact Factor = 5.129, Citations = 02
+60.	Muhammad, N., Rubab, Bibi, N., Song, O.Y., Khan, M.A. and Khan, S.A.,
+2021. Severity recognition of aloe vera diseases using AI in tensor flow
+domain. CMC-Computers Materials & Continua, 66(2), pp.2199-2216.
+(Impact Factor = 3.772, Citations = 10)
+61.	Muhammad, N., Bibi, N., Kamran, M., Bashir, Y., Park, S. and Kim, D.G.,
+2020. Image noise reduction based on block matching in wavelet frame
+domain. Multimedia Tools and Applications, 79(35), pp.26327-26344.
+https://doi.org/10.1007/s11042-020-09158-0.  (Impact Factor = 2.757,
+Citations = 04)
+62.	Alsaeeedi, A., Jabeen, S. and Kolivand, H., Ambient assisted living
+framework for elderly care using Internet of medical things, smart sensors,
+and GRU deep learning techniques. Journal of Ambient Intelligence and
+Smart Environments, (Preprint), pp.1-19. DOI: 10.3233/AIS-210162.
+(Impact Factor = 2.105, Citations = 00)
+63.	Naseem, R., Khan, B., Ahmad, A., Almogren, A., Jabeen, S., Hayat, B. and
+Shah, M.A., 2020. Investigating tree family machine learning techniques
+RESEARCH PRODUCTIVITY
+RESEARCH    REPORT   2021/22
+53
+for a predictive system to unveil software defects. Complexity, 2020.
+https://doi.org/10.1155/2020/6688075. (Impact Factor = 2.833, Citations
+= 05)
+64.	Khan, K., Khan, R.U., Leonardi, R., Migliorati, P. and Benini, S., 2021.
+Head pose estimation: A survey of the last ten years. Signal Processing:
+Image
+Communication,
+99,
+p.116479.
+https://doi.org/10.1016/j.
+image.2021.116479.  (Impact Factor = 9.45, Citations = 01)
+65.	Khan, K., Khan, R.U., Albattah, W., Nayab, D., Qamar, A.M., Habib, S.
+and Islam, M., 2021. Crowd Counting Using End-to-End Semantic Image
+Segmentation. Electronics, 10(11), p.1293. https://doi.org/10.3390/
+electronics10111293.  (Impact Factor = 3.745, Citations = 03)
+66.	Khan, K., Khan, R.U., Ali, J., Uddin, I., Khan, S. and Roh, B.H., 2021. Race
+Classification Using Deep Learning. CMC-COMPUTERS MATERIALS &
+CONTINUA, 68(3), pp.3483-3498. https://www.techscience.com/cmc/
+v68n3/42478.  (Impact Factor = 4.89, Citations = 01)
+67.	Khan, R.U., Khan, K., Albattah, W. and Qamar, A.M., 2021. Image-Based
+Detection of Plant Diseases: From Classical Machine Learning to Deep
+Learning Journey. Wireless Communications and Mobile Computing,
+2021. https://doi.org/10.1155/2021/5541859.  (Impact Factor = 1.819,
+Citations = 04)
+68.	Nawaz, S., Ali, M., Khan, M.A. and Khan, S., 2021. Computing metric
+dimension of power of total graph. IEEE Access, 9, pp.74550-74561.
+(Impact Factor = 3.745, Citations = 01)
+69.	Khalil Khan, J Ali, K Ahmad, “Critical challenges faced by the software
+vendor organization to secure Big Data on Cloud Computing: A Systematic
+Literature Review”, IEEE Access, (Impact Factor = 3.745, Citations = 00)
+70.	Khan, M.A., Ullah, A., Khan, S., Ali, M., Khan, S., Khan, K., Masud, M.
+and Ali, J., 2021. A novel fractional-order variational approach for image
+restoration based on fuzzy membership degrees. IEEE Access, 9,
+pp.43574-43600. (Impact Factor = 3.745, Citations = 02)
+71.	Khan, K., Ali, J., Ahmad, K., Gul, A., Sarwar, G., Khan, S., Thanh Hoai Ta,
+Q., Chung, T. and Attique, M., 2021. 3D head pose estimation through
+facial features and deep convolutional neural networks. Comput. Mater.
+Contin,
+66(2),
+pp.1757-1770.
+https://www.techscience.com/cmc/
+v66n2/40676.  (Impact Factor = 4.89, Citations = 05)
+72.	Khalil Khan, Ala Alfuqaha “Survey on the key challenges of utilizing ML
+in smart city applications: Explainability, Ethics and Adversarial Attacks”,
+Computer Science Reviews (Impact Factor = 8.30, Citations = 00)
+73.	Khan, K., Albattah, W., Khan, R.U., Qamar, A.M. and Nayab, D., 2020.
+RESEARCH PRODUCTIVITY
+RESEARCH    REPORT   2021/22
+54
+Advances and trends in real time visual crowd analysis. Sensors, 20(18),
+p.5073. https://doi.org/10.3390/s20185073.  (Impact Factor = 3.275,
+Citations = 08)
+74.	Ahmed, T., Tahir, M., Low, M.X., Ren, Y., Tawfik, S.A., Mayes, E.L.,
+Kuriakose, S., Nawaz, S., Spencer, M.J., Chen, H. and Bhaskaran, M.,
+2021. Fully Light‐Controlled Memory and Neuromorphic Computation
+in Layered Black Phosphorus. Advanced Materials, 33(10), p.2004207.
+https://doi.org/10.1002/adma.202004207.  (Impact Factor = 27.39,
+Citations = 47)
+75.	Ahmed, T., Kuriakose, S., Abbas, S., Spencer, M.J., Rahman, M.A., Tahir,
+M., Lu, Y., Sonar, P., Bansal, V., Bhaskaran, M. and Sriram, S., 2019.
+Multifunctional optoelectronics via harnessing defects in layered black
+phosphorus. Advanced Functional Materials, 29(39), p.1901991. https://
+doi.org/10.1002/adfm.201901991.  (Impact Factor = 15.62, Citations =
+47)
+76.	Ahmed, T., Kuriakose, S., Mayes, E.L., Ramanathan, R., Bansal, V.,
+Bhaskaran, M., Sriram, S. and Walia, S., 2019. Optically stimulated
+artificial synapse based on layered black phosphorus. Small, 15(22),
+p.1900966. https://doi.org/10.1002/smll.201900966.  (Impact Factor =
+10.85, Citations = 114)
+77.	Ahmed, T., Walia, S., Mayes, E.L., Ramanathan, R., Bansal, V., Bhaskaran,
+M., Sriram, S. and Kavehei, O., 2019. Time and rate dependent synaptic
+learning in neuro-mimicking resistive memories. Scientific reports, 9(1),
+pp.1-11. https://doi.org/10.1038/s41598-019-51700-0.  (Impact Factor =
+4.12, Citations = 10)
+78.	Ahmed, T., Walia, S., Mayes, E.L., Ramanathan, R., Guagliardo, P., Bansal,
+V., Bhaskaran, M., Yang, J.J. and Sriram, S., 2018. Inducing tunable
+switching behavior in a single memristor. Applied Materials Today, 11,
+pp.280-290. https://doi.org/10.1016/j.apmt.2018.03.003.  (Impact Factor
+= 8.35, Citations = 23)
+79.	Ahmed, T., Walia, S., Kim, J., Nili, H., Ramanathan, R., Mayes, E.L.,
+Lau, D.W., Kavehei, O., Bansal, V., Bhaskaran, M. and Sriram, S., 2017.
+Transparent amorphous strontium titanate resistive memories with
+transient photo-response. Nanoscale, 9(38), pp.14690-14702. https://
+doi.org/10.1039/C7NR04372D.  (Impact Factor = 7.23, Citations = 21)
+80.	Ahmed, T., Balendhran, S., Karim, M.N., Mayes, E.L., Field, M.R.,
+Ramanathan, R., Singh, M., Bansal, V., Sriram, S., Bhaskaran, M. and
+Walia, S., 2017. Degradation of black phosphorus is contingent on
+UV–blue light exposure. npj 2D Materials and Applications, 1(1), pp.1-
+7. https://doi.org/10.1038/s41699-017-0023-5.  (Impact Factor = 9.33,
+Citations = 40)
+RESEARCH PRODUCTIVITY
+RESEARCH    REPORT   2021/22
+55
+81.	Bangash, J.I., Khan, A.W., Khan, A., Khan, A., Uddin, M.I. and Hua,
+Q., 2021. Multiconstraint-aware routing mechanism for wireless body
+sensor networks. Journal of Healthcare Engineering, 2021.  https://doi.
+org/10.1155/2021/5560809.  (Impact Factor = 2.68, Citations = 02)
+82.	Hamdani, S.W.A., Abbas, H., Janjua, A.R., Shahid, W.B., Amjad, M.F.,
+Malik, J., Murtaza, M.H., Atiquzzaman, M. and Khan, A.W., 2021.
+Cybersecurity Standards in the Context of Operating System: Practical
+Aspects, Analysis, and Comparisons. ACM Computing Surveys (CSUR),
+54(3), pp.1-36. https://doi.org/10.1145/3442480.  (Impact Factor =
+10.28, Citations = 00)
+83.	Khalil, T., Bangash, J.I., Khan, A.W., Lashari, S.A., Khan, A. and Ramli,
+D.A., 2021. Detection of Violence in Cartoon Videos Using Visual
+Features. Procedia Computer Science, 192, pp.4962-4971. https://doi.
+org/10.1016/j.procs.2021.09.274.  (Impact Factor = 2.09, Citations = 00
+84.	Aslam, M.S., Younas, M., Sarwar, M.U., Shah, M.A., Khan, A., Uddin, M.I.,
+Ahmad, S., Firdausi, M. and Zaindin, M., 2021. Liver-Tumor Detection
+Using CNN ResUNet. CMC-COMPUTERS MATERIALS & CONTINUA,
+67(2), pp.1899-1914. (Impact Factor = 3.772, Citations = 05)
+85.	Khan, B., Naseem, R., Shah, M.A., Wakil, K., Khan, A., Uddin, M.I. and
+Mahmoud, M., 2021. Software defect prediction for healthcare big data:
+An empirical evaluation of machine learning techniques. Journal of
+Healthcare Engineering, 2021. https://doi.org/10.1155/2021/8899263.
+(Impact Factor = 3.06, Citations = 05)
+86.	Gul, H., Ullah, G., Khan, M. and Khan, Y., 2021. EERBCR: Energy-
+efficient regional based cooperative routing protocol for underwater
+sensor networks with sink mobility. Journal of Ambient Intelligence and
+Humanized Computing, pp.1-13. https://doi.org/10.1007/s12652-020-
+02781-7.  (Impact Factor = 7.104, Citations = 06)
+87.	Muhammad, N., Bibi, N., Shah, M.A., Zainab, S., Ullah, I. and Mahmood,
+Z., 2021. An entropy based salient edge enhancement using fusion
+process. Applied Mathematical Modelling, 93, pp.525-537. https://doi.
+org/10.1016/j.apm.2020.12.002.  (Impact Factor = 5.129, Citations = 02
+88.	Naseem, R., Shaukat, Z., Irfan, M., Shah, M.A., Ahmad, A., Muhammad,
+F., Glowacz, A., Dunai, L., Antonino-Daviu, J. and Sulaiman, A., 2021.
+Empirical assessment of machine learning techniques for software
+requirements risk prediction. Electronics, 10(2), p.168. https://doi.
+org/10.3390/electronics10020168.  (Impact Factor = 3.022, Citations =
+04)
+89.	Mustafa, A., Wan-Kadir, W.M., Ibrahim, N., Shah, M.A., Younas, M., Khan,
+A., Zareei, M. and Alanazi, F., 2021. Automated test case generation
+from requirements: A systematic literature review. Computers, Materials
+RESEARCH PRODUCTIVITY
+RESEARCH    REPORT   2021/22
+56
+and Continua, 67(2), pp.1819-1833. https://www.techscience.com/cmc/
+v67n2/41326.  (Impact Factor = 3.772, Citations = 03)
+90.	Saeed, M.Y., Awais, M., Younas, M., Shah, M.A., Khan, A., Uddin, M.I.
+and Mahmoud, M., 2021. An Abstractive Summarization Technique
+with Variable Length Keywords as per Document Diversity. CMC-
+COMPUTERS MATERIALS & CONTINUA, 66(3), pp.2409-2423. https://
+www.techscience.com/cmc/v66n3/41092.  (Impact Factor = 3.772,
+Citations = 00)
+91.	Naseem, R., Khan, B., Shah, M.A., Wakil, K., Khan, A., Alosaimi, W., Uddin,
+M.I. and Alouffi, B., 2020. Performance Assessment of Classification
+Algorithms on Early Detection of Liver Syndrome. Journal of Healthcare
+Engineering,
+2020.
+https://doi.org/10.1155/2020/6680002.
+(Impact
+Factor = 3.06, Citations = 02)
+92.	Younas, M., Jawawi, D.N.A., Shah, M.A., Mustafa, A., Awais, M., Ishfaq,
+M.K. and Wakil, K., 2020. Elicitation of nonfunctional requirements in
+agile development using cloud computing environment. IEEE Access, 8,
+pp.209153-209162. (Impact Factor = 3.367, Citations = 10)
+93.	Ahmed, S., Shah, M.A. and Wakil, K., 2020. Blockchain as a trust builder
+in the smart city domain: a systematic literature review. IEEE Access, 8,
+pp.92977-92985. (Impact Factor = 3.367, Citations = 12)
+94.	Ahmed, S., Shah, M.A., Ullah, G. and Wakil, K., A SYSTEMATIC LITERATURE
+REVIEW PROTOCOL FOR BLOCKCHAIN REVOLUTIONIZING ARENAS
+OF SMART CITY. https://doi.org/10.26782/jmcms.2020.05.00011.
+95.	Shah, M.A., Jawawi, D.N.A., Isa, M.A., Younas, M., Abdelmaboud, A. and
+Sholichin, F., 2020. Ensembling artificial bee colony with analogy-based
+estimation to improve software development effort prediction. IEEE
+Access, 8, pp.58402-58415. (Impact Factor = 3.367, Citations = 36)
+96.	Panhwar, S., Aftab, A., Muqeet, M., Keerio, H.A., Solangi, G.S., Suludere,
+Z. and Tamer, U., 2021. High-Performance E. coli Antibody-Conjugated
+Gold Nanorods for the Selective Electrochemical Detection of Pathogens
+in Drinking Water. Journal of Electronic Materials, 50(12), pp.7119-7125.
+https://doi.org/10.1007/s11664-021-09247-2.  (Impact Factor = 1.938,
+Citations = 03)
+97.	Ahmad, M.B., Soomro, U., Muqeet, M. and Ahmed, Z., 2021. Adsorption
+of Indigo Carmine dye onto the surface-modified adsorbent prepared
+from municipal waste and simulation using deep neural network. Journal
+of Hazardous Materials, 408, p.124433. https://doi.org/10.1016/j.
+jhazmat.2020.124433.  (Impact Factor = 10.588, Citations = 16)
+98.	Muqeet, M., Mahar, R.B., Gadhi, T.A. and Halima, N.B., 2020. Insight into
+cellulose-based-nanomaterials-A pursuit of environmental remedies.
+RESEARCH PRODUCTIVITY
+RESEARCH    REPORT   2021/22
+57
+International Journal of Biological Macromolecules, 163, pp.1480-1486.
+https://doi.org/10.1016/j.ijbiomac.2020.08.050.  (Impact Factor = 6.953,
+Citations = 18)
+99.	Ahmad, R., Lee, C.S., Kim, J.H. and Kim, J., 2020. Partially coated
+TiO2 on Al2O3 membrane for high water flux and photodegradation by
+novel filtration strategy in photocatalytic membrane reactors. Chemical
+Engineering Research and Design, 163, pp.138-148. https://doi.
+org/10.1016/j.cherd.2020.08.027. (Impact Factor = 3.84, Citations = 10
+100.
+Haider, J., Saeed, S., Qyyum, M.A., Kazmi, B., Ahmad, R., Muhammad,
+A. and Lee, M., 2020. Simultaneous capture of acid gases from natural
+gas adopting ionic liquids: Challenges, recent developments, and
+prospects. Renewable and Sustainable Energy Reviews, 123, p.109771.
+https://doi.org/10.1016/j.rser.2020.109771. (Impact Factor = 14.98,
+Citations = 42)
+101.
+Zeeshan, M., Ahmad, W., Hussain, F., Ahamd, W., Numan, M., Shah,
+M. and Ahmad, I., 2020. Phytostabalization of the heavy metals in the soil
+with biochar applications, the impact on chlorophyll, carotene, soil fertility
+and tomato crop yield. Journal of Cleaner Production, 255, p.120318.
+https://doi.org/10.1016/j.jclepro.2020.120318.  (Impact Factor = 9.297,
+Citations = 36)
+102.
+Ahmad, W., Ahmad, Q., Yaseen, M., Ahmad, I., Hussain, F., Mohamed
+Jan, B., Ikram, R., Stylianakis, M.M. and Kenanakis, G., 2021. Development
+of Waste Polystyrene-Based Copper Oxide/Reduced Graphene Oxide
+Composites and Their Mechanical, Electrical and Thermal Properties.
+Nanomaterials, 11(9), p.2372. https://doi.org/10.3390/nano11092372.
+(Impact Factor = 4.92, Citations = 02)
+103.
+Ullah, R., Ahmad, W., Ahmad, I., Khan, M., Iqbal Khattak, M. and
+Hussain, F., 2021. Adsorption and recovery of hexavalent chromium from
+tannery wastewater over magnetic max phase composite. Separation
+Science and Technology, 56(3), pp.439-452. https://doi.org/10.1080/014
+96395.2020.1717531.  (Impact Factor = 2.475, Citations = 14)
+104.
+Ahmad, W., Ahmad, Q., Yaseen, M., Ahmad, I., Hussain, F., Mohamed
+Jan, B., Ikram, R., Stylianakis, M.M. and Kenanakis, G., 2021. Development
+of Waste Polystyrene-Based Copper Oxide/Reduced Graphene Oxide
+Composites and Their Mechanical, Electrical and Thermal Properties.
+Nanomaterials, 11(9), p.2372. https://doi.org/10.3390/nano11092372.
+(Impact Factor = 4.92, Citations = 02)
+105.
+Sohaib, Q., Muhammad, A., Younas, M., Rezakazemi, M., Druon-
+Bocquet, S. and Sanchez-Marcano, J., 2021. Rigorous non-isothermal
+modeling approach for mass and energy transport during CO2
+absorption into aqueous solution of amino acid ionic liquids in hollow
+fiber membrane contactors. Separation and Purification Technology,
+RESEARCH PRODUCTIVITY
+RESEARCH    REPORT   2021/22
+58
+254, p.117644. https://doi.org/10.1016/j.seppur.2020.117644. (Impact
+Factor = 7.312, Citations = 20)
+106.
+Younas, M., Tahir, T., Wu, C., Farrukh, S., Sohaib, Q., Muhammad,
+A., Rezakazemi, M. and Li, J., 2020. Post-combustion CO2 capture
+with sweep gas in thin film composite (TFC) hollow fiber membrane
+(HFM) contactor. Journal of CO2 Utilization, 40, p.101266. https://doi.
+org/10.1016/j.jcou.2020.101266.  (Impact Factor = 7.132, Citations =
+17)
+107.
+Sohaib, Q., Muhammad, A., Younas, M. and Rezakazemi, M.,
+2020. Modeling pre-combustion CO2 capture with tubular membrane
+contactor using ionic liquids at elevated temperatures. Separation
+and Purification Technology, 241, p.116677. https://doi.org/10.1016/j.
+seppur.2020.116677.  (Impact Factor = 7.312, Citations = 34)
+108.
+Shakeel, M., Butt, T.M., Zubair, M., Siddiqi, H.M., Janjua, N.K., Akhter,
+Z., Yaqub, A. and Mahmood, S., 2020. Electrochemical investigations of
+DNA-Intercalation potency of bisnitrophenoxy compounds with different
+alkyl chain lengths. Heliyon, 6(6), p.e04124. https://doi.org/10.1016/j.
+heliyon.2020.e04124. (Impact Factor = 2.85, Citations = 02)
+109.
+Khan, I.U., Othman, M.H.D., Jilani, A., Ismail, A.F., Hashim, H.,
+Jaafar, J., Zulhairun, A.K., Rahman, M.A. and Rehman, G.U., 2020.
+ZIF-8 based polysulfone hollow fiber membranes for natural gas
+purification. Polymer Testing, 84, p.106415. https://doi.org/10.1016/j.
+polymertesting.2020.106415.  (Impact Factor = 4.282, Citations = 18
+110.
+Raza, A., Farrukh, S., Hussain, A., Khan, I.U., Noor, T., Othman,
+M.H.D. and Yousaf, M.F., 2020. Development of high performance amine
+functionalized zeolitic imidazolate framework (ZIF‐8)/cellulose triacetate
+mixed matrix membranes for CO2/CH4 separation. International Journal
+of Energy Research, 44(10), pp.7989-7999. https://doi.org/10.1002/
+er.5448.  (Impact Factor = 5.164, Citations = 14)
+111.
+Raza, A., Farrukh, S., Hussain, A., Khan, I., Othman, M.H.D. and
+Ahsan, M., 2021. Performance Analysis of Blended Membranes
+of Cellulose Acetate with Variable Degree of Acetylation for CO2/
+CH4 Separation. Membranes, 11(4), p.245. https://doi.org/10.3390/
+membranes11040245.  (Impact Factor = 4.106, Citations = 02).
+112.
+Ayub, M., Othman, M.H.D., Khan, I.U., Hubadillah, S.K., Kurniawan,
+T.A., Ismail, A.F., Rahman, M.A. and Jaafar, J., 2021. Promoting sustainable
+cleaner production paradigms in palm oil fuel ash as an eco-friendly
+cementitious material: A critical analysis. Journal of Cleaner Production,
+295, p.126296. https://doi.org/10.1016/j.jclepro.2021.126296.  (Impact
+Factor = 9.297, Citations = 06).
+113.
+Rehman, G.U., Tahir, M., Goh, P.S., Ismail, A.F., Hafeez, A. and Khan,
+I.U., 2021. Enhancing the photodegradation of phenol using Fe3O4/SiO2
+RESEARCH PRODUCTIVITY
+RESEARCH    REPORT   2021/22
+59
+binary nanocomposite mediated by silane agent. Journal of Physics
+and Chemistry of Solids, 153, p.110022. https://doi.org/10.1016/j.
+jpcs.2021.110022.  (Impact Factor = 3.995, Citations = 05).
+114.
+Ayub, M., Othman, M.H.D., Khan, I.U., Yusop, M.Z.M. and Kurniawan,
+T.A., 2021. Graphene-based nanomaterials as antimicrobial surface
+coatings: A parallel approach to restrain the expansion of COVID-19.
+Surfaces and Interfaces, 27, p.101460. https://doi.org/10.1016/j.
+surfin.2021.101460.  (Impact Factor = 1.393, Citations = 03).
+115.
+Farooq, A., Stoilova, S., Ahmad, F., Alam, M., Nassar, H., Qaiser,
+T., Iqbal, K., Qadir, A. and Ahmad, M., 2021. An Integrated Multicriteria
+Decision-Making Approach to Evaluate Traveler Modes’ Priority: An
+Application to Peshawar, Pakistan. Journal of advanced transportation,
+2021. https://doi.org/10.1155/2021/5564286.   (Impact Factor = 2.93,
+Citations = 02).
+116.
+Ahmad, M., Hu, J.L., Ahmad, F., Tang, X.W., Amjad, M., Iqbal,
+M.J., Asim, M. and Farooq, A., 2021. Supervised learning methods for
+modeling concrete compressive strength prediction at high temperature.
+Materials, 14(8), p.1983. https://doi.org/10.3390/ma14081983.  (Impact
+Factor = 3.623, Citations = 13).
+117.
+Zamin, B., Nasir, H., Mehmood, K., Iqbal, Q., Farooq, A. and Tufail,
+M., 2021. An experimental study on the geotechnical, mineralogical, and
+swelling behavior of KPK expansive soils. Advances in Civil Engineering,
+2021. https://doi.org/10.1155/2021/8493091.  (Impact Factor = 1.88,
+Citations = 04).
+118.
+Zamin, B., Nasir, H., Khan, B.J. and Farooq, A., 2021. Effect of
+Waste Glass Powder on The Swelling And Strength Characteristic of
+District Karak Expansive Clay. Sir Syed University Research Journal
+of Engineering & Technology, (2). https://doi.org/10.33317/ssurj.362.
+(Impact Factor = 00, Citations = 01).
+119.
+Zamin, B., Nasir, H., Mehmood, K., Iqbal, Q., Bashir, M.T. and Farooq,
+A., 2021. Development of Some Novel Suction-Based Correlations for
+Swell Behavior of Expansive Soils. Advances in Civil Engineering, 2021.
+https://doi.org/10.1155/2021/4825593.  (Impact Factor = 1.88, Citations
+= 00).
+RESEARCH PAPERS (2022)
+1.	 Zamin, B., Nasir, H., Mehmood, K., Iqbal, Q., Bashir, M.T. and Farooq,
+A., 1.
+Ishfaq, H.A., Khan, M.Z., Shirke, Y.M., Qamar, S., Hussain, A.,
+Mehran, M.T., Song, R.H. and Saleem, M., 2022. A Heuristic Approach to
+Boost the Performance and Cr Poisoning Tolerance of Solid Oxide Fuel
+Cell Cathode by Robust Multi-Doped Ceria Coating. Applied Catalysis B:
+Environmental, p.122178. https://doi.org/10.1016/j.apcatb.2022.122178.
+RESEARCH PRODUCTIVITY
+RESEARCH    REPORT   2021/22
+60
+(Impact factor = 24.319, Citations = 00)
+2.	 Tanvir, G., Saleem, M., Jabbar, H., Hamza, A., Hussain, M.A., Khan, M.Z.,
+Baluch, A.H., Irfan, M., Butt, M.S., Naeem, F. and Ghaffar, A., 2023. Study
+of ferroelectric and piezoelectric response of heat-treated surfactant-
+based BaTiO3 nanopowder for high energy capacitors. Materials
+Science and Engineering: B, 287, p.116100.   https://doi.org/10.1016/j.
+mseb.2022.116100. (Impact factor = 3.407, Citations = 00)
+3.	 Ahmed, S., Kazmi, W.W., Hussain, A., Khan, M.Z., Bibi, S., Saleem, M.,
+Song, R.H., Sajid, Z., Ullah, A. and Khan, M.K., 2022. Facile and low-
+temperature synthesis approach to fabricate Sm0. 5Sr0. 5CoO3− δ
+cathode material for solid oxide fuel cell. Journal of the Korean Ceramic
+Society, pp.1-11. https://doi.org/10.1007/s43207-022-00261-6. (Impact
+factor = 2.506, Citations = 00)
+4.	 4.	 Ishfaq, H.A., Khan, M.Z., Mehran, M.T., Raza, R., Tanveer, W.H.,
+Bibi, S., Hussain, A., Muhammad, H.A. and Song, R.H., 2022. Boosting
+performance of the solid oxide fuel cell by facile nano-tailoring of La0.
+6Sr0. 4CoO3-δ cathode. International Journal of Hydrogen Energy,
+47(88), pp.37587-37598. https://doi.org/10.1016/j.ijhydene.2021.11.109.
+(Impact factor = 7.139, Citations: 06)
+5.	 Awan, U.A., Khattak, A.A., Haq, M., Saadia, Z., Marwat, M., Khalid, S.,
+Kamran, S., Haseeb, A., Ahmed, B., Irfani, M.A. and Nadeem, M.F., 2022.
+Frequency, distribution and determinants of Helicobacter pylori infection
+in adults and adolescents with gastric symptoms: cross-sectional
+epidemiological inquiry in district Haripur, Pakistan. Brazilian Journal of
+Biology, 84. https://doi.org/10.1590/1519-6984.248913. (Impact factor =
+1.3, Citations = 00)
+6.	 Kim, H.Y., Lee, S.R., Saeed, W.K., Kim, H.S., Oh, J.H., Koh, D.H. and Jun,
+D.W., 2022. Correlation between cholecystectomy and development of
+non-alcoholic liver disease in the mouse model. Annals of translational
+medicine, 10(15). https://doi.org/10.21037%2Fatm-21-5414. (Impact
+factor = 3.616, Citations = 00)
+7.	 Zhang, S., Khattak, A., Matara, C.M., Hussain, A. and Farooq, A.,
+2022. Hybrid feature selection-based machine learning Classification
+system for the prediction of injury severity in single and multiple-vehicle
+accidents. PLoS one, 17(2), p.e0262941. https://doi.org/10.1371/journal.
+pone.0262941. (Impact Factor = 3.76, Citations = 02)
+8.	 Yu, G., Bu, L., Wang, C. and Farooq, A., 2022. Composition analysis
+and distributed assumption GIS model of normal stress on the slope
+sliding surface. Frontiers in Earth Science, 10, p.923620. https://doi.
+org/10.3389/feart.2022.923620. (Impact Factor = 3.16, Citations = 01)
+9.	 Haroon, F., Aamir, M. and Waqar, A., 2022. Second-Order Rotating
+RESEARCH PRODUCTIVITY
+RESEARCH    REPORT   2021/22
+61
+Sliding Mode Control with Composite Reaching Law for two level Single
+Phase Voltage Source Inverters. IEEE Access. https://doi.org/10.1109/
+ACCESS.2022.3180501.   (Impact Factor = 3.476, Citation = 01)
+10.	Khan, M.Z., Naseem, R., Anwar, A., Haq, I.U., Alturki, A., Ullah, S.S. and
+Al-Hadhrami, S.A., 2022. A novel approach to automate complex software
+modularization using a fact extraction system. Journal of Mathematics,
+2022. https://doi.org/10.1155/2022/8640596.  (Impact factor = 1.55,
+Citations = 06)
+11.	Khan, B., Naseem, R., Alam, I., Khan, I., Alasmary, H. and Rahman, T.,
+2022. Analysis of Tree-Family Machine Learning Techniques for Risk
+Prediction in Software Requirements. IEEE Access, 10, pp.98220-98231.
+https://doi.org/10.1109/ACCESS.2022.3206382. (Impact factor = 3.476,
+Citations = 00)
+12.	Zakir Khan, M., Naseem, R., Anwar, A., Hussain, S., Alroobaea, R., Ullah,
+S.S. and Umar, F., 2022. An Enhanced Multifactor Multiobjective Approach
+for Software Modularization. Mathematical Problems in Engineering,
+2022. https://doi.org/10.1155/2022/7960610. (Impact factor = 1.430,
+Citations = 00)
+13.	ur Rehman, K., Khan, S.U., Tahir, K., Zaman, U., Khan, D., Nazir,
+S., Khan, W.U., Khan, M.I., Ullah, K., Anjum, S.I. and Bibi, R., 2022.
+Sustainable and green synthesis of novel acid phosphatase mediated
+platinum nanoparticles (ACP-PtNPs) and investigation of its in vitro
+antibacterial, antioxidant, hemolysis and photocatalytic activities. Journal
+of Environmental Chemical Engineering, 10(3), p.107623. https://doi.
+org/10.1016/j.jece.2022.107623. (Impact Factor = 7.96, Citations = 03).
+14.	Mumtaz, F., Rashki, A., Imran Khan, M., Shadboorestan, A., Abdollahi, A.,
+Ghazi‐Khansari, M., Alotaibi, G. and Dehpour, A.R., 2022. Neuroprotective
+effect of sumatriptan in pentylenetetrazole‐induced seizure is mediated
+through N‐methyl‐D‐aspartate/nitric oxide and cAMP response
+element‐binding protein signaling pathway. Fundamental & clinical
+pharmacology, 36(2), pp.250-261. https://doi.org/10.1111/fcp.12728.
+(Impact Factor = 2.74, Citations = 02).
+15.	Rehman, K.U., Gouda, M., Zaman, U., Tahir, K., Khan, S.U., Saeed,
+S., Khojah, E., El-Beltagy, A., Zaky, A.A., Naeem, M. and Khan, M.I.,
+2022. Optimization of platinum nanoparticles (ptnps) synthesis by acid
+phosphatase mediated eco-benign combined with photocatalytic and
+bioactivity assessments. Nanomaterials, 12(7), p.1079. https://doi.
+org/10.3390/nano12071079. (Impact Factor = 5.719, Citations = 06).
+16.	Sheh Zad, H., Ulasyar, A., Zohaib, A. and Khattak, A., 2022. Adaptive
+sliding mode predictive power control of three-phase AC/DC converters.
+Proceedings of the Institution of Mechanical Engineers, Part I: Journal
+of Systems and Control Engineering, 236(5), pp.897-912. https://doi.
+RESEARCH PRODUCTIVITY
+RESEARCH    REPORT   2021/22
+62
+org/10.1177/09596518221079. (Impact Factor = 1.623, Citations = 00)
+17.	Kazmi, S.N.A., Ulasyar, A., Khattak, A. and Zad, H.S., 2022. A new state
+of charge estimation technique of lithium-ion battery using adaptive
+extended Kalman filter and artificial neural network. Transactions of the
+Institute of Measurement and Control, p.01423312221128526. https://
+doi.org/10.1177/01423312221128526. (Impact Factor = 2.146, Citations
+= 00)
+18.	Saad, M.O., Ulasyar, A., Ali, W., Zad, H.S., Ullah, N., Blazek, V., Prokop,
+L. and Misak, S., 2022. Design and Control of Novel Grid Tied Multilevel
+Filter-Less Inverter Using Current Based Sliding Mode Control. IEEE
+Access, 10, pp.115555-115570. https://doi.org/10.3390/ijms22063207.
+(Impact Factor = 3.476, Citations = 00)
+19.	Khan, M.H., Ulasyar, A., Khattak, A., Zad, H.S., Alsharef, M., Alahmadi,
+A.A. and Ullah, N., 2022. Optimal Sizing and Allocation of Distributed
+Generation in the Radial Power Distribution System Using Honey
+Badger Algorithm. Energies, 15(16), p.5891. https://doi.org/10.3390/
+en15165891. (Impact Factor = 3.252, Citations = 02)
+20.	Rafiq, M.A., Ulasyar, A., Uddin, W., Zad, H.S., Khattak, A. and Zeb, K.,
+2022. Design and Control of a Quasi-Z Source Multilevel Inverter Using
+a New Reaching Law-Based Sliding Mode Control. Energies, 15(21),
+p.8002. https://doi.org/10.3390/en15218002. (Impact Factor = 3.252,
+Citations = 01)
+21.	Haider, Z., Ulasyar, A., Khattak, A., Zad, H.S., Mohammad, A., Alahmadi,
+A.A. and Ullah, N., 2022. Development and Analysis of a Novel High-
+Gain CUK Converter Using Voltage-Multiplier Units. Electronics, 11(17),
+p.2766. https://doi.org/10.3390/electronics11172766. (Impact Factor =
+2.690, Citations = 00)
+22.	Taan, A.A., Khan, S.U.R., Raza, A., Hanif, A.M. and Anwar, H., 2021.
+Comparative Analysis of Information Retrieval Models on Quran Dataset
+in Cross-Language Information Retrieval Systems. IEEE Access, 9,
+pp.169056-169067.
+https://doi.org/10.1109/ACCESS.2021.3126168.  (Impact Factor =
+3.367,   Citations = 02)
+23.	Saleem, Z., Hanif, A.M. and Shenbei, Z., 2022. A Moderated Mediation
+Model
+of
+Emotion
+Regulation
+and
+Work-to-Family Interaction:
+Examining the Role of Emotional Labor for University Teachers in
+Pakistan. SAGE Open, 12(2), p.21582440221099520. https://doi.
+org/10.1177/21582440221099520. (Impact Factor = 2.032, Citations =
+00)
+24.	Ali, I., Adnan, M., Iqbal, A., Ullah, S., Khan, M.R., Yuan, P., Zhang, H.,
+Nasar, J., Gu, M. and Jiang, L., 2022. Effects of Biochar and Nitrogen
+RESEARCH PRODUCTIVITY
+RESEARCH    REPORT   2021/22
+63
+Application on Rice Biomass Saccharification, Bioethanol Yield and Cell
+Wall Polymers Features. International Journal of Molecular Sciences,
+23(21), p.13635. https://doi.org/10.3390/ijms232113635.  (Impact Factor
+= 6.208, Citations = 00)
+25.	25.	Qiu, S., Huang, L., Xia, N., Teng, J., Wei, B., Lin, X. and Khan, M.R.,
+2022. Two Polysaccharides from Liupao Tea Exert Beneficial Effects in
+Simulated Digestion and Fermentation Model In Vitro. Foods, 11(19),
+p.2958. https://doi.org/10.3390/foods11192958. (Impact Factor = 5.561,
+Citations = 00)
+26.	Ahmad, A., Hashmi, M.S., Durrani, Y., Khan, N.A., Khan, M.R., Siddiqi,
+M.Z., Riaz, A., Alam, M. and Rahman, W.U., 2022. Synergy of 1-MCP and
+hypobaric treatments prevent fermented flavour and improve consumers’
+acceptability of ‘Shughri’pear. Journal of Food Science and Technology,
+pp.1-11. https://doi.org/10.1007/s13197-022-05605-y. (Impact Factor =
+3.117, Citations = 00)
+27.	Zafar, M., Alam, S., Sabir, M., Saba, N., Din, A.U., Ahmad, R., Khan, M.R.,
+Muhammad, A. and Dayisoylu, K.S., 2022. Isolation, characterization,
+bacteriocin production and biological potential of Bifidobacteria
+of ruminants. Analytical Biochemistry, 658, p.114926. https://doi.
+org/10.1016/j.ab.2022.114926. (Impact Factor = 3.191, Citations = 00)
+28.	Khalid, A., Madni, A., Raza, B., ul Islam, M., Hassan, A., Ahmad, F., Ali, H.,
+Khan, T. and Wahid, F., 2022. Multiwalled carbon nanotubes functionalized
+bacterial cellulose as an efficient healing material for diabetic wounds.
+International Journal of Biological Macromolecules, 203, pp.256-267.
+https://doi.org/10.1016/j.ijbiomac.2022.01.146. (Impact Factor = 8.025,
+Citations = 08)
+29.	Ahmed, M., Sahibzada, M.U.K., Rasheed, H.M., Khan, T., Wahid, F.,
+Farooq, U., Khusro, A., Uddin, J., Afzal, S., Khan, A. and Al-Harrasi, A.,
+2022. Inhibition of Inflammation Associated Corneal Neovascularization
+by Dalbergia sissoo and Catharanthus roseus Leaves Extracts in Animal
+Model. South African Journal of Botany. https://doi.org/10.1016/j.
+sajb.2022.03.047. (Impact Factor = 1.504, Citations = 01)
+30.	Rasheed, H.M., Bashir, K., Gurgul, A., Wahid, F., Che, C.T., Shahzadi,
+I. and Khan, T., 2022. UHPLC-MS/MS-GNPS based phytochemical
+investigation of Dryopteris ramosa (Hope) C. Chr. and evaluation of
+cytotoxicity against liver and prostate cancer cell lines. Heliyon, 8(11),
+p.e11286. https://doi.org/10.1016/j.heliyon.2022.e11286. (Impact Factor
+= 3.776, Citations = 00)
+31.	Sohaila Naz, S., Junaid Dar, M., Malik, A., Qindeel, M., Baino, F., Wahid,
+F., Rahdar, A., Munir, S., Qaisar, S., Ullah Shah, K. and Razlansari, M.,
+Multifunctional Silver-based Nanomaterials for Non-conventional Oral
+Cancer Therapy Through Simultaneous LOX and Selective COX-2
+RESEARCH PRODUCTIVITY
+RESEARCH    REPORT   2021/22
+64
+inhibition. Iranian Journal of Materials Science and Engineering, pp.0-0.
+http://dx.doi.org/10.22068/ijmse.2544. (Impact Factor = 0.79, Citations
+= 01)
+32.	Gurgul, A., Youn, I., Maldonado, A., Wahid, F., Che, C.T. and Khan, T., 2022.
+UHPLC-MS/MS-GNPS based phytochemical investigation of Equisetum
+arvense L. And evaluation of cytotoxicity against human melanoma
+and ovarian cancer cells. Saudi Journal of Biological Sciences, 29(6),
+p.103271. https://doi.org/10.1016/j.sjbs.2022.03.021. (Impact Factor =
+4.25, Citations = 00)
+33.	Ullah, M.W., Ul-Islam, M., Wahid, F. and Yang, G., 2022. Nanocellulose:
+A
+Multipurpose
+Advanced
+Functional
+Material,
+Volume
+II.
+Frontiers in Bioengineering and Biotechnology, 10. https://doi.
+org/10.3389%2Ffbioe.2022.931256. (Impact Factor = 6.064, Citations =
+00)
+CONFERENCE PAPERS 2021
+1.	 Fatima, A. Raheel, A. Arsalan, M. Majid, M. Ehatisham-Ul-Haq, and S.
+M. Anwar, “Gender Recognition using EEG during Mobile Game Play,” in
+2021 International Conference on Information Technology (ICIT), Amman,
+Jordan, Jul. 2021, pp. 634–639. doi: 10.1109/ICIT52682.2021.9491673.
+CONFERENCE PAPERS 2022
+1.	 M.Z. Khan et al., Lifetime Prediction of the Anode-Supported Solid
+Oxide Fuel Cell by Acceleration Test Method, Asian Conference on
+Electrochemical Power Sources 11 (ACEPS’11), December 11-14, 2022,
+Singapore (Abstract Accepted).
+2.	 2. M.Z. Khan et al. Development of highly durable and dense GDC buffer
+layer for anode supported planar SOFC, 23rd World Hydrogen Energy
+Conference, June 26-30, 2022, Istanbul, Turkey. (Oral Presentation by
+the co-author)
+3.	 G U Rehman, Vetter, T. & Martin, P. A. “Design, Development, and
+Analysis of an Automated Sampling Loop for Online Monitoring of Chiral
+Crystallization.” Org. Process Res. Dev, Feb 2022. https://pubs.acs.org/
+doi/10.1021/acs.oprd.1c00320. (Impact Factor = 3.58, Citations = 0 )
+4.	 4. Gulkhubaz Khan, Muhammad Imran Khan, Neelum Gul Qazi, Bashir
+Ahmad, Majeed Ullah, Amjad Khan. “Adolescence social isolation stress
+increase the vulnerability to morphine dependence in animal model
+via oxidative stress, NMDA and nitric oxide pathway,” in 8th Annual
+Neuroscience Conference (8ANC) page 7/12, Pakistan Society of Basic
+and Applied Neuroscience
+5.	 5. Presentation in “National Workshop Postharvest Management of Fresh
+RESEARCH PRODUCTIVITY
+RESEARCH    REPORT   2021/22
+65
+Horticultural Produce for Academic”, held on 17-18 March 2022, in the
+University of Agriculture Faisalabad, Lahore, Pakistan.
+6.	 Khan, M.R., and. Huang C. “Packaging Materials for Fresh Produce;
+A Case Study to Preserve the Quality of Longan Fruits,” in 4th Global
+Summit on Future Materials, Science and Research, Las Vegas, USA,
+Nov. 2022,
+7.	 H. Ayub, F. Akhtar, M. Azam, S. Ali, H. Khan, R. Qamar. “Exome analysis
+reveals plausible glaucoma causing mutations in novel genes in dominant
+JOAG families of Pakistani origin,” in ASHG 2022 Annual Meeting, Los
+Angeles, CA, USA, Oct. 2022.
+8.	 H. Khan, M. Azam, F. Akhtar, S. Ali, R. Qamar, H. Ayub. “Novel locus
+identification for primary congenital glaucoma in a Pakistani family,” in
+ASHG 2022 Annual Meeting, Los Angeles, CA, USA, Oct. 2022.
+BOOKS (2022), BOOK CHAPTERS (2022)
+1.	 S. Rehman, H.A. Ishfaq, Z. Masaud, M.H. Hassan, H.A. Muhammad,
+M.Z. Khan, Chapter-9: Hydrogen and Fuel Cells, in Handbook of Energy
+Transitions, 1st Edition, 2022, CRC Press, 167-194.
+2.	 Khan, M.I., Khan, I., Khan, S.A. and Nawaz, W., 2022. Fate of drug-
+metabolizing enzymes in neurological diseases: Challenges and
+strategies. In Biochemistry of Drug Metabolizing Enzymes (pp. 259-280).
+Academic Press.
+3.	 Badshah I, Mustaq A, Malik SZ, Jahanabadi S, Khan MI. Diarylheptanoid
+and SAR-CoV-2. InApplication of Natural Products in SARS-CoV-2 2023
+Jan 1 (pp. 199-221). Academic Press.
+4.	 Mehmood, A., Adil, S., Shah, F.A., Wahab, F. and Khan, M.I., 2023.
+Polyenes and SARS-CoV-2. In Application of Natural Products in SARS-
+CoV-2 (pp. 445-462). Academic Press.
+5.	 Anwar M, Shaheen S, Mohsin F, Saeed WK, Khan MI. Pyridone and
+SARS-CoV-2. InApplication of Natural Products in SARS-CoV-2 2023 Jan
+1 (pp. 293-311). Academic Press.
+RESEARCH PRODUCTIVITY
+RESEARCH    REPORT   2021/22
+66
+RESEARCH
+PRODUCTS
+RESEARCH    REPORT   2021/22
+67
+PRODUCT: BIO-CELLULOSE FACIAL MASK
+SKIN GLOW FACIAL MASK(S)
+PROBLEM
+No local production of Biocellulose facial masks in Pakistan
+SOLUTION
+Indigenization of the production process of Biocellulose cosmetic products
+GLOBAL MARKET SIZE OF FACIAL MASK
+•	 Beauty has blown up to be a $532 billion industry
+•	 Compound Annual Growth Rate: 5.9%
+•	 On average women spends $313 on appearance each month
+North
+America
+Western
+Europe
+Eastern
+Europe
+Latin
+America
+Africa,
+Middle East
+55%
+20%
+15%
+4%
+4%
+2%
+RESEARCH PRODUCTS
+RESEARCH    REPORT   2021/22
+68
+RESEARCH PRODUCTS
+PRODCUT: BURN SKIN OINTMENT
+COMMERCIAL NAME: DERMOIT
+PROBLEM
+Each year approximately 11 million people suffer from burn wounds, 180,000
+of whom die because of such injuries
+STRATEGY
+Combining the resins and oil in a specific quantity
+SOLUTION
+Dermoit is the herb-based skin ointment for skin burn patients to solve the
+problems related to the duration of healing time, burn scars, bruises and
+allergic complications by providing the safe and secure alternative
+MARKET SIZE
+The Burn Ointment Market size was $841.9 million in 2020 and is poised to
+grow at a CAGR of 6.1% over the forecast period of 2021-2026.
+RESEARCH    REPORT   2021/22
+69
+RESEARCH PRODUCTS
+PRODUCT: HERBAL HAIR OIL
+COMMERCIAL NAME: PELOS OIL
+A SMART REHABILITATION TRAINING PROTOCOL FOR INDIVIDUALS WITH
+RETINAL DEGENERATIVE DISEASES
+PROBLEM
+Extreme hairfall rough texture Dandruff
+STRATEGY
+Combining the different herbs and oils in a specific amount to come with all-
+in-one solution.
+SOLUTION
+Pelos Oil
+MARKET SIZE
+The global hair care market size reached US$ 82.3 Billion in 2022. Looking
+forward, IMARC Group expects.
+RESEARCH    REPORT   2021/22
+70
+SEMINARS,
+CONFERENCES AND
+WORKSHOPS
+RESEARCH    REPORT   2021/22
+71
+SEMINARS, CONFERENCES AND WORKSHOPS
+SEMINARS,
+CONFERENCES AND WORKSHOPS
+1.	 How to Protect yourself and others from COVID-19
+Presented by Dr. Waqar Khalid Saeed
+2.	 Webinar on Artificial Intelligence of things: When Artificial Intelligence
+Meets the Internet of Things
+Presented by Dr. Arshad Iqbal
+3.	 Webinar on Text Classification Using Deep Learning Techniques
+Presented by Dr. Muhammad Ilyas Azeem
+4.	 Webinar on Application of Artificial Intelligence in Pathology Detection
+Presented by Dr. Jawad Hussain
+5.	 Webinar on Use of AI For Low Vision Rehabilitation
+Presented by Dr. Hafsah Ahma
+6.	 Webinar on Agriculture 4.0- The Future of Farming Technology
+Presented by Dr. Ihtisham Ali
+7.	 Webinar on Human-AI Teaming for Evolving AI Systems in Manufacturing
+Presented by Dr Maqbool Khan
+8.	 Webinar on Applications of Machines Learning in Software Engineering
+Presented by Mr. Saad Shafiq
+RESEARCH    REPORT   2021/22
+72
+LINKAGES AND
+COLLABORATIONS
+RESEARCH    REPORT   2021/22
+73
+LINKAGES AND COLLABORATIONS
+LINKAGES AND COLLABORATIONS
+SPCAI NATIONAL AND
+INTERNATIONAL COLLABORATION
+1.	 Guangdong University of Technology, China
+Duration: 5-years
+2.	 Jiangsu University (JSU), China
+Duration: 5-years
+3.	 University of Science and Technology, Beijing, China
+Duration: 3-years
+4.	 Beijing Jiaotong University (BJTU), China
+Duration: 5-years
+5.	 China University of Mining and Technology (CUMT)
+Duration: 3-years
+6.	 Shenzhen Institute of Advance Technology (SIAT)
+Duration: 3-years
+7.	 Shanghai University, China
+Duration: 3-years
+8.	 Scch Software Hagenberg GmbH Austria
+Duration: 3-years
+9.	 Minerals development department government of KPK
+Duration: 3-years
+10.	 AKHUWAT college Kasur
+Duration: 3-years
+11.	  Akhuwat Islamic Microfinance (AIM)
+Duration: 3-years
+12.	The department of science & technology of
+Guangdong province of the people’s of republic of China
+Duration: 3-years
+RESEARCH    REPORT   2021/22
+74
+13.	ASPIRE
+Duration: 3-years
+14.	Federation of Pakistan chambers of commerce
+& industry (FPCCI)
+Duration: 3-years
+15.	COMSTECH Organization of Islamic
+cooperation Standing Committee
+Duration: 2-years
+16.	National Radio and Telecommunication
+corporation, Haripur
+Duration: 3-years
+17.	Advanced telecom services
+Duration: 2-years
+18.	Lenovo
+Duration
+19.	SWJT Southwest Jiaotong university
+Duration: 3-years
+20.	PTCL
+Duration:
+21.	National center for physics, Islamabad
+Duration: 2-years
+22.	National engineering & scientific commission
+of Pakistan (NESCOM)
+Duration: 2-years
+23.	International center for chemical
+and biological sciences (ICCBS)
+Duration
+24.	National Engineering & Scientific
+Commission (NESCOM)
+Duration
+25.	Mindstorms Studios Game Studio
+Duration
+26.	Zalmi Foundation (ZF)
+Duration
+RESEARCH    REPORT   2021/22
+75
+27.	National Radio and Telecommunication
+Corporation (NRTC)
+Duration
+28.	Haripur Chamber of Commerce and Industry
+Duration: 5-years
+29.	Edifiers Youth Networks
+Duration: 2-years
+30.	Federation of Pakistan Chambers of
+Commerce & Industry (FPCCI)
+Duration: 2-years
+31.	The Little Art
+(A non-profit arts education organization
+Duration: 2-years
+LINKAGES AND COLLABORATIONS
+Designed by: Marryam Khan
+Text: Dr. Humaira Ayub, Abdullah Sajid
+Published by: Pak-Austria Fachhochschule Institute of Applied Sciences and Technology

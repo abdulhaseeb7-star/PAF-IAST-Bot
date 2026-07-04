@@ -1,0 +1,627 @@
+Pak-Austria Fachhochschule:
+Institute of Applied Sciences & Technology
+Mang, Haripur, Khyber Pakhtunkhwa
+Test 1
+Test 2
+Test 3
+1. Test duration is 2 hours.
+2. Test consists of 100 MCQs.
+3. Test consists of 3 sections.
+•
+English: 20%
+•
+Biology: 40%
+•
+Chemistry: 40%
+1. Test duration is 2 hours.
+2. Test consists of 100 MCQs.
+3. Test consists of 3 sections.
+•
+English: 20%
+•
+Math: 40%
+•
+Physics: 40%
+1. Test duration is 2 hours.
+2. Test consists of 100 MCQs.
+3. Test consists of 3 sections.
+•
+English: 20%
+•
+General Math: 40%
+•
+Computer: 40%
+Test 4
+Test 5
+Test 6
+1. Test duration is 2 hours.
+2. Test consists of 100 MCQs.
+3. Test consists of 3 sections.
+•
+Drawing: 50%
+•
+Aptitudes: 50%
+1. Test duration is 2 hours.
+2. Test consists of 100 MCQs.
+3. Test consists of 5 sections.
+•
+English: 10%
+•
+General Math: 20%
+•
+Analytical: 20%
+•
+Drawing: 25%
+•
+Aptitudes: 25%
+1. Test duration is 2 hours.
+2. Test consists of 100 MCQs.
+3. Test consists of 3 sections.
+•
+English: 20%
+•
+Arithmetic: 40%
+•
+Analytical: 40%
+SECTION 1
+ENGLISH
+Guidelines
+This section has 20 questions, and each question has equal marks.
+Click on Next to proceed further.
+Q1. …………………… me, I would be happy to dedicate a few extra hours for the humanitarian
+cause.
+A) As of
+B) As for
+C) As from
+D) As to
+Q2. They have a(n)…………………. on the top prize in the competition.
+A) advantage
+B) edge
+C) eye
+D) vision
+Q3. Ahmed was true to his ………………… when he saved the child’s life in the accident but
+asked for money as a favor from the child’s parents.
+A) colors
+B) tones
+C) character
+D) self
+Q4. Are we ……………………… to leave on vacation?
+A) already
+B) altogether
+C) all together
+D) all ready
+Q5. He is very careful. He……………………………… his children to drive his car in rush hour
+traffic.
+A) does not allow
+B) did not allow
+C) allowed
+D) allow
+Q6. The coach’s insistence on fitness has become ………………… He yells at players all the time.
+A) emotional
+B) dilatory
+C) obsessive
+D) rational
+Q7. They …………………………… just reaching the office at 5 p.m. when I finished off my work.
+A) have been
+B) will be
+C) had been
+D) were
+Q8. Would he like the dinner? I …………………. very hard to make it delicious.
+A) will be working
+B) will work
+C) worked
+D) had worked
+Q9. Our group will be ……………. by your group at next intersection but the goal of both groups
+will remain same.
+A) joined
+B) replaced
+C) ignored
+D) influenced
+Q10. The …………….. applauded enthusiastically after the performance was finished.
+A) audience
+B) spectators
+C) bystanders
+D) onlookers
+Q11. She ________ for the upcoming tennis tournament.
+a. Trains
+b. Is training.
+c. Will training
+d. Is going to train.
+Q12. I ________ New Zealand next year.
+a. go
+b. will go
+c. going
+d. will go to
+Q13. There are some vacant rooms ________ in flats and shared houses.
+a. both
+b. between
+c. either
+d. neither
+Q14. The sun rises ________ the east.
+a. in
+b. On
+c. from
+d. towards
+Q15. Nitrogen gas is in abundance ________ the Earth.
+a. in
+b. On
+c. Above
+d. along
+Q16. For good health, she ________ bed earlier.
+a. Should go
+b. Should go to
+c. Should goes
+d. Should goes to
+Q17. If you have time, you ________ the nature museum.
+a. should visit
+b. should visited
+c. have to visit
+d. have to visited
+Q18. It is our problem, not ________.
+a. their
+b. their’s
+c. there
+d. there’s
+Q19. The number of guests at the party ________ amazing.
+a. was
+b. were
+c. had
+d. had have
+Q20. ________ 600 and 800 B.C, Olympics were held in Athens, Greece.
+a. during
+b. unless
+c. until
+d. between
+SECTION: 2
+MATH
+Guidelines
+This section has 40 questions, and each question has equal marks.
+Click on Next to proceed further.
+Q21. What is the Arithmetic Mean of the following data 3,6,9,12,15.
+(A)    7
+(B) 9
+(C) 12
+(D) 8
+Q22. Find two number whose sum is 28 and the difference is 4 _____________?
+(A) 12,16
+(B) 18,10
+(C) 15,13
+(D) 14,12
+Q23. 1 acre is equal to ________square feet?
+(A) 45434 square feet
+(B) 34343 square feet
+(C) 43572 square feet
+(D) 43560 square feet
+Q24. What is the Sum of First 70 even Numbers?
+(A)  4970
+(B) 4950
+(C) 4900
+(D) 4980
+Q25 What is the Sum of First 70 Odd Numbers?
+(A) 4900
+(B) 4970
+(C) 4960
+(D) None of these
+Q26. 40 is subtracted from 60% of a number, the result is 50. Find the number?
+(A) 150
+(B) 140
+(C)130
+(D) 110
+Q27. 85% of a number is added to 24, the result is the same number. Find the number?
+(A) 150
+(B) 140
+(C) 130
+(D) 160
+Q28. 60% of a number is added to 120, the result is the same number. Find the number?
+(A) 300
+(B) 200
+(C) 400
+(D) 500
+Q29. 25% of 30% of 45% is equal to__________?
+(A)  0.03375
+(B) 0.3375
+(C) 3.375
+(D) 33.75
+Q30. 40% of a number is more than 20% of 650 by 190. Find the number?
+(A) 600
+(B) 700
+(C) 800
+(D) 900
+Q31. How much is 80% of 40 is greater than 4/5 of 25?
+(A) 6
+(B) 9
+(C) 4
+(D) 12
+Q32.  A, B and C together earn Rs.150 per day while A and C together earn Rs.94 and B and C
+together earn Rs.76. The daily earning of C is:__________?
+(A) 10 Rs,
+(B) 15 Rs,
+(C) 20 Rs.
+(D) 25 Rs.
+Q33. If 3 men or 4 women can construct a wall in 43 days, then the number of days that 7 men
+and 5 women take to construct it is :
+(A) 12 days
+(B) 14 days
+(C) 16 days
+(D) 18 days
+Q34. The average of two numbers is XY.If one number is equal to X ,the other number is equal
+to_________?
+(A) X
+(B) 2Y
+(C) XY-X
+(D) 2 XY -2 X
+Q35. If the average marks of three batches of 55, 60 and 45 students respectively is 50, 55, 60,
+then the average marks of all the students is__________?
+(A) 53.33
+(B) 54.68
+(C) 55
+(D) None of these
+Q36. The average weight of 16 boys in a class is 50.25 kg and that of the remaining 8 boys is 45.15
+kg. Find the average weights of all the boys in the class.
+(A) 47.55 kg
+(B) 48 kg
+(C) 48.55 kg
+(D) 49.25 kg
+Q37. The average weight of A, B and C is 45 kg. If the average weight of A and B be 40 kg and
+that of B and C be 43 kg, then the weight of B is___________?
+(A) 17 kg
+(B) 20 kg
+(C) 26 kg
+(D) 31 kg
+Q38. If the volume and surface area of a sphere is numerically the same then it’s radius
+is_________?
+(A) 1 unit
+(B) 2 units
+(C) 3 units
+(D) 4 units
+Q39. A right cylinder and a right circular cone have the same radius and the same volume. The
+ratio of the height of the cylinder to that of the cone is_________?
+(A) 3: 5
+(B) 2: 5
+(C) 3: 1
+(D) 1: 3
+Q40. The radius of a circular cylinder is the same as that of a sphere. Their volumes are equal.
+The height of the cylinder is________?
+(A) 4/3 times its radius
+(B) 2/3 times its radius
+(C) Equal to it’s radius
+(D) Equal to it’s diameter
+Q41. The number of solid spheres each of diameter 6 cm, that could be moulded to form a solid
+metal cylinder of height 45 cm and diameter 4 cm is?
+(A) 3
+(B) 4
+(C) 5
+(D) 6
+Q42. The length of the wire of 0.2mm radius that can be drawn after melting a solid copper sphere
+of diameter 18cm?
+(A) 24.3 m
+(B) 243 m
+(C) 2430 m
+(D) 24300 m
+Q43. If the volumes of two cubes are in the ratio 8: 1, the ratio of their edges is_________?
+(A) 8: 1
+(B) 2√2 : 1
+(C) 2 : 1
+(D) None of these
+Q44. A metal sheet 27 cm long 8cm broad and 1 cm thick is melted into a cube. The difference
+between the surface areas of two solids is__________?
+(A) 284 cm2
+(B) 286 cm2
+(C) 296 cm2
+(D) 300 cm2
+Q45. If the length, breadth and the height of a cuboid are in the ratio 6: 5: 4 and if the total surface
+area is 33300 cm2, then length breadth and height in cms, are respectively?
+(A) 90, 85, 60
+(B) 85, 75, 60
+(C) 90, 75, 70
+(D) 90, 75,60
+Q46. The Total cost of flooring a room at Rs.8.50 per square meter is Rs.510. If the length of the
+room is 8km it’s breadth is__________?
+(A) 7.5m
+(B) 8.5m
+(C) 10.5m
+(D) 12.5m
+Q47. The length of a rectangular increased by 10% and it;s breadth is decreased by 10 %. Then
+the area of the new rectangle is_________?
+(A) Neither increased nor decreased
+(B) Increased by 1%
+(C) Decreased by 1%
+(D) Decreased by 10%
+Q48. Total area of the 64 small squares of aches board is 400cm2. There is 3cm wide border
+around the chess board. What is the length of each side of the chess board?
+(A) 17cm
+(B) 20cm
+(C) 23cm
+(D) 26cm
+Q49. How many meters of carpet 63cm will be required to be a floor of a room 14m by 9cm?
+(A) 200m
+(B) 210m
+(C) 220m
+(D) 185m
+Q50. A rectangular courtyard 3.78min long and 5.25m broad is to be paved exactly with square
+tiles all of the same size. The minimum number of such tiles is_________?
+(A) 450
+(B) 430
+(C) 440
+(D) 460
+Q51. A rectangular carpet has an area of 120 square meters and a parameter of 46m. The length
+of it’s diagonals is_________?
+(A) 11m
+(B) 13m
+(C) 15m
+(D) 17m
+Q52. The average of first 10 even numbers is___________?
+(A) 18
+(B) 22
+(C) 9
+(D) 11
+Q53. The average of 11 numbers is 10.9. If the average of first six is 10.5 and that of the last six is
+11.4 the sixth number is_____________?
+(A) 11.0
+(B) 11.3
+(C) 11.4
+(D) 11.5
+Q54. The average of first ten prime numbers which are odd is____________?
+(A) 12.9
+(B) 13.8
+(C) 15.8
+(D) 17
+Q55. The average age of three boys is 15 years and their ages are in proportion 3:5:7. What is
+the age in years of the youngest boy?
+(A) 15
+(B) 9
+(C) 18
+(D) 21
+Q56. A person purchases 90 clocks and sells 40 clocks at a gain of 10% and 50 clocks at a gain of
+20%. If he sold all of them at a uniform profit of 15%, then he would have got Rs. 40 less. The
+cost price of each clock is:_________?
+(A) Rs.50
+(B) Rs.60
+(C) Rs.80
+(D) Rs.90
+Q57. If 5% more is gained by selling an article for Rs. 350 than by selling it for Rs. 340, the cost
+of the article is:________?
+(A) Rs. 50
+(B) Rs. 160
+(C) Rs. 200
+(D) Rs. 225
+Q58. A fair price shopkeeper takes 10% profit on his goods. He lost 20% goods during theft. His
+loss percent is:________?
+(A) 8
+(B) 10
+(C) 11
+(D) 12
+Q59. The cost price of an article is 64% of the marked price. Calculate the gain percent after
+allowing a discount of 12%.
+(A) 37.5 %
+(B) 38.5 %
+(C) 42 %
+(D) 27.5 %
+Q60. The cost price of a radio is Rs.1500 and it was sold for Rs.1230, find the loss %?
+(A) 18%
+(B) 9%
+(C) 15%
+(D) 6%
+SECTION 3
+PHYSICS
+Guidelines
+This section has 40 questions, and each question has equal marks.
+Click on Next to proceed further.
+Q61. Of the following subatomic particles, the particle which has the same charge as the positron
+is;
+(A) Photon
+(B) Electron
+(C) Alpha particle
+(D) Proton
+Q62. A ball is projected vertically upward from the surface of the earth and reaches its maximum
+height in 4.0 seconds. The ball’s initial speed, in meters per second is approximately
+(A)20
+(B) 40
+(C) 80
+(D) 100
+Q63. The conductivity in metallic wires depends on
+(A)Free electrons only
+(B) Positive ions only
+(C) Negative ions only
+(D)Positive ions, negative ions and electrons
+Q64. Momentum is a quantity whose unit might be the
+(A) foot-pound
+(B) (C) erg
+(C) (B) newton
+(D) (D) gram centimeter per second
+Q65. Two rectangular tanks stand next to each other on a horizontal table. The area of the bottom
+of the first tank is 40 square centimeters; that of the second tank is 80 square centimeters. Both
+tanks are filled with water to the same height. The ratio of the liquid pressure on the bottom of
+the second tank to that of the bottom of the first tank is
+(A)1
+(B) 2
+(C) 4
+(D) 16
+Q66. Two freely falling objects, one 10 kg and one 20 kg, are dropped from the same height at the
+same time. Air resistance is negligible. Which of the following statements is (are) true? I. Both
+objects have the same potential energy at the top. II. Both objects fall with the same acceleration.
+III. Both objects have the same speed just before hitting the ground.
+(A)III only
+(B) I and II only
+(C) II and III only
+(D) I, II, and II
+Q67. If a stone at the end of a string is whirled in a circle, the inward pull of the string on the
+stone
+(A)is inversely proportional to the speed of the object
+(B) is inversely proportional to the square of the speed
+(C) is proportional to the speed
+(D)is proportional to the square of the speed
+Q68. A change in temperature of 450 C corresponds to a change in Fahrenheit degrees of
+(A)25
+(B) 45
+(C) 81
+(D) 113
+Q69.The bending of a bimetallic strip when heated is primarily due to
+(A)the good conductivity of the two metals
+(B) the large coefficient of expansion of both metals
+(C) the unequal expansion of the two metals
+(D)the effect of gravity
+Q70. If a gas is heated at constant pressure, which of the following descriptions will apply? I. Its
+volume increase is proportional to the temperature II. The kinetic energy of the molecules
+decreases III. The kinetic energy of the molecules increases Page 8 of 13
+(A)I only
+(C) I and II only
+(B) I and III only
+(D) II and III only
+Q71. A 20 ohm and a 60 ohm resistor are connected in series to a DC generator. The voltage
+across the 20 ohm resistor is 80 volts. The current through the 60 ohm resistor
+(E) cannot be calculated with the given information
+(F) (B) is about 1.3 A
+(C) is 4.0 A
+(D) 5.0 A
+Q72. An object is placed 10 centimeters from a concave spherical mirror whose radius of
+curvature is 12 centimeters. The distance of the image from the mirror is
+(A)5 cm
+(B) 10 cm
+(C) 15 cm
+(D) 20 cm
+Q73. Two frequencies sounded together produce 3 beats per second. If one of the frequencies is
+400 vibrations per second, the other frequency will be?
+(A)1200 vib/sec
+(B) 403 vib/sec
+(C) 397 vib/sec
+(D) 133.33 vib/sec
+Q74. X rays consist of
+(A) a stream of neutrons
+(B) a stream of electrons
+(C) radiation similar to radon
+(D) radiation similar to gamma rays
+Q75. During the time that sound travels 1100 feet in air, light can travel in vacuum a distance of
+about
+(A)1100 miles
+(B) 200000 miles
+(C) 20000 miles
+(D)11000 km
+Q76. A spacecraft is approaching the earth. Relative to the radio signals it sends out, the signal
+received on the earth have
+(A) a lower frequency
+(B) a higher velocity
+(C) a shorter wavelength
+(D) all of the above
+Q77. All of the following pure elements are good electrical conductors except
+(A) copper
+(B) aluminum
+(C) silver
+(D) iron
+Q78. Which of the following examples of electromagnetic radiation has the most energy per
+quantum?
+(A) Radio waves
+(B) Microwaves
+(C) visible light
+(D) X-rays
+Q79. Three capacitors each of value 0.1F are connected in series, then there total capacitance is
+closest to
+(A) 0.0333F
+(B) 0.3333F
+(C) 0.3F
+(D) 3.0F
+Q80. Atomic spectra can be explained by
+(A) The Bohr atomic model
+(B) Quantum Mechanics
+(C) Quantized orbits of electrons
+(D) All of the above
+Q81. When U 235 92 decays by alpha particle emission, the daughter nuclei formed is
+(A) Th 231 90
+(B) Pa 233 91
+(C) Pa 234 91
+(D) Pu 239 94
+Q82. We can increase the capacitance of a parallel plate capacitor by
+(A) cooling the plates.
+(B) bringing the plates closer together.
+(C) decreasing the dielectric constant of the material between the plates.
+(D) increasing the voltage across the plates.
+Q83. Terminal velocity is usually defined as the
+(A) velocity of shock waves
+(B) velocity of light in water
+(C) velocity at which air resistance balances gravity
+(D) All of the above
+Q84. Our sun releases energy by nuclear fusion reactions. What actually happens?
+(A) Hydrogen is converted to helium
+(B) Helium is converted to hydrogen
+(C) Two nuclei change into one nucleus
+(D) One nucleus splits into two nuclei
+Q85.Saponification results in the formation of:
+(A) Glass
+(B) Polymer
+(C) fertilizer
+(D) Soap
+Q86. A measuring cylinder is used to measure.
+A. Mass
+B. Area
+C. Volume
+D. Level of liquid
+Q87. The number of base units in SI are.
+A. 3
+B. 6
+C. 7
+D. 9
+Q88. A car is made on the principles of
+A. Electronics
+B. Thermodynamics
+C. Electricity
+D. Mechanics
+Q89. Standards, of physical quantities were established in
+A. 1910
+B. 1020
+C. 1950
+D. 1960
+Q90. While rounding the numbers if last digit is 5, then
+A. It is simply dropped
+B. The digit on its left is increased by 1
+C. It is rounded to get nearest even number
+D. It remain same.
+Q91. The study of internal structure of Earth is called
+A. Atomic Physics
+B. Plasma Physics
+C. Geo physics
+D. Nuclear Physics
+Q92. The base quantity is.
+A. Volume
+B. Torque
+C. Mass
+D. Momentum
+Q93. The number 275.00 consists of significant figures.
+A. 4
+B. 3
+C. 2
+D. 5
+Q94. A thimble of circular scale consists of equal division.
+A. 100
+B. 10
+C. 1000
+D. None of these
+Q95. Speedometer measures the
+A. Acceleration
+B. Velocity
+C. Speed
+D. All of these
+Q96. The quantities that are completely described by only magnitude are
+A. vector
+B. Scalar
+C. Base
+D. Derived
+Q97. Quantities between which a graph is plotted are called.
+A. Scalars
+B. Vectors
+C. Variables
+D. None
+Q98. Pressure is quantity.
+A. Vector
+B. Scalar
+C. Base
+D. Derived
+Q99. The quantities that are described completely by magnitude and direction are.
+A. Scalar
+B. Vector
+C. Base
+D. Derived
+Q100. The motion of a body is straight line is
+A. Random motion
+B. Linear motion
+C. Translatory motion
+D. Circular motion

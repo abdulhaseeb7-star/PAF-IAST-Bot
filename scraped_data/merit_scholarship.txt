@@ -3,7 +3,6 @@ Events
 Portals
 CMS
 ERP
-LMS
 Alumni
 International
 Technology Park
@@ -82,7 +81,6 @@ Events
 Portals
 CMS
 ERP
-LMS
 Alumni
 International
 Technology Park

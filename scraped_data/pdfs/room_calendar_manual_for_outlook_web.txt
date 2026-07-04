@@ -1,0 +1,13 @@
+How to Book a Room through Outlook Web
+Step1: Go to web browser, right click on the icon and then click on open.
+Step2: Go to address bar and write www.office.com and press enter key.
+Step3: Enter your office 365 credentials and sign in.
+Step4: Click on App Launcher Icon very left top on the page then click on Outlook.
+Step5: In Outlook, go to Calendar icon on left bottom of the page.
+Step6: Your calendar will show like below, click on empty field under date.
+Step7: Click on the “More options” at right bottom of below window.
+Step8: Click on the “Scheduling Assistant” from the top of window.
+Step9: From the left side you can add the required attendees, optional attendees and the room
+where you want to schedule the meeting.
+Step 10: From the right side, you can select the suitable time when your attendees and room is
+free and click on “Done” at top.

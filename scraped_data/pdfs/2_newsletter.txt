@@ -1,0 +1,458 @@
+IN THIS ISSUE
+Education is not mere preparation for life; education is life
+itself. Prime Minister Imran Khan inaugurated the maiden
+PAF-IAST admissions at a ceremony held on 17th September
+2020. The admissions for the Fall-2020 semester in 04
+departments for 05 BS disciplines were announced in
+October 2020.PAF-IAST curriculum, heralding a unique
+concept in Pakistan, is designed on the guidelines of the
+Austria University of Fachhochschule. The selected
+students will have the opportunity to visit Austria and attend
+some courses there. PAF-IAST academic programs are duly
+recognized by the following bodies in Pakistan:
+·
+Pakistan Engineering Council (PEC)
+·
+National Computing Education Accreditation
+Council (NCEAC)
+·
+Higher Education Commission (HEC)
+Admissions Fall 2020
+Initially, PAF-IAST has decided to
+induct students into its four
+departments for the following ﬁve BS
+disciplines:
+·
+Electrical Engineering
+·
+Chemical Engineering
+·
+Biomedical Sciences
+·
+Computer Science
+·
+Software Engineering
+Response from the student was
+overwhelming. After rigorous
+admission procedures, 174 students
+were selected against the oﬀered
+programs.
+Admission Summary Fall 2020
+S.
+No.
+Name of Program
+Enrolled
+Students
+Highest
+Merit %
+Lowest
+Merit
+%
+1
+Bachelor of Engineering in Electrical Engineering
+39
+91.11
+73.30
+2
+Bachelor of Engineering in Chemical Engineering
+31
+95.70
+70.77
+3
+Bachelor of Science in Software Engineering
+37
+92.52
+72.78
+4
+Bachelor of Science in Computer Science
+38
+92.13
+73.84
+5
+Bachelor of Science in Biomedical Sciences
+29
+95.56
+83.34
+Pioneering Departments
+Pak-Austria Fachhochschule: Institute of Applied Sciences
+and Technology, Mang, Haripur has undertaken major
+initiatives towards development and deployment of
+technological infrastructure on its campus. The Academic
+Computing Services (ACS) at PAF-IAST has oﬀers most
+advanced world-class technology to facilitate academic and
+research activities at the campus and beyond.
+1.
+Smart Classrooms
+PAF-IAST is the ﬁrst-
+ever institute in
+Pakistan to deploy
+Smart Classroom
+solutions both in
+classrooms and
+lecture theatres.
+Currently, eight smart lecture theatres with most advanced
+PAF-IAST organized an orientation on 26 October 2020 for
+the new students in order to make their entry to PAF-IAST a
+memorable episode of their lives.  Through this interactive
+event, the students were provided a platform to interact
+with the faculty for a better understanding of the institution,
+chosen programs, as well as associated facilities on the
+campus. Students were also apprised about the prospects
+of their chosen ﬁelds. The new entrants enjoyed the
+session and exuded hope and excitement for a good future
+ahead.
+Orientation: First Batch, 2020
+Interactive Digital Board, AI-enabled Speaker's tracking
+camera, lecture recorder, along with other ancillary equipment
+are operational. In addition, there are as many as  twelve  (12)
+Smart Classrooms transformed with Interactive Digital Board
+and Learning Management System (LMS) through Cloud AP.
+The Campus is fully geared to change teaching from teacher-
+centric to student-centric classroom model—a radical
+departure from the prevailing teaching and learning culture in
+Technological Infrastructure: Academic Computing Services
+the country. These smart classrooms ensure remote lecture
+delivery not only from both Austrian and Chinese universities/
+institutes but also facilitate integration of interactive sessions
+of PAF-IAST's teaching faculty and researchers with their
+counterparts in the foreign universities/ institutes. The facility
+enables students to beneﬁt eﬀectively from the highly
+interactive classroom environment, with the facility of
+attending lectures and scholarly sessions from anywhere
+beyond the campus. The students also have access to
+recorded lectures to supplement their learning pursuits.
+2
+Blanket Wi-Fi Coverage
+PAF-IAST oﬀers blanket Wi-Fi coverage.  With its 198 indoor
+Wi-Fi Access Points and eight outdoor Wi-Fi Access Points, Wi-
+Fi coverage is available to all students, teachers, researchers,
+allied staﬀ, and even visitors. The institute enjoys singular
+distinction as the only campus in Pakistan equipped with the
+latest Wi-Fi 6 (5G enabled technology), thereby oﬀering multi-
+gigabit connectivity across the campus with centralized
+management and portal services.
+2 4 / 7  d i g i t a l
+connectivity is the
+need of the hour to
+achieve the goal of
+“learning anytime
+anywhere”. Thanks to
+this giant facility, PAF-
+IAST students face no issue in connecting for collaborative
+activities with their teachers and mentors. The multi-gigabit
+speed of ubiquitous wireless oﬀers excellent speed when
+multiple devices are connected simultaneously for fast
+uploading/ downloading digital content, seamless video
+streaming, virtual desktop connectivity, etc. For this, PAF-IAST
+intends to provide each student on the campus from day one a
+laptop of latest speciﬁcations.
+3.
+Ultra-high-speed Core Network
+T h e  c a m p u s  c o r e
+network is based on a
+40Gbps (upgradable to
+100Gbps) ﬁber optic
+backbone. This makes
+PAF-IAST the unique
+h i g h e r  e d u c a t i o n
+institution in Pakistan to have a backbone network of capacity
+for high-performance computing with low energy
+consumption.
+The ultra-high-speed backbone network is capable of catering
+to all digital/ electronic communication needs of PAF-IAST. For
+the aggregation of digital traﬃc from ﬁfty-four (54) Access
+Switches, there are ﬁve (5) redundant Distribution Switches
+which are deployed across the campus. Besides providing
+access to the internet and digital resources to Wi-Fi Access
+Points, these Access Switches, transport surveillance video
+traﬃc to the centralized recorder and storage. The core
+network is equipped with f redundant Core Switches of
+3.84Tbps throughput and 2800 Mpps forwarding
+performance, redundant Application Switches for connecting
+Compute Nodes, and redundant ﬁrewalls and routers of high
+throughput capacities.
+4.
+Cloud Data
+PAF-IAST Modular
+Data Center for its
+Cloud services is
+equipped with most
+advanced products.
+This energy-eﬃcient
+Cloud Data facility
+oﬀers four IT racks and two other racks for in-row cooling and
+uninterrupted power supply within the setup. More
+importantly, t redundant ﬁrewalls of the data center provide
+secured communication and infrastructure through control of
+important and critical data. The entire panoply of Campus
+Computing Services comprising high-performance computing
+facilities and GPU-based Accelerated Computing (GAC)
+Cluster is geared to cater for  24/7/365 operations. The Cloud
+Data Center is capable of accommodating t more applications
+in the future for which the expandability capacity, twice of its
+existing capacity, is built in the current setup. The cloud-based
+services are available to  students and administration for
+maintaining  and managing  student repositories, digital
+learning content management for teachers, big data storage
+space for AI researchers, and other critical applications related
+to campus computing services and R&D.
+5. Campus Management and Student Information System
+(CM&SIS)
+P A F - I A S T  h a s
+deployed Campus-
+on-Cloud solution for
+i t s  r e q u i r e m e n t s
+t o w a r d s  C a m p u s
+Management System
+( C M S )  a n d  f o r
+maintaining Students
+Information System (SIS). The ﬁrst batch of admissions, that is,
+Fall-2020 took place through Call for Admission, whereby
+prospective students were enabled to apply online for their
+preferred programs.  Merit lists were generated automatically
+through the system. The solution comprises six major
+modules:  i) Campus Structure & Policies; ii) Course Catalog &
+Class Scheduling; iii) Recruitments & Admissions; iv) Student
+Information, Registration & Academic History; v) Student
+Financial matters & Scholarships; and vi) Portals, Dashboards,
+Reports, & Integrations with third-party systems
+4. Computer Laboratory
+This lab is equipped with modern high-performance
+computers and wireless/wired connectivity. It is meant to
+conduct Lab courses of computing and circuits and system-
+level simulations, training, workshops, and software
+competitions.
+5. Fluid Mechanics Laboratory
+In this exclusive lab, ﬂuids and their ﬂow behaviors are studied
+and observed. Pressure variations are calculated through
+gauges for compressible ﬂuids as they ﬂow through
+convergent-divergent nozzles. Various theoretical
+demonstrations of diﬀerent laws of ﬂuid mechanics are
+checked through lab equipment.
+6. DLD & Embedded Systems Laboratory
+This lab covers Digital Logic and Digital Systems Design,
+Embedded Systems, and IoTs. The  experiments range  from
+basic digital concepts to advanced digital systems. The lab is
+equipped with FPGA, Adruino, and Raspberry Pi kits.
+An impressive array of teaching labs has been established in
+various departments.   Some of them are as follows:
+1.
+Augusta Ada Computing Lab
+Augusta Ada Lab, which focuses on Software Engineering and
+Computing activities, provides facilities for courses such as
+Software Engineering, Programming Languages, and
+Compilation Techniques. With high-speed Internet (Ethernet
+and Wi-Fi Both), this custom-built lab houses Smart HiBoard,
+with Programming Display Units (PDUs), and Corei7/i5 All-in-
+One networked Desktop Computers using Windows as well as
+Linux operating systems.
+2. Physics Laboratory
+Physics Laboratory trains science and engineering students in
+classical physics and electromagnetism. Demonstration kits
+are used to illustrate physics principles and enable students to
+relate theoretical knowledge with practical learning.
+3. Electronics & Circuits Laboratory
+Equipped with modern instruments, the laboratory provides
+hands-on training to engineering students in all courses
+dealing with electric and electronic circuits. This state-of-the-
+art facility helps students to see beyond the theory and serves
+as a foundation for the students to grasp the subjects to be
+taught during advanced semesters.
+State-of-the-Art Academic Laboratories
+10. Organic & Inorganic Chemistry Laboratory/
+Environmental Engineering
+At this Lab, students become conversant with basic
+instrumentation, techniques, and apparatus and can master
+latest techniques such as spectroscopy, chromatography,
+organic chemical reactions, salt analysis, elemental analysis,
+and catalysis. The analytical and physical chemistry lab
+initiates students in physical and analytical chemistry
+techniques. The application of principles learned in class is
+reinforced through various experiments. Students are amply
+exposed to analytical and other techniques used in chemistry
+and chemical engineering.
+11.
+Thermodynamics Laboratory
+The thermodynamics lab equipment is related to basic laws
+and applications of thermodynamics like boiler, refrigeration
+unit, Joule-Thomson apparatus, and Boyle`s law apparatus.
+Not only does this Lab enables students to have thorough
+understanding of these principles but it also serves the basic
+requirement of a chemical engineer, i.e., to cope with the wide
+variety of problems such as calculation of heat and work
+requirement of physical and chemical processes.
+7.
+Workshop Laboratory
+This Lab has been designed to teach students basic
+manufacturing processes, mechanical tools and equipment,
+electrical home wiring, and installation and measurement
+along with imparting hands-on training. Students can work out
+the labor involved, as well as time, and cost of the product or
+work.
+8. Chemical Process Technology/Analytical and Physical
+Chemistry
+Chemical process technology lab provides hands-on
+experience for semi-industrial/industrial equipment. It is
+equipped to teach plant and process design, scale-up, etc.
+Students can utilize several diﬀerent scientiﬁc subjects in one
+assignment, for instance, analytical chemistry,
+thermodynamics, heat and mass balances, unit operations,
+kinetics, process control, uncertainty calculations, sampling
+techniques, safety, and environmental aspects.
+9.
+Heat Transfer Laboratory
+At chemical industries, various operations are assisted with
+addition and rejection of heat by using a variety of heat
+exchangers and reactors whose performance is highly
+aﬀected through heat transfer.  -The heat transfer lab is
+designed to familiarize students with various modes of heat
+transfer by applying its fundamentals with the help of available
+equipment.
+Laboratories are abuzz with Student Activity
+with Domestic as well as International Educational Institutes
+and Industries:
+PAF-IAST Signs Various MOUs/MOAs
+4.
+Pakistan Telecommunication Company Limited (PTCL)
+P a k i s t a n
+Telecommunication
+Company Limited
+(PTCL) was awarded
+a  t u r n k e y  I C T
+contract on 23rd
+October 2020 to
+deploy state-of-the-
+art IT infrastructure
+for Pak-Austria Fachhochschule Institute of Applied Sciences
+and Technology (PAF-IAST) University. Zarrar Hasham Khan,
+Chief Business Services Oﬃcer, PTCL and Dr. Nasir Khan,
+Rector, PAF-IAST signed the contract at the university campus
+in Haripur. The signing ceremony was attended by Suleman
+Awan, General Manager, Digital Services, PTCL, Dr.
+Mohammad Mujahid, Advisor, PAF-IAST, Wasim Hashmi,
+Advisor PAF-IAST, along with other senior oﬃcials from both
+sides. Anwar Amjad, Advisor IT, PAF-IAST explained the
+signiﬁcance of this project and briefed about future plans of
+the university   with regard to IT & communication facilities.
+5. Zalmi Foundation
+PAF-IAST is joining
+hands with Zalmi
+Foundation to further
+s t r e n g t h e n
+academia-industrial
+linkages. An MOU
+was signed in this
+context on 23rd
+November 2020. This MOU is an important initiative to trigger
+interplay between the industry and academia.
+1.
+Memorandum of Agreement (MOA) Between Jiangsu
+University (JSU) and PAF-IAST
+Memorandum of Agreement (MOA) between Jiangsu
+University (JSU) and PAF-IAST was signed on 25th August
+2020 for establishing a center of excellence in “Agriculture
+Food Technologies”, exploration of collaborative research
+projects and exchange of teaching, research staﬀ & students.
+2. Memorandum of Agreement (MOA) Between Beijing
+Jiaotong University (BJTU) and PAF-IAST
+A  b i l a t e r a l
+a g r e e m e n t
+was signed
+b e t w e e n
+B e i j i n g
+J i a o t o n g
+University and
+PAF-IAST on
+9th October
+2 0 2 0  t o
+establish the center of excellence in “Railways Engineering”,
+exploration of collaborative research projects & Exchange of
+teaching, research staﬀ and students.
+3. MOU Between National Radio and Telecommunication
+Corporation, Haripur and PAF-IAST
+A n  M O U  w a s  s i g n e d  w i t h  N a t i o n a l  Ra d i o  a n d
+Telecommunication Corporation, Haripur (KPK), Pakistan on
+15th October 2020. Both the parties shall work on join
+research and consultancy projects. NRTC has also agreed on
+placement (internship and jobs) for PAF-IAST students on merit
+basis. NRTC shall extend all possible support to faculty
+regarding industrial visits and networking.
+PAF-IAST EXPANDING IT'S HORIZON:
+Visit of Prof. Dr. Muhammad Suleman Tahir, VC
+Khawaja Fareed University of Engineering, and
+Innovation Technology
+P r o f .  D r.  M u h a m m a d
+S u l e m a n  Ta h i r,  V i c e
+C h a n c e l l o r  K F U E I T,
+Rahimyar Khan visited PAF-
+IAST on 27th November
+2020. The visiting dignitary
+praised the highly technical
+educational infrastructure of
+PAF-IAST. He commended state-of-the-art academic facilities
+at Pak-Austria Fachhochschule as well as the plans to make
+use of the broad-based technical facility for KFUEIT students.
+Visit to Mashmoom Industry Hattar
+PAF-IAST Senior Management
+and faculty members visited
+Mashmoom Industry, Hattar on
+2nd December 2020 as a part
+of Academia - Industry
+Collaboration.
+Seminar on COVID-19
+To raise awareness on COVID-19.  PAF-IAST
+organized a series of seminar with the theme
+'How to protect yourself and others from COVID-
+19'. The purpose of these seminars was to
+sensitize   the students, faculty, and staﬀ about
+the need to take precautions against the
+pandemic of COVID-19. During these seminars'
+COVID-19 SOPs were strictly followed.
+Seminar on Character Education and Academic Achievements
+Character education is the process of cultivating
+common attitudes, beliefs and behaviors that
+are important for people to conduct themselves
+as responsible citizens besides helping
+students with their academic subjects. Well-
+groomed character is also helpful for students to
+interact properly with their teachers as well as
+fellow students and turning their classroom into
+a better learning environment. Fully alive to this
+need, PAF-IAST organized a series of seminars on Character Education and Academic Achievements. The seminar was
+conducted by Mr. Muhammad Ishfaq Khattak for all undergraduate programs,
+Webinar on Importance of Good Hygiene for a Healthy Life
+The main objective of this seminar was to
+promote good personal and environmental
+hygiene practices at PAF-IAST and encourage
+students and staﬀ members to adopt and
+observe those good hygiene practices which
+are imperative to t prevent diseases, reduce
+disease transmission, and promote good health
+in general.  Moreover, good hygiene creates a
+nice image of an individual in the society.
+Practicing good personal hygiene can minimize
+the risk of many mental, social, and health problems. In summary, good personal hygiene habits are directly related to fewer
+illnesses, good personality, and better health. Equally important is to be mindful of l about the cleanliness of the surroundings in
+which a person lives, Protection of environment is critically important not  only for ourselves but also for the generations to come.
+Iqbal Day at IT&CS Department
+Iqbal Day was organized by the
+students of IT & Computer
+Science department.  The event
+spotlighted Iqbal's teachings
+a n d  c o m m e m o r a t e  h i s
+contribution towards eventual
+creation of a separate homeland
+f o r  t h e  M u s l i m s  o f  t h e
+subcontinent. He was the man
+who conceived the idea of a
+s e p a r a t e  c o u n t r y  w h e r e
+Muslims could live peacefully,
+prosper, and follow their religion in total freedom. Dean FECID was invited as the chief guest. The event was attended by the
+honorable Rector and all the Directors of PAF-IAST.
+Visit Us:
+Google Map and directions from
+Islamabad, Peshawar , and Ha ripur
+Link to Google Maps for directions
+to PAF-IST Campus at Mang
+@
+paf.iast

@@ -1,0 +1,14 @@
+How to Download and Login in MS Teams:
+Prerequisite: You must have a working laptop with windows OS.
+Step 1: Download MS Teams from the following link:
+https://www.microsoft.com/en-ww/microsoft-teams/download-app
+Step 2: Click on “Download for Desktop”
+Step 3: Install the Microsoft Teams application in your Desktop /Laptop.
+Step 4: Open the Teams application and login with the credentials provided by PAF-IAST.
+Step 5: Enter the password provided to you by PAF-IAST and click on sign-in.
+Step 6:  Check on “Allow my organization to manage my device” and then OK.
+Step 7: Click on Continue if you get the below screen.
+Step 8: Finally, you are successfully login in Teams:
+Step 9: You do not need to “Create a team” or “join with a code”. Each day we will send the
+meeting link in WhatsApp group, you just need to click on that link then you will be in the
+meeting. Make sure you are login in teams application before joining meeting.

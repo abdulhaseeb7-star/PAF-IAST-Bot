@@ -1,0 +1,694 @@
+Pak-Austria Fachhochschule:
+Institute of Applied Sciences & Technology
+Mang, Haripur, Khyber Pakhtunkhwa
+Test 1
+Test 2
+Test 3
+1. Test duration is 2 hours.
+2. Test consists of 100 MCQs.
+3. Test consists of 3 sections.
+•
+English: 20%
+•
+Biology: 40%
+•
+Chemistry: 40%
+1. Test duration is 2 hours.
+2. Test consists of 100 MCQs.
+3. Test consists of 3 sections.
+•
+English: 20%
+•
+Math: 40%
+•
+Physics: 40%
+1. Test duration is 2 hours.
+2. Test consists of 100 MCQs.
+3. Test consists of 3 sections.
+•
+English: 20%
+•
+General Math: 40%
+•
+Computer: 40%
+Test 4
+Test 5
+Test 6
+1. Test duration is 2 hours.
+2. Test consists of 100 MCQs.
+3. Test consists of 3 sections.
+•
+Drawing: 50%
+•
+Aptitudes: 50%
+1. Test duration is 2 hours.
+2. Test consists of 100 MCQs.
+3. Test consists of 5 sections.
+•
+English: 10%
+•
+General Math: 20%
+•
+Analytical: 20%
+•
+Drawing: 25%
+•
+Aptitudes: 25%
+1. Test duration is 2 hours.
+2. Test consists of 100 MCQs.
+3. Test consists of 3 sections.
+•
+English: 20%
+•
+Arithmetic: 40%
+•
+Analytical: 40%
+SECTION 1
+ENGLISH
+Guidelines
+This section has 20 questions, and each question has equal marks.
+Click on Next to proceed further.
+Q1. …………………… me, I would be happy to dedicate a few extra hours for the humanitarian
+cause.
+A) As of
+B) As for
+C) As from
+D) As to
+Q2. They have a(n)…………………. on the top prize in the competition.
+A) advantage
+B) edge
+C) eye
+D) vision
+Q3. Ahmed was true to his ………………… when he saved the child’s life in the accident but
+asked for money as a favor from the child’s parents.
+A) colors
+B) tones
+C) character
+D) self
+Q4. Are we ……………………… to leave on vacation?
+A) already
+B) altogether
+C) all together
+D) all ready
+Q5. He is very careful. He……………………………… his children to drive his car in rush hour
+traffic.
+A) does not allow
+B) did not allow
+C) allowed
+D) allow
+Q6. The coach’s insistence on fitness has become ………………… He yells at players all the time.
+A) emotional
+B) dilatory
+C) obsessive
+D) rational
+Q7. They …………………………… just reaching the office at 5 p.m. when I finished off my work.
+A) have been
+B) will be
+C) had been
+D) were
+Q8. Would he like the dinner? I …………………. very hard to make it delicious.
+A) will be working
+B) will work
+C) worked
+D) had worked
+Q9. Our group will be ……………. by your group at next intersection but the goal of both groups
+will remain same.
+A) joined
+B) replaced
+C) ignored
+D) influenced
+Q10. The …………….. applauded enthusiastically after the performance was finished.
+A) audience
+B) spectators
+C) bystanders
+D) onlookers
+Q11. She ________ for the upcoming tennis tournament.
+a. Trains
+b. Is training.
+c. Will training
+d. Is going to train.
+Q12. I ________ New Zealand next year.
+a. go
+b. will go
+c. going
+d. will go to
+Q13. There are some vacant rooms ________ in flats and shared houses.
+a. both
+b. between
+c. either
+d. neither
+Q14. The sun rises ________ the east.
+a. in
+b. On
+c. from
+d. towards
+Q15. Nitrogen gas is in abundance ________ the Earth.
+a. in
+b. On
+c. Above
+d. along
+Q16. For good health, she ________ bed earlier.
+a. Should go
+b. Should go to
+c. Should goes
+d. Should goes to
+Q17. If you have time, you ________ the nature museum.
+a. should visit
+b. should visited
+c. have to visit
+d. have to visited
+Q18. It is our problem, not ________.
+a. their
+b. their’s
+c. there
+d. there’s
+Q19. The number of guests at the party ________ amazing.
+a. was
+b. were
+c. had
+d. had have
+Q20. ________ 600 and 800 B.C, Olympics were held in Athens, Greece.
+a. during
+b. unless
+c. until
+d. between
+SECTION: 2
+ARITHMATIC
+Guidelines
+This section has 40 questions, and each question has equal marks.
+Click on Next to proceed further.
+21. Masood purchased a plot for Rs. 8,000. He sells the plot to Aftab at a profit of 20%. Aftab in
+turn sells that plot to Zahid at a loss of 20%. The plot costs Zahid?
+A. Rs. 12,000
+B. Rs. 10,000
+C. Rs. 8670
+D. Rs. 7680
+22. If a car is sold for Rs..50000 the profit is 17 percent, what would be profit percentage if sold
+for Rs. 47000?
+A. 14.85%
+B. 9.98%
+C. 16.20%
+D. 14.50%
+23. If the average marks of three batches of 55, 60 and 45 students respectively is 50, 55, 60, then
+the average marks of all the students is:
+A. 53.33
+B. 54.68
+C. 55
+D. None of these
+24.Two automobiles are 150 kilometers apart and traveling toward each other. One automobile
+is moving at 60km/h and the other is moving at 40km/h mph. In how many hours will they
+meet?
+A. 2.5
+B. 2.0
+C. 1.75
+D. 1.5
+E. 1.25
+25. The average of first 10 even numbers is___________?
+A. 18
+B. 22
+C. 9
+D. 11
+26. The average of 11 numbers is 10.9. If the average of first six is 10.5 and that of the last six is
+11.4 the sixth number is_____________?
+A. 11.0
+B. 11.3
+C. 11.4
+D. 11.5
+27.The average of first ten prime numbers which are odd is____________?
+A. 12.9
+B. 13.8
+C. 15.8
+D. 17
+28.The average of first 10 natural numbers is____________?
+A. 5
+B. 5.5
+C. 6.5
+D. 6
+29.The average of first 10 odd numbers is_____________?
+A. 11
+B. 10
+C. 12
+D. 17
+30.The average age of three boys is 15 years and their ages are in proportion 3:5:7. What is the
+age in years of the youngest boy?
+A. 15
+B. 9
+C. 18
+D. 21
+31. The average of 1st 3 of 4 numbers is 16 and of the last 3 are 15. If the sum of the first and the
+last number is 13. What is the last numbers?
+A. 8
+B. 6
+C. 5
+D. 2
+32. The average of 9 observations was 9, that of the 1st of 5 being 10 and that of the last 5 being
+8. What was the 5th observation?
+A. 9
+B. 8
+C. 7
+D. 6
+33.The average of first five prime numbers greater than 20 is____________?
+A. 31.00
+B. 31.01
+C. 32.00
+D. 32.2
+34.The average age of 8 men increases by 2 years when two women are included in place of two
+men of ages 20 and 24 years. Find the average age of the women?
+A. 36 years
+B. 24 years
+C. 30 years
+D. 18 years
+35.The average salary of workers in an industry is Rs.200 the average salary of technicians
+being Rs.400 and that of non-technicians being Rs.125. What is the total number of workers?
+A. 250
+B. 275
+C. 550
+D. 400
+36. A team of eight entered for a shooting competition. The best marks man scored 85 points. If
+he had scored 92 points, the average scores for. The team would have been 84. How many points
+altogether did the team score?
+A. 625
+B. 665
+C. 632
+D. 656
+37. The average age of M boys is ‘b’ years and of ‘n’ girls ‘c’ years. The average age of all
+together is_________?
+A. (mb – nc)/ (m + n) years
+B. (mb + nc)/ (m – n) years
+C. (mb + nc)/ (m + n) years
+D. (mb – nc)/ (m – n) years
+38. The average age of a husband and a wife is 23 years when they were married five years ago
+but now the average age of the husband, wife and child is 20 years(the child was born during
+the interval). What is the present age of the child?
+A. 1 year
+B. 2 years
+C. 3 years
+D. 4 years
+39. A batsman in his 17th innings makes a score of 85 and their by increasing his average by 3.
+What is his average after the 17th innings?
+A. 34
+B. 35
+C. 36
+D. 37
+40. In a hostel there were 100 students. To accommodate 20 more students the average is
+decreased by rupees 5. But total expenditure increased by Rs.400. Find the total expenditure of
+the hostel now?
+A. Rs.5000
+B. Rs.4600
+C. Rs.5400
+D. Rs.2300
+41. Visitors to show were charged Rs.15 each on the first day. Rs.7.50 on the second day, Rs.2.50
+on the third day and total attendance on the three days were in ratio 2:5:13 respectively. The
+average charge per person for the whole show is___________?
+A. Rs.3
+B. Rs.4.50
+C. Rs.5.00
+D. Rs.7.50
+42. A building contractor employs 20 male, 15 female and 5 child workers. To a male worker he
+pays Rs.25 per day, to a female worker Rs.20 per day and a child worker Rs.8 per day. The
+average wage per day paid by the contractor is__________?
+A. Rs.20
+B. Rs.21
+C. Rs.22
+D. Rs.23
+43. A man purchased 3 blankets @ Rs.100 each, 5 blankets @ Rs.150 each and two blankets at a
+certain rate which is now slipped off from his memory. But he remembers that the average price
+of the blankets was Rs.150. Find the unknown rate of two blankets?
+A. Rs.150
+B. Rs.225
+C. Rs.250
+D. None
+44.The average temperature for Monday, Tuesday, Wednesday and Thursday was 48 degrees
+and for Tuesday, Wednesday, Thursday and Friday was 46 degrees. If the temperature on
+Monday was 42 degrees. Find the temperature on Friday?
+A. 40 degrees
+B. 38 degrees
+C. 36 degrees
+D. 34 degrees
+45.The average age 9 members of a committee are the same as it was 2 years ago, because an old
+number has been replaced by a younger number. Find how much younger is the new member
+than the old number?
+A. 7 years
+B. 11 years
+C. 18 years
+D. 27 years
+46.Nine men went to a hotel. Eight of them spent Rs.3 each over their meals and the ninth spent
+Rs.2 more than the average expenditure of all the nine. Determine the total money spent by
+them?
+A. Rs.29.25
+B. Rs.30.25
+C. Rs.32
+D. Rs.35
+47. The average marks in mathematics scored by the students of a school at the public
+examination were 39. If four of these students who actually scored 5, 12, 15 and 19 marks at the
+examination had not been sent up, the average marks for the school would have been 44. Find
+the number of students sent up for examination from the school?
+A. 20
+B. 25
+C. 30
+D. 32
+48.The average weight of 25 persons sitting in a boat had some value. A new person added to
+them whose weight was 46 kg only. Due to his arrival, the average weight of all the persons
+decreased by 5 kg. Find the average weight of first 25 persons?
+A. 55 kg
+B. 62 kg
+C. 56 kg
+D. None
+49.The average salary per head of the entire staff of an office including the officers and clerks is
+Rs.90. The average salary of officers is Rs.600 and that of the clerks is Rs.84. If the number of
+officers is 2, find the number of officers in the office?
+A. 1540
+B. 960
+C. 840
+D. 1020
+50.Three years ago the average age of a family of six members was 19 years. A boy have been
+born, the average age of the family is the same today. What is the age of the boy?
+A. 1 year
+B. 1.5 years
+C. 2 years
+D. 2.5 years
+51. The average of five results is 46 and that of the first four is 45. The fifth result is__________?
+A. 1
+B. 10
+C. 12.5
+D. 50
+52. The average of 11 results is 50, if the average of first six results is 49 and that of the last six is
+52. Find the sixth result?
+A. 46
+B. 56
+C. 34
+D. 57
+53.Find the average of the first 20 natural numbers?
+A. 10
+B. 11.5
+C. 12
+D. 10.5
+54. The average of 13 numbers is 60. Average of the first 7 of them is 57 and that of the last 7 is
+61. Find the 8th number?
+A. 46
+B. 32
+C. 68
+D. 51
+55.A batsman makes a score of 64 runs in the 16th innings and thus increased his average by 3.
+Find his average after the 16th inning?
+A. 17
+B. 29
+C. 18
+D. 19
+56.The average marks of a class of 30 students is 40 and that of another class of 50 students is
+60. Find the average marks of all the students?
+A. 50
+B. 47.5
+C. 59
+D. 52.5
+57.The average salary of a person for the months of January, February, March and April is
+Rs.8000 and that for the months February, March, April and May is Rs.8500. If his salary for
+the month of May is Rs.6500, find his salary for the month of January?
+A. 3000
+B. 2500
+C. 4500
+D. 5000
+58.The average of 35 numbers is 25. If each number is multiplied by 5, find the new average?
+A. 125
+B. 134
+C. 170
+D. 98
+59.The average of 10 numbers is 23. If each number is increased by 4, what will the new
+average?
+A. 22
+B. 27
+C. 25
+D. 29
+60.The average of the marks of 12 students in a class is 36. If the marks of each student are
+doubled, find the new average?
+A. 72
+B. 45
+C. 37
+D. 79
+SECTION: 3
+ANALYTICAL
+Guidelines
+This section has 40 questions, and each question has equal marks.
+Click on Next to proceed further.
+61. If A B  , B  A and C  B Then, which from the following is true?
+(A) C  A (B) A C= (C) B = C (D) A C
+Question (62-66)
+7 persons live in a street, having houses in line. Consider the following:
+1. A lives in the corner’s house
+2. C is between E and G
+3. There is 1 house between D and F
+4. F is neighbor of G
+5. There are two houses between A and G
+62. Who lives in the second corner?
+(A) B
+(B) C
+(C) D
+(D) E
+63. Who lives in the middle?
+(A) C
+(B) D
+(C) E
+(D) F
+64. Who lives between B and G?
+(A) C
+(B) D
+(C) E
+(D) F
+65. __________ is neighbor of A?
+(A) B
+(B) C
+(C) E
+(D) F
+66. There are __________ houses between B and E?
+(A) 0
+(B) 1
+(C) 2
+(D) 3
+Questions (67-69)
+In a college, if a student taking Mathematics, then he has to choose 2 courses from three:
+Physics, Statistics and Computer Science. The students who are taking Physics, Statistics
+and Computer Science, must have to take Mathematics. And students taking Biology
+must have to take Chemistry and Physics.
+67. Which from the following is/are true:
+I. A student taking Mathematics must has to take Physics
+II. A student taking Mathematics can take Physics
+III. A student taking Mathematics can take Chemistry
+(A) I only
+(B) II only
+(C) I and II only
+(D) I and III only
+68.
+I. A student taking Chemistry must also has to take Physics
+II. A student taking Chemistry must also has to take Mathematics
+III. A student taking Chemistry must also has to take Biology
+(A) I only
+(B) II only
+(C) III only
+(D) I and II only
+69.
+(A) A student taking Biology can take Physics
+(B) A student taking Biology can take Chemistry
+(C) A student taking Biology can take Computer Science
+(D) A student taking Biology must also has to take Mathematics
+(E) A student taking Biology must also has to take Chemistry
+Q71.  If both K and N are reduced, which one of the following is a pair of areas neither of which
+could be reduced?
+a. I,L
+b. J,L
+c. J,J
+d. J,I
+Q72.  What is the number of rectangles in the following figure?
+a.
+6
+b.
+7
+c.
+9
+d.
+11
+Q. 73  Find the number of triangles in the given figure.
+a.
+8
+b.
+10
+c.
+11
+d.
+12
+Q74. What is Latus Rectum of Parabola?
+a.
+Line Swgment
+b.
+Vertex
+c.
+Focus
+d.
+Major axis
+Q75. Pankaj is taller than Vinod, who is shorter than Pramod. Usha is taller then
+priyanka but shorter than Vinod. Pramod is shorter than Pankaj. Who is the tallest?
+a. Priyanka
+b. Paramod
+c. Vinod
+d. Pankoj
+Q76. A can work twice as fast as B. A and C together can work three times as fast as
+B. if A,B and C complete a job in 30 days working together, in how many days can
+each of them complete the work.
+a. 50,100,120
+b. 60,120,120
+c. 60,100,80
+d. 40,80,100
+Q77. What does this symbol mean '&'?
+a. Aret
+b. Bar
+c. Ampersand
+d. Reversed Caret
+Q78. 8(6+5) - 10 =?
+a. 76
+b. 78
+c. 80
+d. 82
+Q79. What is the number of triangles that can be formed whose vertices are the
+vertices of an octagon but have only one side common with that of octagon?
+a. 64
+b. 32
+c. 24
+d. 16
+Q80. What is the number of triangles that can be formed whose vertices are the
+vertices of an octagon but have only one side common with that of octagon?
+a. 64
+b. 32
+c. 24
+d. 16
+Q81. Vineet is taller than Raman but shorter than Jyoti. Sumit is the shortest. deepak is
+taller than Sumit but shorter than Raman. Who is the tallest?
+a. Jyoti
+a. Raman
+b. Vineet
+c. Deepak
+Q82. If white is called black, black is called red, red is called yellow, yellow is called
+green, green is called blue, blue is called violet and violet is called orange, what would
+be the colour of human blood?
+a. green
+b. black
+c. red
+d. yellow
+Q83.Find the number of triangles in the given figure.
+a.28
+b.32
+c.36
+d.40
+Q84. What is the number of triangles that can be formed whose vertices are the
+vertices of an octagon but have only one side common with that of octagon?
+a. 64
+b. 32
+c. 24
+d. 16
+Q85. Find the number of triangles in the given figure.
+a.
+27
+b.
+25
+c.
+23
+d.
+21
+Q86. Count the number of squares in the given figure.
+a.
+32
+b.
+30
+c.
+29
+d.
+28
+Q87. A, P, R, X, S and Z are sitting in a row. S and Z are in the center. A and P are at
+the ends. R is sitting to the left of A. Who is to the right of P?
+a. A
+b. X
+c. S
+d. Z
+Q88. A, B, C, D and E are sitting on a bench. A is sitting next to B, C is sitting next to
+D is not sitting with E who is on the left end of the bench. C is on the second position
+rom the right. A is to the right of B and E. A and C are sitting together. In which
+position A is sitting?
+a. Between B and D
+b. Between B and C
+c. Between E and D
+d. Between C and E
+Q89. There are 5 materials to make perfume: Lilac, Balsamic, Lemon, Woody and
+Mimosaic. To make a perfume that is in demand the following conditions are to be
+followed: Lilac and Balsamic go together. Woody and Mimosaic go together; Woody
+and Balsamic never go together. Lemon can be added with any material. All of the
+following combinations are possible to make a perfume EXCEPT:
+a. Balsamic and Lilac
+b. Woody and Lemon
+c. Mimosaic and Lilac
+d. Lemon and Lilac
+Q90. If A B  , B  A and C  B Then, which from the following is true?
+a. C  A
+b. A= C
+c. B = C
+d. A C
+(Q91-95) 7 persons live in a street, having houses in line. Consider the following: 1.
+A lives in the corner’s house 2. C is between E and G 3. There is 1 house between D
+and F 4. F is neighbor of G 5. There are two houses between A and G
+Q91. Who lives in the second corner?
+a. B
+b. C
+c. D
+d. E
+Q92. Who lives in the middle?
+a. C
+b. D
+c. E
+d. F
+Q93. Who lives between B and G?
+a.  C
+b. D
+c. E
+d. F
+Q94. __________ is neighbor of A?
+a. B
+b. C
+c. E
+d. F
+Q95. There are __________ houses between B and E?
+a. 0
+b. 1
+c. 2
+d. 3
+(Q96-100) Michael attends Saddle Rock School on the 9:00-3:00 session, except on
+Thursdays when he is dismissed at noon so the teachers can conduct special help
+classes and parent conferences. Michael takes a piano lesson at home on Mondays
+from 3:30-4:30. On Tuesdays he goes to a karate class from 4:00-6:00. His art class
+meets from 4:00-6:00 on Wednesdays. He remains in school after dismissal on Fridays
+to participate in a ninety minute club program
+Q96. The most convenient afternoon for Michael to do library research is
+a. Tuesday
+b. Wednesday
+c. Thursday
+d. Friday
+Q97. Keeping the same 3:30-4:30 schedule, Michael can conveniently change his
+piano lesson to which of the following days?
+a. Tuesday
+b. Wednesday
+c. Thursday
+d. Friday
+Q98.  Michael was invited to join an advanced art class instead of his regular art class.
+He could accept this advancement without interfering with his other activities, if the
+class met on which of the following days?
+a. Mondays and Wednesdays
+b. Tuesdays and Wednesdays
+c. Wednesdays and Thursdays
+d. Thursdays and Fridays
+Q99.  . Michael is chosen to play for the varsity basketball team. To attend daily 5:00
+practice session, he will have to suspend which of the following activities?
+a. piano instruction and karate
+b. karate and the club program
+c. the art class and the club program
+d. piano instruction and the art class
+Q100.  Michael attends Saddle Rock School on the __________ session.
+a. 9:00-1:00
+b. 9:00-2:00
+c. 9:00-3:00
+d. 9:00-4:00

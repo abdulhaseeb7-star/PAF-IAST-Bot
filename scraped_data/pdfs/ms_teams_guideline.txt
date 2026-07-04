@@ -1,0 +1,99 @@
+Page 1 of 22
+PAK-AUSTRIA FACCHSCHUCHLE: INSTITUTE OF APPLIED
+SCIENCES & TECHNOLOGY
+Teachers Guide for Online Classes, Assignments and Exams
+Page 2 of 22
+General Guidelines for Teachers
+Technological requirements
+• Personal computer (laptop or desktop) if the case also tablets.
+• Internet connection with good speed (at least 1024 Kbps in downloading and 512 Kbps
+in uploading)
+• Websites for checking the connection speed:
+https://www.speedtest.net/it
+http://test.eolo.it/
+• Webcam
+• Microphone
+Software requirements
+• Microsoft Teams App, preferably in a desktop version, also through Browser (Google
+Chrome or Internet Explorer)
+• Operating systems with support, updated to the latest security patches and equipped
+with antivirus software
+CLASS CREATION in MS TEAMS
+Open MS TEAMS and Sing-in using your Email ID
+Page 3 of 22
+Click on Teams
+Page 4 of 22
+Click on Join or create team
+Page 5 of 22
+Enter Class Name e.g. CALCULUS and Add description about course
+Press NEXT
+Page 6 of 22
+Add STUDENTS using their Email Address e.g. jalil.raza@paf-iast.edu.pk and press CLOSE
+Class has been created Successfully
+Page 7 of 22
+On top you can see various tabs i.e. Posts, Files, Class Notebook, Assignments, Grades etc.
+Posts: This tab is just like Facebook Wall, where all messages, notifications etc. appear.
+Files Tab: Using this tab, you can upload Class Material e.g. PowerPoint presentation, pdf file,
+word files etc.
+Page 8 of 22
+CLASS SCHEDULE
+Select Calendar option and schedule Class on given date and time. As soon as Class is
+scheduled, intimation through Email and Teams is sent to all Class participants.
+Add TITLE → SELECT DATE and TIME → SELECT CHANNEL or TEAM → CLICK PRESS
+Page 9 of 22
+LIVE SESSION
+Click Meet Now Icon to start Live Session
+Record Live Session
+By Selecting More Actions Button, you can Record a Live Session. Live session recording once
+finished in published in the Posts as well as web.microsoftstream.com.
+Page 10 of 22
+Share Presentation, File, Use White Board in Live Session
+By Selecting Share button, you can upload PowerPoint presentation, use white board option,
+share Desktop Screen etc.
+Once Presentation is uploaded, it is shared with all participants
+Page 11 of 22
+ONLINE ASSIGNMENTS
+Click on ASSIGNMENT TAB and PRESS CREATE and Choose ASSIGNMENT
+Choose Suitable Title for an assignment.
+Page 12 of 22
+Add Resources from your computer or OneDrive under Instructions.
+Assign Marks for Assignment Using POINTS and you can also add RUBRICS for an assignment.
+Page 13 of 22
+Assign Assignment to class or Specific Students
+Page 14 of 22
+Assign due date and time
+After Adding all Information Click ASSIGN
+Page 15 of 22
+ONLINE QUIZ & EXAM
+Click on ASSIGNMENT TAB and PRESS CREATE and Choose QUIZ
+Click on NEW QUIZ
+Page 16 of 22
+Click ADD NEW
+You can create multiple type of questions for exam or quiz e.g. MCQs, TEXT based Questions
+and File Upload Questions (Where students have option to upload files from Computer or
+OneDrive)
+Page 17 of 22
+Multiple Choice Question
+Enter you question → options → choose right option → Points for question → check
+REQUIRED
+If you have multiple right answers, choose MULTIPLE ANSWERS, and choose right options
+Page 18 of 22
+TEXT based Questions
+Type question → Points for question → check Long Answer
+File Upload based Questions (All uploaded files/ Answers will be stored on OneDrive)
+Type question → Select file Size Limit→ Points for question
+Page 19 of 22
+After adding all questions, go to SETTINGS
+Check ONLY PEOPLE IN MY ORGANIZATION CAN RESPOND (Record name & one response per
+person)
+Page 20 of 22
+Check
+ACCEPT RESPONSES → START DATE → END DATE → SHUFFLE QUESTIONS (Optional) →
+CUSTOMIZE THANK YOU MESSAGE → SEND EMAIL RECEIPT TO RESPONDENTS
+Click SHARE → COPY LINK
+Page 21 of 22
+Go to CLASS → POSTS → PASTE LINK
+Page 22 of 22
+How to Export Assignments and Quizzes to MS Excel
+In Grades tab, you can see Assignments and Quizzes and their scores. You can also export result of all
+assignments and quizzes to MS Excel.
