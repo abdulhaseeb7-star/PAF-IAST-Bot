@@ -381,7 +381,21 @@ export default function App() {
                     ? "'Noto Nastaliq Urdu', 'Arial Unicode MS', Arial, sans-serif"
                     : "inherit",
                 }}>
-                  <div className="msg-text">{msg.text}</div>
+                  <div
+                    className="msg-text"
+                    dangerouslySetInnerHTML={{
+                      __html: msg.text
+                        .replace(
+                          /\[([^\]]+)\]\((https?:\/\/[^)]+)\)/g,
+                          '<a href="$2" target="_blank" rel="noopener noreferrer" style="color:#2e86c1;text-decoration:underline;">$1</a>'
+                        )
+                        .replace(
+                          /(https?:\/\/[^\s<)]+)/g,
+                          '<a href="$1" target="_blank" rel="noopener noreferrer" style="color:#2e86c1;word-break:break-all;text-decoration:underline;">$1</a>'
+                        )
+                        .replace(/\n/g, '<br/>')
+                    }}
+                  />
                 </div>
                 <div style={{
                   fontSize: "9px",

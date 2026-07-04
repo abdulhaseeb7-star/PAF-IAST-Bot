@@ -1,0 +1,25 @@
+{
+  "fee_structure": {
+    "bs_national": {
+      "admission_fee": "Rs. 30,000 (one time)",
+      "security_fee": "Rs. 30,000 (one time)",
+      "tuition_fee": "Rs. 159,441 per semester",
+      "eca_charges": "Rs. 4,000 per semester",
+      "other_expenses": "Rs. 4,500 per semester",
+      "per_credit_hour": "Rs. 9,664"
+    },
+    "bs_international": "All fees are exactly double the national fees",
+    "ms_phd_national": {
+      "admission_fee": "Rs. 30,000 (one time)",
+      "tuition_fee": "Rs. 159,441 per semester",
+      "per_credit_hour": "Rs. 16,105"
+    }
+  },
+  "contact": {
+    "email": "info@paf-iast.edu.pk",
+    "phone": "0995-111 723 278",
+    "address": "Khanpur Road, Mang Haripur, KPK",
+    "website": "paf-iast.edu.pk"
+  },
+  "last_updated": "2026-06-30"
+}

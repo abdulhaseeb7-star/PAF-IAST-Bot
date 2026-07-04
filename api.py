@@ -6,6 +6,7 @@ import os
 import asyncio
 import base64
 import httpx
+import json
 from fastapi.responses import StreamingResponse, FileResponse
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_community.vectorstores import FAISS
@@ -45,10 +46,27 @@ llm = ChatGroq(
 
 print("✅ Bot ready!")
 
-# ─── SYSTEM PROMPT ───────────────────────────────────────
-SYSTEM_PROMPT = """
-You are PAFI — the official AI Assistant for PAF-IAST 
-(Pak-Austria Fachhochschule: Institute of Applied Sciences 
+
+# ─── CONFIG LOADER ───────────────────────────────────────
+def load_config():
+    try:
+        with open("config.json", "r", encoding="utf-8") as f:
+            return json.load(f)
+    except:
+        return {}
+
+
+def build_system_prompt():
+    config = load_config()
+    fee = config.get("fee_structure", {})
+    contact = config.get("contact", {})
+    bs = fee.get("bs_national", {})
+    ms = fee.get("ms_phd_national", {})
+    last_updated = config.get("last_updated", "unknown")
+
+    return f"""
+You are PAFI — the official AI Assistant for PAF-IAST
+(Pak-Austria Fachhochschule: Institute of Applied Sciences
 and Technology), located in Haripur, Khyber Pakhtunkhwa, Pakistan.
 
 YOUR IDENTITY:
@@ -65,78 +83,89 @@ YOUR KNOWLEDGE:
 
 STRICT RULES:
 1. ALWAYS reply in the SAME language the student used
-2. If student writes in URDU (اردو) — reply ONLY in Urdu script
-   NEVER mix Hindi (Devanagari script like सवال) with Urdu
-   Urdu uses Arabic script only — never use Devanagari characters
-3. If student writes in CHINESE — reply in Simplified Chinese only
-4. PAF-IAST charges SAME fee for ALL BS programs (Rs. 159,441/semester national)
+2. If student writes in URDU reply ONLY in Urdu Arabic script
+   NEVER mix Hindi Devanagari script with Urdu
+3. If student writes in CHINESE reply in Simplified Chinese only
+4. PAF-IAST charges SAME fee for ALL BS programs
 5. PAF-IAST charges SAME fee for ALL MS programs
-6. If question has multiple parts — answer ALL parts
+6. If question has multiple parts answer ALL parts
 7. ALWAYS give exact numbers when available in context
-8. If info is partially available — give what you know
+8. If info is partially available give what you know
 9. NEVER make up information not in context
-10. For missing info — direct to info@paf-iast.edu.pk or 0995-111 723 278
-11. Be conversational — not robotic
-12. Use bullet points for lists, be organized
+10. For missing info direct to {contact.get('email', 'info@paf-iast.edu.pk')} or {contact.get('phone', '0995-111 723 278')}
+11. Keep answers SHORT and PRECISE — maximum 5 lines
+12. Never over-explain — give direct answer first
+13. Use bullet points for lists — maximum 5 bullets
+14. Think like a text message not an essay
+15. Be conversational — not robotic
+16. For PEC or HEC accreditation questions NEVER confirm or deny
+    Say: "Please verify at pec.org.pk or contact our QEC office"
+17. ALWAYS end answer with relevant official link for verification
+18. Use these links based on topic:
+    Admissions: https://paf-iast.edu.pk/admissions/
+    Fee Structure: https://paf-iast.edu.pk/fee-structure/
+    Eligibility: https://paf-iast.edu.pk/eligibilitycriteria/
+    Merit Scheme: https://paf-iast.edu.pk/admissionsmeritscheme/
+    Entry Test: https://paf-iast.edu.pk/bachelor-admission-entry-test/
+    BS Programs: https://paf-iast.edu.pk/bachelor-programs/
+    MS Programs: https://paf-iast.edu.pk/master-programs/
+    PhD Programs: https://paf-iast.edu.pk/phd-programs/
+    Scholarships: https://paf-iast.edu.pk/scholarships/
+    Merit Scholarship: https://paf-iast.edu.pk/paf-iast-merit-scholarship/
+    Need Scholarship: https://paf-iast.edu.pk/paf-iast-need-based-scholarships/
+    Academic Schedule: https://paf-iast.edu.pk/academic_schedules/
+    Contact: https://paf-iast.edu.pk/contact/
+    Research: https://paf-iast.edu.pk/paf-research/
+    International: https://paf-iast.edu.pk/international/
+    Campus Life: https://paf-iast.edu.pk/campus-life/
+    Hostel: https://paf-iast.edu.pk/hostel/
+    FAQs: https://paf-iast.edu.pk/faqs/
+    PEC: https://pec.org.pk
+    HEC: https://hec.gov.pk
+19. Format link at end of answer like this:
+    🔗 paf-iast.edu.pk/relevant-page/
 
-CONTACT INFO (always available):
-- Email: info@paf-iast.edu.pk
-- Phone: 0995-111 723 278
-- Address: Khanpur Road, Mang Haripur, KPK
-- Website: paf-iast.edu.pk
+CONTACT INFO:
+- Email: {contact.get('email', 'info@paf-iast.edu.pk')}
+- Phone: {contact.get('phone', '0995-111 723 278')}
+- Address: {contact.get('address', 'Khanpur Road, Mang Haripur, KPK')}
+- Website: {contact.get('website', 'paf-iast.edu.pk')}
 
 GREETING RESPONSES:
-- If student says hi/hello/salam → greet warmly and ask how you can help
-- If student says thanks → respond warmly
-- If student asks who you are → explain you are PAFI, PAF-IAST's AI assistant
+- If student says hi/hello/salam greet warmly and ask how you can help
+- If student says thanks respond warmly
+- If student asks who you are explain you are PAFI PAF-IAST's AI assistant
 
-FEE STRUCTURE (always remember):
-BS Programs (National): 
-  - Admission Fee: Rs. 30,000 (one time)
-  - Security Fee: Rs. 30,000 (one time)  
-  - Tuition Fee: Rs. 159,441 per semester
-  - ECA Charges: Rs. 4,000 per semester
-  - Other Expenses: Rs. 4,500 per semester
-  - Per Credit Hour: Rs. 9,664
+FEE STRUCTURE (last updated: {last_updated}):
+BS Programs (National):
+  - Admission Fee: {bs.get('admission_fee', 'Rs. 30,000 (one time)')}
+  - Security Fee: {bs.get('security_fee', 'Rs. 30,000 (one time)')}
+  - Tuition Fee: {bs.get('tuition_fee', 'Rs. 159,441 per semester')}
+  - ECA Charges: {bs.get('eca_charges', 'Rs. 4,000 per semester')}
+  - Other Expenses: {bs.get('other_expenses', 'Rs. 4,500 per semester')}
+  - Per Credit Hour: {bs.get('per_credit_hour', 'Rs. 9,664')}
 
 BS Programs (International):
   - All fees are exactly double the national fees
 
 MS/PhD Programs (National):
-  - Admission Fee: Rs. 30,000 (one time)
-  - Tuition Fee: Rs. 159,441 per semester
-  - Per Credit Hour: Rs. 16,105
+  - Admission Fee: {ms.get('admission_fee', 'Rs. 30,000 (one time)')}
+  - Tuition Fee: {ms.get('tuition_fee', 'Rs. 159,441 per semester')}
+  - Per Credit Hour: {ms.get('per_credit_hour', 'Rs. 16,105')}
 
 Context from PAF-IAST official data:
-{context}
+{{context}}
 
-Student Question: {question}
+Student Question: {{question}}
 
 PAFI Answer:"""
-
-prompt = PromptTemplate.from_template(SYSTEM_PROMPT)
-
-def format_docs(docs):
-    return "\n\n".join([
-        f"[Source: {doc.metadata.get('page', 'PAF-IAST')}]\n{doc.page_content}"
-        for doc in docs
-    ])
-
-chain = (
-    {
-        "context": retriever | format_docs,
-        "question": RunnablePassthrough()
-    }
-    | prompt
-    | llm
-    | StrOutputParser()
-)
 
 
 # ─── CHAT ENDPOINT ───────────────────────────────────────
 class Question(BaseModel):
     question: str
     language: str = "en"
+
 
 @app.get("/")
 def root():
@@ -145,11 +174,12 @@ def root():
         "version": "2.0"
     }
 
+
 @app.post("/chat")
 async def chat(q: Question):
     try:
         if q.language != "en":
-            translate_prompt = f"""Translate this to English. 
+            translate_prompt = f"""Translate this to English.
 Return ONLY the English translation, nothing else.
 Do not include any explanation or original text.
 Text: {q.question}
@@ -159,34 +189,36 @@ English translation:"""
             translated = q.question
 
         docs = retriever.invoke(translated)
-        context = format_docs(docs)
+        context = "\n\n".join([
+            f"[Source: {doc.metadata.get('page', 'PAF-IAST')}]\n{doc.page_content}"
+            for doc in docs
+        ])
 
-        final_prompt = SYSTEM_PROMPT.replace(
+        current_prompt = build_system_prompt()
+        final_prompt = current_prompt.replace(
             "{context}", context
         ).replace(
             "{question}", q.question
-        ) + f"\n\nIMPORTANT: The student wrote in {q.language} language. Reply ONLY in that language. For Urdu use ONLY Arabic script (اردو). Never mix languages or scripts."
+        ) + f"\n\nIMPORTANT: Student wrote in {q.language}. Reply ONLY in that language. For Urdu use ONLY Arabic script. Never mix languages."
 
         answer = llm.invoke(final_prompt).content.strip()
         return {"answer": answer}
 
     except Exception as e:
         return {
-            "answer": f"I'm sorry, I encountered an error. Please try again or contact PAF-IAST at info@paf-iast.edu.pk"
+            "answer": "I'm sorry, I encountered an error. Please try again or contact PAF-IAST at info@paf-iast.edu.pk"
         }
 
 
 # ─── GITHUB PUSH HELPER ──────────────────────────────────
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
-GITHUB_REPO = os.getenv("GITHUB_REPO")  # e.g. "abdulhaseeb7-star/PAF-IAST-Bot"
+GITHUB_REPO = os.getenv("GITHUB_REPO")
 GITHUB_BRANCH = os.getenv("GITHUB_BRANCH", "main")
-
-# Folders whose files get pushed back to GitHub after a rebuild
 FOLDERS_TO_PUSH = ["knowledge_base", "scraped_data"]
+FILES_TO_PUSH = ["config.json"]
 
 
 async def push_file_to_github(client, local_path, repo_path):
-    """Push a single file to GitHub using the Contents API (create or update)."""
     with open(local_path, "rb") as f:
         content_b64 = base64.b64encode(f.read()).decode("utf-8")
 
@@ -196,8 +228,8 @@ async def push_file_to_github(client, local_path, repo_path):
         "Accept": "application/vnd.github+json",
     }
 
-    # Check if file already exists to get its sha (required for updates)
-    get_res = await client.get(url, headers=headers, params={"ref": GITHUB_BRANCH})
+    get_res = await client.get(url, headers=headers,
+                               params={"ref": GITHUB_BRANCH})
     sha = get_res.json().get("sha") if get_res.status_code == 200 else None
 
     payload = {
@@ -213,7 +245,6 @@ async def push_file_to_github(client, local_path, repo_path):
 
 
 async def push_knowledge_to_github():
-    """Push every file inside FOLDERS_TO_PUSH to GitHub. Yields progress strings."""
     if not GITHUB_TOKEN or not GITHUB_REPO:
         yield "⚠️ GITHUB_TOKEN or GITHUB_REPO not set — skipping GitHub sync"
         return
@@ -221,15 +252,16 @@ async def push_knowledge_to_github():
     async with httpx.AsyncClient(timeout=60) as client:
         pushed = 0
         failed = 0
+
         for folder in FOLDERS_TO_PUSH:
             if not os.path.isdir(folder):
                 continue
             for root, _, files in os.walk(folder):
                 for fname in files:
                     local_path = os.path.join(root, fname)
-                    repo_path = local_path.replace("\\", "/")  # relative path = repo path
-
-                    ok, msg = await push_file_to_github(client, local_path, repo_path)
+                    repo_path = local_path.replace("\\", "/")
+                    ok, msg = await push_file_to_github(
+                        client, local_path, repo_path)
                     if ok:
                         pushed += 1
                         yield f"  ↳ ✅ pushed {repo_path}"
@@ -237,12 +269,24 @@ async def push_knowledge_to_github():
                         failed += 1
                         yield f"  ↳ ❌ failed {repo_path}: {msg[:120]}"
 
-        yield f"📦 GitHub sync complete — {pushed} files pushed, {failed} failed"
+        for fname in FILES_TO_PUSH:
+            if os.path.isfile(fname):
+                ok, msg = await push_file_to_github(
+                    client, fname, fname)
+                if ok:
+                    pushed += 1
+                    yield f"  ↳ ✅ pushed {fname}"
+                else:
+                    failed += 1
+                    yield f"  ↳ ❌ failed {fname}: {msg[:120]}"
+
+        yield f"📦 GitHub sync complete — {pushed} pushed, {failed} failed"
 
 
 # ─── ADMIN ENDPOINTS ─────────────────────────────────────
 class AdminLogin(BaseModel):
     password: str
+
 
 @app.post("/admin/login")
 async def admin_login(data: AdminLogin):
@@ -250,6 +294,7 @@ async def admin_login(data: AdminLogin):
     if data.password == correct:
         return {"success": True}
     return {"success": False}
+
 
 @app.post("/admin/update")
 async def update_bot(data: AdminLogin):
@@ -259,8 +304,8 @@ async def update_bot(data: AdminLogin):
 
     async def run_scripts():
         scripts = [
-            ("🕷️ Starting Web Scraper — scraping 20 pages...", "scraper.py"),
-            ("📄 Starting PDF Scraper — extracting 13 PDFs...", "pdf_scraper.py"),
+            ("🕷️ Starting Web Scraper — scraping all pages...", "scraper.py"),
+            ("📄 Starting PDF Scraper — extracting PDFs...", "pdf_scraper.py"),
             ("🧠 Rebuilding Knowledge Base — takes 3-5 mins...", "knowledge_base.py"),
         ]
 
@@ -286,7 +331,8 @@ async def update_bot(data: AdminLogin):
                         await asyncio.sleep(0.1)
 
                 try:
-                    await asyncio.wait_for(process.wait(), timeout=300)
+                    await asyncio.wait_for(
+                        process.wait(), timeout=300)
                 except asyncio.TimeoutError:
                     process.kill()
                     yield f"data: ⚠️ {script} timed out\n\n"
@@ -303,8 +349,7 @@ async def update_bot(data: AdminLogin):
 
             await asyncio.sleep(0.5)
 
-        # ── NEW: Push updated files to GitHub so the change is permanent ──
-        yield "data: 🔗 Pushing updated knowledge base to GitHub...\n\n"
+        yield "data: 🔗 Pushing updated files to GitHub...\n\n"
         await asyncio.sleep(0.2)
         try:
             async for line in push_knowledge_to_github():
@@ -313,7 +358,7 @@ async def update_bot(data: AdminLogin):
         except Exception as e:
             yield f"data: ❌ GitHub push failed: {str(e)}\n\n"
 
-        yield "data: 🎉 PAFI updated with latest PAF-IAST data and saved to GitHub!\n\n"
+        yield "data: 🎉 PAFI updated and saved to GitHub!\n\n"
         yield "data: DONE\n\n"
 
     return StreamingResponse(
