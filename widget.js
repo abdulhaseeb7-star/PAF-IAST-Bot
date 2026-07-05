@@ -427,6 +427,56 @@
     c.scrollTop = c.scrollHeight;
   }
 
+  // ── Safe link + formatting renderer ──────────────────
+  // FIX: previously two chained .replace() calls ran on the same
+  // string — the second (raw URL) regex re-matched the URL that
+  // the first (markdown link) regex had already placed inside an
+  // href="...", producing nested/broken <a> tags and garbled output
+  // like "%3Ca%20href=...". Placeholders prevent that overlap.
+  function renderMessageHTML(text) {
+    const placeholders = [];
+
+    const store = (html) => {
+      placeholders.push(html);
+      return `\u0000${placeholders.length - 1}\u0000`;
+    };
+
+    let result = text;
+
+    // 1) Markdown links: [Label](https://...)
+    result = result.replace(
+      /\[([^\]]+)\]\((https?:\/\/[^\)]+)\)/g,
+      (match, label, url) =>
+        store(
+          `<a href="${url}" target="_blank" rel="noopener noreferrer" style="color:#ffffff;font-weight:bold;text-decoration:underline;">🔗 ${label} ↗</a>`
+        )
+    );
+
+    // 2) Any remaining raw URLs (markdown links already replaced above,
+    //    so this can no longer "see" URLs sitting inside an href="...")
+    result = result.replace(
+      /(https?:\/\/[^\s<>"]+)/g,
+      (match) =>
+        store(
+          `<a href="${match}" target="_blank" rel="noopener noreferrer" style="color:#ffffff;font-weight:bold;text-decoration:underline;word-break:break-all;">${match} ↗</a>`
+        )
+    );
+
+    // 3) Bullet points
+    result = result.replace(
+      /^[•\-\*] (.+)/gm,
+      '<div style="display:flex;gap:6px;margin:3px 0;"><span style="font-weight:bold;">•</span><span>$1</span></div>'
+    );
+
+    // 4) Line breaks
+    result = result.replace(/\n/g, "<br/>");
+
+    // 5) Restore real HTML for each placeholder
+    result = result.replace(/\u0000(\d+)\u0000/g, (_, idx) => placeholders[Number(idx)]);
+
+    return result;
+  }
+
   function addMessage(text, sender) {
     const row = document.createElement("div");
     row.className = `pafi-msg-row ${sender}`;
@@ -435,23 +485,7 @@
 
     row.innerHTML = `
       ${sender === "bot" ? '<div class="pafi-msg-label">🎓 PAFI</div>' : ""}
-      <div class="pafi-bubble-msg ${sender}${rtlClass}">${
-  text
-    .replace(
-      /\[([^\]]+)\]\((https?:\/\/[^\)]+)\)/g,
-      '<a href="$2" target="_blank" rel="noopener noreferrer" style="color:#ffffff;font-weight:bold;text-decoration:underline;">🔗 $1 ↗</a>'
-    )
-    .replace(
-      /(https?:\/\/[^<\)"]+)/g,
-      '<a href="$1" target="_blank" rel="noopener noreferrer" style="color:#ffffff;font-weight:bold;text-decoration:underline;word-break:break-all;">$1 ↗</a>'
-    )
-    .replace(/^[•\-\*] (.+)/gm,
-      '<div style="display:flex;gap:6px;margin:3px 0;">'+
-      '<span style="font-weight:bold;">•</span>'+
-      '<span>$1</span></div>'
-    )
-    .replace(/\n/g, '<br/>')
-}</div>
+      <div class="pafi-bubble-msg ${sender}${rtlClass}">${renderMessageHTML(text)}</div>
       <div class="pafi-time">${formatTime()}</div>
     `;
 
