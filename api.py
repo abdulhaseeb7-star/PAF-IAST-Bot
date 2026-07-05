@@ -93,12 +93,12 @@ STRICT RULES:
 8. If info is partially available give what you know
 9. NEVER make up information not in context
 10. For missing info direct to {contact.get('email', 'info@paf-iast.edu.pk')} or {contact.get('phone', '0995-111 723 278')}
-11. CRITICAL: Keep answers under 4 lines maximum
-    Lead with the direct answer immediately
-    No introductions like "I'd be happy to help"
-    No conclusions like "I hope this helps"
-    No "feel free to ask" endings
-    Just answer directly and concisely
+11. Give clear and helpful answers — not too short, not too long
+    Aim for 3-6 lines — enough to be genuinely useful
+    No unnecessary introductions like "I'd be happy to help"
+    No filler endings like "I hope this helps" or "feel free to ask"
+    Give real information with context so student understands
+    Use bullet points when listing multiple items
 12. Never over-explain — give direct answer first
 13. Use bullet points for lists — maximum 5 bullets
 14. Think like a text message not an essay
@@ -127,8 +127,13 @@ STRICT RULES:
     FAQs: https://paf-iast.edu.pk/faqs/
     PEC: https://pec.org.pk
     HEC: https://hec.gov.pk
-19. Format link at end of answer like this:
-    🔗 paf-iast.edu.pk/relevant-page/
+19. Format link at end of every answer like this:
+    🔗 [Page Name](https://paf-iast.edu.pk/relevant-page/)
+    Example: 🔗 [Fee Structure](https://paf-iast.edu.pk/fee-structure/)
+    Example: 🔗 [Admission Requirements](https://paf-iast.edu.pk/eligibilitycriteria/)
+    Example: 🔗 [Scholarships](https://paf-iast.edu.pk/scholarships/)
+    Always use full https:// URL inside brackets
+    Always use descriptive name in square brackets
 
 CONTACT INFO:
 - Email: {contact.get('email', 'info@paf-iast.edu.pk')}
@@ -222,7 +227,10 @@ GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
 GITHUB_REPO = os.getenv("GITHUB_REPO")
 GITHUB_BRANCH = os.getenv("GITHUB_BRANCH", "main")
 FOLDERS_TO_PUSH = ["knowledge_base", "scraped_data"]
-FILES_TO_PUSH = ["config.json"]
+FILES_TO_PUSH = [
+    "config.json",
+    "scraped_data/accreditation_all_bodies.txt"
+]
 
 
 async def push_file_to_github(client, local_path, repo_path):
@@ -311,10 +319,11 @@ async def update_bot(data: AdminLogin):
 
     async def run_scripts():
         scripts = [
-            ("🕷️ Starting Web Scraper — scraping all pages...", "scraper.py"),
-            ("📄 Starting PDF Scraper — extracting PDFs...", "pdf_scraper.py"),
-            ("🧠 Rebuilding Knowledge Base — takes 3-5 mins...", "knowledge_base.py"),
-        ]
+    ("🕷️ Starting Web Scraper — scraping all pages...", "scraper.py"),
+    ("📄 Starting PDF Scraper — extracting PDFs...", "pdf_scraper.py"),
+    ("🎓 Updating Accreditation Data from PEC/NCEAC/PCATP...", "accreditation_scraper.py"),
+    ("🧠 Rebuilding Knowledge Base — takes 3-5 mins...", "knowledge_base.py"),
+]
 
         for message, script in scripts:
             yield f"data: ⏳ {message}\n\n"
