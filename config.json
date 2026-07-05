@@ -23,6 +23,32 @@
     "alt_phone": "0995-931210-11",
     "address": "Khanpur Road, Mang Haripur, KPK",
     "website": "paf-iast.edu.pk"
-},
-  "last_updated": "2026-06-30"
+  },
+  "last_updated": "2026-06-30",
+  "accreditation": {
+    "hec": {
+      "status": "PAF-IAST is a HEC recognized and chartered public sector university.",
+      "verify": "https://hec.gov.pk"
+    },
+    "pec": {
+      "status": "PEC has granted permission under Zero/Interim phase to launch engineering programs. Full accreditation is ongoing subject to compliance.",
+      "programs": "BE Chemical Engineering, BE Electrical Engineering, BE Civil Engineering, BE Mechanical Engineering, BS Mining Engineering, BS Computer Engineering, BS Biomedical Engineering",
+      "raw_data": "urtuba University of Science and Information Technology, D.I. Khan\nB.Sc. Civil Engineering – Intake of Batch 2020.\nPak Austria Fachhochschule, Haripur\nBachelor of Chemical Engineering From Intake of Batch 2020 to 2021.\nBachelor of Electrical Engineering From Intake of Batch 2020 to 2021.",
+      "verify": "https://pec.org.pk",
+      "zero_interim_pdf": "https://www.pec.org.pk/wp-content/uploads/2023/03/Zero-Interim-03-03-2023.pdf"
+    },
+    "nceac": {
+      "status": "NCEAC Zero Visit has been conducted at PAF-IAST for computing programs. Accreditation process is ongoing.",
+      "programs": "BS Computer Science, BS Software Engineering, BS Data Science, BS Artificial Intelligence",
+      "raw_data": "",
+      "verify": "https://nceac.org.pk"
+    },
+    "pcatp": {
+      "status": "PCATP has authorized intake for BS Architecture program with up to 45 students per year. Full accreditation subject to compliance.",
+      "programs": "BS Architecture",
+      "verify": "https://pcatp.org.pk"
+    },
+    "important_note": "Accreditation status is batch-specific and subject to change. Always verify current batch status directly with the relevant accreditation body before taking admission.",
+    "last_updated": "2026-07-05"
+  }
 }
