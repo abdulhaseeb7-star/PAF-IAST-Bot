@@ -170,11 +170,11 @@ export default function App() {
   const renderText = (text) => ({
     __html: text
       .replace(
-        /\[([^\]]+)\]\((https?:\/\/[^\)]+)\)/g,
+        /\[([^\]]+)\]\((https?:\/\/[^)]+)\)/g,
         '<a href="$2" target="_blank" rel="noopener noreferrer" style="color:#1c1b3b;font-weight:bold;text-decoration:underline;">🔗 $1 ↗</a>'
       )
       .replace(
-        /(https?:\/\/[^\s<\)"]+)/g,
+        /(https?:\/\/[^\s<)"']+)/g,
         '<a href="$1" target="_blank" rel="noopener noreferrer" style="color:#1c1b3b;font-weight:bold;text-decoration:underline;word-break:break-all;">$1 ↗</a>'
       )
       .replace(/\n/g, "<br/>")
