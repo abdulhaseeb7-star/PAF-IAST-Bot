@@ -435,7 +435,23 @@
 
     row.innerHTML = `
       ${sender === "bot" ? '<div class="pafi-msg-label">🎓 PAFI</div>' : ""}
-      <div class="pafi-bubble-msg ${sender}${rtlClass}">${text}</div>
+      <div class="pafi-bubble-msg ${sender}${rtlClass}">${
+  text
+    .replace(
+      /\[([^\]]+)\]\((https?:\/\/[^\)]+)\)/g,
+      '<a href="$2" target="_blank" rel="noopener noreferrer" style="color:#ffffff;font-weight:bold;text-decoration:underline;">🔗 $1 ↗</a>'
+    )
+    .replace(
+      /(https?:\/\/[^<\)"]+)/g,
+      '<a href="$1" target="_blank" rel="noopener noreferrer" style="color:#ffffff;font-weight:bold;text-decoration:underline;word-break:break-all;">$1 ↗</a>'
+    )
+    .replace(/^[•\-\*] (.+)/gm,
+      '<div style="display:flex;gap:6px;margin:3px 0;">'+
+      '<span style="font-weight:bold;">•</span>'+
+      '<span>$1</span></div>'
+    )
+    .replace(/\n/g, '<br/>')
+}</div>
       <div class="pafi-time">${formatTime()}</div>
     `;
 

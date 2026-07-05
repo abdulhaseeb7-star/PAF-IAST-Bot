@@ -383,16 +383,26 @@ export default function App() {
                 }}>
                   <div
                     className="msg-text"
+                    style={{ lineHeight: "1.7" }}
                     dangerouslySetInnerHTML={{
                       __html: msg.text
+                        // Convert markdown links [text](url) to clickable
                         .replace(
                           /\[([^\]]+)\]\((https?:\/\/[^)]+)\)/g,
-                          '<a href="$2" target="_blank" rel="noopener noreferrer" style="color:#2e86c1;text-decoration:underline;">$1</a>'
+                          '<a href="$2" target="_blank" rel="noopener noreferrer" style="color:#1c1b3b;font-weight:bold;text-decoration:underline;display:inline-flex;align-items:center;gap:4px;">🔗 $1 ↗</a>'
                         )
+                        // Convert bare URLs to clickable
                         .replace(
-                          /(https?:\/\/[^\s<)]+)/g,
-                          '<a href="$1" target="_blank" rel="noopener noreferrer" style="color:#2e86c1;word-break:break-all;text-decoration:underline;">$1</a>'
+                          /(https?:\/\/[^\s<")]+)/g,
+                          '<a href="$1" target="_blank" rel="noopener noreferrer" style="color:#1c1b3b;font-weight:bold;text-decoration:underline;word-break:break-all;">$1 ↗</a>'
                         )
+                        // Convert bullet points
+                        .replace(/^[•\-*] (.+)/gm,
+                          '<div style="display:flex;gap:6px;margin:3px 0;">' +
+                          '<span style="color:#1c1b3b;font-weight:bold;">•</span>' +
+                          '<span>$1</span></div>'
+                        )
+                        // Line breaks
                         .replace(/\n/g, '<br/>')
                     }}
                   />
