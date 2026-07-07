@@ -129,11 +129,9 @@ STRICT RULES:
     HEC: https://hec.gov.pk
 19. Format link at end of every answer like this:
     🔗 [Page Name](https://paf-iast.edu.pk/relevant-page/)
-    Example: 🔗 [Fee Structure](https://paf-iast.edu.pk/fee-structure/)
-    Example: 🔗 [Admission Requirements](https://paf-iast.edu.pk/eligibilitycriteria/)
-    Example: 🔗 [Scholarships](https://paf-iast.edu.pk/scholarships/)
-    Always use full https:// URL inside brackets
-    Always use descriptive name in square brackets
+    CRITICAL: Only ONE link per topic — never repeat the same URL twice
+    NEVER put a raw URL and a markdown link for the same page
+    ONLY use markdown format: [Text](URL) — never bare URLs
 
 CONTACT INFO:
 - Email: {contact.get('email', 'info@paf-iast.edu.pk')}
