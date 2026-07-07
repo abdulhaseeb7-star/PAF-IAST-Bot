@@ -96,6 +96,8 @@ const QUICK_QUESTIONS = {
   ],
 };
 
+const isRTL = (lang) => ["ur", "ar"].includes(lang);
+
 export default function App() {
   const [isOpen, setIsOpen] = useState(false);
   const [language, setLanguage] = useState("en");
@@ -125,6 +127,7 @@ export default function App() {
   const isMobile = windowWidth < 768;
   const lang = LANGUAGES[language];
   const quickQs = QUICK_QUESTIONS[language] || QUICK_QUESTIONS.en;
+  const rtl = isRTL(language);
 
   const handleLanguageChange = (l) => {
     setLanguage(l);
@@ -167,23 +170,54 @@ export default function App() {
     setLoading(false);
   };
 
-  const renderText = (text) => ({
-    __html: text
-      .replace(
-        /\[([^\]]+)\]\((https?:\/\/[^)]+)\)/g,
-        '<a href="$2" target="_blank" rel="noopener noreferrer" style="color:#1c1b3b;font-weight:bold;text-decoration:underline;">🔗 $1 ↗</a>'
-      )
-      .replace(
-        /(https?:\/\/[^\s<)"']+)/g,
-        '<a href="$1" target="_blank" rel="noopener noreferrer" style="color:#1c1b3b;font-weight:bold;text-decoration:underline;word-break:break-all;">$1 ↗</a>'
-      )
-      .replace(/\n/g, "<br/>")
-  });
+  // ── Fixed renderText — no double links, correct URLs ──
+  const renderText = (text, isUserMsg = false) => {
+    const linkColor = isUserMsg ? "#ffffff" : "#1c1b3b";
+
+    // Step 1 — convert markdown [text](url) links first
+    let processed = text.replace(
+      /\[([^\]]+)\]\((https?:\/\/[^)]+)\)/g,
+      (match, linkText, url) => {
+        const cleanUrl = url.replace(
+          /https?:\/\/paf-iast-bot\.vercel\.app[^\s]*/g,
+          "https://paf-iast.edu.pk"
+        );
+        return `##LINK##${cleanUrl}##TEXT##${linkText}##ENDLINK##`;
+      }
+    );
+
+    // Step 2 — convert remaining bare URLs (not already processed)
+    processed = processed.replace(
+      /(https?:\/\/[^\s<)"'#]+)/g,
+      (url) => {
+        const cleanUrl = url
+          .replace(/https?:\/\/paf-iast-bot\.vercel\.app[^\s]*/g, "https://paf-iast.edu.pk")
+          .replace(/[.,;:!?]$/, "");
+        const label = cleanUrl.replace("https://", "").replace("http://", "").split("/")[0];
+        return `##LINK##${cleanUrl}##TEXT##${label}##ENDLINK##`;
+      }
+    );
+
+    // Step 3 — render placeholders as HTML anchors
+    processed = processed.replace(
+      /##LINK##([^#]+)##TEXT##([^#]+)##ENDLINK##/g,
+      (match, url, linkText) =>
+        `<a href="${url}" target="_blank" rel="noopener noreferrer" ` +
+        `style="color:${linkColor};font-weight:bold;text-decoration:underline;` +
+        `display:inline-block;margin-top:4px;">🔗 ${linkText} ↗</a>`
+    );
+
+    // Step 4 — line breaks
+    processed = processed.replace(/\n/g, "<br/>");
+
+    return { __html: processed };
+  };
 
   return (
     <div>
       <style>{`
         * { box-sizing: border-box; }
+        @import url('https://fonts.googleapis.com/css2?family=Noto+Nastaliq+Urdu:wght@400;700&display=swap');
         @keyframes pulse {
           0% { box-shadow: 0 0 0 0 rgba(28,27,59,0.5); }
           70% { box-shadow: 0 0 0 12px rgba(28,27,59,0); }
@@ -206,10 +240,21 @@ export default function App() {
         .quick-btn { transition: all 0.15s ease; }
         ::-webkit-scrollbar { width: 4px; }
         ::-webkit-scrollbar-thumb { background: #1c1b3b; border-radius: 4px; }
-        .msg-link a {
-          color: #1c1b3b;
-          font-weight: bold;
-          text-decoration: underline;
+        .msg-urdu {
+          direction: rtl;
+          text-align: right;
+          font-family: 'Noto Nastaliq Urdu', 'Arial Unicode MS', Arial, sans-serif;
+          line-height: 2.2 !important;
+        }
+        .msg-arabic {
+          direction: rtl;
+          text-align: right;
+          font-family: 'Arial Unicode MS', Arial, sans-serif;
+          line-height: 2.0 !important;
+        }
+        .msg-ltr {
+          direction: ltr;
+          text-align: left;
         }
       `}</style>
 
@@ -259,7 +304,6 @@ export default function App() {
             flexDirection: "column",
           }}
         >
-
           {/* ── Top Header Bar ── */}
           <div style={{
             background: "linear-gradient(135deg, #1c1b3b, #2c2b5e)",
@@ -271,7 +315,6 @@ export default function App() {
             flexShrink: 0,
             boxShadow: "0 2px 10px rgba(0,0,0,0.2)",
           }}>
-            {/* Left — Logo + Name */}
             <div style={{ display: "flex", alignItems: "center", gap: "12px" }}>
               <div style={{
                 width: "42px",
@@ -310,7 +353,6 @@ export default function App() {
               </div>
             </div>
 
-            {/* Right — Language + Close */}
             <div style={{ display: "flex", alignItems: "center", gap: "10px" }}>
               <select
                 value={language}
@@ -355,9 +397,7 @@ export default function App() {
             flex: 1,
             display: "flex",
             overflow: "hidden",
-            gap: "0",
           }}>
-
             {/* ── Left — Quick Questions Panel ── */}
             {!isMobile && (
               <div style={{
@@ -369,29 +409,19 @@ export default function App() {
                 flexDirection: "column",
                 overflow: "hidden",
               }}>
-                {/* Quick Questions Header */}
                 <div style={{
                   padding: "16px",
                   borderBottom: "1px solid #e0e0ee",
                   background: "#f8f8fc",
                 }}>
-                  <div style={{
-                    fontWeight: "bold",
-                    color: "#1c1b3b",
-                    fontSize: "13px",
-                  }}>
+                  <div style={{ fontWeight: "bold", color: "#1c1b3b", fontSize: "13px" }}>
                     {lang.quickTitle}
                   </div>
-                  <div style={{
-                    fontSize: "11px",
-                    color: "#888",
-                    marginTop: "2px",
-                  }}>
+                  <div style={{ fontSize: "11px", color: "#888", marginTop: "2px" }}>
                     Click any question to ask
                   </div>
                 </div>
 
-                {/* Quick Questions List */}
                 <div style={{
                   flex: 1,
                   overflowY: "auto",
@@ -417,17 +447,19 @@ export default function App() {
                         alignItems: "flex-start",
                         gap: "8px",
                         boxShadow: "0 1px 3px rgba(0,0,0,0.05)",
+                        direction: rtl ? "rtl" : "ltr",
+                        textAlign: rtl ? "right" : "left",
+                        fontFamily: language === "ur"
+                          ? "'Noto Nastaliq Urdu', Arial, sans-serif"
+                          : "inherit",
                       }}
                     >
-                      <span style={{ fontSize: "16px", flexShrink: 0 }}>
-                        {q.icon}
-                      </span>
-                      <span style={{ lineHeight: "1.4" }}>{q.text}</span>
+                      <span style={{ fontSize: "16px", flexShrink: 0 }}>{q.icon}</span>
+                      <span style={{ lineHeight: rtl ? "2" : "1.4" }}>{q.text}</span>
                     </div>
                   ))}
                 </div>
 
-                {/* Contact Footer */}
                 <div style={{
                   padding: "12px 16px",
                   borderTop: "1px solid #e0e0ee",
@@ -452,7 +484,6 @@ export default function App() {
               overflow: "hidden",
               background: "#f5f5fc",
             }}>
-
               {/* Messages */}
               <div style={{
                 flex: 1,
@@ -465,7 +496,6 @@ export default function App() {
                 width: "100%",
                 margin: "0 auto",
               }}>
-
                 {messages.map((msg, i) => (
                   <div key={i} style={{
                     display: "flex",
@@ -474,23 +504,12 @@ export default function App() {
                     gap: "4px",
                   }}>
                     {msg.sender === "bot" && (
-                      <div style={{
-                        fontSize: "11px",
-                        color: "#888",
-                        paddingLeft: "4px",
-                        display: "flex",
-                        alignItems: "center",
-                        gap: "4px",
-                      }}>
+                      <div style={{ fontSize: "11px", color: "#888", paddingLeft: "4px" }}>
                         🎓 PAFI
                       </div>
                     )}
                     {msg.sender === "user" && (
-                      <div style={{
-                        fontSize: "11px",
-                        color: "#888",
-                        paddingRight: "4px",
-                      }}>
+                      <div style={{ fontSize: "11px", color: "#888", paddingRight: "4px" }}>
                         You
                       </div>
                     )}
@@ -505,13 +524,22 @@ export default function App() {
                         : "white",
                       color: msg.sender === "user" ? "white" : "#333",
                       fontSize: isMobile ? "13px" : "14px",
-                      lineHeight: "1.7",
+                      lineHeight: rtl ? "2.2" : "1.7",
                       boxShadow: "0 2px 10px rgba(0,0,0,0.08)",
                       wordBreak: "break-word",
+                      direction: rtl ? "rtl" : "ltr",
+                      textAlign: rtl ? "right" : "left",
+                      fontFamily: language === "ur"
+                        ? "'Noto Nastaliq Urdu', 'Arial Unicode MS', Arial, sans-serif"
+                        : language === "ar"
+                        ? "'Arial Unicode MS', Arial, sans-serif"
+                        : "inherit",
                     }}>
                       <div
-                        className="msg-link"
-                        dangerouslySetInnerHTML={renderText(msg.text)}
+                        dangerouslySetInnerHTML={renderText(
+                          msg.text,
+                          msg.sender === "user"
+                        )}
                       />
                     </div>
                     <div style={{
@@ -546,13 +574,13 @@ export default function App() {
                       gap: "10px",
                     }}>
                       <div style={{ display: "flex", gap: "4px" }}>
-                        {[0, 1, 2].map((i) => (
-                          <div key={i} style={{
+                        {[0, 1, 2].map((j) => (
+                          <div key={j} style={{
                             width: "8px",
                             height: "8px",
                             borderRadius: "50%",
                             background: "#1c1b3b",
-                            animation: `bounce 1.2s ${i * 0.2}s infinite`,
+                            animation: `bounce 1.2s ${j * 0.2}s infinite`,
                           }} />
                         ))}
                       </div>
@@ -595,10 +623,15 @@ export default function App() {
                             display: "flex",
                             alignItems: "center",
                             gap: "8px",
+                            direction: rtl ? "rtl" : "ltr",
+                            textAlign: rtl ? "right" : "left",
+                            fontFamily: language === "ur"
+                              ? "'Noto Nastaliq Urdu', Arial, sans-serif"
+                              : "inherit",
                           }}
                         >
                           <span>{q.icon}</span>
-                          <span>{q.text}</span>
+                          <span style={{ lineHeight: rtl ? "2" : "1.4" }}>{q.text}</span>
                         </div>
                       ))}
                     </div>
@@ -638,7 +671,11 @@ export default function App() {
                     fontSize: "14px",
                     minWidth: 0,
                     background: loading ? "#f9f9f9" : "white",
-                    direction: ["ur", "ar"].includes(language) ? "rtl" : "ltr",
+                    direction: rtl ? "rtl" : "ltr",
+                    textAlign: rtl ? "right" : "left",
+                    fontFamily: language === "ur"
+                      ? "'Noto Nastaliq Urdu', Arial, sans-serif"
+                      : "inherit",
                   }}
                 />
                 <button
@@ -665,7 +702,6 @@ export default function App() {
                   ➤
                 </button>
               </div>
-
             </div>
           </div>
         </div>
